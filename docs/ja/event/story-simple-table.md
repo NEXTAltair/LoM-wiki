@@ -205,7 +205,7 @@ tags:
 			<td>-</td>
 			<td>
                 <MarkdownWrapper>
-				[唐門の幽霊](/ja/event/simple/2-03-3-唐門鬧鬼)<br>
+				唐門の幽霊 (唐門鬧鬼)<br>
 				</MarkdownWrapper>
             </td>
 		</tr>

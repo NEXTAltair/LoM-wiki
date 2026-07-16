@@ -1,6 +1,6 @@
 # docs/ja 和訳進捗台帳 (tools/checkJaTranslation.js が読む)
 # 形式: パス<TAB>OK|REWROTE<TAB>sha256(現在のjaファイル)
-develop/1-start.md	REWROTE	a54d122226e660b1cb7bae20f71b967647aaf574fdfb7d20f54e154ea6cf2746
+develop/1-start.md	REWROTE	c46d045817a64c8ec5ae0ca29048c9e00d83da1d1e908de5b9df8bb79727332a
 develop/2-vitepress.md	OK	3b9bda23753ce91a9fe01996b410f8719db4a803f5d18dbb1cd0cc141e8f2659
 develop/3-run-local.md	REWROTE	a9cf04f4af428783da03622b8942acd26ff573963fe60dabe9b96a418024b652
 develop/4-1-template.md	REWROTE	776f3b50bf2dca52edcb1130a5652bba81c105000d45a462d917b1967284fa25
@@ -185,7 +185,7 @@ event/stories/決戰極樂教.md	REWROTE	9fb64cd16d27e1bfe521755bc1a28923fe361da
 event/stories/白風峒變亂.md	REWROTE	5b4e40aa604f44cfd5ef3f363f05a5e267c5fc6abde35f50fa9ff994d179c9e1
 event/stories/青城論道.md	REWROTE	cc550960efedfb1334480dbc29224e38af17c4083819d4bc69480f1f28c4bc18
 event/story-branch-timeline.md	REWROTE	05a3387c086bc59da41c4d6610666db516503eb5d1e49d9ee3bc247c27ff3f5f
-event/story-simple-table.md	REWROTE	4fbd04a329cbdb6059d27561fe30277499950b019b76d835b0f11d67c2545b3e
+event/story-simple-table.md	REWROTE	75ba86e3e99e1f4232e121ee95139cc06948c2e8fe949f6acab78adaf4639451
 glossary.md	OK	6b98e86155319744bb2dccb942a3346e6e54381b7ad9caf5a4b96ca3b1713fbd
 index.md	OK	77a44d14f248621aed7f7bb3bb107ff26f3373ce75ab7a3a5bd43125bd5d3b4b
 other/guide/1-game-objective.md	REWROTE	75174f3d6f3b32845a414dcf1bc1965e92b90f60ac7ea7e198e576b535a7507f
