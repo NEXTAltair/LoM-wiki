@@ -113,7 +113,7 @@ aside: false
 -   叫化鶏は超香くて、[龍湘](/ja/people/characters/girl8)を鶏脚に夢中にさせた犯人。そして王二壮と[溫夫人](/ja/people/characters/special402)の兄妹の絆も、後に彼女が[趙活](/ja/people/characters/player)と兄弟姉妹になろうと望む原因の一つになった。[^1]
 -   江陵決戦の前から洗髄功で[南宮淺](/ja/people/characters/special103)の奇経八脈を開いた。
 -   [葉雲舟](/ja/people/characters/special3)兄妹が宝の地図を狙う人物たちに尾行されていた時、大義分舵に命じて乞食たちに密かに監視させたが、軽々しく手を出さなかった。ただ宝を奪いに来た者たちが相談している時に、冷たい言葉で離間させて、彼らがそれぞれ企みを抱いて団結できないようにしただけだ。
--   [唐布衣](/ja/people/characters/special801)から一壺の酒の義理を借りている。
+-   [唐布衣](/ja/people/characters/brother1)から一壺の酒の義理を借りている。
 -   手に持っている釣竿の釣りは必ずしも得意ではないかもしれないが、人を釣ることは決して失敗しない。[趙活](/ja/people/characters/player)は武功が高いからこそ、それを避けられるだけだ。
 
 [^1]: 巴哈姆特 - [【情報】鳥熊問答集](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=2998&bpage=1&ltype=)

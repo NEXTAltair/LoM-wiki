@@ -86,9 +86,9 @@ tags:
 
 ### 南宮遠
 
-[南宮遠](/ja/people/characters/special101)はかつて[上官隼](/ja/people/characters/special407)の魔掌から、江湖第一美人である樂伎[溫夫人](/ja/people/characters/special402)を救い、美人の心を獲得した。しかし南宮遠はその感情を拒絶し、重傷の友人[温無畏](/ja/people/characters/special402)に譲った。
+[南宮遠](/ja/people/characters/special101)はかつて[上官隼](/ja/people/characters/special407)の魔掌から、江湖第一美人である樂伎[溫夫人](/ja/people/characters/special402)を救い、美人の心を獲得した。しかし南宮遠はその感情を拒絶し、重傷の友人[温無畏](/ja/people/characters/other13)に譲った。
 <br><br>
-[温無畏](/ja/people/characters/special402)の死後、南宮遠は自責の念に駆られ、贈り物を携えて[錦香宮](/ja/people/factions/jin-xiang-palace)を訪れた。鏡を取り戻すことを望まず、ただ償いたいだけだった。溫夫人は惑乱の薬と琴の音で彼の心を乱し、彼を醜女と一夜の関係を持たせ、[南宮淺](/ja/people/characters/special103)が生まれた。数年後、その女は淺を連れて家に押し掛けたが、南宮遠はこれを好しとしなかった。
+[温無畏](/ja/people/characters/other13)の死後、南宮遠は自責の念に駆られ、贈り物を携えて[錦香宮](/ja/people/factions/jin-xiang-palace)を訪れた。鏡を取り戻すことを望まず、ただ償いたいだけだった。溫夫人は惑乱の薬と琴の音で彼の心を乱し、彼を醜女と一夜の関係を持たせ、[南宮淺](/ja/people/characters/special103)が生まれた。数年後、その女は淺を連れて家に押し掛けたが、南宮遠はこれを好しとしなかった。
 <br><br>
 南宮遠は一日たりとも後悔しない時がなく、その時の言葉が本意でなかったと後悔している。だが溫夫人の旧恨は消えず、二十年間[南宮世家](/ja/people/factions/nan-gong-family)と[錦香宮](/ja/people/factions/jin-xiang-palace)は不和である。
 

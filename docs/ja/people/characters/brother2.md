@@ -176,7 +176,7 @@ aside: false
 -   スパイの身分で[錦香宮](/ja/people/factions/jin-xiang-palace)に潜入する際は、男装することは「ない」。~~ちぇっ~~[^1]
 -   錦香宮が風雨山で剣鞘の絹索を焼いて生じた毒煙は、[溫夫人](/ja/people/characters/special402)が二師兄に暗に手配させたものである。
 -   [袁無憲](/ja/people/characters/special823)とともに新極楽七仙の一人。[大師兄](/ja/people/characters/brother1.md)が[申屠龍](/ja/people/characters/special405)の暗殺に失敗した時、二人で現れて教主を守るふりをしながら、実は暗に彼の命を救おうとしていた。
--   [李元棄](/ja/people/characters/special823)（極楽左使）とは多少の因縁がある。[趙活](/ja/people/characters/player)と[葉雲裳](/ja/people/characters/girl2.md)を救うためなら、自分が[千燈樓](/ja/people/factions/thousand-lantern-tower)に遺棄されたことまで許すことができた。
+-   [李元棄](/ja/people/characters/special213)（極楽左使）とは多少の因縁がある。[趙活](/ja/people/characters/player)と[葉雲裳](/ja/people/characters/girl2.md)を救うためなら、自分が[千燈樓](/ja/people/factions/thousand-lantern-tower)に遺棄されたことまで許すことができた。
 
 ## 備考
 
