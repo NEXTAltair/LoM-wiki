@@ -293,7 +293,7 @@ aside: false
 -   <MarkdownWrapper>||エンディングで子だくさんになった場合、一発で虎を仕留めて虎の鞭酒を作るだけでは飽き足らず、プレイヤーの間で「竹球隊」という言葉が広まった。||</MarkdownWrapper>
 
 [^1]: バハムート－[【情報】龍湘のお尻の大きさに関する回答＋鳥熊とのプライベートチャットの内容](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
-[^2]: [問答集2024年10月#_2024-10-15](/ja/other/qna/202410)、Part2。
+[^2]: [問答集2024-10-15](/ja/other/qna/202410#_2024-10-15)、Part2。
 [^3]: バハムート - [RE:【情報】鳥熊 Q&A 集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
 [^4]: Facebook－[原始鳥熊2023/6/22](https://www.facebook.com/obbstudio/posts/pfbid0z6pcw86rgZmFoA4oMnu9556bQ93fieMNrpSoXudrAC1k6HUWCGcNiS6H5NTiqWXXl)
 [^5]: Facebook－[原始鳥熊2024/2/5](https://www.facebook.com/obbstudio/posts/pfbid0345ukMDW1MtXHXFDAegFGKnPSZ6Ypq2gcoLq2TgEeskhyHQzGeEuywWRtu4nC5mpTl)
