@@ -7,8 +7,13 @@
 
 <script>
 import {withBase} from "vitepress";
+import {useLocalePath} from "../../script/localePath";
 
 export default {
+    setup() {
+        const { localePath } = useLocalePath();
+        return { localePath };
+    },
     props: {
         size: {
             type: String,
@@ -35,7 +40,7 @@ export default {
     methods: {
         getItemPageUrl(no){
             // this requires the same format for ItemPages
-            return withBase(`/event/achievements#風雲史-No.${no}`);
+            return this.localePath(`/event/achievements#風雲史-No.${no}`);
         },
         getIconSource(no) {
             // this requires the same image path format

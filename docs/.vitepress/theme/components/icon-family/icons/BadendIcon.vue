@@ -5,6 +5,7 @@
 <script>
 import {defineComponent, computed} from 'vue'
 import {withBase} from "vitepress";
+import {useLocalePath} from "../../../script/localePath";
 import json from "../../../../../../docs/public/json/badend_list.json"
 export default defineComponent({
     props: {
@@ -39,17 +40,18 @@ export default defineComponent({
         }
     },
     setup(props) {
+        const { localePath } = useLocalePath();
         const CHARACTER = 'badend';
         // 表格搜尋/排序會原地重用元件實例，href 必須用 computed 跟著 props 變動
         const href = computed(() => {
             if (props.no !== 0) {
                 if (json.includes(props.no)) {
-                    return withBase(`/event/badends/badend-${props.no}`);
+                    return localePath(`/event/badends/badend-${props.no}`);
                 }
-                return withBase(`/event/badends/index#生死簿-No.${props.no}`);
+                return localePath(`/event/badends/index#生死簿-No.${props.no}`);
             }
             // default link if no href is given
-            return withBase(`/event/badends`);
+            return localePath(`/event/badends`);
         });
         return {
             size: computed(() => props.size),
