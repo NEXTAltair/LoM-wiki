@@ -11,8 +11,8 @@ import {useLocalePath} from "../../script/localePath";
 
 export default {
     setup() {
-        const { localePath } = useLocalePath();
-        return { localePath };
+        const { localeIndex, localePath } = useLocalePath();
+        return { localeIndex, localePath };
     },
     props: {
         size: {
@@ -40,7 +40,9 @@ export default {
     methods: {
         getItemPageUrl(no){
             // this requires the same format for ItemPages
-            return this.localePath(`/event/achievements#風雲史-No.${no}`);
+            // 錨點 id 與各語系 achievements 頁的 <td id="..."> 對應 (root/ja: 風雲史, en: Chronicles)
+            const anchorLabel = this.localeIndex === 'en' ? 'Chronicles' : '風雲史';
+            return this.localePath(`/event/achievements#${anchorLabel}-No.${no}`);
         },
         getIconSource(no) {
             // this requires the same image path format

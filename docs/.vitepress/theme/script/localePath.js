@@ -11,5 +11,5 @@ export function useLocalePath() {
   );
   // path 需以 "/" 開頭 (不含 base 與語系前綴), 例如 "/event/ends"
   const localePath = (path) => withBase(`${prefix.value}${path}`);
-  return { prefix, localePath };
+  return { localeIndex, prefix, localePath };
 }

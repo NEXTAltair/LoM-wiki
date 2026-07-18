@@ -40,17 +40,27 @@ export default defineComponent({
         }
     },
     setup(props) {
-        const { localePath } = useLocalePath();
+        const { localeIndex, localePath } = useLocalePath();
         const CHARACTER = 'badend';
+        // 生死簿 index 頁尚未翻譯的語系 (連到語系路徑會 404, 改連 root 頁)。
+        // TODO: 翻譯補齊後從清單移除。長期應改為建置時產生的清單 (見 #10)
+        const LOCALES_WITHOUT_BADENDS_INDEX = new Set(['en']);
         // 表格搜尋/排序會原地重用元件實例，href 必須用 computed 跟著 props 變動
         const href = computed(() => {
+            const hasIndex = !LOCALES_WITHOUT_BADENDS_INDEX.has(localeIndex.value);
             if (props.no !== 0) {
                 if (json.includes(props.no)) {
                     return localePath(`/event/badends/badend-${props.no}`);
                 }
+                if (!hasIndex) {
+                    return withBase(`/event/badends/index#生死簿-No.${props.no}`);
+                }
                 return localePath(`/event/badends/index#生死簿-No.${props.no}`);
             }
             // default link if no href is given
+            if (!hasIndex) {
+                return withBase(`/event/badends`);
+            }
             return localePath(`/event/badends`);
         });
         return {
