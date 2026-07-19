@@ -48,10 +48,10 @@ text: '品性-',
 		<td :unsortable="true">貢献変化</td>
 		<td :unsortable="true">心相変化</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`normal`" />(心相:33~65)
+			<MoodIcon :mood="`normal`" />(心相:33~64)
 		</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`high`" />(心相＞=66)追加効果
+			<MoodIcon :mood="`high`" />(心相＞=65)追加ボーナス
 		</td>
 		<td :unsortable="true">
 			<MoodIcon :mood="`bad`" />(心相:0~32)
@@ -1106,10 +1106,10 @@ text: '品性-',
 		<td :unsortable="true">貢献変化</td>
 		<td :unsortable="true">心相変化</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`normal`" />(心相:33~65)
+			<MoodIcon :mood="`normal`" />(心相:33~64)
 		</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`high`" />(心相＞=66)追加効果
+			<MoodIcon :mood="`high`" />(心相＞=65)追加ボーナス
 		</td>
 		<td :unsortable="true">
 			<MoodIcon :mood="`bad`" />(心相:0~32)
@@ -1966,10 +1966,10 @@ text: '品性-',
 		<td :unsortable="true">貢献変化</td>
 		<td :unsortable="true">心相変化</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`normal`" />(心相:33~65)
+			<MoodIcon :mood="`normal`" />(心相:33~64)
 		</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`high`" />(心相＞=66)追加効果
+			<MoodIcon :mood="`high`" />(心相＞=65)追加ボーナス
 		</td>
 		<td :unsortable="true">
 			<MoodIcon :mood="`bad`" />(心相:0~32)
@@ -2561,10 +2561,10 @@ text: '品性-',
 		<td :unsortable="true">貢献変化</td>
 		<td :unsortable="true">心相変化</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`normal`" />(心相:33~65)
+			<MoodIcon :mood="`normal`" />(心相:33~64)
 		</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`high`" />(心相＞=66)追加効果
+			<MoodIcon :mood="`high`" />(心相＞=65)追加ボーナス
 		</td>
 		<td :unsortable="true">
 			<MoodIcon :mood="`bad`" />(心相:0~32)
@@ -2744,10 +2744,10 @@ text: '品性-',
 		<td :unsortable="true">貢献変化</td>
 		<td :unsortable="true">心相変化</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`normal`" />(心相:33~65)
+			<MoodIcon :mood="`normal`" />(心相:33~64)
 		</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`high`" />(心相＞=66)追加効果
+			<MoodIcon :mood="`high`" />(心相＞=65)追加ボーナス
 		</td>
 		<td :unsortable="true">
 			<MoodIcon :mood="`bad`" />(心相:0~32)
@@ -2865,6 +2865,8 @@ text: '品性-',
 		<td>-</td>
 	</tr>
 </BTable>
+
+註: 心相65は緑顔(通常)表示だが、黄顔(快楽)の追加ボーナスも適用される。
 
 ## 青城派
 
