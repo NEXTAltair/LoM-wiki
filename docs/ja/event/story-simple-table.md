@@ -611,14 +611,18 @@ tags:
                 </MarkdownWrapper>
 			</td>
 			<td>
-				<li>武林大会の招待状</li>
+				<MarkdownWrapper>
+				<li>[武林大会の招待状](/ja/event/detailed_description/3-08-2-武林大会編)</li>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 		</tr>
 		<tr>
 			<td>九月</td>
 			<td>
-				<li>武林大会へ向かう</li>
+				<MarkdownWrapper>
+				<li>[武林大会へ向かう](/ja/event/detailed_description/3-08-2-武林大会編)</li>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>
@@ -632,7 +636,9 @@ tags:
 			</td>
 			<td>
 				<li>錦香宮主の請願</li>
-				<li>武林大会</li>
+				<MarkdownWrapper>
+				<li>[武林大会](/ja/event/detailed_description/3-08-2-武林大会編)</li>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 		</tr>
