@@ -79,12 +79,14 @@ tags:
 			発生時期・条件 (例: 第三年8月上旬・白天、メインシナリオで自動発生) <br>
 		</td>
 		<td>
+			<MarkdownWrapper>
 			イベントの流れを記述。キャラクター名は
 			[唐惟元](/ja/people/characters/brother4) のようにリンクする <br>
 			<br>
 			👉選択：選択肢の見出し <br>
 			<span title="性情-1、唐惟元+1、銀兩-100">「選択肢のテキスト」(条件があれば併記) </span> <br>
 			「別の選択肢」 → イベント終了 <br>
+			</MarkdownWrapper>
 		</td>
 		<td>
 			補足事項 <br>
@@ -109,12 +111,14 @@ tags:
 			発生時期・条件 (例: 第三年8月上旬・白天、メインシナリオで自動発生) <br>
 		</td>
 		<td>
+			<MarkdownWrapper>
 			イベントの流れを記述。キャラクター名は
 			[唐惟元](/ja/people/characters/brother4) のようにリンクする <br>
 			<br>
 			👉選択：選択肢の見出し <br>
 			<span title="性情-1、唐惟元+1、銀兩-100">「選択肢のテキスト」(条件があれば併記) </span> <br>
 			「別の選択肢」 → イベント終了 <br>
+			</MarkdownWrapper>
 		</td>
 		<td>
 			補足事項 <br>
@@ -158,6 +162,13 @@ tags:
 -   **リンクは `/ja/` 付きの絶対パス**で書きます (`/ja/people/characters/...`、
     `/ja/event/simple/...`)。リンク先のファイル名を確認してから張ること
     (キャラクターページのファイル名はゲーム内部 ID と一致しない場合があります)。
+-   **`<td>` 内で Markdown リンクを使う場合は必ず `<MarkdownWrapper>` で囲む**：
+    `<Table class="timeline-table">` 全体は改行を挟まない一続きの raw HTML ブロックとして
+    扱われるため、`<MarkdownWrapper>` で囲まない Markdown リンク (`[テキスト](url)`) は
+    リンクに変換されず `[テキスト](url)` という文字列のまま表示されてしまう
+    ([Markdown 外部解析ツール](/ja/develop/4-2-wiki-template#markdown-外部解析ツール)節を参照)。
+    リンクを含まない `<span title="...">` 等はこの制約を受けないため、`<td>` の内容全体を
+    `<MarkdownWrapper>` で包めば安全。
 -   **未確認のまま公開してよい**：完成度より存在を優先し、不明点は `TODO:` を付けて
     ページ内に明記します。
 -   **ゲーム内部の ID・フラグ名・スクリプト名は書かない**：内部データ由来の識別子
