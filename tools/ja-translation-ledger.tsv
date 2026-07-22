@@ -114,7 +114,7 @@ event/simple/1-08-3-晁和搞鬼事件集.md	REWROTE	343ce235c025b4bdc239165a1f2
 event/simple/1-09-1-初識龍湘.md	REWROTE	716c4ef197a9794f5548b8c9b928da478d18d2abc82ad2fff3d51ecbd1daf890
 event/simple/1-09-2-佛法教育.md	REWROTE	81157c0ab43e4d922dbb049c9ea64794ebf1d7fdade5cb5d9211dbe60aa08e3d
 event/simple/1-09-2-初識李富貴、樊嘯天.md	OK	c4665355128fca98454cc61c496bbca136d97a6377eff2259de27313e6b4ca66
-event/simple/1-09-2-初識福韞.md	REWROTE	aa998459940fb9f9eb04c41fbe43836a6f1f3b72e775b7f9fcd5b206c84c7750
+event/simple/1-09-2-初識福韞.md	REWROTE	970f934e5f94f64c7c24b8cc5d0b48c7d9f27ac952afed84b6a9f32659e9ac20
 event/simple/1-09-2-四師兄抓公差.md	REWROTE	2233927e818e3599b6b7e2dc285571be912d0ec2b562bc1126897f4667b6e9c4
 event/simple/1-09-2-龍湘遭竊.md	REWROTE	307bfd81cdd4344a67c33c13d1953c582a79cf3f0ebcc1e5f42cbbeaed883688
 event/simple/1-09-3-龍湘の告発.md	REWROTE	9b11df5ff753f744bc6afd4a0f74832a978955249304c3703d72d78f926545b1
@@ -131,7 +131,7 @@ event/simple/2-03-1-崆峒留學.md	OK	f3410a1c44e67f4551054df292c19e04b49dd29f6
 event/simple/2-03-1-留學生來訪.md	OK	3ca4cd2cc1737fccae8acd0af2a4a9c3d5c744149f2bdcaa606a06fece15c28c
 event/simple/2-03-2-鶴手出遊.md	REWROTE	5ad4a868349e9c331dddcb3c19843ca7efa91bcbf5950bdbdd93c6c132d1ecde
 event/simple/2-03-3-唐門鬧鬼.md	REWROTE	f130982d27b1156573d3e93e9c7ad255e07e9a3d41f074372cc2a46efc967cbd
-event/simple/2-04-1-奪魄森林事件集.md	REWROTE	93292eba6f6b296a868dd54f986112f32ae0609484b1af5f89bc321e75f19a25
+event/simple/2-04-1-奪魄森林事件集.md	REWROTE	58653d62c7ae6c3c6693506034d59d6e4f6323ab36cf3adc1056d10eaf979660
 event/simple/2-04-1-崆峒搶劫.md	OK	2d070e927acb84bdf0a92f304d72c348a35b752eee3664a00955c13a69187d98
 event/simple/2-04-1-窩居衝突.md	REWROTE	520e9a6ed4b6d31fdad3fb7c14c9e8378da08385dcd1448dee068b0d5074520e
 event/simple/2-04-1-練功分心.md	REWROTE	9736b9aa25cfbe47f4b0093f0a6bc8b8234feb3e387506d48d94d4d7580c3375
@@ -156,7 +156,7 @@ event/simple/2-10-1-江陵決戰前夜.md	OK	58929a26ecd39c5cf123de94330b63bd6d9
 event/simple/2-10-1-江陵決戰準備.md	REWROTE	3c1d5057a9804c8c853e386c0043c0cbc7a6251123cf27b8357129cf008007e1
 event/simple/2-10-1-返回唐門.md	REWROTE	1d79e4ac3edde7be4a89cd7649c683dd699fce02ffb7e9f3272457c1947a8b06
 event/simple/2-10-3-小梅上門.md	REWROTE	94059eebfcf7cad2d6d8b615d6468986268f35a4561679ffded0bcba01ed7c30
-event/simple/2-11-1-唐芳師姉帰還.md	REWROTE	41635cf12e9e5447cf0f4efb28401dffa660ce7121202edb41bc9a04a95c6d96
+event/simple/2-11-1-唐芳師姉帰還.md	REWROTE	6cf612899c71e6aa0d63d9ffe51f4b18d59431a320892483ddc9495373682e7c
 event/simple/2-12-2-門派宣戰.md	REWROTE	923f7515c351ce4b3c7909ee7fc74329d1b05aa9dc7ef40b55ed0c820432d7f6
 event/simple/2-12-3-唐門內戰.md	REWROTE	aace8e2902e84ec4724b11eddb3bc3bf3e20d149911f39476a5c7cfe7039c581
 event/simple/2-12-3-掌門議事.md	REWROTE	51d08a7d7eb6ba9e1710287e450626c61e1932539c14fd3fa9b3b3d9aeeb4b8e
@@ -527,11 +527,11 @@ system/meeting.md	REWROTE	7b79f15780d0b6ec4a2cadaf7c7d6fc28538a0cfa55421bb01dc34
 system/pills.md	REWROTE	e893c602b0eddcca698c57c30428daf8b5eb879b88c67d90f31bb38f80b700e3
 system/skill.md	REWROTE	179ded8e1301f6ca1597d198aac6f77a635f1ff2a850e447e22374985561586f
 system/soundtrack.md	REWROTE	5885765894b23162851c4f283b78908742b8d5bad6f214a6ea482f797f49eb6e
-system/training/index.md	REWROTE	5520776234d36dac3618929b239d38f2105dabe9def1ae4348d54e99ae340905
+system/training/index.md	REWROTE	de79b6e0d6911bec35610bd8e766bd8b4543a46de4c07ba4f56a0727265a0660
 system/training/train-01.md	OK	4c967cc0e8466b7b8d5f8f2e29819e1dfac84e40708af061ba65c69a59a5e1b8
 wiki-list.md	OK	10e0b23b38d54325653b6d56e9ce408d62b8a9221fbb2ef7c55a4b4d78159d83
 address-terms.md	OK	13328c61455e11b30aa8dd4d8cb9f592ab97ac352a747aa30a00760d329875be
 first-person-pronouns.md	OK	bcd67f10343b704f13928692ace2d0eba871dddaacb23072fd103b6ee97f1be9
 other/terminology.md	OK	e991b432770331dcee0f624517f3ee0df0f4cdde4165307adc6fce656a7d337d
-event/simple/2-02-3-紙札遊戯.md	OK	de959b041a4e4c0a24d6a960f177658fb76ff3467373afabe153926edc2b7ec6
+event/simple/2-02-3-紙札遊戯.md	OK	a50ee5bf0f6cd09ad5d91673363825ef556d7c4654f6526473d1aab196b7cbbc
 event/simple/2-02-4-お出かけ.md	OK	629fa49a72931a9184bed3171ac10b16f9008739225e1eaf016b8b9898864ff7
