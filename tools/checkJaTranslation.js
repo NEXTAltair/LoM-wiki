@@ -24,6 +24,8 @@ const ALLOWLIST = path.join(ROOT, "tools/ja-residue-allowlist.txt");
 // 繁体字が載っているのが仕様のページ。RESIDUE 検査から外す (台帳の対象からは外さない)。
 const RESIDUE_EXEMPT_FILES = new Set([
 	"glossary.md", // 用語対訳表。1列目が繁体字なのが役目
+	"address-terms.md", // 呼称表。原語(zh-TW)列が繁体字なのが役目
+	"first-person-pronouns.md", // 一人称表。原語(zh-TW)列が繁体字なのが役目
 ]);
 
 // 中国語にしか現れない字・機能語。カナが混じっていても中国語構文の残骸として拾う。
