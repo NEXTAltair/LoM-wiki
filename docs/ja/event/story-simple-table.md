@@ -193,7 +193,12 @@ tags:
 				[留学について (留學討論)](/ja/event/simple/2-02-1-留學討論)<br>
 				</MarkdownWrapper>
 			</td>
-			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[紙札遊戯の対決](/ja/event/simple/2-02-3-紙札遊戯)<br>
+				[葉雲裳の診察とお出かけ](/ja/event/simple/2-02-4-お出かけ)<br>
+				</MarkdownWrapper>
+			</td>
 			<td>-</td>
 		</tr>
 		<tr>
