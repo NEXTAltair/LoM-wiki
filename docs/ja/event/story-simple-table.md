@@ -112,6 +112,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[龍湘との出会い (初識龍湘)](/ja/event/simple/1-09-1-初識龍湘)<br>
+				[唐芳師姉の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -447,11 +448,7 @@ tags:
 			<td>
 				<li>唐門例会</li>
 			</td>
-			<td>
-				<MarkdownWrapper>
-				[唐芳師姉の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)<br>
-				</MarkdownWrapper>
-			</td>
+			<td>-</td>
 			<td>-</td>
 		</tr>
 		<tr>
