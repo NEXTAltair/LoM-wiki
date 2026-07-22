@@ -112,7 +112,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[龍湘との出会い (初識龍湘)](/ja/event/simple/1-09-1-初識龍湘)<br>
-				[唐芳師姉の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)<br>
+				[唐芳師姉の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)(最早1年8月下旬・最遅2年3月上旬、進行により変動)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
