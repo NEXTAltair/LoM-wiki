@@ -197,6 +197,7 @@ tags:
 				<MarkdownWrapper>
 				[紙札遊戯の対決](/ja/event/simple/2-02-3-紙札遊戯)<br>
 				[葉雲裳の診察とお出かけ](/ja/event/simple/2-02-4-お出かけ)<br>
+				(2件とも発生時期は変動あり。最早1年8〜9月から抽選・詳細は各ページの発動条件を参照)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
