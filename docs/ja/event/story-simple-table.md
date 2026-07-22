@@ -90,7 +90,7 @@ tags:
 				<MarkdownWrapper>
 				[武穆王の宝蔵談義 (談論武穆王寶藏)](/ja/event/simple/1-08-1-談論武穆王寶藏)<br>
 				[葉氏の行方をめぐる騒動 (葉氏行蹤風波)](/ja/event/simple/1-08-1-葉氏行蹤風波)<br>
-				[葉雲裳衝撃](/ja/event/simple/1-08-1-葉雲裳衝擊)<br>
+				[葉雲裳の体当たり (葉雲裳衝擊)](/ja/event/simple/1-08-1-葉雲裳衝擊)<br>
 				[唐門の財務改善 (唐門財務改善)](/ja/event/simple/1-08-1-唐門財務改善)<br>
 				</MarkdownWrapper>
 			</td>
