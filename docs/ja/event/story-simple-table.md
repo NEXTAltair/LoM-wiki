@@ -387,7 +387,7 @@ tags:
 			<td>三月</td>
 			<td>
 				<MarkdownWrapper>
-				[崆峒派への留学 (崆峒派留學)](/ja/event/simple/2-03-1-崆峒留學)<br>
+				[崆峒への留学 (崆峒留學)](/ja/event/simple/2-03-1-崆峒留學)<br>
 				[鉄拳小路へ初潜入 (初入鐵拳巷)](/ja/event/simple/2-03-1-初入鐵拳巷)<br>
 				</MarkdownWrapper>
 			</td>
@@ -631,7 +631,7 @@ tags:
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[夏侯蘭の思い出 (夏侯蘭的回憶)](/ja/event/simple/3-07-2-雪山之約)<br>
+				[雪山の約束 (雪山之約)](/ja/event/simple/3-07-2-雪山之約)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>

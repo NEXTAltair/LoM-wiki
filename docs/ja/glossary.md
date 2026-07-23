@@ -132,6 +132,8 @@ title: 用語対訳表
 | 心上人 | 想い人 | Sweetheart | ★MOD |
 | 變心 | 心変わり | | ★MOD (想い人の変更カウント) |
 | 命運 | 命運 | Destiny | |
+| 命運收束之力 | 運命収束の力 | Power of Destiny Convergence | ★MOD (Library/Award/30016)。単独の「命運」は上記通り保持だが、この道具名に限り MOD 表記が「運命」 |
+| 收束 (擲骰範囲選択) | 収束 | Convergence | ★MOD (System/DiceRange)。天命擲骰の判定範囲を選べるシステム名 |
 | 投降 | 降参 | Surrender | |
 | 外姓弟子 | 外弟子 | External Disciple | 唐姓以外の門下弟子。内門武功の修習は許されない |
 
@@ -219,6 +221,7 @@ title: 用語対訳表
 | 內戰 | 内戦 | Internal Conflict | |
 | 事件集 | イベント集 | Event Collection | |
 | 閒聊 | 雑談 | Chat | イベント記法の絵文字プレフィックス (💬)。中国語のまま残っていた誤り |
+| 黑暗大法師 | 封印されしエクゾディア | Exodia the Forbidden One | 生死簿82の元ネタ。頭・右手・右足・左手・左足の5パーツを揃えると勝利する能力が「遊戯王」のエクゾディアそのものを指しているため、直訳「暗黒大法師」ではなく実在するカードの日本語名称に合わせる |
 | 基本流程 | 基本の流れ | Basic Process | detailed_description ページの節見出し。中国語のまま残っていた誤り。既存の複数ページで未修正 |
 
 ## 汎用語 (アップデート情報等で頻出)
