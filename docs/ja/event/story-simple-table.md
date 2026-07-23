@@ -245,7 +245,6 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[家出](/ja/event/simple/2-06-1-離家出走)<br>
-				[廃寺の変装者たち](/ja/event/detailed_description/2-06-2-廢寺喬裝)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -268,6 +267,8 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)<br>
+				[廃寺の変装者たち](/ja/event/detailed_description/2-06-2-廢寺喬裝)<br>
+				[段智秀来襲（道中、想い人＝葉雲裳ルート）](/ja/event/detailed_description/3-03-3-段智秀來襲)<br>
 				[青城での療養（想い人＝葉雲裳ルート）](/ja/event/detailed_description/3-03-2-青城療傷)<br>
 				[唐芳の問診](/ja/event/simple/3-03-5-唐芳問診)<br>
 				[葉雲裳の秘笈ガチャ2](/ja/event/simple/3-03-6-葉雲裳秘笈2)<br>
@@ -301,11 +302,7 @@ tags:
 				<li>唐門例会</li>
 			</td>
 			<td>-</td>
-			<td>
-				<MarkdownWrapper>
-				[段智秀来襲・青城脱出（想い人＝葉雲裳ルート）](/ja/event/detailed_description/3-03-3-段智秀來襲)<br>
-				</MarkdownWrapper>
-			</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>十二月</td>
