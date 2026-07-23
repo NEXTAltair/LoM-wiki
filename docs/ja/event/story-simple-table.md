@@ -112,7 +112,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[龍湘との出会い (初識龍湘)](/ja/event/simple/1-09-1-初識龍湘)<br>
-				[唐芳師姉の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)(最早1年8月下旬・最遅2年3月上旬、進行により変動)<br>
+				[唐芳師姉の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -197,7 +197,6 @@ tags:
 				<MarkdownWrapper>
 				[紙札遊戯の対決](/ja/event/simple/2-02-3-紙牌對決)<br>
 				[葉雲裳の診察とお出かけ](/ja/event/simple/2-02-4-雲裳問診出遊)<br>
-				(2件とも発生時期は変動あり。最早1年8〜9月から抽選・詳細は各ページの発動条件を参照)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
