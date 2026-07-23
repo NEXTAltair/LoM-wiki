@@ -330,7 +330,7 @@ tags:
 			<td>-</td>
 			<td>
 				<MarkdownWrapper>
-				[廃寺の変装者たち](/ja/event/detailed_description/2-06-2-廢寺喬裝)<br>
+				[廃寺の変装者たち](/ja/event/detailed_description/2-08-3-廢寺喬裝)<br>
 				[段智秀来襲（道中）](/ja/event/detailed_description/2-08-4-段智秀來襲)<br>
 				[青城での療養](/ja/event/detailed_description/2-08-5-青城療傷)<br>
 				[唐芳の問診](/ja/event/simple/2-08-6-唐芳問診)<br>
