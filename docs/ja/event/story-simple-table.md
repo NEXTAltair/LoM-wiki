@@ -331,11 +331,11 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[廃寺の変装者たち](/ja/event/detailed_description/2-06-2-廢寺喬裝)<br>
-				[段智秀来襲（道中）](/ja/event/detailed_description/3-03-3-段智秀來襲)<br>
-				[青城での療養](/ja/event/detailed_description/3-03-2-青城療傷)<br>
-				[唐芳の問診](/ja/event/simple/3-03-5-唐芳問診)<br>
-				[葉雲裳の秘笈ガチャ2](/ja/event/simple/3-03-6-葉雲裳秘笈2)<br>
-				[青城観光](/ja/event/simple/3-03-7-青城遊覽)<br>
+				[段智秀来襲（道中）](/ja/event/detailed_description/2-08-4-段智秀來襲)<br>
+				[青城での療養](/ja/event/detailed_description/2-08-5-青城療傷)<br>
+				[唐芳の問診](/ja/event/simple/2-08-6-唐芳問診)<br>
+				[葉雲裳の秘笈ガチャ2](/ja/event/simple/2-08-7-葉雲裳秘笈2)<br>
+				[青城観光](/ja/event/simple/2-08-8-青城遊覽)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -343,7 +343,7 @@ tags:
 			<td>九月</td>
 			<td>
 				<MarkdownWrapper>
-				[四師兄の青城訪問](/ja/event/simple/3-03-4-四師兄行商)<br>
+				[四師兄の青城訪問](/ja/event/simple/2-09-2-四師兄行商)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
