@@ -268,7 +268,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[李元棄](/ja/people/characters/special213) (族叔)
+					[李元棄](/ja/people/characters/special213) (叔父)
 				</ChTd>
 			</ChTr>
 		</table>
@@ -286,7 +286,7 @@ aside: false
 
 ## 列伝
 
-旧列伝は1.0.5000より前の設定である。既に廃棄されている。最大の違いは、宝蔵を失ったこと。
+旧列伝は1.0.5000より前の設定である。既に廃棄されている。最大の違いは、宝蔵の設定がなくなったこと。
 
 <Tabs>
   <Tab title="列伝一">
@@ -361,7 +361,7 @@ aside: false
 
 ## 病弱
 
--   一家が変事に遭った際に致命傷を負い、族叔[李元棄](/ja/people/characters/special213)の九泉丹で命をつないだ。その後、点蒼双尊・[段智秀](/ja/people/characters/special833)・[南宮遠](/ja/people/characters/special101)・[鄒博](/ja/people/characters/special201)から内力を注ぎ込まれたが、丹田が損傷しているせいで自力で消化吸収できず、邪気が盛んで正気が衰える状態になっている。普通の医者にはこの症状の診断は難しく、[二師兄](/ja/people/characters/brother2.md)・[梁有詩](/ja/people/characters/special830)・天道法王のような武学と医療を兼ね備えた医者だけが治療できる。
+-   一家が変事に遭った際に致命傷を負い、叔父の[李元棄](/ja/people/characters/special213)の九泉丹で命をつないだ。その後、点蒼双尊・[段智秀](/ja/people/characters/special833)・[南宮遠](/ja/people/characters/special101)・[鄒博](/ja/people/characters/special201)から内力を注ぎ込まれたが、丹田が損傷しているせいで自力で消化吸収できず、邪気が盛んで正気が衰える状態になっている。普通の医者にはこの症状の診断は難しく、[二師兄](/ja/people/characters/brother2.md)・[梁有詩](/ja/people/characters/special830)・天道法王のような武学と医療を兼ね備えた医者だけが治療できる。
 -   一見元気に飛び跳ねているが、実際には深刻な病巣を抱えていて、一時的に表に出ていないだけ。この体調は彼女を3回殺してもまだ足りないほどのものである。
 -   身長にはまだ少し成長の余地があるが、まず体を治すのが先。[^1]重病とはいえ、毎日血を吐くわけではない。[^2]
 -   [小師妹](/ja/people/characters/girl0.md)より体重は重い。具体的には何とも言えない。なにしろ彼女の健康状態はかなり複雑で、いつ激やせしてもおかしくないから。[^3]
@@ -381,7 +381,7 @@ aside: false
     > [趙活](/ja/people/characters/player)カードはただの雑魚。しかもやたら枚数が多い。壁・生け贄・装備の三役をこなせて、意外と万能。<br><br>
     > 犬カードは星3つ。趙活より星2つ多い。<br><br>
     > 葉雲裳カードの必殺技は敵のカードの強制徴収。<br><br>
-    > [唐默鈴](/ja/people/characters/girl0.md)カードの必殺技は、自分を[趙活](/ja/people/characters/player)の侵害から守ること。一人三化ですべての趙活を謀殺する。このルールは現実の趙活にも適用される。
+    > [唐默鈴](/ja/people/characters/girl0.md)カードの必殺技は、自分を[趙活](/ja/people/characters/player)の侵害から守ること。まるで1人が3体に分かれたかのように、すべての趙活を謀殺する。このルールは現実の趙活にも適用される。
     
 ## 悪戯
 
