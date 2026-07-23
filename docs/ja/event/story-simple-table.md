@@ -112,7 +112,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[龍湘との出会い (初識龍湘)](/ja/event/simple/1-09-1-初識龍湘)<br>
-				[唐芳師姉の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)<br>
+				[唐芳師姉の帰還 (唐芳師姉帰還)](/ja/event/simple/2-11-1-唐芳師姉帰還)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -122,7 +122,7 @@ tags:
 				[福韞との出会い (初識福韞)](/ja/event/simple/1-09-2-初識福韞)<br>
 				[仏法教育 (佛法教育)](/ja/event/simple/1-09-2-佛法教育)<br>
 				[龍湘、盗難に遭う](/ja/event/simple/1-09-2-龍湘遭竊)<br>
-				[龍湘の告発](/ja/event/simple/1-09-3-龍湘告官)<br>
+				[龍湘の告発 (龍湘告官)](/ja/event/simple/1-09-3-龍湘告官)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>

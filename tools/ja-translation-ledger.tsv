@@ -91,7 +91,7 @@ event/simple/1-04-1-遊戲開局.md	REWROTE	b00864c5ce3ee1ff655ab202c0a26b523bcc
 event/simple/1-04-2-蒙面人開導.md	REWROTE	f8ef1583c4e29bd85b20057993d178af8e12114e7794a9ed8bb9ee87c51bf4cf
 event/simple/1-04-3-初遇葉氏兄妹.md	REWROTE	fb75d2682f4484c7222444647a8ab15b4ee401a833bfa4bed3eba63fa107906e
 event/simple/1-05-1-貢獻評點.md	REWROTE	3c1bbfb6927d85003d3203f8dea519333572806388f645192d4cb189fc5c2d54
-event/simple/1-05-3-初次段考.md	REWROTE	eedcfc2b82ddaefc2ecb66fd2890586aa716f08ff096021347ad98591bca78a4
+event/simple/1-05-3-初次段考.md	REWROTE	07aba8a6a7df1be9dbf2d9cc8b4d8b5299a2395837c03a7360e2303e1581a0e8
 event/simple/1-06-1-掌門的安排.md	REWROTE	9572f741f0c7fd443978d788fe33810e6f60759bd749d9c08e3c9037b65ec331
 event/simple/1-07-1-初次唐門例會.md	REWROTE	9cf995a826b666494d3b3917aa5bb0149da6ca41ec20c9a2562887601b1cfa77
 event/simple/1-07-1-呂翁討債.md	REWROTE	b3a82de92fc20c8783ac204182a8abc39e32378e961055cd2b899e780cdd422d
@@ -147,7 +147,7 @@ event/simple/2-10-1-江陵決戰前夜.md	OK	58929a26ecd39c5cf123de94330b63bd6d9
 event/simple/2-10-1-江陵決戰準備.md	REWROTE	3c1d5057a9804c8c853e386c0043c0cbc7a6251123cf27b8357129cf008007e1
 event/simple/2-10-1-返回唐門.md	REWROTE	1d79e4ac3edde7be4a89cd7649c683dd699fce02ffb7e9f3272457c1947a8b06
 event/simple/2-10-3-小梅上門.md	REWROTE	94059eebfcf7cad2d6d8b615d6468986268f35a4561679ffded0bcba01ed7c30
-event/simple/2-11-1-唐芳師姉帰還.md	REWROTE	bf6c7c0a397f25a215a76c98546ee1ebbcb7f651f836e0d9dada4c62f13d6b30
+event/simple/2-11-1-唐芳師姉帰還.md	REWROTE	c9b20234599be85fcb668271fcafc0d7fb1bf718d6c862f1a8140b9234fc381e
 event/simple/2-12-2-門派宣戰.md	REWROTE	923f7515c351ce4b3c7909ee7fc74329d1b05aa9dc7ef40b55ed0c820432d7f6
 event/simple/2-12-3-唐門內戰.md	REWROTE	aace8e2902e84ec4724b11eddb3bc3bf3e20d149911f39476a5c7cfe7039c581
 event/simple/2-12-3-掌門議事.md	REWROTE	51d08a7d7eb6ba9e1710287e450626c61e1932539c14fd3fa9b3b3d9aeeb4b8e
@@ -187,7 +187,7 @@ event/stories/決戰極樂教.md	REWROTE	9fb64cd16d27e1bfe521755bc1a28923fe361da
 event/stories/白風峒變亂.md	REWROTE	5b4e40aa604f44cfd5ef3f363f05a5e267c5fc6abde35f50fa9ff994d179c9e1
 event/stories/青城論道.md	REWROTE	cc550960efedfb1334480dbc29224e38af17c4083819d4bc69480f1f28c4bc18
 event/story-branch-timeline.md	REWROTE	7f11a38ae063ca1da3d28cb7f8f17f8c02bc46511c1b429aa901fb399c3b23d6
-event/story-simple-table.md	REWROTE	103050ae7c1c39b1ad11a02d87addcdc57ef5ef8da986e7ecc3b1c72943ac88f
+event/story-simple-table.md	REWROTE	0aac1c6bfb6eb3c3140e173dfd85618b9ba9c0d87cf34cd7de7e7c5deec89330
 glossary.md	OK	6ee6cf1d29a5514d0994575f56400a8436883263061a89b1c0e61b5e3a3c8cc9
 index.md	OK	49aaad62fece47edba28b7ff795a4939e25b67ca507722c02ba9af94b443ffd5
 other/guide/1-game-objective.md	REWROTE	75174f3d6f3b32845a414dcf1bc1965e92b90f60ac7ea7e198e576b535a7507f
@@ -520,7 +520,7 @@ first-person-pronouns.md	OK	bcd67f10343b704f13928692ace2d0eba871dddaacb23072fd10
 other/terminology.md	OK	e849902e18076069c2f4822d6d58c39800955b4de9bf42d765649105f5dddca0
 event/detailed_description/3-08-2-武林大會.md	REWROTE	76443ff1b3ccb6c3dd9b25a56610b0c4a81747482657d03c7a4d2b7f9a8d7479
 event/detailed_description/3-11-1-四師兄歸來.md	REWROTE	d0c0670d2c38841efe84b8417cf90a836187adc191cb6f3d31fb86f9a40c838c
-event/simple/1-09-3-龍湘告官.md	REWROTE	ec4197bad3a68063806fa43afa31b6c43a5eae1caea13092d1d06fa5e42444f3
+event/simple/1-09-3-龍湘告官.md	REWROTE	7f1a53d7b18f70248134fc3f7ee60d15177e0f8ddf904a0e6f974274d75210b5
 event/simple/2-02-2-留學生鬥毆.md	REWROTE	46746410e9c3125f688ce623590d2a5377e6b0a82938f227741680532d2f389d
 event/simple/2-02-3-紙牌對決.md	REWROTE	529ca26f414857d75ae30736887feb15a0c5593a766ac134fc7a2429009e9d95
 event/simple/2-02-4-雲裳問診出遊.md	REWROTE	1649ca305de7efaa0b60d4917a61d4a9ccda73e93af3d33892d821b84d5bdea9
@@ -529,10 +529,10 @@ event/simple/3-01-4-雲裳問診.md	REWROTE	eda1fb21b09191d0609aaa56dd009c39500d
 event/simple/3-08-3-武林大會請柬.md	REWROTE	690020c7ca726df4c1ad7eff1ab1bddc8f995a49a8810fc0384bd82e1028a0ae
 event/simple/3-09-1-赴武林大會.md	REWROTE	2906e76267878fbcc74c0c3017b5696d5a0acd1f4aec1ce0dc6c4684235e9135
 event/simple/3-10-1-留宿錦香宮.md	REWROTE	44124f0dcf5d3f157741ee6fb1d84c8206d37065249dcc78b4ccc0348eb0244e
-event/detailed_description/2-08-4-段智秀來襲.md	REWROTE	d41c9b404630d1cbea69b093d8dfd758d382b3959662376121a9a5be94463d01
+event/detailed_description/2-08-4-段智秀來襲.md	REWROTE	07d0048b69f5a135ded9d35fa94451f156bf2d64debc5e525780181ba10ccc7e
 event/detailed_description/2-08-5-青城療傷.md	REWROTE	40dff895efb0b37868d916055383168195437dfa990b99cc5bb5db21b805596c
 event/simple/2-08-6-唐芳問診.md	REWROTE	033c6db47358731a10a7fe5bc1504b7b4718989afd574c14b47887d690dd2c2c
 event/simple/2-08-7-葉雲裳秘笈2.md	REWROTE	80229579312889ea7bbe0ef125cfe84d452b9346e539f8e0c316bd29cd629e93
-event/simple/2-08-8-青城遊覽.md	REWROTE	8966ebd79461f91c7cedac9115618ca61866303ab3853346ac4ca898d7655db8
+event/simple/2-08-8-青城遊覽.md	REWROTE	e3da6d6000b8f197a2fcf256f3962ae230e336da612c7d9c424e8c548ada5432
 event/simple/2-09-2-四師兄行商.md	REWROTE	d73bcbf556a3869a79bda57c0cb6fc675f431a3c7a822849bb5a27b7e6d01051
 event/detailed_description/2-08-3-廢寺喬裝.md	REWROTE	22a7930bc0c43b7f058d7d327d1b84d187b9f9ad8cf4a49c1a5767c49e40dbc4
