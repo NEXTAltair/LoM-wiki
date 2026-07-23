@@ -46,7 +46,8 @@ tags:
         <td>5</td>
         <td>すらりと背が高い</td>
         <td>物静かで優雅</td>
-        <td></td>
+        <td><MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照
+            <br>(⚠️ネタバレ注意)</td>
     </tr>
     <tr>
         <td><Girl2Icon :size="`medium`" href="/ja/people/characters/girl2">葉雲裳</Girl2Icon></td>
