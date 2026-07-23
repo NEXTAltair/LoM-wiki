@@ -115,9 +115,9 @@ title: 用語対訳表
 | 心相 | 心相 | Mood | ★MOD。本作固有の精神状態システム |
 | 高心相 (状態名) | 快楽 | High Mood | ★MOD。誤訳気味だが MOD 表記に倣う |
 | 名聲 | 名声 | Reputation | |
-| 品性 | 品性 | Refinement | ★MOD |
+| 修養 | 品性 | Refinement | ★MOD |
 | 性情 | 性情 | Temperament | ★MOD |
-| 団結 | 団結 | Dedication | 門派への忠誠心 |
+| 向心 | 団結 | Dedication | ★MOD。門派への忠誠心。勢力固有の「◯◯向心力」は別概念で対象外 |
 | 嘴力 | 弁舌 | Persuasion | ★MOD。口先の達者さを表す本作独自ステータス |
 | 處世 | 処世 | Worldliness | ★MOD |
 | 陰陽 | 陰陽 | Yin-Yang Balance | |

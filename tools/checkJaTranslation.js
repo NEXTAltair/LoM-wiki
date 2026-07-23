@@ -1,10 +1,11 @@
 // This script gates the docs/ja translation progress.
 //
-//   MISSING  台帳に未記載のページ数
-//   STALE    台帳の sha256 と現在のファイル内容が食い違う行数
-//   RESIDUE  中国語残存の機械検出ヒット数 (allowlist 除く)
+//   MISSING    台帳に未記載のページ数
+//   STALE      台帳の sha256 と内容が食い違う行数
+//   RESIDUE    中国語残存の機械検出ヒット数 (allowlist 除く)
+//   OLD_TERM   旧訳語・誤訳語が残っている行数 (STALE_TERMS 参照)
 //
-// 3つとも 0 で exit 0。
+// 4つとも 0 で exit 0。
 //
 // RESIDUE は品質の証明ではない。高精度・低再現率に振ってあり、
 // 「あからさまな機械置換の残骸を落とす」下限ゲートとしてしか機能しない。
@@ -26,6 +27,22 @@ const RESIDUE_EXEMPT_FILES = new Set([
 	"glossary.md", // 用語対訳表。1列目が繁体字なのが役目
 	"address-terms.md", // 呼称表。原語(zh-TW)列が繁体字なのが役目
 	"first-person-pronouns.md", // 一人称表。原語(zh-TW)列が繁体字なのが役目
+]);
+
+// 過去に「MOD訳と齟齬がある/旧字体のまま」と判明し、置換で解消したはずの語。
+// 全文一括置換のたびに span title 属性等の一部が漏れる事故が起きたため
+// (2026-07-23: 修養→品性の置換が事件詳細ページ2件のspan titleに残存)、
+// 再発防止として機械チェックに組み込む。中国語残存(RESIDUE)と違い、
+// これらは単独では正しい日本語の単語であることが多いので ZH_MARKERS には混ぜない。
+//
+// bad: 置換済みのはずの旧語。good: 現在の正式訳。note: 根拠(MOD確認元・裏取り)。
+// glossary.md 自身は対訳表という性質上 bad 側の語が正しく載るページなので対象外。
+const STALE_TERMS = [
+	{ bad: "修養", good: "品性", note: "PlayerStat/training の MOD訳 (2026-07-23確認)" },
+	{ bad: "向心", good: "団結", note: "PlayerStat/team の MOD訳。ただし勢力固有の「◯◯向心力」は別概念で対象外" },
+];
+const STALE_TERM_EXEMPT_FILES = new Set([
+	"glossary.md", // 対訳表。bad側(旧語=原文)が正しく載るページ
 ]);
 
 // 中国語にしか現れない字・機能語。カナが混じっていても中国語構文の残骸として拾う。
@@ -174,6 +191,46 @@ function scanResidue(file, allow) {
 	return hits;
 }
 
+/**
+ * 旧訳語・誤訳語の残存を検出する。RESIDUE と違い ZH_MARKERS(中国語専用の字・機能語)
+ * には頼らず、単語単位の完全一致で見る。単独では正しい日本語の語も含まれるため、
+ * コードフェンス内・リンクURL・HTMLコメントだけ除外し、それ以外は行の生テキストを
+ * そのまま対象にする (span title 属性やテーブルセルも見落とさないため)。
+ */
+function scanStaleTerms(file) {
+	const rel = path.relative(ROOT, file);
+	if (STALE_TERM_EXEMPT_FILES.has(path.relative(JA_DIR, file))) return [];
+	const hits = [];
+	let inFence = false;
+
+	fs.readFileSync(file, "utf8")
+		.split("\n")
+		.forEach((line, idx) => {
+			const s = line.trim();
+			if (/^```/.test(s)) {
+				inFence = !inFence;
+				return;
+			}
+			if (inFence || !s) return;
+
+			for (const { bad, good, note } of STALE_TERMS) {
+				// 「丐幫向心」「飛石幫向心」のような勢力固有語(別概念、対象外)を
+				// 誤検知しないよう、bad の直前が漢字(=何らかの名詞に続く複合語)なら
+				// スキップする。プレイヤー自身のステータスとしての bad は行頭・記号・
+				// 区切り文字の直後に単独で現れる。
+				const re = new RegExp(bad, "g");
+				let m;
+				while ((m = re.exec(s))) {
+					const before = s.slice(Math.max(0, m.index - 1), m.index);
+					if (HAN.test(before)) continue;
+					hits.push({ file: rel, line: idx + 1, bad, good, note, text: s.slice(0, 90) });
+					break; // 1行1件で十分。同じ語の複数出現は1行にまとめる
+				}
+			}
+		});
+	return hits;
+}
+
 function readLedger() {
 	const ledger = new Map();
 	if (!fs.existsSync(LEDGER)) return ledger;
@@ -202,10 +259,12 @@ function main() {
 	}
 
 	const residue = files.flatMap((f) => scanResidue(f, allow));
+	const oldTerms = files.flatMap((f) => scanStaleTerms(f));
 
 	console.log(`MISSING: ${missing.length}`);
 	console.log(`STALE: ${stale.length}`);
 	console.log(`RESIDUE: ${residue.length}`);
+	console.log(`OLD_TERM: ${oldTerms.length}`);
 
 	const show = (label, arr, fmt) => {
 		if (!arr.length) return;
@@ -217,8 +276,9 @@ function main() {
 	show("MISSING: 台帳に未記載", missing, (x) => x);
 	show("STALE: 台帳のsha256と内容が不一致", stale, (x) => x);
 	show("RESIDUE: 中国語残存の疑い", residue, (x) => `${x.file}:${x.line} [${x.why}] ${x.text}`);
+	show("OLD_TERM: 旧訳語・誤訳語の残存", oldTerms, (x) => `${x.file}:${x.line} [${x.bad}→${x.good}] ${x.note} :: ${x.text}`);
 
-	const ok = !missing.length && !stale.length && !residue.length;
+	const ok = !missing.length && !stale.length && !residue.length && !oldTerms.length;
 	if (!ok) console.log("\n未達。上記を解消すること。");
 	process.exit(ok ? 0 : 1);
 }
