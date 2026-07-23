@@ -267,22 +267,12 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)<br>
-				[廃寺の変装者たち](/ja/event/detailed_description/2-06-2-廢寺喬裝)<br>
-				[段智秀来襲（道中、想い人＝葉雲裳ルート）](/ja/event/detailed_description/3-03-3-段智秀來襲)<br>
-				[青城での療養（想い人＝葉雲裳ルート）](/ja/event/detailed_description/3-03-2-青城療傷)<br>
-				[唐芳の問診](/ja/event/simple/3-03-5-唐芳問診)<br>
-				[葉雲裳の秘笈ガチャ2](/ja/event/simple/3-03-6-葉雲裳秘笈2)<br>
-				[青城観光](/ja/event/simple/3-03-7-青城遊覽)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
 			<td>九月</td>
-			<td>
-				<MarkdownWrapper>
-				[四師兄の青城訪問](/ja/event/simple/3-03-4-四師兄行商)<br>
-				</MarkdownWrapper>
-			</td>
+			<td>-</td>
 			<td>-</td>
 			<td>-</td>
 		</tr>
@@ -320,6 +310,44 @@ tags:
 				[唐門内戦 (唐門內戰)](/ja/event/simple/2-12-3-唐門內戰)<br>
 				</MarkdownWrapper>
 			</td>
+		</tr>
+	</table>
+</div>
+
+## 第二年 - 路線：青城留学（想い人＝葉雲裳）
+
+<div class="table-container">
+	<table>
+		<tr>
+			<th>月</th>
+			<th>上旬</th>
+			<th>中旬</th>
+			<th>下旬</th>
+		</tr>
+		<tr>
+			<td>八月</td>
+			<td>-</td>
+			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[廃寺の変装者たち](/ja/event/detailed_description/2-06-2-廢寺喬裝)<br>
+				[段智秀来襲（道中）](/ja/event/detailed_description/3-03-3-段智秀來襲)<br>
+				[青城での療養](/ja/event/detailed_description/3-03-2-青城療傷)<br>
+				[唐芳の問診](/ja/event/simple/3-03-5-唐芳問診)<br>
+				[葉雲裳の秘笈ガチャ2](/ja/event/simple/3-03-6-葉雲裳秘笈2)<br>
+				[青城観光](/ja/event/simple/3-03-7-青城遊覽)<br>
+				</MarkdownWrapper>
+			</td>
+		</tr>
+		<tr>
+			<td>九月</td>
+			<td>
+				<MarkdownWrapper>
+				[四師兄の青城訪問](/ja/event/simple/3-03-4-四師兄行商)<br>
+				</MarkdownWrapper>
+			</td>
+			<td>-</td>
+			<td>-</td>
 		</tr>
 	</table>
 </div>
