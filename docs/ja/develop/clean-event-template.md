@@ -35,7 +35,7 @@ tags:
 
 ```
 <年>-<月>-<順>-<イベント名(原文中国語)>.md
-例: 3-08-2-四師兄道別.md (第3年8月・その月の2番目)
+例: 3-08-1-四師兄遠遊經商.md (第3年8月・その月の1番目)
 ```
 
 ファイル名の「イベント名」部分と、frontmatter/本文見出しに出す表示タイトルは別物。
@@ -290,7 +290,7 @@ tags:
 	<tr>
 		<td>
 			<MarkdownWrapper>
-			<li>[四師兄の旅立ち](/ja/event/simple/3-08-2-四師兄道別)</li>
+			<li>[四師兄、商いの長旅へ](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)</li>
 			</MarkdownWrapper>
 		</td>
 	</tr>
@@ -303,7 +303,7 @@ tags:
 ```markdown
 <td>
 	<MarkdownWrapper>
-	<li>[四師兄の旅立ち](/ja/event/simple/3-08-2-四師兄道別)</li>
+	<li>[四師兄、商いの長旅へ](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)</li>
 	</MarkdownWrapper>
 </td>
 ```

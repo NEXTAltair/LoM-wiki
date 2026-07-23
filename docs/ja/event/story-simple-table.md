@@ -638,7 +638,7 @@ tags:
 			<td>
                 <MarkdownWrapper>
 				唐門例会：[四師兄の遠経商取引](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)<br>
-				[四師兄の旅立ち](/ja/event/simple/3-08-2-四師兄道別)<br>
+				[四師兄、商いの長旅へ](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)<br>
                 </MarkdownWrapper>
 			</td>
 			<td>
