@@ -348,7 +348,7 @@ tags:
 			<td>-</td>
 			<td>
 				<MarkdownWrapper>
-				[段智秀来襲・青城脱出](/ja/event/detailed_description/2-09-3-段智秀來襲)<br>
+				[段智秀来襲・青城脱出](/ja/event/simple/2-09-3-段智秀來襲)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
