@@ -160,7 +160,7 @@ tags:
         <td id="風雲史-No.12">12</td>
         <td><AchievementIcon :size="`medium`" :no="`12`">雪山派大弟子</AchievementIcon></td>
         <td>兼，<Girl5Icon>掌門</Girl5Icon>伴侶。</td>
-        <td>武林傳奇通關時與<Girl5Icon>夏侯蘭</Girl5Icon>結緣。
+        <td>武林傳奇通關時與<Girl5Icon>夏侯蘭</Girl5Icon>結緣，步驟請見<MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/event/pursuit/girl5)</MarkdownWrapper>。
         </td>
         <td></td>
         <td></td>
@@ -169,7 +169,7 @@ tags:
         <td id="風雲史-No.13">13</td>
         <td><AchievementIcon :size="`medium`" :no="`13`">唐門女婿</AchievementIcon></td>
         <td>千防萬防，家賊難防，想不到是你！</td>
-        <td>武林傳奇通關時與<Girl0Icon>小師妹</Girl0Icon>結緣，步驟請見<MarkdownWrapper>[〈唐默鈴結緣攻略〉](/other/guide/pursuit/girl0)</MarkdownWrapper>。
+        <td>武林傳奇通關時與<Girl0Icon>小師妹</Girl0Icon>結緣，步驟請見<MarkdownWrapper>[〈唐默鈴結緣攻略〉](/event/pursuit/girl0)</MarkdownWrapper>。
         </td>
         <td></td>
         <td>~~教你監守自盜、監守自盜~~</td>
@@ -178,7 +178,7 @@ tags:
         <td id="風雲史-No.14">14</td>
         <td><AchievementIcon :size="`medium`" :no="`14`">忘憂俠侶</AchievementIcon></td>
         <td>走遍四方，行俠仗義，<Girl8Icon>她</Girl8Icon>愛煞了你的英雄氣概。</td>
-        <td>武林傳奇通關時與<Girl8Icon>龍湘</Girl8Icon>結緣，步驟請見<MarkdownWrapper>[〈龍湘結緣攻略〉](/other/guide/pursuit/girl8)</MarkdownWrapper>。
+        <td>武林傳奇通關時與<Girl8Icon>龍湘</Girl8Icon>結緣，步驟請見<MarkdownWrapper>[〈龍湘結緣攻略〉](/event/pursuit/girl8)</MarkdownWrapper>。
         </td>
         <td></td>
         <td>~~說好了你要為我殺盡天下的雞，餐餐有雞腿~~</td>
@@ -199,8 +199,8 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`16`">武林傳奇</AchievementIcon></td>
         <td>你成遂了兒時夢想，證明天棄如你，努力不懈也能有出息。</td>
         <td>組建西武林盟，且戰勝武林盟主。</td>
-        <td></td>
-        <td></td>
+        <td>獲得「命運收束之力」</td>
+        <td>「收束」可以選擇三種擲骰的範圍。</td>
     </tr>
     <tr>
         <td id="風雲史-No.17">17</td>
