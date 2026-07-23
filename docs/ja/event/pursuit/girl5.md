@@ -86,7 +86,7 @@ tags:
 <td>• <Girl5Icon>夏侯蘭</Girl5Icon>の心法伝授の際、3回の機会すべてで📖「抵抗」を選び、かつ4回の🎲天命のうち少なくとも1回は【=99】「抵抗」成功を出す必要がある:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 2回目の📖「抵抗」選択には酒を持っている必要がある。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 3回目の📖「抵抗」選択には想い人が夏侯蘭である必要がある。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. <MarkdownWrapper>[命運収束の力](/ja/event/achievements/#風雲史-No.16)</MarkdownWrapper>を持っていない場合、少なくとも夏侯蘭好感≧49がないと1回も成功しない。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. <MarkdownWrapper>[運命収束の力](/ja/event/achievements/#風雲史-No.16)</MarkdownWrapper>を持っていない場合、少なくとも夏侯蘭好感≧49がないと1回も成功しない。
     <br>• 抵抗に成功すると夏侯蘭が危篤に陥る展開が発生し、続けて🗡️夏侯蘭と決闘、勝利すれば結緣イベントに進む。
     <br>• イベント終了後に道具【夏侯蘭の髪帯】を入手し、結緣成功。</td>
 <td>• 伝授を受け入れるか抵抗に失敗すると、<Girl5Icon>夏侯蘭</Girl5Icon>は死去し、スキル<MarkdownWrapper>[玄黄納心綱](/ja/system/skill)</MarkdownWrapper>(展開の記念品、効果なし)を獲得する。
