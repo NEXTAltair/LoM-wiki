@@ -132,6 +132,8 @@ title: 用語対訳表
 | 心上人 | 想い人 | Sweetheart | ★MOD |
 | 變心 | 心変わり | | ★MOD (想い人の変更カウント) |
 | 命運 | 命運 | Destiny | |
+| 命運收束之力 | 運命収束の力 | Power of Destiny Convergence | ★MOD (Library/Award/30016)。単独の「命運」は上記通り保持だが、この道具名に限り MOD 表記が「運命」 |
+| 收束 (擲骰範囲選択) | 収束 | Convergence | ★MOD (System/DiceRange)。天命擲骰の判定範囲を選べるシステム名 |
 | 投降 | 降参 | Surrender | |
 | 外姓弟子 | 外弟子 | External Disciple | 唐姓以外の門下弟子。内門武功の修習は許されない |
 
