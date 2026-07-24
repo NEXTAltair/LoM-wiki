@@ -313,7 +313,7 @@ tags:
 <img src="/images/mobs/artists/fairy1_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>綁架小師妹<br>(已被刪除)</td>
+        <td>綁架小師妹<br>(削除済み)</td>
         <td>趙活が天雷に打たれて死んだ後に訪ねることになる、杏花林の仙姑。</td>
     </tr>
     <tr>
