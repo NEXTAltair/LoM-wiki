@@ -97,7 +97,7 @@ tags:
 ### 結緣対象
 結緣対象により異なるエンディングが生じ、伝説テキストに影響する。
 + <Girl8Icon>龍湘</Girl8Icon>：主人公と共に戦死。
-+ <Girl0Icon>唐默鈴</Girl0Icon>：非常に残酷な<Girl0Icon>唐默鈴</Girl0Icon>が独り生き残る。
++ <Girl0Icon>唐默鈴</Girl0Icon>：非常に切ない<Girl0Icon>唐默鈴</Girl0Icon>が独り生き残る。
 + <Girl5Icon>夏侯蘭</Girl5Icon>：[樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に入門しているかどうかで2つのシナリオに分かれ、伝説テキストに影響する。
   + [樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に入門：主人公の屍体を雪山に持って帰り安葬し、[樊咲嫣](/ja/people/characters/special4)が嫁ぐまで待った後、失踪。
   + 上記の条件を満たさない場合：主人公の屍体を雪山に持って帰り安葬し、生涯墓を守る。

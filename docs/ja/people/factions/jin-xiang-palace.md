@@ -138,10 +138,10 @@ tags:
 - 音律や武芸などの試験で優秀な成績を収めると、追加の小遣いと休日がもらえる。[^9]
 - 初期の十一人で今も残るのは[溫夫人](/ja/people/characters/special402)、[明玉](/ja/people/characters/other18)、[華仙兒](/ja/people/characters/special813)のみ。[^9]
 
-[^1]: 巴哈姆特－[【情報】關於龍湘屁股大小的答案+私聊鳥熊的對話訊息](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
-[^2]: PTT C洽－[\[活俠\] 龍湘+綜合小知識數則](https://www.ptt.cc/bbs/C_Chat/M.1728840738.A.3D7.html)
-[^5]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
-[^6]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
+[^1]: バハムート－[【情報】龍湘のお尻の大きさについての答え+鳥熊とのプライベートチャットの会話メッセージ](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
+[^2]: PTT C 洽－[\[活俠\] 龍湘＋総合小知識数則](https://www.ptt.cc/bbs/C_Chat/M.1728840738.A.3D7.html)
+[^5]: PTT C 洽－[\[活俠\] 龍湘と奇怪な小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
+[^6]: バハムート - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
 [^7]: [問答集2024-10-21](/ja/other/qna/202410#_2024-10-21)
 [^8]: [問答集2024-10-31](/ja/other/qna/202410#_2024-10-31)
-[^9]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)
+[^9]: PTT C 洽－[\[活俠\] 龍湘と奇怪な小知識 P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)

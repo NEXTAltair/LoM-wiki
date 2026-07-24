@@ -107,11 +107,11 @@ tags:
 
 > 「何事にも代価はつきものよ。わたしたちは一番よかった日々からどんどん遠ざかって、もう二度と昔には戻れないの。」
 
-本名は蘇迎香。[錦香宮](/ja/people/factions/jin-xiang-palace)の主人で、[龍湘](/ja/people/characters/girl8)の師匠。琴曲や琵琶曲で音波功を使い、人を治療したり敵を傷つけたりする。内功は溫氏兄妹から習い、極樂教の魔琴功を組み合わせて独自の流派を作った。[錦香宮](/ja/people/factions/jin-xiang-palace)を一から打ち立て、世間の偏見で苦しむ可哀そうな女性たちを受け入れた。手腕は鐵鎖横江で、江湖の人々の中で彼女を忌避しない者はいない。
+本名は蘇迎香。[錦香宮](/ja/people/factions/jin-xiang-palace)の主人で、[龍湘](/ja/people/characters/girl8)の師匠。琴曲や琵琶曲で音波功を使い、人を治療したり敵を傷つけたりする。内功は溫氏兄妹から習い、極樂教の魔琴功を組み合わせて独自の流派を作った。[錦香宮](/ja/people/factions/jin-xiang-palace)を一から打ち立て、世間の偏見で苦しむ可哀そうな女性たちを受け入れた。手腕は鉄の鎖で川を封じるほど厳格で、江湖の人々で彼女を畏れない者はいない。
 <br><br>
-[奪魄幽蘭（夏侯蘭）](/ja/people/characters/girl5)が現れる前、かつて江湖第一の美女だった。[上官隼](/ja/people/characters/special407)とは子どもの頃からの知り合い。生来放蕩な上官隼はいつも友人を連れて彼女をからかった。楽坊で働く彼女は楽坊の教えから臆病で気が弱く、この富豪の息子が怖かった。大人になると、上官隼は彼女がますます美しく優雅になるのを見て、幾度も楽坊に圧力をかけて人を出すよう要求した。その時に少年[南宮遠](/ja/people/characters/special101)が英雄救美を演じ、美しい女性の好意を勝ち取ったのだ。
+[奪魄幽蘭（夏侯蘭）](/ja/people/characters/girl5)が現れる前、かつて江湖第一の美女だった。[上官隼](/ja/people/characters/special407)とは子どもの頃からの知り合い。生来放蕩な上官隼はいつも友人を連れて彼女をからかった。楽坊で働く彼女は楽坊の教えから臆病で気が弱く、この富豪の息子が怖かった。大人になると、上官隼は彼女がますます美しく優雅になるのを見て、幾度も楽坊に圧力をかけて人を出すよう要求した。その時に少年[南宮遠](/ja/people/characters/special101)がヒーローよろしく彼女を救い、美しい女性の好意を勝ち取ったのだ。
 <br><br>
-しかし結局のところ、それは一場の夢と消えた。[南宮遠](/ja/people/characters/special101)は親友[溫無畏](/ja/people/characters/other13)が傷を負い床に伏せているのを見て心が痛み、恨みを抱いたまま人生を終わるのが耐えられず、迎香を彼に譲った。こうして二十年間の隔絶が続くことになった。[王二壮（王春曉）](/ja/people/characters/special401)はこのため出家して僧になった。[上官隼](/ja/people/characters/special407)も恋愛に心を閉ざした。[溫無畏](/ja/people/characters/other13)が亡くなった後、[南宮遠](/ja/people/characters/special101)は錦香閣に彼女を訪ねに来た。破鏡重円を求めずただ補償を願っているだけだったが、彼女は許さず、迷藥と琴の音で彼の心を乱し、醜い女との関係を持たせて[南宮淺](/ja/people/characters/special103)を生ませたのだ。
+しかし結局のところ、それは一場の夢と消えた。[南宮遠](/ja/people/characters/special101)は親友[溫無畏](/ja/people/characters/other13)が傷を負い床に伏せているのを見て心が痛み、恨みを抱いたまま人生を終わるのが耐えられず、迎香を彼に譲った。こうして二十年間の隔絶が続くことになった。[王二壮（王春曉）](/ja/people/characters/special401)はこのため出家して僧になった。[上官隼](/ja/people/characters/special407)も恋愛に心を閉ざした。[溫無畏](/ja/people/characters/other13)が亡くなった後、[南宮遠](/ja/people/characters/special101)は錦香閣に彼女を訪ねに来た。よりを戻すことは求めずただ償いを願っているだけだったが、彼女は許さず、迷藥と琴の音で彼の心を乱し、醜い女との関係を持たせて[南宮淺](/ja/people/characters/special103)を生ませたのだ。
 <br><br>
 その後、[龍淵](/ja/people/characters/special2)は片腕を失い隠れて別の名を名乗り、彼女は彼の娘[龍湘](/ja/people/characters/girl8)を弟子に迎えた。[王二壮（王春曉）](/ja/people/characters/special401)は丐幫に入門した後、彼女のもとに戻ってきた。しかし彼女は一生で一人の人しか愛することができず、彼と異性の兄妹の関係を結んだ。
 <br><br>
@@ -140,9 +140,9 @@ tags:
 -   [画中仙](/ja/people/characters/special813)とはかつてそれぞれ別の主人に仕えていた関係だった。[瑞杏](/ja/people/characters/girl1)によってようやく仲直りすることができた。
 -   [明玉](/ja/people/characters/other18)、[画中仙](/ja/people/characters/special813)あるいは[龍湘](/ja/people/characters/girl8)、[盛雪](/ja/people/characters/other12)はみな攻防一体の二人絹法と剣法を習得して、護衛の最高の人選だった。ただし残念なことに、風雨山の変のときに離散させられ、そのため[上官隼](/ja/people/characters/special407)に敗北してしまった。
 -   もし風雨山の変がなければ、[錦香宮](/ja/people/factions/jin-xiang-palace)を解散した後、東北へ遠く去り、長白山の西で長く年を重ねる計画だった。
--   蔘鶏湯を煮込むことができ、鶏脚は両方とも[龍湘](/ja/people/characters/girl8)に独占させた。手芸も非常に上手だが、[趙活](/ja/people/characters/player)は機会があれば彼女を超えることができるだろう。[^1]
+-   蔘鶏湯を煮込むことができ、鶏脚は両方とも[龍湘](/ja/people/characters/girl8)に独占させた。料理の腕も非常に良いが、[趙活](/ja/people/characters/player)は機会があれば彼女を超えることができるだろう。[^1]
 -   江湖では「真心か偽りか、琵琶で心を問う」という言葉がある。錦香宮の女性を求婚しようという者は、誰であっても、まず[溫夫人](/ja/people/characters/special402)の琵琶曲を聞かなければならない。曲を聞いた者の内功や定力が不足していれば、必ず幻に陥り、本性が現れてしまう。軽ければ手舞足蹈して人前で恥をかき、重ければ経脈を傷つけて走火入魔してしまう。
 
 [^1]: PTT C 洽－[\[活俠傳\] 龍湘と奇妙な雑学 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
-[^2]: PTT C 洽－[\[活俠傳\] 慟！温夫人が肩甲について思うこと](https://www.ptt.cc/bbs/C_Chat/M.1757861303.A.1B0.html)
+[^2]: PTT C 洽－[\[活俠傳\] 慟！溫夫人が肩甲について思うこと](https://www.ptt.cc/bbs/C_Chat/M.1757861303.A.1B0.html)
 [^3]: 遊戲角落－[專訪原始鳥熊（3）假趙活是真的—你我身邊可能都有一個晁和](https://game.udn.com/game/story/122090/8118486)

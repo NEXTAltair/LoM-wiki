@@ -80,4 +80,4 @@ tags:
 -   [唐默鈴](/ja/people/characters/girl0)の結婚式で崆峒派を率いて乱入し、唐默鈴の名声を傷つけ、唐門の評判を破壊することを企図。
 -   彼が掌派人になれば、崆峒派は風雨山で唐門を支持しない。
 
-[^1]: 巴哈姆特 - [【閒聊】雲裳的體重和葉兄的童年（鳥熊私訊問答）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=3082&bpage=1&ltype=)
+[^1]: バハムート - [【雑談】雲裳の体重と葉兄の幼少期（鳥熊プライベート訊息問答）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=3082&bpage=1&ltype=)
