@@ -63,7 +63,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`2005`">斬天黑翼雙龍劍</BookItemIcon></td>
+        <td><BookItemIcon :no="`2005`">斬天黒翼双龍剣</BookItemIcon></td>
         <td>刀剣2<br>弁舌3<br>性情+3<br>処世+3</td>
         <td>15</td>
         <td></td>

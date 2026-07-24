@@ -370,7 +370,7 @@ aside: false
 ## 聡慧
 
 -   生まれつき頭が良い。子供の頃、点蒼剣廬にこっそり忍び込んだわずかな時間で、三招の極意を悟った。第四式を編み出せる可能性すらあった。
--   見ただけで[盤古開天破](/ja/system/books/book_2011)と[斬天黑翼雙龍劍](/ja/system/books/book_2005)を覚えてしまう。
+-   見ただけで[盤古開天破](/ja/system/books/book_2011)と[斬天黒翼双龍剣](/ja/system/books/book_2005)を覚えてしまう。
 -   体が弱くなければ、おそらく兄の[葉雲舟](/ja/people/characters/special3)より武の素質がある。
 -   [葉雲舟](/ja/people/characters/special3)・[段智秀](/ja/people/characters/special833)らわずか4人で隊列から郡主を連れ去るという大胆な計画を立案した。
 -   自分と[趙活](/ja/people/characters/player)・[唐芳](/ja/people/characters/special832)たちが青城から無傷で撤退する計画を立案した(詳細は[段智秀来襲・青城脱出](/ja/event/simple/2-09-3-段智秀來襲)を参照)。

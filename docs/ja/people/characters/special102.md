@@ -105,7 +105,7 @@ aside: false
     > 　上官娘子というあれほど良い許嫁がありながら、風流を気取って女に手を出す。」
 -   伝奇テキストの南宮深評はとりわけ辛辣で、[魏菊](/ja/people/characters/girl7)が陰でこき下ろしているのではと疑われている。
 -   陳序、余自詠、成溪、[公子秀](/ja/people/characters/special833)と共に[花城四少](/ja/people/characters/group1)と並び称される花街の常連。花城四少がなぜ5人いるのかについてはずっとバツが悪く、誰も怒らせたくないので、聞かれるといつもはぐらかしている。
--   靜江九縣小盟主の[方震天](/ja/people/characters/other16)、火炎山總鍛長の[段純青](/ja/people/characters/other15)、斬天黑翼雙龍劍の[齊壬](/ja/people/characters/hero2)と親友。
+-   靜江九縣小盟主の[方震天](/ja/people/characters/other16)、火炎山總鍛長の[段純青](/ja/people/characters/other15)、斬天黒翼双龍剣の[齊壬](/ja/people/characters/hero2)と親友。
 
 ## 装い
 
