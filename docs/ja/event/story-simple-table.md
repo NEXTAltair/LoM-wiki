@@ -32,6 +32,9 @@ tags:
 				[小師妹の修行 (小師妹練操)](/ja/event/simple/1-04-1-小師妹練操)<br>
 				[大師兄が楽しみを探す (大師兄找樂子)](/ja/event/simple/1-04-1-大師兄找樂子)<br>
 				[後山で人を押す (後山推人)](/ja/event/simple/1-04-1-後山推人)<br>
+				[食い逃げ事件 (霸王餐事件)](/ja/event/simple/1-04-1-霸王餐事件)<br>
+				[怠け者事件 一〜四 (偷懶怪事件)](/ja/event/simple/1-04-1-偷懶怪事件)<br>
+				[四師兄との切磋 (切磋四師兄)](/ja/event/simple/1-04-1-切磋四師兄)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -64,6 +67,7 @@ tags:
 				<MarkdownWrapper>
 				[貢献度評点 (貢獻評點)](/ja/event/simple/1-05-1-貢獻評點)<br>
 				[掌門の手配 (掌門的安排)](/ja/event/simple/1-06-1-掌門的安排)<br>
+				[心変わりの夢 (變心夢)](/ja/event/simple/1-06-1-變心夢)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -80,7 +84,9 @@ tags:
 			</td>
 			<td>-</td>
 			<td>
-				<li>段階試験</li>
+				<MarkdownWrapper>
+				[定期段階試験 (唐門段考)](/ja/event/simple/1-07-3-唐門段考)<br>
+				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +132,9 @@ tags:
 				</MarkdownWrapper>
 			</td>
 			<td>
-				<li>段階試験</li>
+				<MarkdownWrapper>
+				[定期段階試験 (唐門段考)](/ja/event/simple/1-07-3-唐門段考)<br>
+				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
@@ -183,7 +191,9 @@ tags:
 			<td>-</td>
 			<td>-</td>
 			<td>
-				<li>段階試験</li>
+				<MarkdownWrapper>
+				[定期段階試験 (唐門段考)](/ja/event/simple/1-07-3-唐門段考)<br>
+				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
@@ -370,7 +380,9 @@ tags:
 			<td>-</td>
 			<td>-</td>
 			<td>
-				<li>段階試験</li>
+				<MarkdownWrapper>
+				[定期段階試験 (唐門段考)](/ja/event/simple/1-07-3-唐門段考)<br>
+				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
@@ -476,6 +488,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[小梅が訪ねてくる](/ja/event/simple/2-10-3-小梅上門)<br>
+				[虞小梅がらみのランダムイベント (虞小梅相關)](/ja/event/simple/2-10-3-虞小梅相關)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -491,6 +504,9 @@ tags:
 			<td>十二月</td>
 			<td>
 				<li>唐門例会</li>
+				<MarkdownWrapper>
+				[大師兄、刺金行の顛末 (大師兄刺金行)](/ja/event/simple/2-12-1-大師兄刺金行)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
@@ -689,6 +705,7 @@ tags:
 				<li>誰かが去る</li>
 				<MarkdownWrapper>
 				<li>[四師兄が帰る(手土産を頼む必要がある)](/ja/event/detailed_description/3-11-1-四師兄歸來)</li>
+				<li>[覚醒夢 (清醒夢)](/ja/event/simple/3-11-1-清醒夢)</li>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -748,7 +765,11 @@ tags:
 		</tr>
 		<tr>
 			<td>二月</td>
-			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)【滅門ルートでは一月上旬】<br>
+				</MarkdownWrapper>
+			</td>
 			<td>
                 <MarkdownWrapper>
 				[西武林大会](/ja/event/detailed_description/4-02-2-東西武林盟會戰)<br>
@@ -760,7 +781,9 @@ tags:
 		<tr>
 			<td>三月</td>
 			<td>
-				<li>瑞笙と決戦</li>
+				<MarkdownWrapper>
+				[眉山決戦](/ja/event/detailed_description/4-03-1-眉山決戰)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>x</td>
 			<td>x</td>
