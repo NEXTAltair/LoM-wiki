@@ -47,7 +47,7 @@ tags:
     <tr>
         <td id="風雲史-No.01">01</td>
         <td><AchievementIcon :size="`medium`" :no="`01`">師門の柱石 (師門砥柱)</AchievementIcon></td>
-        <td>君は今や生まれ変わり、かつて[唐布衣](/ja/people/characters/brother1)を仰ぎ見たように、師弟たちもまた君を信頼する。</td>
+        <td>君は今や生まれ変わり、かつて<MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>を仰ぎ見たように、師弟たちもまた君を信頼する。</td>
         <td>
             1. 唐門後期会議で段階試験の開催を選択し、自分で監試する（確認待ち） <br>
             2. <Girl0Icon>唐默鈴</Girl0Icon>の比武招親イベントで金烏上人を打ち倒す。以下の2つの方法で発動可能： <br>
@@ -143,7 +143,7 @@ tags:
         <td>どこへも行かない。</td>
         <td>
             西武林盟ルートに進まず、<br>
-            かつ4年目の1月下旬の1戦目に敗北する（[唐陞](/ja/people/characters/brother3)の戦死を含む）
+            かつ4年目の1月下旬の1戦目に敗北する（<MarkdownWrapper>[唐陞](/ja/people/characters/brother3)</MarkdownWrapper>の戦死を含む）
         </td>
         <td></td>
         <td></td>
