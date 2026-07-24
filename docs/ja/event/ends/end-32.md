@@ -55,10 +55,10 @@ tags:
    + **📜議題：決闘：三師兄の護衛**：
      1. 同行相手の決定：以下の優先度で決定：
         1. <Girl3Icon>虞小梅</Girl3Icon>と結緣：今後のアップデート対応予定。
-        2. <Girl0Icon>小師妹</Girl0Icon>と結緣：後の2つの決闘で、<Girl0Icon>唐默鈴</Girl0Icon>が《極怒無定飛梭》で我方の決闘サポーター。
+        2. <Girl0Icon>唐默鈴</Girl0Icon>と結緣：後の2つの決闘で、<Girl0Icon>唐默鈴</Girl0Icon>が《極怒無定飛梭》で我方の決闘サポーター。
         3. <Girl4Icon>上官螢</Girl4Icon>と結緣：今後のアップデート対応予定。
      2. 🆚最初の刺客または2番目の刺客との決闘で敗戦後、エンディング進入。
-        + <Girl0Icon>小師妹</Girl0Icon>が同行している場合、最初の刺客が[罪を償いたい犯人](/ja/people/characters/special801)の時は直接勝利。
+        + <Girl0Icon>唐默鈴</Girl0Icon>が同行している場合、最初の刺客が[罪を償いたい犯人](/ja/people/characters/special801)の時は直接勝利。
    + **📜議題：戦役：唐門出撃**：
      1. 途中のプロセスは複数の組み合わせがあり、ほとんど影響しないが、以下の条件を満たす場合は特別な要件あり：
         + 武林大會が錦香宮を支援していない、[丹霞子](/ja/people/characters/special404)が唐門に入門していない、**📖選択：門を堅く閉ざす**時、内功≧20かつ性情≧20が必要。
@@ -89,11 +89,11 @@ tags:
 + <Girl8Icon>龍湘</Girl8Icon>：主人公と共に戦死。
 + <Girl0Icon>唐默鈴</Girl0Icon>：同行して下山したかどうかで2つのバージョン
   + 同行して下山：主人公の屍体の懐で、派を棄てて自害。
-  + [三師兄](/ja/people/characters/brother3)を守る：人数に劣り、強制的に拘束される。(結緣優先度から除外)
+  + [唐陞](/ja/people/characters/brother3)を守る：人数に劣り、強制的に拘束される。(結緣優先度から除外)
 + <Girl5Icon>夏侯蘭</Girl5Icon>：主人公の屍体を持って雪山に戻り、一切を焼いて自害。
   + ([樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に入門している場合、差異の可能性あり、今後のアップデート対応予定確認)
 
 ※志を貫いて死すエンディング結緣優先度(v1.0.3201.1)：<Girl3Icon>虞小梅</Girl3Icon>＞<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
 
 ### 結緣優先度から除外
-+ <Girl2Icon>葉雲裳</Girl2Icon>が唐門に在籍：[三師兄](/ja/people/characters/brother3)を守るため、一掌で打たれて死亡
++ <Girl2Icon>葉雲裳</Girl2Icon>が唐門に在籍：[唐陞](/ja/people/characters/brother3)を守るため、一掌で打たれて死亡

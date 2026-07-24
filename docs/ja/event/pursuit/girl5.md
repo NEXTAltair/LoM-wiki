@@ -92,7 +92,7 @@ tags:
 <td>• 伝授を受け入れるか抵抗に失敗すると、<Girl5Icon>夏侯蘭</Girl5Icon>は死去し、スキル<MarkdownWrapper>[玄黄納心綱](/ja/system/skill)</MarkdownWrapper>(展開の記念品、効果なし)を獲得する。
     <br>• 酒の種類によって展開が異なり、優先度は以下の通り:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. <MarkdownWrapper>[菊花酒](/ja/event/simple/3-07-2-雪山之約)</MarkdownWrapper>: 第三香を撃破した後、🎲【≧70】「見逃す」、続けて🎲【≧60】「何もない」を出す。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. <MarkdownWrapper>[猿酒](/ja/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>: <MarkdownWrapper>[帰路での襲撃](/ja/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>で大師兄が危篤の際に📖「お前が隠して飲ませなかった猿酒だな」を選択、同年3月上旬に後山で入手。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. <MarkdownWrapper>[猿酒](/ja/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>: <MarkdownWrapper>[帰路での襲撃](/ja/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>で唐布衣が危篤の際に📖「お前が隠して飲ませなかった猿酒だな」を選択、同年3月上旬に後山で入手。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;3. その他の酒。
     <br>• 🗡️夏侯蘭との決闘に敗北した場合、<MarkdownWrapper>[生死簿74：花との合葬](/ja/event/badends/badend-74)</MarkdownWrapper>に進む。</td>
 </tr>

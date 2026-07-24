@@ -125,11 +125,11 @@ aside: false
 -   婚約解消後すぐに後悔したが、[上官螢](/ja/people/characters/girl4)はもはや戻る気はなかった。
 -   婚約は解消したものの友人関係は保っており、[上官螢](/ja/people/characters/girl4)が日本へ遠く嫁ぐと知って手助けを試みる。
 
-## 小師妹の比武招親
+## 唐默鈴の比武招親
 
--   [小師妹](/ja/people/characters/girl0)の招親に参加。狙いは南宮家と唐門が同一陣営を組むこと。
--   [小師妹](/ja/people/characters/girl0)の温順で善良な人柄なら、わだかまりを捨てて[樂屏](/ja/people/characters/special810)を受け入れ、仲良くやってくれるかもしれないと見込んだ。
--   招親の面接では、[三師兄](/ja/people/characters/brother3)は彼が博覧強記と知り、いまさら文試も無意味と考えて処世の難題を出した。あるいは[小師妹](/ja/people/characters/girl0)から、なぜ[上官螢](/ja/people/characters/girl4)との婚約を破棄したのかを問われる。武試では礼を尽くし、相手に勝つたびに相手の顔が立つよう取りなした。
+-   [唐默鈴](/ja/people/characters/girl0)の招親に参加。狙いは南宮家と唐門が同一陣営を組むこと。
+-   唐默鈴の温順で善良な人柄なら、わだかまりを捨てて[樂屏](/ja/people/characters/special810)を受け入れ、仲良くやってくれるかもしれないと見込んだ。
+-   招親の面接では、[唐陞](/ja/people/characters/brother3)は彼が博覧強記と知り、いまさら文試も無意味と考えて処世の難題を出した。あるいは唐默鈴から、なぜ[上官螢](/ja/people/characters/girl4)との婚約を破棄したのかを問われる。武試では礼を尽くし、相手に勝つたびに相手の顔が立つよう取りなした。
 
 ## 武功
 

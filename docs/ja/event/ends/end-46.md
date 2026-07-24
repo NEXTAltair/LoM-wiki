@@ -28,7 +28,7 @@ tags:
 </EndBackground>
 
 ## 条件とフロー
-<strong>条件：</strong>誰とも結緣していない、[大師兄](/ja/people/characters/brother1)が生存、最後まで抵抗シナリオラインへ進入。<br>
+<strong>条件：</strong>誰とも結緣していない、[唐布衣](/ja/people/characters/brother1)が生存、最後まで抵抗シナリオラインへ進入。<br>
 **フロー：**<br>
 1. 第三年十二月上旬の最終行動前。[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で最後まで抵抗シナリオラインへ進入。
 2. 唐門囲攻戦：開始時期は[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)の結果で異なる。
@@ -50,9 +50,9 @@ tags:
    + その他の結果：
      + **📖選択肢「全力で突破」**：⚔️群戦、結果は関係なし。
      + **📖選択肢「一片も残さない」**：⚔️群戦で勝利必須→⚔️群戦で結果関係なし。
-6. 🗡️武林盟主-[瑞笙](/ja/people/characters/special999)との決鬥で勝利後、結緣者がなく[大師兄](/ja/people/characters/brother1)が生存していれば、エンディングへ。
+6. 🗡️武林盟主-[瑞笙](/ja/people/characters/special999)との決鬥で勝利後、結緣者がなく[唐布衣](/ja/people/characters/brother1)が生存していれば、エンディングへ。
 
-## ※大師兄の生存条件
+## ※唐布衣の生存条件
 
 [飛俠歸來](/ja/event/detailed_description/4-02-2-飛俠歸來)のイベントページを参照。
 
