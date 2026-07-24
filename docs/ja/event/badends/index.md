@@ -125,7 +125,7 @@ tags:
             -
         </td>
         <td>
-            第一年四月上旬に煉丹房で[唐錚](/ja/people/characters/brother2)と会い、「正に死を求めるようなことをしたのか」を選択
+            第一年四月上旬に煉丹房で<MarkdownWrapper>[唐錚](/ja/people/characters/brother2)</MarkdownWrapper>と会い、「正に死を求めるようなことをしたのか」を選択
         </td>
         <td>
             -
@@ -188,7 +188,7 @@ tags:
             『チャーリーズ・エンジェル』の台湾版タイトル『霹靂嬌娃』との言葉遊び
         </td>
         <td>
-            第一年四月上旬に食堂で[唐布衣](/ja/people/characters/brother1)と会い、判定失敗で怖くなる
+            第一年四月上旬に食堂で<MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>と会い、判定失敗で怖くなる
         </td>
         <td>
             -
@@ -1201,7 +1201,7 @@ tags:
             -
         </td>
         <td>
-            [唐惟元](/ja/people/characters/brother4)が牛を買うイベント。葉家兄妹を救う（そうでなければ後の選択肢で上に行けない）。江湖の噂の後、下山。武林人士が葉家兄妹を取り囲むイベント発生。上に行くことを選択。路人戦で敗北。
+            <MarkdownWrapper>[唐惟元](/ja/people/characters/brother4)</MarkdownWrapper>が牛を買うイベント。葉家兄妹を救う（そうでなければ後の選択肢で上に行けない）。江湖の噂の後、下山。武林人士が葉家兄妹を取り囲むイベント発生。上に行くことを選択。路人戦で敗北。
         </td>
         <td>
             -
@@ -2547,7 +2547,7 @@ tags:
             同名ゲーム『undertale』
         </td>
         <td>
-            葉妹結緣ルート。西武林同盟。唐門攻防戦。山に留まって[唐陞](/ja/people/characters/brother3)を警護。サイコロで敵選択時に千面人魔に当たる。敗北。
+            葉妹結緣ルート。西武林同盟。唐門攻防戦。山に留まって<MarkdownWrapper>[唐陞](/ja/people/characters/brother3)</MarkdownWrapper>を警護。サイコロで敵選択時に千面人魔に当たる。敗北。
         </td>
         <td>
             -

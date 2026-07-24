@@ -27,7 +27,7 @@ tags:
         <td>刀剣10<br>軽功-5<br>霹靂刀<br>性情+5</td>
         <td>50</td>
         <td>刀剣20</td>
-        <td>三年四月上旬－[唐惟元](/ja/people/characters/brother4)から購入 ($2000) <br>千面人イベント－外門弟子を選び、龍湘の話題で龍湘は間が抜けていると言う (性情≧60)</td>
+        <td>三年四月上旬－<MarkdownWrapper>[唐惟元](/ja/people/characters/brother4)</MarkdownWrapper>から購入 ($2000) <br>千面人イベント－外門弟子を選び、龍湘の話題で龍湘は間が抜けていると言う (性情≧60)</td>
         <td>2000</td>
     </tr>
     <tr>
@@ -257,7 +257,7 @@ tags:
         <td>80</td>
         <td>形意拳LV1</td>
         <td>以下の条件をすべて満たす必要があります：<br>
-- 唐嬌嬌・唐衫が唐門に加入し、唐衫が[唐布衣](/ja/people/characters/brother1)と共に下山、武林大会で唐衫を受け入れる。<br>
+- 唐嬌嬌・唐衫が唐門に加入し、唐衫が<MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>と共に下山、武林大会で唐衫を受け入れる。<br>
 - 福韞は好感20未満で唐門未加入であること。さもなくば三年十二月下旬に峨嵋へ出使してしまう。<br>
 - 西武林ルート、四年一月上旬に唐衫を峨嵋派の説得に派遣し、帰還後に唐衫と手合わせして忘形篇を教える。</td>
         <td></td>
@@ -740,7 +740,7 @@ tags:
         <td>抗毒15<br>抗麻15<br>医術LV1</td>
         <td>50</td>
         <td>学問20 (LV5)</td>
-        <td>囲城イベント後帰宅し、[唐錚](/ja/people/characters/brother2)に付いて行くと唐錚が贈る (唐錚好感3.5★)<br>二年十一月上旬－唐惟元から購入 ($1200)</td>
+        <td>囲城イベント後帰宅し、<MarkdownWrapper>[唐錚](/ja/people/characters/brother2)</MarkdownWrapper>に付いて行くと唐錚が贈る (唐錚好感3.5★)<br>二年十一月上旬－唐惟元から購入 ($1200)</td>
         <td>1200</td>
     </tr>
     <tr>

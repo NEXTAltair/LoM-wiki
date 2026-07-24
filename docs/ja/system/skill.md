@@ -66,7 +66,7 @@ tags:
         <td>南宮護心訣</td>
         <td>1~3</td>
         <td>致命的な攻撃を防ぐことができます（血量が0になるとき、10点の血量を回復）。等級に応じて気力を20～40回復します。
-            <br>[唐布衣](/ja/people/characters/brother1)の内功を伝えるとき、「内功29」「内功54」「南宮護心訣LV3」が必要です。
+            <br><MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>の内功を伝えるとき、「内功29」「内功54」「南宮護心訣LV3」が必要です。
 （そのうち2項目を達成すれば、技伝承の計算が1項目少なくなります）</td>
         <td>《南宮心法》</td>
     </tr>    
@@ -80,7 +80,7 @@ tags:
         <td>勇気</td>
         <td>-</td>
         <td>初期気力をさらに増加</td>
-        <td>[唐默鈴](/ja/people/characters/girl0)ルート選択肢。比武招親当日に追いかけることを選択。
+        <td><MarkdownWrapper>[唐默鈴](/ja/people/characters/girl0)</MarkdownWrapper>ルート選択肢。比武招親当日に追いかけることを選択。
 <br>無薬可救の故事(体験版ルート)で、石幫主にプレゼントを送った後、喧嘩を選択</td>
     </tr>
     <tr>
@@ -186,7 +186,7 @@ tags:
 <br>追加で毒・麻蓄積値を代謝
 <br>シナリオ分岐に影響</td>
         <td>▲秘笈《五毒密錄》《溫陽活血符》《備急千金要方》《傷寒雜病論》《太平聖惠方》《南宮武備論》《唐門藥典》《八仙指》《難經》
-<br>▲1年南宮寿宴ギフト選択で唐布衣の提議を選択。[唐錚](/ja/people/characters/brother2)好感度3星以上・医術なし、千金方で働く
+<br>▲1年南宮寿宴ギフト選択で唐布衣の提議を選択。<MarkdownWrapper>[唐錚](/ja/people/characters/brother2)</MarkdownWrapper>好感度3星以上・医術なし、千金方で働く
 <br>▲2年不留学千面人イベント（医術Lv1またはLv2が必要）</td>
     </tr>
     <tr>

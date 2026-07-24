@@ -82,7 +82,7 @@ tags:
     </tr>
     <tr>
         <td>晁和の唐門入門<br>「唐泉」</td>
-        <td>本姓は李。[唐小樓](/ja/people/characters/aunt2)に泉児と呼ばれ、唐小樓に一から鍛えられました。師匠同然の存在で、逆らえません。<br>唐小樓の指名で趙活と対練することがあります。</td>
+        <td>本姓は李。<MarkdownWrapper>[唐小樓](/ja/people/characters/aunt2)</MarkdownWrapper>に泉児と呼ばれ、唐小樓に一から鍛えられました。師匠同然の存在で、逆らえません。<br>唐小樓の指名で趙活と対練することがあります。</td>
     </tr>
     <tr>
         <td>晁和のサボり</td>
@@ -230,7 +230,7 @@ tags:
     </tr>
     <tr>
         <td>晁和の唐門入門</td>
-        <td>[唐小樓](/ja/people/characters/aunt2)の過去を説明し、掌門は晁和の加入を認めるだろうと予測しました。</td>
+        <td><MarkdownWrapper>[唐小樓](/ja/people/characters/aunt2)</MarkdownWrapper>の過去を説明し、掌門は晁和の加入を認めるだろうと予測しました。</td>
     </tr>
     <tr>
         <td>煉丹房爆発</td>

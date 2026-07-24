@@ -59,7 +59,7 @@ tags:
     <td>睡丹</td>
     <td>行動回数 -1<br>心相 +80<br>体力 +5<br>内功 +5</td>
     <td>
-      第3年8月[唐惟元](/ja/people/characters/brother4)遠行時に [難しい要求] → [特産品] を選択。<br>
+      第3年8月<MarkdownWrapper>[唐惟元](/ja/people/characters/brother4)</MarkdownWrapper>遠行時に [難しい要求] → [特産品] を選択。<br>
       第3年11月唐惟元が帰還。<br>
       弟子房で雑談した後、睡丹が煉製できます。
     </td>
