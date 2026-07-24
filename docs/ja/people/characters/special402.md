@@ -54,7 +54,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[畫中仙](/ja/people/characters/special813) (妹妹)
+					[画中仙](/ja/people/characters/special813) (妹妹)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -117,7 +117,7 @@ tags:
 <br><br>
 [瑞杏](/ja/people/characters/girl1)が十一歳の時、宮殿を師への礼として人心について学ぶことを願い出てきた。彼女はこれに乗じて[錦香宮](/ja/people/factions/jin-xiang-palace)を打ち立てた。たとえ[瑞杏](/ja/people/characters/girl1)が彼女を師と呼んでも、二人の間に師弟としての情はない。
 <br><br>
-実は[泥教](/ja/people/factions/mud-school)の人間道法王だった。武林大会で[南宮淺](/ja/people/characters/special103)に告発されて、[錦香宮](/ja/people/factions/jin-xiang-palace)の名声がどんなに良くても、江湖の偏見を打ち破ることはできなくなった。大勢が去るのを見て、[錦香宮](/ja/people/factions/jin-xiang-palace)を守るために、暗号で[畫中仙](/ja/people/characters/special813)に連絡して本当の溫夫人として生まれ変わらせ、自分は屍心丹で全宮を支配する魔頭のふりをして、人間道の事をすべて自分の身に背負い、[南宮遠](/ja/people/characters/special101)と一緒に死に、南宮族の墓に埋葬されたのである。
+実は[泥教](/ja/people/factions/mud-school)の人間道法王だった。武林大会で[南宮淺](/ja/people/characters/special103)に告発されて、[錦香宮](/ja/people/factions/jin-xiang-palace)の名声がどんなに良くても、江湖の偏見を打ち破ることはできなくなった。大勢が去るのを見て、[錦香宮](/ja/people/factions/jin-xiang-palace)を守るために、暗号で[画中仙](/ja/people/characters/special813)に連絡して本当の溫夫人として生まれ変わらせ、自分は屍心丹で全宮を支配する魔頭のふりをして、人間道の事をすべて自分の身に背負い、[南宮遠](/ja/people/characters/special101)と一緒に死に、南宮族の墓に埋葬されたのである。
 
 ## 南宮遠
 
@@ -137,8 +137,8 @@ tags:
 
 -   [上官隼](/ja/people/characters/special407)によれば、彼女は罪人の遺児だという。
 -   [上官隼](/ja/people/characters/special407)：「蘇迎香。あなたが心を[南宮遠](/ja/people/characters/special101)に、体を[溫無畏](/ja/people/characters/other13)に、二十年の友情を[王二壮（王春曉）](/ja/people/characters/special401)に捧げたなら、命を私に官位購入金として与えてくれ。これがあなたが俺に借りているものだ。」
--   [畫中仙](/ja/people/characters/special813)とはかつてそれぞれ別の主人に仕えていた関係だった。[瑞杏](/ja/people/characters/girl1)によってようやく仲直りすることができた。
--   [明玉](/ja/people/characters/other18)、[畫中仙](/ja/people/characters/special813)あるいは[龍湘](/ja/people/characters/girl8)、[盛雪](/ja/people/characters/other12)はみな攻防一体の二人絹法と剣法を習得して、護衛の最高の人選だった。ただし残念なことに、風雨山の変のときに離散させられ、そのため[上官隼](/ja/people/characters/special407)に敗北してしまった。
+-   [画中仙](/ja/people/characters/special813)とはかつてそれぞれ別の主人に仕えていた関係だった。[瑞杏](/ja/people/characters/girl1)によってようやく仲直りすることができた。
+-   [明玉](/ja/people/characters/other18)、[画中仙](/ja/people/characters/special813)あるいは[龍湘](/ja/people/characters/girl8)、[盛雪](/ja/people/characters/other12)はみな攻防一体の二人絹法と剣法を習得して、護衛の最高の人選だった。ただし残念なことに、風雨山の変のときに離散させられ、そのため[上官隼](/ja/people/characters/special407)に敗北してしまった。
 -   もし風雨山の変がなければ、[錦香宮](/ja/people/factions/jin-xiang-palace)を解散した後、東北へ遠く去り、長白山の西で長く年を重ねる計画だった。
 -   蔘鶏湯を煮込むことができ、鶏脚は両方とも[龍湘](/ja/people/characters/girl8)に独占させた。手芸も非常に上手だが、[趙活](/ja/people/characters/player)は機会があれば彼女を超えることができるだろう。[^1]
 -   江湖では「真心か偽りか、琵琶で心を問う」という言葉がある。錦香宮の女性を求婚しようという者は、誰であっても、まず[溫夫人](/ja/people/characters/special402)の琵琶曲を聞かなければならない。曲を聞いた者の内功や定力が不足していれば、必ず幻に陥り、本性が現れてしまう。軽ければ手舞足蹈して人前で恥をかき、重ければ経脈を傷つけて走火入魔してしまう。

@@ -1,5 +1,5 @@
 ---
-title: 畫中仙
+title: 画中仙
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -12,9 +12,9 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="畫中仙">
+	<ChTab title="画中仙">
 		<Ch src='/images/characters/special813/normal.webp' position='right'/>
-		<ChName nameZh='畫中仙' nameEn='Hua Zhong Xian' position='right' />
+		<ChName nameZh='画中仙' nameEn='Hua Zhong Xian' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -58,7 +58,7 @@ tags:
 	</ChTab>
 	<ChTab title="すっぴん">
 		<Ch src='/images/characters/special813/normal2.webp' position='right'/>
-		<ChName nameZh='畫中仙' nameEn='Hua Zhong Xian' position='right' />
+		<ChName nameZh='画中仙' nameEn='Hua Zhong Xian' position='right' />
 	</ChTab>
 	<ChTab title="華仙兒">
 		<Ch src='/images/characters/special813/normal3.webp' position='right'/>
@@ -82,7 +82,7 @@ tags:
 
 ## 潜伏
 
--   [唐錚](/ja/people/characters/brother2) (二師兄) が[唐中翎](/ja/people/characters/master) (掌門) に屍心丹を飲ませた後、碧血玉を盗んで畫中仙と会う。会話の中で、畫中仙が彼に早く行動するよう催促していたことが言及される。
+-   [唐錚](/ja/people/characters/brother2) (二師兄) が[唐中翎](/ja/people/characters/master) (掌門) に屍心丹を飲ませた後、碧血玉を盗んで画中仙と会う。会話の中で、画中仙が彼に早く行動するよう催促していたことが言及される。
 -   [唐錚](/ja/people/characters/brother2) (二師兄) が親手で[唐芳](/ja/people/characters/special832)の武功を廃した後、わざわざ確認に行く。
 -   [虞小梅](/ja/people/characters/girl3) (小梅) が変装して唐門に投靠した時、出現して彼女と相互に試した上で、もし彼女が敢えて[唐錚](/ja/people/characters/brother2) (二師兄) を誘惑したら皮を剥ぐと脅す。
 
@@ -108,5 +108,5 @@ tags:
 -   <MarkdownWrapper>||第二代千面人魔。||</MarkdownWrapper> (v3206 解包情報)
 
 [^1]: PTT C 洽－[\[活俠\] 龍湘と奇怪な小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
-[^2]: PTT C 洽－[\[活俠\] 畫中仙偷打你](https://www.ptt.cc/bbs/C_Chat/M.1721238067.A.424.html)
+[^2]: PTT C 洽－[\[活俠\] 画中仙偷打你](https://www.ptt.cc/bbs/C_Chat/M.1721238067.A.424.html)
 [^3]: PTT C 洽－[\[活俠\] 龍湘と奇怪な小知識 P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)

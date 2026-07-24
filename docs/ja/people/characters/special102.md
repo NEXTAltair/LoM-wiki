@@ -133,7 +133,7 @@ aside: false
 
 ## 武功
 
--   全力で守りに入れば水も漏らさぬ堅陣で、[畫中仙](/ja/people/characters/special813)ほどの強者も一時は攻めあぐねた。
+-   全力で守りに入れば水も漏らさぬ堅陣で、[画中仙](/ja/people/characters/special813)ほどの強者も一時は攻めあぐねた。
 -   鳳凰寶衣は接近戦の天敵で、[南溪](/ja/people/characters/special829)すら苦戦に陥った。
 
 ## 備考

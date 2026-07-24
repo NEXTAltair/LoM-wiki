@@ -34,7 +34,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [畫中仙](/ja/people/characters/special813) (宮人)
+                    [画中仙](/ja/people/characters/special813) (宮人)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -115,9 +115,9 @@ tags:
 <br><br>
 これを見た錦香宮人は直ちに風后陣を結んだ。この陣は三国の名宰相諸葛亮が推演した《八陣圖》から発展したもので、陣眼が定まれば絶え間なく流転し、一人が剣を出せば八方の宮人が互いの後詰めとなる。かくして正道武林と互角に渡り合った。[溫夫人](/ja/people/characters/special402)は[南宮深](/ja/people/characters/special102)と[上官隼](/ja/people/characters/special407)を陣中に招いて交渉し、朝廷への帰順を願い出た。だが岳州通判が飛び出してきて声高に制止し、交渉は決裂した。
 <br><br>
-大勢が決したのを見て、[溫夫人](/ja/people/characters/special402)は[上官隼](/ja/people/characters/special407)に情けを乞うた。せめて体面を保って死にたい、一連の火で全宮人を連れて行く、と。火中で溫夫人は琵琶を執り、楽の音は悠揚として、曲想は物悲しい。やがて曲調が一変し、原曲に異音を加え、弦の調べを言葉の代わりとした――錦香宮人にしか聞き取れない暗号で、[畫中仙](/ja/people/characters/special813)に本物の[溫夫人](/ja/people/characters/special402)へ成り代わるよう伝えたのだ。自らは屍心丹で全宮を操っていた魔頭を装い、人間道の一件をすべて一身に背負って、[南宮遠](/ja/people/characters/special101)と殉死した。
+大勢が決したのを見て、[溫夫人](/ja/people/characters/special402)は[上官隼](/ja/people/characters/special407)に情けを乞うた。せめて体面を保って死にたい、一連の火で全宮人を連れて行く、と。火中で溫夫人は琵琶を執り、楽の音は悠揚として、曲想は物悲しい。やがて曲調が一変し、原曲に異音を加え、弦の調べを言葉の代わりとした――錦香宮人にしか聞き取れない暗号で、[画中仙](/ja/people/characters/special813)に本物の[溫夫人](/ja/people/characters/special402)へ成り代わるよう伝えたのだ。自らは屍心丹で全宮を操っていた魔頭を装い、人間道の一件をすべて一身に背負って、[南宮遠](/ja/people/characters/special101)と殉死した。
 <br><br>
-[畫中仙](/ja/people/characters/special813)は宮人を率い、引退の命を撤回して新盟主に挨拶した。風雨山の一戦で深手を負ったことを理由に宮門を固く閉ざして出ず、一切の来訪を断り、誰の謝罪も受け付けていない。
+[画中仙](/ja/people/characters/special813)は宮人を率い、引退の命を撤回して新盟主に挨拶した。風雨山の一戦で深手を負ったことを理由に宮門を固く閉ざして出ず、一切の来訪を断り、誰の謝罪も受け付けていない。
 
 ## 秘笈
 
@@ -129,7 +129,7 @@ tags:
 - 本来なら[玄燭心經](/ja/system/books/book_7011)で宮人は冷静に考えられるはずだが、みな修行不足で、[溫夫人](/ja/people/characters/special402)の苦心は無駄になっている。[^2]
 - 一部のシナリオ分岐では、錦香宮は唐門外堡に移り住む。[^2]
 - [唐門](/ja/people/factions/tang-men)外堡への移住後も、変わらず自律して武芸や剣を鍛錬している。仕事は慣れたものばかりとは限らず、唐門の事業に勤めに出る者もいる。[^5]
-- 西武林ルートで[唐門](/ja/people/factions/tang-men)が錦香宮の受け入れを拒むと、[畫中仙](/ja/people/characters/special813)は宮人を率いて中土を離れ、人里離れた瀘沽湖に居を定め、二度と中原には戻らない。
+- 西武林ルートで[唐門](/ja/people/factions/tang-men)が錦香宮の受け入れを拒むと、[画中仙](/ja/people/characters/special813)は宮人を率いて中土を離れ、人里離れた瀘沽湖に居を定め、二度と中原には戻らない。
 - 収入について。錦香宮の女子にはそれぞれ仕事があり、岳陽で料理屋や機織り屋も営んでおり、刺繍や飾り結びを売り歩くこともある。[^6]
 - [瑞杏](/ja/people/characters/girl1)は盆暮れの折に[溫夫人](/ja/people/characters/special402)へ贈り物を届けさせるほかは、援助をしない。溫夫人がそれを嫌い、宮人には自活させたい意向だからである。[^6]
 - 繞指柔劍で魚の骨を取ることもできるが、箸か手を使うことを勧める。[^7]
