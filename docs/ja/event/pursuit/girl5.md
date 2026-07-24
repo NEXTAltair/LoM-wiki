@@ -140,7 +140,7 @@ tags:
 
 <tr>
 <td>4</td>
-<td>• 4年目1月中旬(西武林盟を成立せず抵抗を続ける)
+<td>• 4年目1月中旬(西武林盟を成立せず徹底抗戦)
     <br>• または4年目2月中旬(西武林盟成立)</td>
 <td>夏侯蘭に付き添う</td>
 <td>• 大門から下山すると<Girl5Icon>夏侯蘭</Girl5Icon>と付き添うイベントが発生する。
@@ -150,8 +150,8 @@ tags:
 
 <tr>
 <td>5</td>
-<td>• 4年目1月中旬残り2回の行動(西武林盟を成立せず抵抗を続ける)
-    <br>• または4年目2月中旬残り2回の行動(西武林盟成立失敗により抵抗を続ける)</td>
+<td>• 4年目1月中旬残り2回の行動(西武林盟を成立せず徹底抗戦)
+    <br>• または4年目2月中旬残り2回の行動(西武林盟成立失敗により徹底抗戦)</td>
 <td><MarkdownWrapper>[唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper></td>
 <td>• <Girl5Icon>夏侯蘭</Girl5Icon>の助言に従い唐門を離れると、<MarkdownWrapper>[汗青書34：生ける屍](/ja/event/ends/end-34)</MarkdownWrapper>に進む。
     <br>• 夏侯蘭の助言に従わず、かつ<MarkdownWrapper>[樊嘯天が夏侯蘭に師事する](/ja/event/simple/2-04-1-練功分心)</MarkdownWrapper>場合、夏侯蘭は参戦しない(結末には影響しない)。

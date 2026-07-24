@@ -10,7 +10,7 @@ tags:
     - 汗青書
     - 最終結果
     - 唐門の薪火
-    - 抵抗を続ける
+    - 徹底抗戦
     - 唐門滅門
     - 小師妹
     - 唐默鈴
@@ -28,7 +28,7 @@ tags:
 </EndBackground>
 
 ## 条件と流れ
-<strong>条件：</strong><Girl0Icon>唐默鈴</Girl0Icon>と結緣、抵抗を続けるシナリオに進む。<br>
+<strong>条件：</strong><Girl0Icon>唐默鈴</Girl0Icon>と結緣、徹底抗戦シナリオに進む。<br>
 **流れ：**<br>
 
 ### 一、唐默鈴との結緣
@@ -39,7 +39,7 @@ tags:
 5. <Girl0Icon>唐默鈴</Girl0Icon>好感度≧60、<span style='color: #FF1493;'><Girl0Icon>唐默鈴</Girl0Icon>と結緣</span>、【小師妹の香囊】を獲得。
 
 ### 二、唐門包囲戦
-1. 3年目12月上旬の最後の行動前に、[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で抵抗を続けるシナリオに進む。
+1. 3年目12月上旬の最後の行動前に、[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で徹底抗戦シナリオに進む。
 2. 唐門包囲戦：[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)の結果により開始時期が異なる。
    + [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)が1️⃣西武林盟成立の決策：4年目2月中旬に行動が2回残っている時に開始。
    + [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)が2️⃣西武林盟不成立の決策：4年目1月中旬に行動が2回残っている時に開始。

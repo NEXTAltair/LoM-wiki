@@ -10,7 +10,7 @@ tags:
     - 汗青書
     - エンディング
     - 漫才コンビ
-    - 最後まで抵抗
+    - 徹底抗戦
     - 唐門滅亡
     - 大師兄
     - 唐布衣
@@ -28,9 +28,9 @@ tags:
 </EndBackground>
 
 ## 条件とフロー
-<strong>条件：</strong>誰とも結緣していない、[唐布衣](/ja/people/characters/brother1)が生存、最後まで抵抗シナリオラインへ進入。<br>
+<strong>条件：</strong>誰とも結緣していない、[唐布衣](/ja/people/characters/brother1)が生存、徹底抗戦シナリオラインへ進入。<br>
 **フロー：**<br>
-1. 第三年十二月上旬の最終行動前。[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で最後まで抵抗シナリオラインへ進入。
+1. 第三年十二月上旬の最終行動前。[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で徹底抗戦シナリオラインへ進入。
 2. 唐門囲攻戦：開始時期は[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)の結果で異なる。
    + [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)が1️⃣西武林盟成立決定：第四年二月中旬に2つの行動が残った時に開始。
    + [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)が2️⃣西武林盟成立不可決定：第四年一月中旬に2つの行動が残った時に開始。
