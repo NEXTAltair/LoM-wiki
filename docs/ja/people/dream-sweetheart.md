@@ -62,7 +62,8 @@ tags:
         <td>小柄で華奢</td>
         <td>活発で明るい</td>
         <td>病弱</td>
-        <td>執筆中...</td>
+        <td><MarkdownWrapper>[〈葉雲裳結緣攻略〉](/ja/event/pursuit/girl2)</MarkdownWrapper>を参照
+            <br>(⚠️ネタバレ注意)</td>
     </tr>
     <tr>
         <td><Girl0Icon :size="`medium`" href="/ja/people/characters/girl0">唐默鈴</Girl0Icon></td>

@@ -11,7 +11,7 @@ tags:
     - 夏侯蘭
 ---
 
-# 夏侯蘭結緣攻略
+# {{ $frontmatter.title }}
 
 <p align="center"><img src="/images/characters/girl_5/shy2.webp" style="width:300px"></p>
 
@@ -144,7 +144,7 @@ tags:
     <br>• または4年目2月中旬(西武林盟成立)</td>
 <td>夏侯蘭に付き添う</td>
 <td>• 大門から下山すると<Girl5Icon>夏侯蘭</Girl5Icon>と付き添うイベントが発生する。
-    <br>• 他にも結緣している相手がいる場合、いずれかの付き添いイベントが発覚事件に差し替えられ、🗡️決闘に敗北すると<MarkdownWrapper>[生死簿82：かの封印されしエクゾディアのごとく](/ja/event/badends/#生死簿-No.82)</MarkdownWrapper>に進む。</td>
+    <br>• 他にも結緣している相手がいる場合、いずれかの付き添いイベントが修羅場イベントに差し替えられ、🗡️決闘に敗北すると<MarkdownWrapper>[生死簿82：かの封印されしエクゾディアのごとく](/ja/event/badends/#生死簿-No.82)</MarkdownWrapper>に進む。</td>
 <td>このイベントを発生させない場合、残り行動回数2の時点で夏侯蘭が待ちぼうけを食らうイベントが自動発生する。</td>
 </tr>
 

@@ -345,6 +345,16 @@ aside: false
   </Tab>
 </Tabs>
 
+<br>
+
+## 結緣過程
+
+::: warning
+攻略情報を含みます。閲覧は自己責任で。
+:::
+
+詳しくは[〈葉雲裳結緣攻略〉](/ja/event/pursuit/girl2)を参照。
+
 ## 結緣信物
 
 <SpecialItemIcon :size="`medium`" :needLink="false" :no="1005" />

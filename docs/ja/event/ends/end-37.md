@@ -32,7 +32,7 @@ tags:
 **流れ：**<br>
 
 ### 一、唐默鈴との結緣
-<MarkdownWrapper>[〈唐默鈴結緣攻略〉](/ja/event/pursuit/girl0)</MarkdownWrapper>を参照。
+[〈唐默鈴結緣攻略〉](/ja/event/pursuit/girl0)を参照。
 
 ### 二、唐門包囲戦
 1. 3年目12月上旬の最後の行動前に、[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で徹底抗戦シナリオに進む。
