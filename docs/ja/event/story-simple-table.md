@@ -67,7 +67,6 @@ tags:
 				<MarkdownWrapper>
 				[貢献度評点 (貢獻評點)](/ja/event/simple/1-05-1-貢獻評點)<br>
 				[掌門の手配 (掌門的安排)](/ja/event/simple/1-06-1-掌門的安排)<br>
-				[心変わりの夢 (變心夢)](/ja/event/simple/1-06-1-變心夢)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -787,6 +786,25 @@ tags:
 			</td>
 			<td>x</td>
 			<td>x</td>
+		</tr>
+	</table>
+</div>
+
+## 時期不定 (条件を満たせば随時発生)
+
+<div class="table-container">
+	<table>
+		<tr>
+			<th>イベント</th>
+			<th>発生条件</th>
+		</tr>
+		<tr>
+			<td>
+				<MarkdownWrapper>
+				[心変わりの夢 (變心夢)](/ja/event/simple/1-06-1-變心夢)<br>
+				</MarkdownWrapper>
+			</td>
+			<td>心変わり(變心)が10に到達するたび発生(繰り返しあり)</td>
 		</tr>
 	</table>
 </div>
