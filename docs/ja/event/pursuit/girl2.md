@@ -48,7 +48,7 @@ tags:
     <br>• イベントの結果は葉家兄妹が唐門に滞在することにする必要がある(手順は<MarkdownWrapper>[葉氏の行方をめぐる騒動](/ja/event/simple/1-08-1-葉氏行蹤風波)</MarkdownWrapper>を参照)。
 </td>
 <td>• このイベントの発生には1か月の期限があり、<MarkdownWrapper>[李富貴・樊嘯天との出会い](/ja/event/simple/1-09-2-初識李富貴、樊嘯天)</MarkdownWrapper>や<MarkdownWrapper>[福韞との出会い](/ja/event/simple/1-09-2-初識福韞)</MarkdownWrapper>、<MarkdownWrapper>[夔州へ出発](/ja/event/simple/1-10-2-出發夔州)</MarkdownWrapper>などのイベントによって時期を見誤り、逃してしまう可能性がある。
-    <br>• 通常の進行なら名声10は難しくないが、不足している場合は品性低め+鍛冶、品性高め+行商(弁舌20以下)、繁華街を巡るなどが、シナリオ以外で名声を稼ぎやすい方法。
+    <br>• 通常の進行なら名声10は難しくないが、不足している場合は心相低め+鍛冶、心相高め+行商(弁舌20以下)、繁華街を巡るなどが、シナリオ以外で名声を稼ぎやすい方法。
 </td>
 </tr>
 
