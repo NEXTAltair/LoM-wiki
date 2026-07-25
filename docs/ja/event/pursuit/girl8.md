@@ -11,7 +11,7 @@ tags:
     - 龍湘
 ---
 
-# 龍湘結緣攻略
+# {{ $frontmatter.title }}
 
 <p align="center"><img src="/images/characters/girl_8/girl8_drumstick.webp" style="width:300px"></p>
 
@@ -72,9 +72,10 @@ tags:
 <td>龍湘の飛び鳩の便り</td>
 <td>• 条件3、4を満たして初めて発生する。
     <br>• このイベントを完了し、道具【龍湘の髪簪】を入手すると結緣完了。</td>
-<td>• 2年目に留学-宿場ルートを進まなかった場合、<MarkdownWrapper>[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>イベントを経験しているため、ここで龍淵の展開差分及び📜「信義を守る」が追加される。
+<td>• 戦闘の勝敗に関わらず龍湘と結緣できるが、龍湘との戦闘に敗北した場合(8ターン後の自動敗北を除く)は龍淵と会話できなくなる。
+    <br>• 2年目に留学-宿場ルートを進まなかった場合、<MarkdownWrapper>[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>イベントを経験しているため、ここで龍淵の展開差分及び📜「信義を守る」が追加され、秘笈<MarkdownWrapper>[《酩酊玄劍掌》](/ja/system/books/book_3010)</MarkdownWrapper>を入手できる。
     <br>• 龍淵好感8以上なら、秘笈<MarkdownWrapper>[《龍淵七絕》](/ja/system/books/book_7013)</MarkdownWrapper>を入手できる。
-    <br>• 戦闘の勝敗に関わらず龍湘と結緣できるが、龍湘との戦闘に敗北すると龍淵と会話できなくなる。</td>
+</td>
 </tr>
 </table>
 

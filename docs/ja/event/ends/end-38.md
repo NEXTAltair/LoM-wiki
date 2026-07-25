@@ -28,4 +28,8 @@ tags:
 </EndBackground>
 
 ## 条件
-<Girl2Icon>葉雲裳</Girl2Icon>と結緣し、唐門滅亡戦で下山突破して武林盟主に到達し、[武林盟主](/ja/people/characters/special999)を打ち破り、唐門の生き残りとなる。
+### 一、葉雲裳との結緣
+[〈葉雲裳結緣攻略〉](/ja/event/pursuit/girl2)を参照。
+
+### 二、滅亡戦勝利
+唐門滅亡戦で下山突破して武林盟主に到達し、[武林盟主](/ja/people/characters/special999)を打ち破り、唐門の生き残りとなる。
