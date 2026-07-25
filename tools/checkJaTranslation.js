@@ -40,6 +40,7 @@ const RESIDUE_EXEMPT_FILES = new Set([
 const STALE_TERMS = [
 	{ bad: "修養", good: "品性", note: "PlayerStat/training の MOD訳 (2026-07-23確認)" },
 	{ bad: "向心", good: "団結", note: "PlayerStat/team の MOD訳。ただし勢力固有の「◯◯向心力」は別概念で対象外" },
+	{ bad: "東瀛", good: "日本", note: "日本の雅称。地の文では「日本」と書く。台詞の直接引用のみ原文どおり可 (2026-07-25)" },
 ];
 const STALE_TERM_EXEMPT_FILES = new Set([
 	"glossary.md", // 対訳表。bad側(旧語=原文)が正しく載るページ
