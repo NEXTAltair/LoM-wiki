@@ -357,7 +357,43 @@ tags:
 			<td>-</td>
 			<td>
 				<MarkdownWrapper>
-				[段智秀来襲・青城脱出](/ja/event/simple/2-09-3-段智秀來襲)<br>
+				[段智秀来襲](/ja/event/simple/2-09-3-段智秀來襲)<br>
+				</MarkdownWrapper>
+			</td>
+		</tr>
+		<tr>
+			<td>十月</td>
+			<td>-</td>
+			<td>青城滞在が続く (未収録)</td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td>十一月</td>
+			<td>
+				<MarkdownWrapper>
+				青城滞在が続く。[枯榮神功上卷](/ja/system/books/book_7017)の入手機会 (未収録)<br>
+				</MarkdownWrapper>
+			</td>
+			<td>-</td>
+			<td>青城滞在の最終盤 (未収録)</td>
+		</tr>
+		<tr>
+			<td>十二月</td>
+			<td>
+				<MarkdownWrapper>
+				[大師兄、刺金行の顛末 (大師兄刺金行)](/ja/event/simple/2-12-1-大師兄刺金行)<br>
+				</MarkdownWrapper>
+			</td>
+			<td>
+				<MarkdownWrapper>
+				中旬に他ルートと同じ本編へ合流<br>
+				[派閥宣戦 (門派宣戰)](/ja/event/simple/2-12-2-門派宣戰)<br>
+				</MarkdownWrapper>
+			</td>
+			<td>
+				<MarkdownWrapper>
+				[掌門会議 (掌門議事)](/ja/event/simple/2-12-3-掌門議事)<br>
+				[唐門内戦 (唐門內戰)](/ja/event/simple/2-12-3-唐門內戰)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
