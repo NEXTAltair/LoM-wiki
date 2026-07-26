@@ -1627,7 +1627,7 @@ tags:
             -
         </td>
         <td>
-            <Girl5Icon>夏侯蘭</Girl5Icon>を師匠とする。<Girl0Icon>唐默鈴</Girl0Icon>の比武招親集団暴行戦役で敗北。<Girl5Icon>夏侯蘭</Girl5Icon>があなたを連れて崆峒に殺しに行く。金烏上人との戦闘で敗北。<Girl0Icon>唐默鈴</Girl0Icon>好感>50必要。想い人が<Girl0Icon>唐默鈴</Girl0Icon>である必要。
+            <Girl5Icon>夏侯蘭</Girl5Icon>を師匠とする。<Girl0Icon>唐默鈴</Girl0Icon>の比武招親集団暴行戦役で敗北。<Girl5Icon>夏侯蘭</Girl5Icon>があなたを連れて崆峒に殺しに行く。金烏上人との戦闘で敗北。
         </td>
         <td>
             -
@@ -1823,10 +1823,9 @@ tags:
             -
         </td>
         <td>
-            -
+            現バージョンでは達成不可能。
         </td>
         <td>
-            <Girl5Icon>師匠</Girl5Icon>は言った：
         </td>
     </tr>
     <tr>
