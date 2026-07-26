@@ -183,6 +183,10 @@ aside: false
 -   鳥熊 FB の紹介：[リンク](https://www.facebook.com/photo/?fbid=119387853792735&set=pcb.119387933792727)
 -   誕生日は9月9日で乙女座。[華仙兒](/ja/people/characters/special813.md)が[趙活](/ja/people/characters/player)に山鶏を捕まえるよう言いつけた時は、ちょうど九月上旬だった。[^2]
 -   二師兄は冗談をしない。死にたいなんて言うなよ。<BadendIcon :no="4">生死簿 No.4</BadendIcon>
+    囲城イベントからの帰還後、彼が[唐門薬典](/ja/system/books/book_8104)を差し出す場面で
+    受け取らず「この場で死ぬ」を選ぶと、彼が本気で相手をする展開になる。
+    このとき全編で唯一、二師兄の専用戦闘立ち絵を見ることができる[^3]
+    (TODO: 発生に必要な能力値の閾値と、勝利した場合の効果は未検証)
 -   [趙活](/ja/people/characters/player)を「役立たず」「趙氏蠢豚」と呼ぶ。
 -   口は悪いが心優しく、好感度が高いほどより厳しく罵るが、反面好感度も上げやすくなる。
 -   刑場奪還当時[大師兄](/ja/people/characters/brother1.md)が7～9歳だと仮定すると、[唐惟元](/ja/people/characters/brother4.md)は翌年の大雪の日に拾われたため、年齢は約25～27と推定される。
@@ -197,6 +201,7 @@ aside: false
 
 [^1]: バハムート- [RE:【情報】鳥熊問答集（既に11/2第二波+プライベートで更新済み）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^2]: Facebook - [オリジナル鳥熊2025/9/9](https://www.facebook.com/obbstudio/posts/pfbid0jo8pNNekUkjYE7EyLqYerjfnCWcaRHPfQGaJrZDaXe3QZ5KM8SuZDeJkcQbWdf9Al)
+[^3]: バハムート - [RE:【攻略】活俠傳裡極難觸發的事件總結【by火焰貓琳】](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=8219)
 
 ## ギャラリー
 
