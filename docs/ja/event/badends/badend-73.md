@@ -20,7 +20,8 @@ tags:
 
 ## 条件と流程
 
-<b>条件：</b><Girl5Icon>夏侯蘭</Girl5Icon>に弟子入り、雪山行、想い人が<Girl5Icon>夏侯蘭</Girl5Icon><br>
+<b>条件：</b>方法一 — <Girl5Icon>夏侯蘭</Girl5Icon>に弟子入り、雪山行、想い人が<Girl5Icon>夏侯蘭</Girl5Icon><br>
+&nbsp;&nbsp;&nbsp;&nbsp;方法二 — 2年目に留学せず廃寺ルートへ入る (弟子入り・雪山行・想い人の指定は不要)<br>
 <b>流程：</b><br>
 
 方法一: 3年目の雪山行で第三香に敗北する
