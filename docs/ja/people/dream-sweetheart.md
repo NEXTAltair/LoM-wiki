@@ -102,7 +102,7 @@ tags:
     <tr>
         <td>まだ出会っていない相手の属性の組み合わせを選ぶ</td>
         <td>x</td>
-        <td>想い人が自分自身になり「自己陶酔」を獲得</td>
+        <td>想い人が自分自身になり<MarkdownWrapper>[風雲史《自惚れ (自戀)》](/ja/event/achievements/#風雲史-No.05)</MarkdownWrapper>を解除</td>
         <td></td>
         <td></td>
         <td></td>

@@ -60,7 +60,7 @@ tags:
 <td>4</td>
 <td>3年目12月上旬、残り行動1回の時</td>
 <td><MarkdownWrapper>[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
-<td>唐門解散を選んではいけない。</td>
+<td>決策の結果が唐門解散になってはいけない。</td>
 <td>• 唐門を解散し、かつ条件2を満たしている場合、後山に行くと以下が発生する:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 他にも結緣している相手がいて想い人が<Girl8Icon>龍湘</Girl8Icon>の場合、📖「湘姉、俺についてきてくれないか?」を選び、🗡️決闘に勝利後、📖「お前を行かせるつもりはない」を選ぶと、<MarkdownWrapper>[汗青書24：海辺に立つ人](/ja/event/ends/end-24)</MarkdownWrapper>に進み、結緣できなくなる。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. それ以外の場合、龍湘との三年の約束イベントが発生し、結緣できなくなる。</td>
