@@ -12,7 +12,7 @@ tags:
     - 隠世の大儒
     - 唐門滅亡
     - 魏菊
-    - 結緣
+    - 結縁
 ---
 
 # {{ $frontmatter.title }}
@@ -33,4 +33,4 @@ tags:
 汗青書の項目としては存在するが、現行バージョンで到達する手段は確認されていない。
 :::
 
-<Girl7Icon>魏菊</Girl7Icon>と結緣し、唐門滅亡戦で下山突破して武林盟主に到達し、[武林盟主](/ja/people/characters/special999)を打ち破り、唐門の生き残りとなる。
+<Girl7Icon>魏菊</Girl7Icon>と結縁し、唐門滅亡戦で下山突破して武林盟主に到達し、[武林盟主](/ja/people/characters/special999)を打ち破り、唐門の生き残りとなる。

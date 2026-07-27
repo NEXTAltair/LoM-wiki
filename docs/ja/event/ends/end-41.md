@@ -12,7 +12,7 @@ tags:
     - 千古の名匠
     - 唐門滅亡
     - 郁竹
-    - 結緣
+    - 結縁
 ---
 
 # {{ $frontmatter.title }}
@@ -32,4 +32,4 @@ tags:
 汗青書の項目としては存在するが、現行バージョンで到達する手段は確認されていない。
 :::
 
-<Girl6Icon>郁竹</Girl6Icon>と結緣し、唐門滅亡戦で下山突破して武林盟主に到達し、[武林盟主](/ja/people/characters/special999)を打ち破り、唐門の生き残りとなる。
+<Girl6Icon>郁竹</Girl6Icon>と結縁し、唐門滅亡戦で下山突破して武林盟主に到達し、[武林盟主](/ja/people/characters/special999)を打ち破り、唐門の生き残りとなる。

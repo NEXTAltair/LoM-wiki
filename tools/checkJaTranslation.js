@@ -37,9 +37,13 @@ const RESIDUE_EXEMPT_FILES = new Set([
 //
 // bad: 置換済みのはずの旧語。good: 現在の正式訳。note: 根拠(MOD確認元・裏取り)。
 // glossary.md 自身は対訳表という性質上 bad 側の語が正しく載るページなので対象外。
+//
+// compoundOk: 直前が漢字なら別語の複合とみなして検出しない。「丐幫向心」のように
+// bad と同綴りで別概念の勢力固有語がある語にだけ付ける。既定 (false) では
+// 「唐門叛徒」「唐門劫法場」のような名詞+旧語の複合も検出する。
 const STALE_TERMS = [
 	{ bad: "修養", good: "品性", note: "PlayerStat/training の MOD訳 (2026-07-23確認)" },
-	{ bad: "向心", good: "団結", note: "PlayerStat/team の MOD訳。ただし勢力固有の「◯◯向心力」は別概念で対象外" },
+	{ bad: "向心", good: "団結", compoundOk: true, note: "PlayerStat/team の MOD訳。ただし勢力固有の「◯◯向心力」は別概念で対象外" },
 	{ bad: "東瀛", good: "日本", note: "日本の雅称。地の文では「日本」と書く。台詞の直接引用のみ原文どおり可 (2026-07-25)" },
 	{ bad: "劫法場", good: "刑場破り", note: "唐中翎の処刑場襲撃事件。MOD訳は「刑場破り」「刑場を襲う」(2026-07-27)" },
 	{ bad: "法場", good: "刑場", note: "「法場」は日本語にない語。MOD訳は刑場/処刑場 (2026-07-27)" },
@@ -88,6 +92,21 @@ const MD_LINK = /!?\[[^\]]*\]\([^)]*\)/g;
  */
 function stripParens(s) {
 	return s.replace(/[(（][^)）]*[)）]/g, " ");
+}
+
+/**
+ * 「訳 (原文)」の原文併記括弧だけを落とす。stripParens と違い、括弧の中身が
+ * 原文(漢字だけでカナを含まない)のものに限る。
+ *
+ * OLD_TERM 検査で stripParens をそのまま使うと `唐門は(叛徒を処刑した)` のような
+ * 普通の日本語の挿入句まで検査対象から外れ、旧訳語の残存を見逃す。原文併記かどうかは
+ * 「括弧内にカナが1文字も無く漢字がある」で判定する (docs/ja の一括置換でも
+ * 同じ条件を原文併記の判定に使っている)。
+ */
+function stripOriginalTextParens(s) {
+	return s.replace(/[(（]([^)）]*)[)）]/g, (m, inner) =>
+		!KANA.test(inner) && HAN.test(inner) ? " " : m
+	);
 }
 
 /** マークアップを剥がして地の文だけ残す */
@@ -223,19 +242,21 @@ function scanStaleTerms(file) {
 			}
 			if (inFence || !s) return;
 
-			// 「訳 (原文)」の併記括弧は正しい書き方なので判定対象から外す
-			const scan = stripParens(s);
+			// 「訳 (原文)」の併記括弧は正しい書き方なので判定対象から外す。
+			// カナを含む普通の挿入句は対象に残す (stripParens ではなくこちらを使う理由)
+			const scan = stripOriginalTextParens(s);
 
-			for (const { bad, good, note } of STALE_TERMS) {
-				// 「丐幫向心」「飛石幫向心」のような勢力固有語(別概念、対象外)を
-				// 誤検知しないよう、bad の直前が漢字(=何らかの名詞に続く複合語)なら
+			for (const { bad, good, note, compoundOk } of STALE_TERMS) {
+				// compoundOk の語 (「丐幫向心」「飛石幫向心」のように bad と同綴りで
+				// 別概念の勢力固有語がある語) だけ、直前が漢字なら複合語とみなして
 				// スキップする。プレイヤー自身のステータスとしての bad は行頭・記号・
-				// 区切り文字の直後に単独で現れる。
+				// 区切り文字の直後に単独で現れる。それ以外の語では「唐門叛徒」
+				// 「唐門劫法場」のような名詞+旧語の複合も検出対象にする。
 				const re = new RegExp(bad, "g");
 				let m;
 				while ((m = re.exec(scan))) {
 					const before = scan.slice(Math.max(0, m.index - 1), m.index);
-					if (HAN.test(before)) continue;
+					if (compoundOk && HAN.test(before)) continue;
 					hits.push({ file: rel, line: idx + 1, bad, good, note, text: s.slice(0, 90) });
 					break; // 1行1件で十分。同じ語の複数出現は1行にまとめる
 				}
