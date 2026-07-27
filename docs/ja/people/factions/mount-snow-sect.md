@@ -34,7 +34,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [第三香](/ja/people/characters/special820) (叛徒)
+                    [第三香](/ja/people/characters/special820) (裏切り者)
                 </ChTd>
             </ChTr>
 		</table>

@@ -12,7 +12,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-峨嵋の叛徒。極楽七仙の一人。外号『風中奇猿』。一子あり、名を[袁無憲](/ja/people/characters/special823)という。
+峨嵋の裏切り者。極楽七仙の一人。外号『風中奇猿』。一子あり、名を[袁無憲](/ja/people/characters/special823)という。
 
 [峨嵋派](/ja/people/factions/emei-sect)の[白猿通臂拳](/ja/system/books/book_6006)をベースに別の道を開き、七十二路『大聖拳』を創制。千変万化。使う猿王棍は極めて生き生きとしており、[唐中翎](/ja/people/characters/master)が評価したところ：『非常に打ちにくい』。
 

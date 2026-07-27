@@ -39,7 +39,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>  
-                    [趙逵](/ja/people/characters/special403) (叛徒)
+                    [趙逵](/ja/people/characters/special403) (裏切り者)
                 </ChTd>
             </ChTr>
 		</table>

@@ -44,6 +44,7 @@ const STALE_TERMS = [
 	{ bad: "劫法場", good: "刑場破り", note: "唐中翎の処刑場襲撃事件。MOD訳は「刑場破り」「刑場を襲う」(2026-07-27)" },
 	{ bad: "法場", good: "刑場", note: "「法場」は日本語にない語。MOD訳は刑場/処刑場 (2026-07-27)" },
 	{ bad: "出剣", good: "剣を抜く", note: "「出剣」は日本語では使わない。MOD訳は一貫して「剣を抜く」(2026-07-27)" },
+	{ bad: "叛徒", good: "裏切り者", note: "MOD は地の文で叛徒を使うが、wiki は全て裏切り者に統一する方針 (2026-07-27ユーザー判断)" },
 ];
 const STALE_TERM_EXEMPT_FILES = new Set([
 	"glossary.md", // 対訳表。bad側(旧語=原文)が正しく載るページ
@@ -200,6 +201,11 @@ function scanResidue(file, allow) {
  * には頼らず、単語単位の完全一致で見る。単独では正しい日本語の語も含まれるため、
  * コードフェンス内・リンクURL・HTMLコメントだけ除外し、それ以外は行の生テキストを
  * そのまま対象にする (span title 属性やテーブルセルも見落とさないため)。
+ *
+ * ただし「訳 (原文)」の併記括弧は RESIDUE 検査と同様に対象外にする。bad 側の語が
+ * 原文としてそこに現れるのは正しい書き方であり (例: `汗青書4：唐門の裏切り者
+ * (唐門叛徒)`)、括弧の中まで見ると正しい併記を旧訳語の残存として誤検出する。
+ * 判定は括弧を落とした文字列に対して行い、報告する text だけ元の行から取る。
  */
 function scanStaleTerms(file) {
 	const rel = path.relative(ROOT, file);
@@ -217,6 +223,9 @@ function scanStaleTerms(file) {
 			}
 			if (inFence || !s) return;
 
+			// 「訳 (原文)」の併記括弧は正しい書き方なので判定対象から外す
+			const scan = stripParens(s);
+
 			for (const { bad, good, note } of STALE_TERMS) {
 				// 「丐幫向心」「飛石幫向心」のような勢力固有語(別概念、対象外)を
 				// 誤検知しないよう、bad の直前が漢字(=何らかの名詞に続く複合語)なら
@@ -224,8 +233,8 @@ function scanStaleTerms(file) {
 				// 区切り文字の直後に単独で現れる。
 				const re = new RegExp(bad, "g");
 				let m;
-				while ((m = re.exec(s))) {
-					const before = s.slice(Math.max(0, m.index - 1), m.index);
+				while ((m = re.exec(scan))) {
+					const before = scan.slice(Math.max(0, m.index - 1), m.index);
 					if (HAN.test(before)) continue;
 					hits.push({ file: rel, line: idx + 1, bad, good, note, text: s.slice(0, 90) });
 					break; // 1行1件で十分。同じ語の複数出現は1行にまとめる
