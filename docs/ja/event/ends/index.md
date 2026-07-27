@@ -62,7 +62,9 @@ tags:
 <td>
 エンディング1
 </td>
-<td style="color: #a83232;">帰隠</td>
+<td style="color: #a83232;">
+<EndIcon no="1">回疆隠棲</EndIcon>
+</td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span>
 </td>
@@ -71,7 +73,9 @@ tags:
 <td>
 エンディング2
 </td>
-<td style="color: #a83232;">破滅的音波攻撃</td>
+<td style="color: #a83232;">
+<EndIcon no="2">破滅的音波攻撃</EndIcon>
+</td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span>
 </td>
@@ -80,7 +84,9 @@ tags:
 <td>
 エンディング3
 </td>
-<td style="color: #a83232;">青春の終わり、夢の燃え殻</td>
+<td style="color: #a83232;">
+<EndIcon no="3">青春の終わり、夢の燃え殻</EndIcon>
+</td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span>
 </td>
@@ -266,11 +272,11 @@ tags:
 エンディング18
 </td>
 <td style="color: #a83232;">
-獄死
+<EndIcon no="18">老いるまで牢に</EndIcon>
 </td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
-留学しない、気に入らず唐門を離脱し、探しに来た唐默鈴と葉雲裳を拉致、獄に入ったまま死ぬ。
+留学しない、気に入らず唐門を離脱し、探しに来た唐默鈴と葉雲裳を拉致して投獄され、生涯を獄で終える。
 </td>
 </tr>
 <tr>
@@ -368,7 +374,7 @@ tags:
 エンディング26
 </td>
 <td style="color: #a83232;">
-山の老人
+<EndIcon no="26">山中の老人</EndIcon>
 </td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
@@ -383,7 +389,7 @@ tags:
 エンディング27
 </td>
 <td style="color: #a83232;">
-世外桃源
+<EndIcon no="27">桃源郷</EndIcon>
 </td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
@@ -398,7 +404,7 @@ tags:
 エンディング28
 </td>
 <td style="color: #a83232;">
-血河刀
+<EndIcon no="28">血河刀</EndIcon>
 </td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
@@ -413,7 +419,7 @@ tags:
 エンディング29
 </td>
 <td style="color: #a83232;">
-再世龐統
+<EndIcon no="29">龐統の再来</EndIcon>
 </td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
@@ -428,7 +434,7 @@ tags:
 エンディング30
 </td>
 <td style="color: #a83232;">
-山林の隠者
+<EndIcon no="30">山林の隠者</EndIcon>
 </td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
@@ -543,7 +549,7 @@ tags:
 エンディング39
 </td>
 <td style="color: #a83232;">
-富を独占
+<EndIcon no="39">地方一の富豪</EndIcon>
 </td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
@@ -558,7 +564,7 @@ tags:
 エンディング40
 </td>
 <td style="color: #a83232;">
-小梅の秘蔵
+<EndIcon no="40">小梅の秘蔵っ子</EndIcon>
 </td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
@@ -573,7 +579,7 @@ tags:
 エンディング41
 </td>
 <td style="color: #a83232;">
-千古の名工
+<EndIcon no="41">千古の名匠</EndIcon>
 </td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
@@ -588,7 +594,7 @@ tags:
 エンディング42
 </td>
 <td style="color: #a83232;">
-隠世の大儒
+<EndIcon no="42">隠世の大儒</EndIcon>
 </td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
