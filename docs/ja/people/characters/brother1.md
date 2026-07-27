@@ -163,7 +163,7 @@ aside: false
 
 ## 飛俠の帰還
 
-この成就については[飛俠帰來](/ja/event/detailed_description/4-02-2-飛俠歸來)イベントページを参照。
+この成就については[飛俠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)イベントページを参照。
 
 ## 事蹟
 

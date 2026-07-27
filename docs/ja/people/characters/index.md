@@ -134,7 +134,7 @@ tags:
 	<td>点蒼派</td>
 </tr>
 <tr>
-	<td>[王二壯](/ja/people/characters/special401)</td>
+	<td>[王二壮](/ja/people/characters/special401)</td>
 	<td>丐幇<br>泥教 - 畜牲道</td>
 </tr>
 <tr>
@@ -418,7 +418,7 @@ tags:
 	<td>杏花林<br>上官世家</td>
 </tr>
 <tr>
-	<td>[萬里鵬程](/ja/people/characters/special6)</td>
+	<td>[万里鵬程](/ja/people/characters/special6)</td>
 	<td>杏花林<br>嵩山派</td>
 </tr>
 <tr>
@@ -446,7 +446,7 @@ tags:
 	<td>その他</td>
 </tr>
 <tr>
-	<td>[萬勝](/ja/people/characters/special814)</td>
+	<td>[万勝](/ja/people/characters/special814)</td>
 	<td>その他</td>
 </tr>
 <tr>

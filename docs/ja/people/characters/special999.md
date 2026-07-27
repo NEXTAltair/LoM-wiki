@@ -47,7 +47,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[萬里鵬程](/ja/people/characters/special6) (先輩)
+					[万里鵬程](/ja/people/characters/special6) (先輩)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -131,7 +131,7 @@ aside: false
 -   放浪の旅は格好いいものと思っていたが、いざ出てみれば、荒野で野宿する浮浪者暮らしは少しも格好よくなかった。宿に泊まっても不意打ちを警戒して気を抜けない。そうこうするうちに、目元の隈 (アイシャドウ) が濃くなった。[^3]
 -   派手な服が嫌いで、綺麗好き。だらしない格好もしたくない。結果、素朴で清潔な縞衣に落ち着いた。華美な装いで人目を引こうとしない意志の表れである。[^3]
 -   顔が良くても集中砲火は浴びる。
--   [萬里鵬程](/ja/people/characters/special6)は瑞笙を「瑞小友」と呼ぶが、両者の関係は不明。
+-   [万里鵬程](/ja/people/characters/special6)は瑞笙を「瑞小友」と呼ぶが、両者の関係は不明。
 -   <MarkdownWrapper>||解析データによれば、趙活と親友になる笙活双俠線が存在するが、v3206 時点では未実装||</MarkdownWrapper>
 -   <MarkdownWrapper>||初版の西武林では趙活と引き分ける結末があったが、伏線不足でプレイヤーの不満を買い、この結末は現在削除されている||</MarkdownWrapper>
 

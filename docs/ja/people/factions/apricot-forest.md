@@ -39,7 +39,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[萬里鵬程](/ja/people/characters/special6) (駕籠かき)
+					[万里鵬程](/ja/people/characters/special6) (駕籠かき)
 				</ChTd>
 			</ChTr>
 			<ChTr>

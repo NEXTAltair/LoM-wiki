@@ -44,7 +44,7 @@ tags:
             </ChTr>
 			<ChTr>
                 <ChTd position='center'>
-                    [王二壯](/ja/people/characters/special401) (畜生道法王)
+                    [王二壮](/ja/people/characters/special401) (畜生道法王)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -94,7 +94,7 @@ tags:
 
 <br>
 
-畜生道法王[王二壯](/ja/people/characters/special401)は[丐幇](/ja/people/factions/beggar-gang)新派に身を潜めていた。彼らは義侠を貫き、城内の民から深く敬われていたが、江陵囲城戦で突如牙を剥き、修羅道と結託した。防ぎようがなかった。最後は法王が[李富貴](/ja/people/characters/special809)の大義滅親により討たれ、[丐幇](/ja/people/factions/beggar-gang)旧派が奮起した。
+畜生道法王[王二壮](/ja/people/characters/special401)は[丐幇](/ja/people/factions/beggar-gang)新派に身を潜めていた。彼らは義侠を貫き、城内の民から深く敬われていたが、江陵囲城戦で突如牙を剥き、修羅道と結託した。防ぎようがなかった。最後は法王が[李富貴](/ja/people/characters/special809)の大義滅親により討たれ、[丐幇](/ja/people/factions/beggar-gang)旧派が奮起した。
 
 <br>
 

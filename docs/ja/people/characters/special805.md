@@ -50,7 +50,7 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
-	<ChTab title="出來玩！">
+	<ChTab title="出来玩！">
 		<Ch src='/images/characters/special805/special2.webp' position='right'/>
 		<ChName nameZh='阿鶴俠' nameEn='A He Xia' position='right' />
 	</ChTab>

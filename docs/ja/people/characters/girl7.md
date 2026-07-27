@@ -265,7 +265,7 @@ aside: false
 - [鳥熊 Facebook での紹介](https://www.facebook.com/photo.php?fbid=170987155454668&id=100076301525150&set=a.165167019370015)
 - 額が非常に高く、天庭が豊かなのは福相である。~~色情額~~[^1]
 - 一身の深い内功は前掌門から伝えられた[鉄琵琶功](/ja/system/books/book_7008)であり、この他は一切の武功を練習したことがない。
-- 江陵の戦いで、もし「不妙な人」を引くなら、魏菊が[王二壯](/ja/people/characters/special401)（王幫主）と対戦することになり、その胆識は想像できるだろう。王幇主との対掌三度の比試を要求し、内功で競う。しかし内功は厚いものの、どのように使うかを知らず、一掌に対して早くも劣勢を示し、幸いにも[瑞笙](/ja/people/characters/special999)が駆けつけて、代わりに応戦した。
+- 江陵の戦いで、もし「不妙な人」を引くなら、魏菊が[王二壮](/ja/people/characters/special401)（王幇主）と対戦することになり、その胆識は想像できるだろう。王幇主との対掌三度の比試を要求し、内功で競う。しかし内功は厚いものの、どのように使うかを知らず、一掌に対して早くも劣勢を示し、幸いにも[瑞笙](/ja/people/characters/special999)が駆けつけて、代わりに応戦した。
 - [上官螢](/ja/people/characters/girl4)、[南宮深](/ja/people/characters/special102)と[耕陽読書齋](/ja/people/factions/geng-yang-study)の同窓生。
 - 同窓生ではあるが、[南宮深](/ja/people/characters/special102)に対しては好感を持てず、距離を置いている。伝説の文本における彼に対する記述は特に辛辣で、彼を貶めているのではないかと疑われる。
 - かつて[上官螢](/ja/people/characters/girl4)と共に授業をサボって野菜を育てたことがあり、今も掌門の権威を使って、玄功洞の天光と雨水が降る場所で秘かに野菜と西瓜を育てている。
@@ -276,7 +276,7 @@ aside: false
 - 本名は魏招弟で、魏菊は[崆峒派](/ja/people/factions/kong-tong-sect)へ入った時に改名した。しかし[上官螢](/ja/people/characters/girl4)は今でも招弟で呼びかけるのが習慣である。
 - 「招弟」は女性の卑名で、意味は「後に男の子が生まれることを期待する」という意味。
 - 当時、彼女を貶めて下嫁させることになった犯人は嶺南派の[陳倔](/ja/people/characters/lingnan_trainee4)。
-- <MarkdownWrapper>||手炉は乾坤造化爐と呼ばれ、怒った時は回転して真っ赤に熱くなる。||</MarkdownWrapper>
+- <MarkdownWrapper>||手炉は乾坤造化炉と呼ばれ、怒った時は回転して真っ赤に熱くなる。||</MarkdownWrapper>
 - <MarkdownWrapper>||酒の飲み方が良くなく、酔うと性質が一変して時局を批判し、古事に託けて現代を風刺する。||</MarkdownWrapper>
 
 [^1]: バハムート－[RE:【情報】鳥熊 Q&A 集（更新済み 11/2 第二波+私人質問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

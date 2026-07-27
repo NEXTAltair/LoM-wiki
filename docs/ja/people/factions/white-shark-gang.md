@@ -29,7 +29,7 @@ tags:
 			</ChTr>
 			<ChTr>
                 <ChTd position='center'>
-                    [劉顎](/ja/people/characters/special1) (幫主)
+                    [劉顎](/ja/people/characters/special1) (幇主)
                 </ChTd>
             </ChTr>
 		</table>

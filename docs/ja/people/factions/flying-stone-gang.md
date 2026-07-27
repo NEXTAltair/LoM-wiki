@@ -29,7 +29,7 @@ tags:
 			</ChTr>
 			<ChTr>
                 <ChTd position='center'>
-                    [石公遠](/ja/people/characters/special7) (幫主)
+                    [石公遠](/ja/people/characters/special7) (幇主)
                 </ChTd>
             </ChTr>
             <ChTr>

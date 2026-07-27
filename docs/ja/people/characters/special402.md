@@ -79,7 +79,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[王二壯](/ja/people/characters/special401) (義兄)
+					[王二壮](/ja/people/characters/special401) (義兄)
 				</ChTd>
 			</ChTr>
 			<ChTr>

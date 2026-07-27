@@ -64,7 +64,7 @@ tags:
     </tr>
 </table>
 
-## 唐泉/唐與鯨
+## 唐泉/唐与鯨
 
 <img src="/images/mobs/tang-men/male/trainee1_normal.webp" style="width:200px;" />
 <table>
@@ -97,7 +97,7 @@ tags:
         <td>留学生と口論になり、唐錚の追及の際、先に手を出したと認めました。<br>趙活がかばいに出ると趙活の言い分に話を合わせ、遺恨を水に流してくれた趙活に感謝しました。</td>
     </tr>
     <tr>
-        <td>趙活の出奔<br>「唐與鯨」</td>
+        <td>趙活の出奔<br>「唐与鯨」</td>
         <td>本姓は陳。留学後に唐姓に改め、掌門を師としました。</td>
     </tr>
     <tr>

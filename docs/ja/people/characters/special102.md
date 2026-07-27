@@ -61,13 +61,13 @@ aside: false
 			</ChTr>
 		</ChTable>
 	</ChTab>
-	<ChTab title="鳳凰寶衣1">
+	<ChTab title="鳳凰宝衣1">
 		<Ch src='/images/characters/special102/special1.webp' position='center'/>
-		<ChName nameZh='鳳凰寶衣' nameEn='Phoenix Armor' position='right' />
+		<ChName nameZh='鳳凰宝衣' nameEn='Phoenix Armor' position='right' />
 	</ChTab>
-		<ChTab title="鳳凰寶衣2">
+		<ChTab title="鳳凰宝衣2">
 		<Ch src='/images/characters/special102/special2.webp' position='center'/>
-		<ChName nameZh='鳳凰寶衣' nameEn='Phoenix Armor' position='right' />
+		<ChName nameZh='鳳凰宝衣' nameEn='Phoenix Armor' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>
@@ -110,7 +110,7 @@ aside: false
 ## 装い
 
 -   作者公認の最大バスト。~~さすが深V俠~~[^2]
--   西武林ルートでは、鳳凰寶衣を纏ったスーパー南宮深と対戦する機会がある。
+-   西武林ルートでは、鳳凰宝衣を纏ったスーパー南宮深と対戦する機会がある。
     -   南宮智が当年この戦衣を打造したのは金軍を威嚇するためで、派手で目立つほど良しとされた。戦場では確かに無敵だったが、武林の高手が相手では鈍重さが目立つ。
 -   [葉雲裳](/ja/people/characters/girl2)の第一印象:「なんでみんな何も言わないの?あれって本当に普通なの?まともだって言えるの?見てよあの肩、あのマント、あの冠、襟元まであんなに開けて、絶対わざとでしょ!」
 
@@ -134,7 +134,7 @@ aside: false
 ## 武功
 
 -   全力で守りに入れば水も漏らさぬ堅陣で、[画中仙](/ja/people/characters/special813)ほどの強者も一時は攻めあぐねた。
--   鳳凰寶衣は接近戦の天敵で、[南渓](/ja/people/characters/special829)すら苦戦に陥った。
+-   鳳凰宝衣は接近戦の天敵で、[南渓](/ja/people/characters/special829)すら苦戦に陥った。
 
 ## 備考
 

@@ -87,7 +87,7 @@ tags:
 -   [解無塵](/ja/people/characters/special808)とは浅からぬ悪縁。公衆の面前で打ち破ったばかりか、独門の絶招「風雷神腳」を「[つよつよ蹴り](/ja/system/books/book_4002)」へ改名するよう強要し、辱めの限りを尽くした。
 -   [南宮深](/ja/people/characters/special102)とは面識がないが、互いに嫌い合っている。[南宮深](/ja/people/characters/special102)は大敵とみなし、劉顎は歯牙にもかけていない。[^2]
 -   [温夫人](/ja/people/characters/special402)にはかなり感服している。[^2]
--   [王二壯](/ja/people/characters/special401)とは微妙な間柄。性質が近いため、認める部分も認めない部分もあるが、互いの処世の道は尊重し合っている。[^2]
+-   [王二壮](/ja/people/characters/special401)とは微妙な間柄。性質が近いため、認める部分も認めない部分もあるが、互いの処世の道は尊重し合っている。[^2]
 
 ## 備考
 

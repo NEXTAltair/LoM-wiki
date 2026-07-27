@@ -15,7 +15,7 @@ tags:
 
 <br>
 
-[左使](/ja/people/characters/special213)よりも内力は雄渾、右使よりも刀招は苛烈。九転輪迴、吞天寶鑑。数十年の魔功は古今に冠絶する。一振りの鬼蓮王刀を提げ、ひとたび振るえば鬼哭神号、[萬里鵬程](/ja/people/characters/special6)ですら見れば悪寒を禁じ得なかった。
+[左使](/ja/people/characters/special213)よりも内力は雄渾、右使よりも刀招は苛烈。九転輪迴、吞天宝鑑。数十年の魔功は古今に冠絶する。一振りの鬼蓮王刀を提げ、ひとたび振るえば鬼哭神号、[万里鵬程](/ja/people/characters/special6)ですら見れば悪寒を禁じ得なかった。
 
 <br>
 

@@ -72,7 +72,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[王二壯](/ja/people/characters/special401) (旧友)
+					[王二壮](/ja/people/characters/special401) (旧友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -102,11 +102,11 @@ tags:
 -   二十年前、無数の賢才が名を慕って集まり、その高遠な志に傾倒し、頭を捧げ血を流してもこの人間 (じんかん) を変えると誓った。
 -   [向無憂](/ja/people/characters/special408)は彼の熱弁を聞き、武林盟主に推挙した。
 
-## 王二壯
+## 王二壮
 
--   [王二壯](/ja/people/characters/special401)とは二十年会っていない。長年探し、[耕陽読書齋](/ja/people/factions/geng-yang-study)にまで頼み込んで紙上で人探しまでしたが、音沙汰なし。
--   爛柯子の称は古参の武林人がかすかに聞き覚えている程度で、江陵の一戦では[王二壯](/ja/people/characters/special401)がこの名で南宮遠を呼び出した。
--   [王二壯](/ja/people/characters/special401)は[唐布衣](/ja/people/characters/brother1)が「青楼閃電俠」というあだ名を口にするや、南宮遠が漏らしたと察した。
+-   [王二壮](/ja/people/characters/special401)とは二十年会っていない。長年探し、[耕陽読書齋](/ja/people/factions/geng-yang-study)にまで頼み込んで紙上で人探しまでしたが、音沙汰なし。
+-   爛柯子の称は古参の武林人がかすかに聞き覚えている程度で、江陵の一戦では[王二壮](/ja/people/characters/special401)がこの名で南宮遠を呼び出した。
+-   [王二壮](/ja/people/characters/special401)は[唐布衣](/ja/people/characters/brother1)が「青楼閃電俠」というあだ名を口にするや、南宮遠が漏らしたと察した。
 -   棋でも武功でも、負ければ「恐れ入った」と言うが、「強者たる我が友『王公子』が出れば、貴殿とて敵うまい」と言い出す。
 -   その強者の友とは何者かと問い詰めると、しどろもどろで要領を得ない。彼の万能なる空想の友を見た者は誰もいない。
 

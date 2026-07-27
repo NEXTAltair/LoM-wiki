@@ -61,7 +61,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[萬里鵬程](/ja/people/characters/special6) (師叔祖)
+					[万里鵬程](/ja/people/characters/special6) (師叔祖)
 				</ChTd>
 			</ChTr>
         </table>

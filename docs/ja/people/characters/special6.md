@@ -1,5 +1,5 @@
 ---
-title: 萬里鵬程 (バンリホウテイ)
+title: 万里鵬程 (バンリホウテイ)
 tags:
     - 人物
     - 嵩山派
@@ -10,9 +10,9 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="萬里鵬程">
+	<ChTab title="万里鵬程">
 		<Ch src='/images/characters/special6/normal.webp' position='right'/>
-		<ChName nameZh='萬里鵬程' nameEn='Wan Li Peng Cheng' position='right' />
+		<ChName nameZh='万里鵬程' nameEn='Wan Li Peng Cheng' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -93,17 +93,17 @@ aside: false
 	ただ一人、彼だけが、あの一戦の余熱に、いまだ居ても立ってもいられずにいた。<br><br>
 	執着を断ち切れないまま、彼は思い切って首座の席を辞し、六道峽の泥教総壇へ赴いて、天王座の車軒轅と理を論じ武を比べた。ところが思いもよらないことに、生涯を仏道に捧げた彼が相手を説き伏せるどころか、かえってこの俗人に目を開かされ、心の底の執着をとことん悟らされたのである。<br><br>
 	数日のあいだ呆然と座り込んだ末、ついに還俗を決意した。惜しむらくは、髪を伸ばそうにも、頭はすでにあらかた禿げ上がっていたことである。<br><br>
-	かつて読んだ《虯髯客伝》を思い出した彼は、長年集めてきた鷹の羽根を編んで一着の蓑衣に仕立てた。かくして武林の新人・萬里鵬程として江湖を渡り歩き、遅れてきた青春を取り戻し始めたのである。
+	かつて読んだ《虯髯客伝》を思い出した彼は、長年集めてきた鷹の羽根を編んで一着の蓑衣に仕立てた。かくして武林の新人・万里鵬程として江湖を渡り歩き、遅れてきた青春を取り戻し始めたのである。
   </Tab>
 </Tabs>
 
 ## 備考
 
-- [瑞杏](/ja/people/characters/girl1)からは「萬里の御老体」と呼ばれ、江湖から姿を消した[点蒼剣聖](/ja/people/characters/special406)とともに彼女の輿を担いでいる。
+- [瑞杏](/ja/people/characters/girl1)からは「万里の御老体」と呼ばれ、江湖から姿を消した[点蒼剣聖](/ja/people/characters/special406)とともに彼女の輿を担いでいる。
 - かつて孤雲山を訪れ、[瑞笙](/ja/people/characters/special999)に[龍淵](/ja/people/characters/special2)と[極楽教主](/ja/people/characters/other7)の大戦の物語を語って聞かせた。
 - かつて[旧魔教の教主](/ja/people/characters/other7)と百余合を打ち合い、勝負がつかなかった。
 - 唐門包囲時に出場の機会があり、十年の約を果たすために来たと言う。
-- 前半生を仏道に生き、[趙活](/ja/people/characters/player)とも旧知の仲なので、手加減はしてくれる。それでも無防備のまま萬里先輩の平手打ちを食らえば、頭が3回転してその場で昇天する。手加減といっても「頭4回転が3回転に弱まる」程度である。[^1]
+- 前半生を仏道に生き、[趙活](/ja/people/characters/player)とも旧知の仲なので、手加減はしてくれる。それでも無防備のまま万里先輩の平手打ちを食らえば、頭が3回転してその場で昇天する。手加減といっても「頭4回転が3回転に弱まる」程度である。[^1]
 - [南宮の御大 (南宮橫)](/ja/people/characters/special104)とは旧交があり、[南宮深](/ja/people/characters/special102)が眉を曇らせているのを見て、若い頃の南宮橫にそっくりだと思い、手を貸すことに決めた。
 
 [^1]: Facebook－[原始鳥熊2022/5/28](https://www.facebook.com/obbstudio/posts/pfbid0eCugXSVT3rj6YvRCXSRnAf9Mch2t2SQCUnpkyZU5XF5jnzhcF7G5AeD6bsZ4Zk31l)

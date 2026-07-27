@@ -136,7 +136,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`2303`">点蒼棒法</BookItemIcon></td>
-        <td>刀剣5<br>做人沒有下限LV1<br>戦術LV1<br>難知如陰LV1<br>道徳-5</td>
+        <td>刀剣5<br>做人没有下限LV1<br>戦術LV1<br>難知如陰LV1<br>道徳-5</td>
         <td>50</td>
         <td>道徳&lt;40<br>または<br>点蒼快剣LV1</td>
         <td>二年青城留学で九月下旬までに、3回修練していじめイベントを発生させ、ルーレット【申屠龍的抵抗】</td>
@@ -151,7 +151,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`6010`">千刀萬剮殺</BookItemIcon></td>
+        <td><BookItemIcon :no="`6010`">千刀万剮殺</BookItemIcon></td>
         <td>刀剣+10<br>拳掌-5<br>道徳-5<br>品性-5</td>
         <td>25</td>
         <td></td>
@@ -315,7 +315,7 @@ tags:
         <td>軽功7<br>拳掌7<br>爆発3<br>形意拳LV1<br>仙鶴迷蹤步</td>
         <td>50</td>
         <td></td>
-        <td>二年崆峒派留学－飛天門季試<MarkdownWrapper>2勝 ([虞小梅](/ja/people/characters/girl3)好感≧25) または3勝 ([虞小梅](/ja/people/characters/girl3)好感＜25)</MarkdownWrapper>の報酬<br>三年比武招親－崆峒派留学飛天門、<MarkdownWrapper>[金烏上人](/ja/people/characters/special207)に勝利、[顔疆](/ja/people/characters/trainee204)死亡</MarkdownWrapper>時に贈られる</td>
+        <td>二年崆峒派留学－飛天門季試<MarkdownWrapper>2勝 ([虞小梅 0 好感≧25) または3勝 ([虞小梅 1 好感＜25)</MarkdownWrapper>の報酬<br>三年比武招親－崆峒派留学飛天門、<MarkdownWrapper>[金烏上人](/ja/people/characters/special207)に勝利、[顔疆](/ja/people/characters/trainee204)死亡</MarkdownWrapper>時に贈られる</td>
         <td></td>
     </tr>
     <tr>
@@ -424,7 +424,7 @@ tags:
         <td>内功10<br>体力7<br>烈火禪<br>陰陽+10</td>
         <td>50</td>
         <td></td>
-        <td>二年崆峒派留学－飛天門季試<MarkdownWrapper>1勝 ([虞小梅](/ja/people/characters/girl3)好感≧25) または2勝 ([虞小梅](/ja/people/characters/girl3)好感＜25)</MarkdownWrapper>の報酬</td>
+        <td>二年崆峒派留学－飛天門季試<MarkdownWrapper>1勝 ([虞小梅 0 好感≧25) または2勝 ([虞小梅 1 好感＜25)</MarkdownWrapper>の報酬</td>
         <td></td>
     </tr>
     <tr>
@@ -452,7 +452,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`7007`">巫山洞府九寶図</BookItemIcon></td>
+        <td><BookItemIcon :no="`7007`">巫山洞府九宝図</BookItemIcon></td>
         <td>体力5<br>内功10<br>防御10<br>陰陽中寄り</td>
         <td>50</td>
         <td></td>
@@ -472,7 +472,7 @@ tags:
         <td>内功15<br>焚心火印LV3</td>
         <td>50</td>
         <td></td>
-        <td>二年崆峒派留学－飛天門季試3勝の報酬<MarkdownWrapper> ([虞小梅](/ja/people/characters/girl3)好感≧25)</MarkdownWrapper><br>三年比武招親－崆峒派留学飛天門、<MarkdownWrapper>[金烏上人](/ja/people/characters/special207)に勝利、[顔疆](/ja/people/characters/trainee204)死亡時に贈られる</MarkdownWrapper></td>
+        <td>二年崆峒派留学－飛天門季試3勝の報酬<MarkdownWrapper> ([虞小梅 0 好感≧25)</MarkdownWrapper><br>三年比武招親－崆峒派留学飛天門、<MarkdownWrapper>[金烏上人](/ja/people/characters/special207)に勝利、[顔疆](/ja/people/characters/trainee204)死亡時に贈られる</MarkdownWrapper></td>
         <td></td>
     </tr>
     <tr>

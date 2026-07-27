@@ -1,5 +1,5 @@
 ---
-title: 王二壯
+title: 王二壮
 tags:
     - 人物
     - 丐幇
@@ -9,9 +9,9 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="王二壯">
+	<ChTab title="王二壮">
 		<Ch src='/images/characters/special401/normal.webp' position='right'/>
-		<ChName nameZh='王二壯' nameEn='Wang Er Zhuang' position='right' />
+		<ChName nameZh='王二壮' nameEn='Wang Er Zhuang' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>

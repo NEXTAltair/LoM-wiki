@@ -132,7 +132,7 @@ borderless: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[王二壯](/ja/people/characters/special401) (叔父)
+					[王二壮](/ja/people/characters/special401) (叔父)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -284,11 +284,11 @@ borderless: false
 -   ただし、伝説テキストではそう述べられているが、鳥熊は[温夫人](/ja/people/characters/special402)と龍湘は師弟の情だと述べている。[^12]
 -   [錦香宮](/ja/people/factions/jin-xiang-palace)でもっとも湘姉を寵愛する四人：[盛雪](/ja/people/characters/other12)、[温夫人](/ja/people/characters/special402)、[画中仙](/ja/people/characters/special813)、[明玉](/ja/people/characters/other18)。[^15]
 -   初版で[唐布衣](/ja/people/characters/brother1)と大戦後、もともと[唐布衣](/ja/people/characters/brother1)が意図的に彼女の頬にキスして逃げさせたが、ユニコーンプレイヤーから批判を受けて、[趙活](/ja/people/characters/player)が落ちてきて彼女にキスするように変更された。その後、天命転盤で誰がキスするかが決まるように改変された。
--   [唐布衣](/ja/people/characters/brother1)に憧憬を抱き、[龍淵](/ja/people/characters/special2)、[王二壯](/ja/people/characters/special401)と同じく仁侠義士として崇拝している。~~ただし会うたびに戦闘になることもあるが~~、そのため[趙活](/ja/people/characters/player)は常に自分が隙をついて入り込んだと思っている。
+-   [唐布衣](/ja/people/characters/brother1)に憧憬を抱き、[龍淵](/ja/people/characters/special2)、[王二壮](/ja/people/characters/special401)と同じく仁侠義士として崇拝している。~~ただし会うたびに戦闘になることもあるが~~、そのため[趙活](/ja/people/characters/player)は常に自分が隙をついて入り込んだと思っている。
 -   [趙活](/ja/people/characters/player)への評価は高く、何をしても褒める。[唐布衣](/ja/people/characters/brother1)からは錦香宮のゴマすり殺人鬼とからかわれた。
 -   飛俠が地に降りた後の一月間、[唐門](/ja/people/factions/tang-men)に仮住まいして、全派の者と切磋相手をして一通り相手をした。攻撃の気迫は驚くほどで、唐門の弟子たちを怖がらせた。[^11]
 -   龍家の親類は[龍淵](/ja/people/characters/special2)だけになった。[^20]
--   [王二壯](/ja/people/characters/special401)と[温夫人](/ja/people/characters/special402)の兄妹の情が、彼女が[趙活](/ja/people/characters/player)と兄弟分になりたい理由の一つ。[^21]
+-   [王二壮](/ja/people/characters/special401)と[温夫人](/ja/people/characters/special402)の兄妹の情が、彼女が[趙活](/ja/people/characters/player)と兄弟分になりたい理由の一つ。[^21]
 
 ### 結縁後
 
@@ -335,7 +335,7 @@ borderless: false
 
 ### 飲食
 
--   龍湘を鶏腿の沼に陥れた張本人は、[王二壯](/ja/people/characters/special401)が焼いた叫化鶏。黄泥を開け、蓮葉を開け、その香り～凡人には耐えられない!
+-   龍湘を鶏腿の沼に陥れた張本人は、[王二壮](/ja/people/characters/special401)が焼いた叫化鶏。黄泥を開け、蓮葉を開け、その香り～凡人には耐えられない!
 -   あらゆる鶏料理が好き。[^21]
 -   洞庭湖畔に住んでいるのに、特に水産物を好まない。魚は食べるが、刺を取るのが面倒。食べるのが面倒な食べ物は好きでない。[^10]
 -   相当食べる。食費は高い。ただし基礎代謝と運動量も大きく、誰も管理しなくてもスタイルを保つ。[^10]
