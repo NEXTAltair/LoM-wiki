@@ -348,8 +348,9 @@ function main() {
 	show("STALE: 台帳のsha256と内容が不一致", stale, (x) => x);
 	show("RESIDUE: 中国語残存の疑い", residue, (x) => `${x.file}:${x.line} [${x.why}] ${x.text}`);
 	show("OLD_TERM: 旧訳語・誤訳語の残存", oldTerms, (x) => `${x.file}:${x.line} [${x.bad}→${x.good}] ${x.note} :: ${x.text}`);
+	show("CONTROL: 制御文字の混入", controls, (x) => `${x.file}:${x.line} [${x.code}] ${x.text}`);
 
-	const ok = !missing.length && !stale.length && !residue.length && !oldTerms.length;
+	const ok = !missing.length && !stale.length && !residue.length && !oldTerms.length && !controls.length;
 	if (!ok) console.log("\n未達。上記を解消すること。");
 	process.exit(ok ? 0 : 1);
 }
