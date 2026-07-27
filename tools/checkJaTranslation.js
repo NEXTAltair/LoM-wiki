@@ -21,6 +21,7 @@ const JA_DIR = path.join(ROOT, "docs/ja");
 // 作業状態を混ぜない。
 const LEDGER = path.join(ROOT, "tools/ja-translation-ledger.tsv");
 const ALLOWLIST = path.join(ROOT, "tools/ja-residue-allowlist.txt");
+const OLD_TERM_ALLOWLIST = path.join(ROOT, "tools/ja-oldterm-allowlist.txt");
 
 // 繁体字が載っているのが仕様のページ。RESIDUE 検査から外す (台帳の対象からは外さない)。
 const RESIDUE_EXEMPT_FILES = new Set([
@@ -94,20 +95,6 @@ function stripParens(s) {
 	return s.replace(/[(（][^)）]*[)）]/g, " ");
 }
 
-/**
- * 「訳 (原文)」の原文併記括弧だけを落とす。stripParens と違い、括弧の中身が
- * 原文(漢字だけでカナを含まない)のものに限る。
- *
- * OLD_TERM 検査で stripParens をそのまま使うと `唐門は(叛徒を処刑した)` のような
- * 普通の日本語の挿入句まで検査対象から外れ、旧訳語の残存を見逃す。原文併記かどうかは
- * 「括弧内にカナが1文字も無く漢字がある」で判定する (docs/ja の一括置換でも
- * 同じ条件を原文併記の判定に使っている)。
- */
-function stripOriginalTextParens(s) {
-	return s.replace(/[(（]([^)）]*)[)）]/g, (m, inner) =>
-		!KANA.test(inner) && HAN.test(inner) ? " " : m
-	);
-}
 
 /** マークアップを剥がして地の文だけ残す */
 function stripMarkup(s) {
@@ -166,10 +153,10 @@ function sha256(p) {
 	return crypto.createHash("sha256").update(fs.readFileSync(p)).digest("hex");
 }
 
-function loadAllowlist() {
-	if (!fs.existsSync(ALLOWLIST)) return [];
+function loadAllowlist(file = ALLOWLIST) {
+	if (!fs.existsSync(file)) return [];
 	return fs
-		.readFileSync(ALLOWLIST, "utf8")
+		.readFileSync(file, "utf8")
 		.split("\n")
 		.map((l) => l.trim())
 		.filter((l) => l && !l.startsWith("#"));
@@ -226,7 +213,7 @@ function scanResidue(file, allow) {
  * (唐門叛徒)`)、括弧の中まで見ると正しい併記を旧訳語の残存として誤検出する。
  * 判定は括弧を落とした文字列に対して行い、報告する text だけ元の行から取る。
  */
-function scanStaleTerms(file) {
+function scanStaleTerms(file, allow) {
 	const rel = path.relative(ROOT, file);
 	if (STALE_TERM_EXEMPT_FILES.has(path.relative(JA_DIR, file))) return [];
 	const hits = [];
@@ -242,9 +229,10 @@ function scanStaleTerms(file) {
 			}
 			if (inFence || !s) return;
 
-			// 「訳 (原文)」の併記括弧は正しい書き方なので判定対象から外す。
-			// カナを含む普通の挿入句は対象に残す (stripParens ではなくこちらを使う理由)
-			const scan = stripOriginalTextParens(s);
+			// 原文併記など bad 側の語が出るのが正しい行は、括弧の中身から
+			// 推定せず tools/ja-oldterm-allowlist.txt に登録して外す
+			if (allow.some((a) => s.includes(a))) return;
+			const scan = s;
 
 			for (const { bad, good, note, compoundOk } of STALE_TERMS) {
 				// compoundOk の語 (「丐幫向心」「飛石幫向心」のように bad と同綴りで
@@ -293,7 +281,8 @@ function main() {
 	}
 
 	const residue = files.flatMap((f) => scanResidue(f, allow));
-	const oldTerms = files.flatMap((f) => scanStaleTerms(f));
+	const oldTermAllow = loadAllowlist(OLD_TERM_ALLOWLIST);
+	const oldTerms = files.flatMap((f) => scanStaleTerms(f, oldTermAllow));
 
 	console.log(`MISSING: ${missing.length}`);
 	console.log(`STALE: ${stale.length}`);
