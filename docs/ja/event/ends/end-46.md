@@ -28,7 +28,7 @@ tags:
 </EndBackground>
 
 ## 条件とフロー
-<strong>条件：</strong>誰とも結緣していない、[唐布衣](/ja/people/characters/brother1)が生存、徹底抗戦シナリオラインへ進入。<br>
+<strong>条件：</strong>誰とも結縁していない、[唐布衣](/ja/people/characters/brother1)が生存、徹底抗戦シナリオラインへ進入。<br>
 **フロー：**<br>
 1. 第三年十二月上旬の最終行動前。[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で徹底抗戦シナリオラインへ進入。
 2. 唐門囲攻戦：開始時期は[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)の結果で異なる。
@@ -44,17 +44,17 @@ tags:
      + 前の結果が**🧾【≦30】ほぼ全員脱出**：🗡️武林盟の群俠との決闘で勝利必須。
      + その他：⚔️混戦で勝利必須。
    + **🧾【＞30】三人の高手**：相手が誰であれ、🗡️決闘で勝利必須。
-   + **🧾【≦30】絶世の高手一人**：🗡️[萬里鵬程](/ja/people/characters/special6)との決闘で勝利必須。
+   + **🧾【≦30】絶世の高手一人**：🗡️[万里鵬程](/ja/people/characters/special6)との決闘で勝利必須。
 5. 山を駆け下りて決戦を挑む：
    + 前の結果が**🧾【≦30】ほぼ全員脱出**：🗡️武林盟の群俠との決闘で勝利必須
    + その他の結果：
      + **📖選択肢「全力で突破」**：⚔️混戦、結果は関係なし。
      + **📖選択肢「一片も残さない」**：⚔️混戦で勝利必須→⚔️混戦で結果関係なし。
-6. 🗡️武林盟主-[瑞笙](/ja/people/characters/special999)との決闘で勝利後、結緣者がなく[唐布衣](/ja/people/characters/brother1)が生存していれば、エンディングへ。
+6. 🗡️武林盟主-[瑞笙](/ja/people/characters/special999)との決闘で勝利後、結縁者がなく[唐布衣](/ja/people/characters/brother1)が生存していれば、エンディングへ。
 
 ## ※唐布衣の生存条件
 
-[飛俠歸來](/ja/event/detailed_description/4-02-2-飛俠歸來)のイベントページを参照。
+[飛俠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)のイベントページを参照。
 
 ## 分岐と変化
 

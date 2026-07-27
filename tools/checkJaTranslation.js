@@ -4,8 +4,9 @@
 //   STALE      台帳の sha256 と内容が食い違う行数
 //   RESIDUE    中国語残存の機械検出ヒット数 (allowlist 除く)
 //   OLD_TERM   旧訳語・誤訳語が残っている行数 (STALE_TERMS 参照)
+//   CONTROL    制御文字が混入している行数 (一括置換スクリプトの事故検出)
 //
-// 4つとも 0 で exit 0。
+// 5つとも 0 で exit 0。
 //
 // RESIDUE は品質の証明ではない。高精度・低再現率に振ってあり、
 // 「あからさまな機械置換の残骸を落とす」下限ゲートとしてしか機能しない。
@@ -21,6 +22,7 @@ const JA_DIR = path.join(ROOT, "docs/ja");
 // 作業状態を混ぜない。
 const LEDGER = path.join(ROOT, "tools/ja-translation-ledger.tsv");
 const ALLOWLIST = path.join(ROOT, "tools/ja-residue-allowlist.txt");
+const OLD_TERM_ALLOWLIST = path.join(ROOT, "tools/ja-oldterm-allowlist.txt");
 
 // 繁体字が載っているのが仕様のページ。RESIDUE 検査から外す (台帳の対象からは外さない)。
 const RESIDUE_EXEMPT_FILES = new Set([
@@ -37,10 +39,30 @@ const RESIDUE_EXEMPT_FILES = new Set([
 //
 // bad: 置換済みのはずの旧語。good: 現在の正式訳。note: 根拠(MOD確認元・裏取り)。
 // glossary.md 自身は対訳表という性質上 bad 側の語が正しく載るページなので対象外。
+//
+// compoundOk: 直前が漢字なら別語の複合とみなして検出しない。「丐幫向心」のように
+// bad と同綴りで別概念の勢力固有語がある語にだけ付ける。既定 (false) では
+// 「唐門叛徒」「唐門劫法場」のような名詞+旧語の複合も検出する。
 const STALE_TERMS = [
 	{ bad: "修養", good: "品性", note: "PlayerStat/training の MOD訳 (2026-07-23確認)" },
-	{ bad: "向心", good: "団結", note: "PlayerStat/team の MOD訳。ただし勢力固有の「◯◯向心力」は別概念で対象外" },
+	{ bad: "向心", good: "団結", compoundOk: true, note: "PlayerStat/team の MOD訳。ただし勢力固有の「◯◯向心力」は別概念で対象外" },
 	{ bad: "東瀛", good: "日本", note: "日本の雅称。地の文では「日本」と書く。台詞の直接引用のみ原文どおり可 (2026-07-25)" },
+	{ bad: "劫法場", good: "刑場破り", note: "唐中翎の処刑場襲撃事件。MOD訳は「刑場破り」「刑場を襲う」(2026-07-27)" },
+	{ bad: "法場", good: "刑場", note: "「法場」は日本語にない語。MOD訳は刑場/処刑場 (2026-07-27)" },
+	{ bad: "出剣", good: "剣を抜く", note: "「出剣」は日本語では使わない。MOD訳は一貫して「剣を抜く」(2026-07-27)" },
+	{ bad: "叛徒", good: "裏切り者", note: "MOD は地の文で叛徒を使うが、wiki は全て裏切り者に統一する方針 (2026-07-27ユーザー判断)" },
+	// 旧字体。MOD は新字体で統一しており (幇1446/幫137、宝581/寶1、壮171/壯8、応597/應0、炉63/爐0)、
+	// 旧字体側は MOD 自身の取りこぼし。一括置換後に docs/ja の地の文が 0 件になった字だけを
+	// ここに載せる。傳/來/與/沒/盡/點/歸/戰/萬/麼 は『活俠傳』(作品名)・出典記事タイトル・
+	// 漢詩や歌訣の引用という正しい用例が残るため、字単位のゲートには載せられない。
+	// 龍 は MOD が一貫して旧字体を使う (龍1339/竜9) ので対象外。
+	{ bad: "幫", good: "幇", note: "MOD は幇 (幇1446/幫137)。原文併記とリンク宛先は allowlist で除外 (2026-07-27)" },
+	{ bad: "寶", good: "宝", note: "MOD は宝 (宝581/寶1)。文房四宝・鳳凰宝衣・吞天宝鑑等 (2026-07-27)" },
+	{ bad: "壯", good: "壮", note: "MOD は壮 (王二壮84/王二壯8) (2026-07-27)" },
+	{ bad: "應", good: "応", note: "MOD に應の用例なし (応597) (2026-07-27)" },
+	{ bad: "爐", good: "炉", note: "MOD に爐の用例なし (炉63)。乾坤造化炉・主炉 (2026-07-27)" },
+	{ bad: "鐵", good: "鉄", note: "MOD は鉄 (鉄578/鐵14)。鉄琵琶功等。歌訣の引用のみ allowlist で除外 (2026-07-27)" },
+	{ bad: "邊", good: "辺", note: "MOD に邊の用例なし (辺115)。歌訣の引用のみ allowlist で除外 (2026-07-27)" },
 ];
 const STALE_TERM_EXEMPT_FILES = new Set([
 	"glossary.md", // 対訳表。bad側(旧語=原文)が正しく載るページ
@@ -85,6 +107,7 @@ const MD_LINK = /!?\[[^\]]*\]\([^)]*\)/g;
 function stripParens(s) {
 	return s.replace(/[(（][^)）]*[)）]/g, " ");
 }
+
 
 /** マークアップを剥がして地の文だけ残す */
 function stripMarkup(s) {
@@ -143,10 +166,10 @@ function sha256(p) {
 	return crypto.createHash("sha256").update(fs.readFileSync(p)).digest("hex");
 }
 
-function loadAllowlist() {
-	if (!fs.existsSync(ALLOWLIST)) return [];
+function loadAllowlist(file = ALLOWLIST) {
+	if (!fs.existsSync(file)) return [];
 	return fs
-		.readFileSync(ALLOWLIST, "utf8")
+		.readFileSync(file, "utf8")
 		.split("\n")
 		.map((l) => l.trim())
 		.filter((l) => l && !l.startsWith("#"));
@@ -197,8 +220,13 @@ function scanResidue(file, allow) {
  * には頼らず、単語単位の完全一致で見る。単独では正しい日本語の語も含まれるため、
  * コードフェンス内・リンクURL・HTMLコメントだけ除外し、それ以外は行の生テキストを
  * そのまま対象にする (span title 属性やテーブルセルも見落とさないため)。
+ *
+ * ただし「訳 (原文)」の併記括弧は RESIDUE 検査と同様に対象外にする。bad 側の語が
+ * 原文としてそこに現れるのは正しい書き方であり (例: `汗青書4：唐門の裏切り者
+ * (唐門叛徒)`)、括弧の中まで見ると正しい併記を旧訳語の残存として誤検出する。
+ * 判定は括弧を落とした文字列に対して行い、報告する text だけ元の行から取る。
  */
-function scanStaleTerms(file) {
+function scanStaleTerms(file, allow) {
 	const rel = path.relative(ROOT, file);
 	if (STALE_TERM_EXEMPT_FILES.has(path.relative(JA_DIR, file))) return [];
 	const hits = [];
@@ -214,19 +242,58 @@ function scanStaleTerms(file) {
 			}
 			if (inFence || !s) return;
 
-			for (const { bad, good, note } of STALE_TERMS) {
-				// 「丐幫向心」「飛石幫向心」のような勢力固有語(別概念、対象外)を
-				// 誤検知しないよう、bad の直前が漢字(=何らかの名詞に続く複合語)なら
+			// 原文併記など bad 側の語が出るのが正しい行は、括弧の中身から
+			// 推定せず tools/ja-oldterm-allowlist.txt に登録して外す
+			if (allow.some((a) => s.includes(a))) return;
+			// CharacterName の nameZh は中国語ラベルを描画する props (class="zh" で
+			// nameEn と並ぶ)。原語の綴りが入るのが役目なので旧字体ゲートの対象外。
+			// 括弧の中身のような推定ではなく、用途が決まっている props 名で外している。
+			const scan = s.replace(/nameZh=(['"])[^'"]*\1/g, " ");
+
+			for (const { bad, good, note, compoundOk } of STALE_TERMS) {
+				// compoundOk の語 (「丐幫向心」「飛石幫向心」のように bad と同綴りで
+				// 別概念の勢力固有語がある語) だけ、直前が漢字なら複合語とみなして
 				// スキップする。プレイヤー自身のステータスとしての bad は行頭・記号・
-				// 区切り文字の直後に単独で現れる。
+				// 区切り文字の直後に単独で現れる。それ以外の語では「唐門叛徒」
+				// 「唐門劫法場」のような名詞+旧語の複合も検出対象にする。
 				const re = new RegExp(bad, "g");
 				let m;
-				while ((m = re.exec(s))) {
-					const before = s.slice(Math.max(0, m.index - 1), m.index);
-					if (HAN.test(before)) continue;
+				while ((m = re.exec(scan))) {
+					const before = scan.slice(Math.max(0, m.index - 1), m.index);
+					if (compoundOk && HAN.test(before)) continue;
 					hits.push({ file: rel, line: idx + 1, bad, good, note, text: s.slice(0, 90) });
 					break; // 1行1件で十分。同じ語の複数出現は1行にまとめる
 				}
+			}
+		});
+	return hits;
+}
+
+/**
+ * 制御文字の混入を検出する。
+ *
+ * 一括置換スクリプトは「保護したい部分をプレースホルダに退避 → 置換 → 復元」という
+ * 手順を取ることが多く、復元漏れが起きると NUL 等の制御文字がページに残る。
+ * markdown も VitePress のビルドもこれを黙って通すため、リンクが壊れていても
+ * dead-link 検査に引っかからない (実例: 849723dc で `](...)` の退避が入れ子になり、
+ * 1パスの復元では内側が戻らず 11ファイル17行に NUL が残った)。
+ *
+ * タブ・改行は正常な文字なので除く。
+ */
+function scanControlChars(file) {
+	const rel = path.relative(ROOT, file);
+	const hits = [];
+	fs.readFileSync(file, "utf8")
+		.split("\n")
+		.forEach((line, idx) => {
+			const m = line.match(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F]/);
+			if (m) {
+				hits.push({
+					file: rel,
+					line: idx + 1,
+					code: `U+${m[0].charCodeAt(0).toString(16).toUpperCase().padStart(4, "0")}`,
+					text: line.trim().slice(0, 90),
+				});
 			}
 		});
 	return hits;
@@ -260,12 +327,15 @@ function main() {
 	}
 
 	const residue = files.flatMap((f) => scanResidue(f, allow));
-	const oldTerms = files.flatMap((f) => scanStaleTerms(f));
+	const oldTermAllow = loadAllowlist(OLD_TERM_ALLOWLIST);
+	const oldTerms = files.flatMap((f) => scanStaleTerms(f, oldTermAllow));
+	const controls = files.flatMap((f) => scanControlChars(f));
 
 	console.log(`MISSING: ${missing.length}`);
 	console.log(`STALE: ${stale.length}`);
 	console.log(`RESIDUE: ${residue.length}`);
 	console.log(`OLD_TERM: ${oldTerms.length}`);
+	console.log(`CONTROL: ${controls.length}`);
 
 	const show = (label, arr, fmt) => {
 		if (!arr.length) return;
@@ -278,8 +348,9 @@ function main() {
 	show("STALE: 台帳のsha256と内容が不一致", stale, (x) => x);
 	show("RESIDUE: 中国語残存の疑い", residue, (x) => `${x.file}:${x.line} [${x.why}] ${x.text}`);
 	show("OLD_TERM: 旧訳語・誤訳語の残存", oldTerms, (x) => `${x.file}:${x.line} [${x.bad}→${x.good}] ${x.note} :: ${x.text}`);
+	show("CONTROL: 制御文字の混入", controls, (x) => `${x.file}:${x.line} [${x.code}] ${x.text}`);
 
-	const ok = !missing.length && !stale.length && !residue.length && !oldTerms.length;
+	const ok = !missing.length && !stale.length && !residue.length && !oldTerms.length && !controls.length;
 	if (!ok) console.log("\n未達。上記を解消すること。");
 	process.exit(ok ? 0 : 1);
 }
