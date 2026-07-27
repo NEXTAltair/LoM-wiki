@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="孟仙謡">
 		<Ch src='/images/characters/special831/normal.webp' position='right'/>
-		<ChName nameZh='孟仙謡' nameEn='Meng Xian Yao' position='right' />
+		<ChName nameZh='孟仙謠' nameEn='Meng Xian Yao' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>

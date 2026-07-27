@@ -315,7 +315,7 @@ tags:
         <td>軽功7<br>拳掌7<br>爆発3<br>形意拳LV1<br>仙鶴迷蹤步</td>
         <td>50</td>
         <td></td>
-        <td>二年崆峒派留学－飛天門季試<MarkdownWrapper>2勝 ([虞小梅 0 好感≧25) または3勝 ([虞小梅 1 好感＜25)</MarkdownWrapper>の報酬<br>三年比武招親－崆峒派留学飛天門、<MarkdownWrapper>[金烏上人](/ja/people/characters/special207)に勝利、[顔疆](/ja/people/characters/trainee204)死亡</MarkdownWrapper>時に贈られる</td>
+        <td>二年崆峒派留学－飛天門季試<MarkdownWrapper>2勝 ([虞小梅](/ja/people/characters/girl3)好感≧25) または3勝 ([虞小梅](/ja/people/characters/girl3)好感＜25)</MarkdownWrapper>の報酬<br>三年比武招親－崆峒派留学飛天門、<MarkdownWrapper>[金烏上人](/ja/people/characters/special207)に勝利、[顔疆](/ja/people/characters/trainee204)死亡</MarkdownWrapper>時に贈られる</td>
         <td></td>
     </tr>
     <tr>
@@ -424,7 +424,7 @@ tags:
         <td>内功10<br>体力7<br>烈火禪<br>陰陽+10</td>
         <td>50</td>
         <td></td>
-        <td>二年崆峒派留学－飛天門季試<MarkdownWrapper>1勝 ([虞小梅 0 好感≧25) または2勝 ([虞小梅 1 好感＜25)</MarkdownWrapper>の報酬</td>
+        <td>二年崆峒派留学－飛天門季試<MarkdownWrapper>1勝 ([虞小梅](/ja/people/characters/girl3)好感≧25) または2勝 ([虞小梅](/ja/people/characters/girl3)好感＜25)</MarkdownWrapper>の報酬</td>
         <td></td>
     </tr>
     <tr>
@@ -472,7 +472,7 @@ tags:
         <td>内功15<br>焚心火印LV3</td>
         <td>50</td>
         <td></td>
-        <td>二年崆峒派留学－飛天門季試3勝の報酬<MarkdownWrapper> ([虞小梅 0 好感≧25)</MarkdownWrapper><br>三年比武招親－崆峒派留学飛天門、<MarkdownWrapper>[金烏上人](/ja/people/characters/special207)に勝利、[顔疆](/ja/people/characters/trainee204)死亡時に贈られる</MarkdownWrapper></td>
+        <td>二年崆峒派留学－飛天門季試3勝の報酬<MarkdownWrapper> ([虞小梅](/ja/people/characters/girl3)好感≧25)</MarkdownWrapper><br>三年比武招親－崆峒派留学飛天門、<MarkdownWrapper>[金烏上人](/ja/people/characters/special207)に勝利、[顔疆](/ja/people/characters/trainee204)死亡時に贈られる</MarkdownWrapper></td>
         <td></td>
     </tr>
     <tr>

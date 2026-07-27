@@ -176,7 +176,7 @@ aside: false
 			src='/images/characters/girl_2/stick.webp' 
 			position='center'/>
 		<ChName
-			nameZh='聴雲棒'
+			nameZh='聽雲棒'
 			nameEn='Stick'/>
 	</ChTab>
 	<ChTab title="疲労">

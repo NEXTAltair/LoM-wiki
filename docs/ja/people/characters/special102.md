@@ -63,11 +63,11 @@ aside: false
 	</ChTab>
 	<ChTab title="鳳凰宝衣1">
 		<Ch src='/images/characters/special102/special1.webp' position='center'/>
-		<ChName nameZh='鳳凰宝衣' nameEn='Phoenix Armor' position='right' />
+		<ChName nameZh='鳳凰寶衣' nameEn='Phoenix Armor' position='right' />
 	</ChTab>
 		<ChTab title="鳳凰宝衣2">
 		<Ch src='/images/characters/special102/special2.webp' position='center'/>
-		<ChName nameZh='鳳凰宝衣' nameEn='Phoenix Armor' position='right' />
+		<ChName nameZh='鳳凰寶衣' nameEn='Phoenix Armor' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>

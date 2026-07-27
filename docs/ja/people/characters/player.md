@@ -100,7 +100,7 @@ tags:
         <Ch
             src='/images/characters/player/angry2.webp' 
             position='center'/>
-        <ChName nameZh='生気' nameEn='Angry' position='right' />
+        <ChName nameZh='生氣' nameEn='Angry' position='right' />
     </ChTab>
     <ChTab title="憤怒の形相">
         <Ch
@@ -148,7 +148,7 @@ tags:
         <Ch
             src='/images/characters/player/gloomy2.webp' 
             position='center'/>
-        <ChName nameZh='計画通' nameEn='As Planned' position='right' />
+        <ChName nameZh='計畫通' nameEn='As Planned' position='right' />
     </ChTab>
     <ChTab title="殴られ">
         <Ch
@@ -274,7 +274,7 @@ tags:
         <Ch
             src='/images/characters/player/mega_player.webp' 
             position='center'/>
-        <ChName nameZh='百万趙活' nameEn='Mega Zhao Huo' position='right' />
+        <ChName nameZh='百萬趙活' nameEn='Mega Zhao Huo' position='right' />
     </ChTab>
 </ChTabs>
 

@@ -36,7 +36,7 @@ aside: false
 			src='/images/characters/girl_4/angry2.webp' 
 			position='center'/>
 		<ChName
-			nameZh='生気'
+			nameZh='生氣'
 			nameEn='Angry'/>
 	</ChTab>
 	<ChTab title="瞑目">

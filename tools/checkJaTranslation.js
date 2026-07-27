@@ -4,8 +4,9 @@
 //   STALE      台帳の sha256 と内容が食い違う行数
 //   RESIDUE    中国語残存の機械検出ヒット数 (allowlist 除く)
 //   OLD_TERM   旧訳語・誤訳語が残っている行数 (STALE_TERMS 参照)
+//   CONTROL    制御文字が混入している行数 (一括置換スクリプトの事故検出)
 //
-// 4つとも 0 で exit 0。
+// 5つとも 0 で exit 0。
 //
 // RESIDUE は品質の証明ではない。高精度・低再現率に振ってあり、
 // 「あからさまな機械置換の残骸を落とす」下限ゲートとしてしか機能しない。
@@ -244,7 +245,10 @@ function scanStaleTerms(file, allow) {
 			// 原文併記など bad 側の語が出るのが正しい行は、括弧の中身から
 			// 推定せず tools/ja-oldterm-allowlist.txt に登録して外す
 			if (allow.some((a) => s.includes(a))) return;
-			const scan = s;
+			// CharacterName の nameZh は中国語ラベルを描画する props (class="zh" で
+			// nameEn と並ぶ)。原語の綴りが入るのが役目なので旧字体ゲートの対象外。
+			// 括弧の中身のような推定ではなく、用途が決まっている props 名で外している。
+			const scan = s.replace(/nameZh=(['"])[^'"]*\1/g, " ");
 
 			for (const { bad, good, note, compoundOk } of STALE_TERMS) {
 				// compoundOk の語 (「丐幫向心」「飛石幫向心」のように bad と同綴りで
@@ -260,6 +264,36 @@ function scanStaleTerms(file, allow) {
 					hits.push({ file: rel, line: idx + 1, bad, good, note, text: s.slice(0, 90) });
 					break; // 1行1件で十分。同じ語の複数出現は1行にまとめる
 				}
+			}
+		});
+	return hits;
+}
+
+/**
+ * 制御文字の混入を検出する。
+ *
+ * 一括置換スクリプトは「保護したい部分をプレースホルダに退避 → 置換 → 復元」という
+ * 手順を取ることが多く、復元漏れが起きると NUL 等の制御文字がページに残る。
+ * markdown も VitePress のビルドもこれを黙って通すため、リンクが壊れていても
+ * dead-link 検査に引っかからない (実例: 849723dc で `](...)` の退避が入れ子になり、
+ * 1パスの復元では内側が戻らず 11ファイル17行に NUL が残った)。
+ *
+ * タブ・改行は正常な文字なので除く。
+ */
+function scanControlChars(file) {
+	const rel = path.relative(ROOT, file);
+	const hits = [];
+	fs.readFileSync(file, "utf8")
+		.split("\n")
+		.forEach((line, idx) => {
+			const m = line.match(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F]/);
+			if (m) {
+				hits.push({
+					file: rel,
+					line: idx + 1,
+					code: `U+${m[0].charCodeAt(0).toString(16).toUpperCase().padStart(4, "0")}`,
+					text: line.trim().slice(0, 90),
+				});
 			}
 		});
 	return hits;
@@ -295,11 +329,13 @@ function main() {
 	const residue = files.flatMap((f) => scanResidue(f, allow));
 	const oldTermAllow = loadAllowlist(OLD_TERM_ALLOWLIST);
 	const oldTerms = files.flatMap((f) => scanStaleTerms(f, oldTermAllow));
+	const controls = files.flatMap((f) => scanControlChars(f));
 
 	console.log(`MISSING: ${missing.length}`);
 	console.log(`STALE: ${stale.length}`);
 	console.log(`RESIDUE: ${residue.length}`);
 	console.log(`OLD_TERM: ${oldTerms.length}`);
+	console.log(`CONTROL: ${controls.length}`);
 
 	const show = (label, arr, fmt) => {
 		if (!arr.length) return;

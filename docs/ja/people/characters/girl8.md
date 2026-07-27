@@ -24,7 +24,7 @@ borderless: false
 			src='/images/characters/girl_8/girl8_drumstick.webp' 
 			position='right'/>
 		<ChName
-			nameZh='吃鶏腿'
+			nameZh='吃雞腿'
 			nameEn='Eat Drumstick'/>
 	</ChTab>
 	<ChTab title="鶏腿剣">
@@ -32,7 +32,7 @@ borderless: false
 			src='/images/characters/girl_8/drumstick_sword.webp' 
 			position='right'/>
 		<ChName
-			nameZh='鶏腿剣'
+			nameZh='雞腿劍'
 			nameEn='Drumstick Sword'/>
 	</ChTab>
 	<ChTab title="大笑">
@@ -46,21 +46,21 @@ borderless: false
 		<Ch src='/images/characters/girl_8/angry3.webp'
 			position='right'/>
 		<ChName 
-			nameZh='戦闘'
+			nameZh='戰鬥'
 			nameEn='Fight'/>
 	</ChTab>
 	<ChTab title="覚醒">
 		<Ch src='/images/characters/girl_8/angry4.webp'
 			position='right'/>
 		<ChName 
-			nameZh='覚醒'
+			nameZh='覺醒'
 			nameEn='Awakening'/>
 	</ChTab>
 	<ChTab title="宮装">
 		<Ch src='/images/characters/girl_8/dress_shy.webp'
 			position='right'/>
 		<ChName
-			nameZh='宮装'
+			nameZh='宮裝'
 			nameEn='Dress'/>
 	</ChTab>
 </ChTabs>

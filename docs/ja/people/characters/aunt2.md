@@ -16,7 +16,7 @@ tags:
         <Ch
             src='/images/characters/aunt2/normal.webp' 
             position='right'/>
-        <ChName nameZh='唐小楼' nameEn='Tang Xiao Lou' position='right' />
+        <ChName nameZh='唐小樓' nameEn='Tang Xiao Lou' position='right' />
         <ChTable>
             <ChTr>
                 <ChTd isTitle=true>

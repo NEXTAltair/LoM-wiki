@@ -15,7 +15,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="顔疆">
 		<Ch src='/images/characters/trainee204/normal.webp' position='right'/>
-		<ChName nameZh='顔疆' nameEn='Yan Jiang' position='right' />
+		<ChName nameZh='顏疆' nameEn='Yan Jiang' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>

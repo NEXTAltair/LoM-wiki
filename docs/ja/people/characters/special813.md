@@ -62,7 +62,7 @@ tags:
 	</ChTab>
 	<ChTab title="華仙児">
 		<Ch src='/images/characters/special813/normal3.webp' position='right'/>
-		<ChName nameZh='華仙児' nameEn='Hua Xian Er' position='right' />
+		<ChName nameZh='華仙兒' nameEn='Hua Xian Er' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>
