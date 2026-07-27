@@ -167,7 +167,7 @@ aside: false
 
 ## 事蹟
 
--   十歳にも満たない頃、[唐中翎](/ja/people/characters/master)掌門、[唐錚](/ja/people/characters/brother2)辣手相公と共に法場を劫した。
+-   十歳にも満たない頃、[唐中翎](/ja/people/characters/master)掌門、[唐錚](/ja/people/characters/brother2)辣手相公と共に処刑場を襲撃した。
 -   かつて[解無塵](/ja/people/characters/special808)、[夏侯蘭](/ja/people/characters/girl5)、及び関外で羊飼いをしていた二人の俠侶（身分は逃兵と捕吏の可能性）五人で旅をし、路見不平にして義を行い、初対面から力比べをし、金朝の力士を打ち破り、高麗の魔教を退け、[嶺南派](/ja/people/factions/lingnan-sect)を東西に倒して回り、最後に[白風峒変亂](/ja/event/stories/白風峒變亂)で[李元棄](/ja/people/characters/special213)極楽左使を力を合わせて倒した。
 -   蜀中双秀、飛天雲龍。飛天とは飛俠唐布衣を指し、雲龍とは[解無塵](/ja/people/characters/special808)を指す。現在のところ[解無塵](/ja/people/characters/special808)は二十九勝、三十敗、四十七平手である。だが比べるのは必ずしも武ではなく、大師兄は誰の酒量が強いかを比べたり、続けて誰の方が太っ腹かで比べたりして、酒代を払わない。[^4]
 -   勝敗を比べるため、かつて水賊の寨子を占領し、[解無塵](/ja/people/characters/special808)が率いる官兵と十日間抵抗した。その後[唐中翎](/ja/people/characters/master)掌門に痛く打たれ、山に帰して反省させられた。江湖で「綿陽泊事件」と呼ばれている。
@@ -220,7 +220,7 @@ aside: false
 
 -   ~~唐門猴俠~~
 -   鳥熊FBの紹介：[リンク](https://www.facebook.com/photo/?fbid=119387863792734&set=pcb.119387933792727)
--   法場時両人7～9歳と仮定すれば、[唐惟元](/ja/people/characters/brother4)は翌年の大雪天に拾われたので、年齢は約25～27と推測される。
+-   刑場破りの時に両人が7～9歳と仮定すれば、[唐惟元](/ja/people/characters/brother4)は翌年の大雪天に拾われたので、年齢は約25～27と推測される。
 -   身長約172。[^7]
 -   もし[趙活](/ja/people/characters/player)が死んだと知ったら、仕返しをしようとする。状況次第で手段は必ずしも殺人ではない。[^3]
 -   星座は自由の射手座。[^8]誕生日は12/4。[^9]

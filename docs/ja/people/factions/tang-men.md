@@ -151,7 +151,7 @@ tags:
 <br><br>
 その日、寺中の僧人で心魔を患わぬ者はなく、釈明も免れませんでした。袈裟禅杖を奉還して、還俗して雲遊しながら普法しましたが、数十年経っても夢魘から逃れられず、反って心に恐怖を抱き、悪念を滋生させ、唐門を毀そうと心に決めました。
 
-### 劫法場
+### 刑場破り
 
 [唐中翎](/ja/people/characters/master)はいまだ掌門に就任していない時、[唐陞](/ja/people/characters/brother3)と同じ軒下で雨宿りする縁がありました。後に[唐陞](/ja/people/characters/brother3)は権貴に罪を犯し、殺身の禍を招き、刑場に押し送られて斬首示衆されようとしていた時、[唐中翎](/ja/people/characters/master)は少年の[唐布衣](/ja/people/characters/brother1)、[唐錚](/ja/people/characters/brother2)を率いて救いました。[唐中翎](/ja/people/characters/master)は衆人の面前で官家の愚かさを批評し、官差も衛士も言葉を差し挟む勇気がありませんでした。
 <br><br>
@@ -169,7 +169,7 @@ tags:
 <br><br>
 まもなく[点蒼派](/ja/people/factions/dian-cang-sect.md)が隙をついて、掌門に挑戦しました。病気の掌門は死を恐れず、門人を率いて応戦しました。この一戦は長く続き、掌門は[点蒼剣聖](/ja/people/characters/special406)を打ち倒しましたが、唐門は負けました。南宮家主の仲裁の下、掌門は剣聖の命を取らず、封剣隠退を強要して点蒼退兵の代償としました。この間、[師娘](/ja/people/characters/other10)は世を去り、掌門は悲痛のあまり、隠患は骨髄に深く至り、今なお苦しんでいます。
 <br><br>
-その後、[大宋皇帝](/ja/people/characters/special817)は掌門の当年の劫法場のために唐門を忌憚し、[上官世家](/ja/people/factions/shang-guan-family.md)に暗中で唐門を弱体化させるよう命じ、南嵩山[釈明](/ja/people/characters/special826)、広州唐門と結託して共同で難を起こしました。
+その後、[大宋皇帝](/ja/people/characters/special817)は掌門の当年の刑場破りのために唐門を忌憚し、[上官世家](/ja/people/factions/shang-guan-family.md)に暗中で唐門を弱体化させるよう命じ、南嵩山[釈明](/ja/people/characters/special826)、広州唐門と結託して共同で難を起こしました。
 
 ## 広州唐門
 

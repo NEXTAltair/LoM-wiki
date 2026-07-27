@@ -41,6 +41,9 @@ const STALE_TERMS = [
 	{ bad: "修養", good: "品性", note: "PlayerStat/training の MOD訳 (2026-07-23確認)" },
 	{ bad: "向心", good: "団結", note: "PlayerStat/team の MOD訳。ただし勢力固有の「◯◯向心力」は別概念で対象外" },
 	{ bad: "東瀛", good: "日本", note: "日本の雅称。地の文では「日本」と書く。台詞の直接引用のみ原文どおり可 (2026-07-25)" },
+	{ bad: "劫法場", good: "刑場破り", note: "唐中翎の処刑場襲撃事件。MOD訳は「刑場破り」「刑場を襲う」(2026-07-27)" },
+	{ bad: "法場", good: "刑場", note: "「法場」は日本語にない語。MOD訳は刑場/処刑場 (2026-07-27)" },
+	{ bad: "出剣", good: "剣を抜く", note: "「出剣」は日本語では使わない。MOD訳は一貫して「剣を抜く」(2026-07-27)" },
 ];
 const STALE_TERM_EXEMPT_FILES = new Set([
 	"glossary.md", // 対訳表。bad側(旧語=原文)が正しく載るページ

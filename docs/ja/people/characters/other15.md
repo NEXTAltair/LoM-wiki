@@ -36,7 +36,7 @@ tags:
 </ChTabs>
 <br><br>
 
-[火炎山剣閣](/ja/people/factions/mount-fire-palace)の総爐鍛長。[南宮深](/ja/people/characters/special102)と良友。
+[火炎山剣閣](/ja/people/factions/mount-fire-palace)の総炉鍛長。[南宮深](/ja/people/characters/special102)と良友。
 
 <br>
 
