@@ -127,7 +127,7 @@ tags:
 </td>
 <td>• 欲增加<Girl2Icon>葉雲裳</Girl2Icon>好感，可在後山練功刷烤魚事件。
     <br>• 劍聖傳承必要條件: 比拚內力時🎲擲骰到【<99】「略遜一籌」，且谷底生活有閒聊📜「葉雲裳的武功」。
-    <br>• 若擁有技能<MarkdownWrapper>[《南宮護心訣》](/system/skill)</MarkdownWrapper>等級3，則對戰幻境南宮遠獲勝後，習得技能<MarkdownWrapper>[《偕老誓》](/system/skill)</MarkdownWrapper>。
+    <br>• 若擁有技能<MarkdownWrapper>[《南宮護心訣》](/system/skill)</MarkdownWrapper>等級3，則對戰幻境南宮遠獲勝後，會被新技能<MarkdownWrapper>[《偕老誓》](/system/skill)</MarkdownWrapper>取代。
     <br>• 結緣過程中，會獲得技能<MarkdownWrapper>[《九轉輪迴》](/system/skill)</MarkdownWrapper>。
 </td>
 </tr>
@@ -173,7 +173,8 @@ tags:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 錦香宮: 劇情變化。
     <br>• 若<Girl2Icon>葉雲裳</Girl2Icon>同行:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 旅途事件: 劇情變化。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 錦香宮: 劇情變化、華音閣增加葉雲裳學琴事件(共三次)。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 錦香宮: 劇情變化。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 錦香宮: 華音閣增加葉雲裳學琴事件，三次後觸發溫夫人劇情，可使西武林線📖「護衛三師兄」時得到雲裳彈琴的協助(故建議觸發)。
 </td>
 <td>目前葉雲舟同行綁定<Girl2Icon>葉雲裳</Girl2Icon>結緣，故也列出葉雲舟的劇情變化。</td>
 </tr>
@@ -198,7 +199,7 @@ tags:
 <td>第三年十二月中旬剩2行動點</td>
 <td><MarkdownWrapper>[眾人的決策](/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
 <td>• 新增📜「詢問葉雲舟」，若武林大會他有代表出戰，會獲得<MarkdownWrapper>[同舟劍譜](/system/books/book_2301)</MarkdownWrapper>(但若修練完成，後面就無法習得劍聖極招)。
-    <br>• 若決策遣散唐門，女弟子房與男弟子房劇情變化。
+    <br>• 若決策遣散唐門，女弟子房、男弟子房、煉丹爐劇情變化。
     <br>• 若決策遣散唐門，<MarkdownWrapper>[退隱江湖](/event/ends/end-25)</MarkdownWrapper>結局演出為<Girl2Icon>葉雲裳</Girl2Icon>版本。
     <br>• 若決策成立西武林，大戰準備期有許多劇情變化，下面只列出重要的。
 </td>
@@ -244,7 +245,8 @@ tags:
 <td>9</td>
 <td>第四年二月中旬剩兩次行動</td>
 <td><MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
-<td>• <Girl2Icon>葉雲裳</Girl2Icon>參戰，多處劇情、戰鬥變化。
+<td>• 葉雲裳參與，劇情變化。
+    <br>• 若在錦香宮曾觸發<Girl2Icon>葉雲裳</Girl2Icon>向溫夫人學琴: 葉雲裳參戰，多處戰鬥變化。
     <br>• 📖「護衛三師兄」的第二場🗡️對決結束後，觸發🗡️對決無相祖師。
     <br>• 戰後📜「雲裳找你」時，若葉雲裳好感≧50，且滿足條件8中劍聖傳承條件，解鎖劍聖傳承事件。
 </td>
@@ -276,7 +278,7 @@ tags:
 </table>
 
 ## 備註
-• 若只希望<Girl2Icon>葉雲裳</Girl2Icon>存活而非與她結緣，只要在心上人非葉雲裳的情況下，完成條件7就行(不會獲得[《九轉殘篇》](/system/books/book_8109))。
+• 若只希望<Girl2Icon>葉雲裳</Girl2Icon>存活而非與她結緣，只要完成條件1、條件2、未曾留學青城(見條件5)，並達成條件7中🎲「葉雲裳的抵抗」及📖「勸葉雲舟留」即可，但她只會在西武林線終戰獲勝以及[唐門薪火](/event/ends/end-37)結局中再次出現。
 <br>• 由於本路線要求修練許多武學，且有許多支線事件消耗金錢，建議二周目以上資源較充足再攻略。
 <br>• 目前本頁面主要參考[〈活俠傳事件及分歧整理〉](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)撰寫，尚未經過反覆驗證。
 <br>• 唐芳未歸來(v1.0.5000.13): 若在第二年一月下旬完成條件1，且二月下旬才完成條件2，因事件之間的間隔設定，會導致「唐芳歸來」事件無法觸發。但唐芳並不會因此缺席本路線重要劇情，因為她相關的劇情大多未檢測「唐芳歸來」。
