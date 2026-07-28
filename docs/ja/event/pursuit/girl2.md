@@ -197,11 +197,11 @@ tags:
 <tr>
 <td>5</td>
 <td>3年目12月中旬残り2回の行動</td>
-<td><MarkdownWrapper>[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
+<td><MarkdownWrapper>[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
 <td>• 📜「葉雲舟に尋ねる」が追加され、武林大会で彼が代表として出場していた場合、<MarkdownWrapper>[同舟剣譜](/ja/system/books/book_2301)</MarkdownWrapper>を入手できる(ただし修練を終えると、以降剣聖の極招を習得できなくなる)。
-    <br>• 唐門解散を決策した場合、女弟子房・男弟子房・煉丹房の展開が変化する。
-    <br>• 唐門解散を決策した場合、<MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が<Girl2Icon>葉雲裳</Girl2Icon>バージョンになる。
-    <br>• 西武林盟成立を決策した場合、大戦準備期間に多くの展開変化があるが、以下では重要なもののみ記載する。
+    <br>• 唐門解散を決断した場合、女弟子房・男弟子房・煉丹房の展開が変化する。
+    <br>• 唐門解散を決断した場合、<MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が<Girl2Icon>葉雲裳</Girl2Icon>バージョンになる。
+    <br>• 西武林盟成立を決断した場合、大戦準備期間に多くの展開変化があるが、以下では重要なもののみ記載する。
 </td>
 <td></td>
 </tr>

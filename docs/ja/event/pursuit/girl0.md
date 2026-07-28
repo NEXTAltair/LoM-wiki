@@ -128,7 +128,7 @@ tags:
 <tr>
 <td>7</td>
 <td>3年目12月中旬、残り行動回数2</td>
-<td><MarkdownWrapper>[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper>-唐門解散</td>
+<td><MarkdownWrapper>[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper>-唐門解散</td>
 <td>• 女弟子房の展開が分岐する。
     <br>• <MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が<Girl0Icon>唐默鈴</Girl0Icon>と共に過ごすバージョンになる。</td>
 <td></td>
@@ -163,7 +163,7 @@ tags:
 <td>• <Girl0Icon>唐默鈴</Girl0Icon>が参戦する。
     <br>• 同行させるか唐陞の護衛にするか選べる。
     <br>• 各所で展開・戦闘が変化する。</td>
-<td>唐陞の護衛にさせて外堡への出撃を決策した場合、スキル「勇気2」を獲得できる。</td>
+<td>唐陞の護衛にさせて外堡への出撃を決断した場合、スキル「勇気2」を獲得できる。</td>
 </tr>
 
 <tr>

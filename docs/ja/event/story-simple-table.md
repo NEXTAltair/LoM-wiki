@@ -750,7 +750,7 @@ tags:
 			<td>
 				<li>唐門例会：檄文を受け取る</li>
 				<MarkdownWrapper>
-                    [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)
+                    [衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)
                 </MarkdownWrapper>
 				<li>唐門立ち絵：西武林盟成立（李富貴の好感度2星または学問・戦術が必要）</li>
 				<li>龍湘線-後山で薪割：決闘(攻略最晚トリガー時間は一月下旬前)</li>

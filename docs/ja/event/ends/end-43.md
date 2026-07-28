@@ -35,10 +35,10 @@ tags:
 <MarkdownWrapper>[〈夏侯蘭結縁攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
 
 ### 二、唐門包囲戦
-1. 三年十二月上旬最後の行動前。[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で「徹底抗戦」シナリオルートに進入。
-2. 唐門包囲戦：開始時期は[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)の結果で異なる
-   + [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)が1️⃣西武林盟成立の決策：四年二月中旬残り２行動時に開始。
-   + [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)が2️⃣西武林盟不成立の決策：四年一月中旬残り2行動時に開始。
+1. 三年十二月上旬最後の行動前。[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)で「徹底抗戦」シナリオルートに進入。
+2. 唐門包囲戦：開始時期は[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)の結果で異なる
+   + [衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)が1️⃣西武林盟成立の決断：四年二月中旬残り２行動時に開始。
+   + [衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)が2️⃣西武林盟不成立の決断：四年一月中旬残り2行動時に開始。
 3. **🎲運命：弟子脱走結果......**(上限50、➕加値：団結/2)：
    + **🧾【＝99】一人も去らない**：門人-0。
    + **🧾【＞60】小部分が去った**：門人-5。
