@@ -840,7 +840,7 @@ tags:
 		<tr>
 			<td>
 				<MarkdownWrapper>
-				[葉雲裳の診察とお出かけ](/ja/event/simple/2-02-4-雲裳問診出遊)<br>
+				[葉雲裳の診察とお出かけ](/ja/event/simple/1-08-3-雲裳問診出遊)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>主人公と葉雲裳がともに唐門に在籍し、唐門が葉雲舟・葉雲裳兄妹を受け入れ済み。1年8月下旬〜2年3月上旬の間に発生</td>
@@ -848,7 +848,7 @@ tags:
 		<tr>
 			<td>
 				<MarkdownWrapper>
-				[紙札遊戯の対決](/ja/event/simple/2-02-3-紙牌對決)<br>
+				[紙札遊戯の対決](/ja/event/simple/1-09-2-紙牌對決)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>主人公と葉雲裳がともに唐門に在籍し、唐芳師姉帰還イベント後。1年9月中旬〜2年5月下旬の間、毎月上旬ごとに約1/3の確率で抽選</td>
