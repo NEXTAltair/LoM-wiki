@@ -6,8 +6,13 @@
 //   OLD_TERM   旧訳語・誤訳語が残っている行数 (STALE_TERMS 参照)
 //   CONTROL    制御文字が混入している行数 (一括置換スクリプトの事故検出)
 //   RAW_LINK   <td> 内で MarkdownWrapper に囲まれていない Markdown リンクの行数
+//   TABLE      Markdown テーブルの見出し行と区切り行で列数が食い違っている箇所
+//   LABEL      リンクテキストにページのファイル名 (原文中国語) を使っている箇所
 //
-// 6つとも 0 で exit 0。
+// 上位6つが 0、TABLE/LABEL が基準値以下で exit 0。
+//
+// TABLE と LABEL は既存の未修正分を基準値として据え置き、**増えたら落とす**ラチェット。
+// 既存分を直したら基準値を下げること (上げるのは禁止)。
 //
 // RESIDUE は品質の証明ではない。高精度・低再現率に振ってあり、
 // 「あからさまな機械置換の残骸を落とす」下限ゲートとしてしか機能しない。
@@ -71,6 +76,16 @@ const STALE_TERMS = [
 	{ bad: "支線", good: "サブイベント", compoundOk: true, note: "ルート/サブクエストの意味。英語版は Side Quest。原文併記の「主支線年表」は直前が漢字なので対象外 (2026-07-28)" },
 	{ bad: "最晚", good: "最遅", note: "中国語。発生時期の記述に混入していた (2026-07-28)" },
 ];
+// TABLE / LABEL の据え置き基準値。既存の未修正分をここに記録し、これを超えたら落とす。
+// 直した分だけ数を下げていく。増やしてはいけない。
+const BASELINE = {
+	// 4-02-2-東西武林盟會戰.md の「加入唐門の衆人」表 (2026-07-28 時点)
+	TABLE: 1,
+	// リンクテキストがファイル名のままの箇所 (2026-07-28 時点)。
+	// 大半は 3-12-1-眾人的決策 への参照。
+	LABEL: 58,
+};
+
 const STALE_TERM_EXEMPT_FILES = new Set([
 	"glossary.md", // 対訳表。bad側(旧語=原文)が正しく載るページ
 ]);
@@ -342,6 +357,77 @@ function scanRawLinks(file) {
 	return hits;
 }
 
+/**
+ * TABLE: Markdown テーブルの見出し行と区切り行で列数が食い違っているものを検出する。
+ *
+ * GFM は両者の列数が一致しない表をテーブルとして認識しない。結果、表全体が
+ * `| 人物 | 加入条件 | ...` という1個の段落として読者に見える。ビルドは通るので
+ * dead link 検査では捕まらない。
+ */
+function scanTableShape(file) {
+	const rel = path.relative(ROOT, file);
+	const hits = [];
+	const countCells = (line) => {
+		let s = line.trim();
+		if (s.startsWith("|")) s = s.slice(1);
+		if (s.endsWith("|")) s = s.slice(0, -1);
+		return s.split("|").length;
+	};
+	const isDelimiter = (line) =>
+		/^\s*\|?\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)*\|?\s*$/.test(line);
+	const lines = fs.readFileSync(file, "utf8").split("\n");
+	let inFence = false;
+	lines.forEach((line, idx) => {
+		if (/^```/.test(line.trim())) {
+			inFence = !inFence;
+			return;
+		}
+		if (inFence || idx === 0 || !isDelimiter(line)) return;
+		const head = lines[idx - 1];
+		if (!head.includes("|") || !head.trim()) return;
+		const h = countCells(head);
+		const d = countCells(line);
+		if (h !== d) {
+			hits.push({ file: rel, line: idx + 1, head: h, delim: d });
+		}
+	});
+	return hits;
+}
+
+/**
+ * LABEL: リンクテキストにページのファイル名 (原文中国語) をそのまま使っているものを検出する。
+ *
+ * ファイル名の中国語は3ロケールでパスを揃えるための識別子であって、読者に見せる名前ではない。
+ * リンクテキストにはリンク先ページの frontmatter title を使う。
+ */
+function scanFilenameLabels(file) {
+	const rel = path.relative(ROOT, file);
+	const hits = [];
+	const LINK = /\[([^\]\n]+)\]\((\/ja\/[^)\s]+)\)/g;
+	let inFence = false;
+	fs.readFileSync(file, "utf8")
+		.split("\n")
+		.forEach((line, idx) => {
+			if (/^```/.test(line.trim())) {
+				inFence = !inFence;
+				return;
+			}
+			if (inFence) return;
+			let m;
+			LINK.lastIndex = 0;
+			while ((m = LINK.exec(line))) {
+				const label = m[1];
+				const stem = path.basename(m[2].split("#")[0]);
+				// 年-月-旬 の接頭辞を外した形もファイル名扱いにする
+				const bare = stem.replace(/^\d+-\d+-\d+-/, "");
+				if (label === stem || label === bare) {
+					hits.push({ file: rel, line: idx + 1, label, stem });
+				}
+			}
+		});
+	return hits;
+}
+
 function readLedger() {
 	const ledger = new Map();
 	if (!fs.existsSync(LEDGER)) return ledger;
@@ -374,6 +460,8 @@ function main() {
 	const oldTerms = files.flatMap((f) => scanStaleTerms(f, oldTermAllow));
 	const controls = files.flatMap((f) => scanControlChars(f));
 	const rawLinks = files.flatMap((f) => scanRawLinks(f));
+	const tables = files.flatMap((f) => scanTableShape(f));
+	const labels = files.flatMap((f) => scanFilenameLabels(f));
 
 	console.log(`MISSING: ${missing.length}`);
 	console.log(`STALE: ${stale.length}`);
@@ -381,6 +469,8 @@ function main() {
 	console.log(`OLD_TERM: ${oldTerms.length}`);
 	console.log(`CONTROL: ${controls.length}`);
 	console.log(`RAW_LINK: ${rawLinks.length}`);
+	console.log(`TABLE: ${tables.length} (基準 ${BASELINE.TABLE})`);
+	console.log(`LABEL: ${labels.length} (基準 ${BASELINE.LABEL})`);
 
 	const show = (label, arr, fmt) => {
 		if (!arr.length) return;
@@ -399,6 +489,16 @@ function main() {
 		rawLinks,
 		(x) => `${x.file}:${x.line} ${x.text}`,
 	);
+	show(
+		"TABLE: 見出し行と区切り行の列数が不一致 (表として描画されない)",
+		tables,
+		(x) => `${x.file}:${x.line} 見出し${x.head}列 / 区切り${x.delim}列`,
+	);
+	show(
+		"LABEL: リンクテキストがファイル名のまま (リンク先ページの title を使う)",
+		labels,
+		(x) => `${x.file}:${x.line} [${x.label}] → ${x.stem}`,
+	);
 
 	const ok =
 		!missing.length &&
@@ -406,7 +506,15 @@ function main() {
 		!residue.length &&
 		!oldTerms.length &&
 		!controls.length &&
-		!rawLinks.length;
+		!rawLinks.length &&
+		tables.length <= BASELINE.TABLE &&
+		labels.length <= BASELINE.LABEL;
+	if (tables.length > BASELINE.TABLE || labels.length > BASELINE.LABEL) {
+		console.log(
+			`\n基準値を超過。TABLE ${tables.length}/${BASELINE.TABLE}、LABEL ${labels.length}/${BASELINE.LABEL}。` +
+				"新しく作った分を直すこと (既存分の基準値を上げて通すのは禁止)。",
+		);
+	}
 	if (!ok) console.log("\n未達。上記を解消すること。");
 	process.exit(ok ? 0 : 1);
 }
