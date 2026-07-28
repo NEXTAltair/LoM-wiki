@@ -49,7 +49,7 @@ tags:
 
 <br>
 
-西武林戦で[趙活](/ja/people/characters/player)に対すれば、人生が余りに容易だったために敗北。[画中仙](/ja/people/characters/special813)に対すれば、その英俊さを見て、殺すに忍びず、穴を指されて男妾として収められた。
+西武林戦で[趙活](/ja/people/characters/player)に対すれば、人生が余りに容易だったために敗北。[画中仙](/ja/people/characters/special813)に対すれば、その英俊さを見て、殺すに忍びず、点穴されて男妾として収められた。
 
 ## 備考
 

@@ -26,9 +26,9 @@ tags:
 </EndBackground>
 
 ## 条件と進行
-<strong>条件：</strong>誰とも結縁していない、[唐布衣](/ja/people/characters/brother1)が生存しない、「徹底抗戦」シナリオ線に進入。<br>
+<strong>条件：</strong>誰とも結縁していない、[唐布衣](/ja/people/characters/brother1)が生存しない、「徹底抗戦」シナリオルートに進入。<br>
 **ルート：**<br>
-1. 三年十二月上旬最後の行動前。[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で「徹底抗戦」シナリオ線に進入。
+1. 三年十二月上旬最後の行動前。[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で「徹底抗戦」シナリオルートに進入。
 2. 唐門包囲戦：開始時期は[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)の結果で異なる。
    + [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)が1️⃣西武林盟成立の決策：四年二月中旬残り２行動時に開始。
    + [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)が2️⃣西武林盟不成立の決策：四年一月中旬残り2行動時に開始。

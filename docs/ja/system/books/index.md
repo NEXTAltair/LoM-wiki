@@ -579,7 +579,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`3020`">五毒秘錄</BookItemIcon></td>
+        <td><BookItemIcon :no="`3020`">五毒秘録</BookItemIcon></td>
         <td>暗器5<br>内功5<br>医術LV1<br>毒功</td>
         <td>50</td>
         <td>学問10 (LV6)</td>

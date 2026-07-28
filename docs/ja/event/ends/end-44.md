@@ -28,7 +28,7 @@ tags:
 
 ## 条件とルート
 
-<strong>条件：</strong>想い人が<Girl8Icon>龍湘</Girl8Icon>、<Girl8Icon>龍湘</Girl8Icon>と結縁、「徹底抗戦」シナリオ線に進入。<br>
+<strong>条件：</strong>想い人が<Girl8Icon>龍湘</Girl8Icon>、<Girl8Icon>龍湘</Girl8Icon>と結縁、「徹底抗戦」シナリオルートに進入。<br>
 **ルート：**<br>
 
 ### 一、龍湘と結縁

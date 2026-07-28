@@ -185,7 +185,7 @@ tags:
 <br><br>
 もしつぼの底の精を煉りて丹と為すなら、有名な「万霊丹」で、薬力は厚くて長く温和で、人丹之王と称します。毒を以て毒を攻め、臓腑の邪祟を毒殺します。しかし中毒していない人が服用すれば害です。[上官隼](/ja/people/characters/special407)は少年時に万霊丹を服用した後、百毒不侵となります。
 <br><br>
-失伝したため、真の万霊丹は[師娘](/ja/people/characters/other10)が[唐布衣](/ja/people/characters/brother1)に与えた份だけが残っています。[唐錚](/ja/people/characters/brother2)は万霊油を試作し、旅行時に[趙活](/ja/people/characters/player)に兌水して熱を下すのに使いました。もし[葉雲裳](/ja/people/characters/girl2)線なら、[唐守鴻](/ja/people/characters/special812)を捕まえた後、交易で方子を得ることができます。
+失伝したため、真の万霊丹は[師娘](/ja/people/characters/other10)が[唐布衣](/ja/people/characters/brother1)に与えた份だけが残っています。[唐錚](/ja/people/characters/brother2)は万霊油を試作し、旅行時に[趙活](/ja/people/characters/player)に兌水して熱を下すのに使いました。もし[葉雲裳](/ja/people/characters/girl2)ルートなら、[唐守鴻](/ja/people/characters/special812)を捕まえた後、交易で方子を得ることができます。
 <br><br>
 命名の推測は万金油、百霊油へのネタです。
 
