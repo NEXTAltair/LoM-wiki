@@ -70,7 +70,7 @@ tags:
 <td>• まず想い人が<Girl2Icon>葉雲裳</Girl2Icon>であることを確認。
     <br>• 📖「廃寺」を選択。</td>
 <td>• このイベント自体は想い人を要求しないが、これ以降は心変わりポイントを得にくくなる。
-    <br>• <Girl2Icon>葉雲裳</Girl2Icon>好感≧30なら、📖「宿場」を選んでも強制的に廃寺行きになる。
+    <br>• <Girl2Icon>葉雲裳</Girl2Icon>好感≧30なら、📖「宿屋」を選んでも強制的に廃寺行きになる。
     <br>• 唐門を出る前に秘笈<MarkdownWrapper>[金剛腿](/ja/system/books/book_4001)</MarkdownWrapper>の購入を検討してもよい(<MarkdownWrapper>[仏学](/ja/system/skill)</MarkdownWrapper>レベル1を得られるが、後にも他の仏学書がある)。
 </td>
 </tr>
@@ -189,7 +189,7 @@ tags:
     <br>• <Girl2Icon>葉雲裳</Girl2Icon>が同行する場合:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 展開が変化する。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 投票の結果、唐門が武林の公敵になり、かつ📖「葉雲裳に付き添ってもらう」を選ぶと、<MarkdownWrapper>[風雲史《悪人は悪人が制す (惡人自有惡人磨)》](/ja/event/achievements/#風雲史-No.19)</MarkdownWrapper>を解除できる。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 客桟での休憩時、📖「湯浴み」の後📖「階下で飲む」を選ぶと南渓のイベントが発生し、葉家に関する展開があり、また<MarkdownWrapper>[唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper>や<MarkdownWrapper>[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>で南渓が加勢するため、発生させることを推奨する。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 宿屋での休憩時、📖「湯浴み」の後📖「階下で飲む」を選ぶと南渓のイベントが発生し、葉家に関する展開があり、また<MarkdownWrapper>[唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper>や<MarkdownWrapper>[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>で南渓が加勢するため、発生させることを推奨する。
 </td>
 <td>現バージョンでは葉雲舟の同行は<Girl2Icon>葉雲裳</Girl2Icon>との結縁に紐づいているため、葉雲舟側の展開もあわせて記載する。</td>
 </tr>
