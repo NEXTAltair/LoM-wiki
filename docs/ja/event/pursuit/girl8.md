@@ -73,7 +73,7 @@ tags:
 <td>• 条件3、4を満たして初めて発生する。
     <br>• このイベントを完了し、道具【龍湘の髪簪】を入手すると結縁完了。</td>
 <td>• 戦闘の勝敗に関わらず龍湘と結縁できるが、龍湘との戦闘に敗北した場合(8ターン後の自動敗北を除く)は龍淵と会話できなくなる。
-    <br>• 2年目に留学-宿場ルートを進まなかった場合、<MarkdownWrapper>[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>イベントを経験しているため、ここで龍淵の展開差分及び📜「信義を守る」が追加され、秘笈<MarkdownWrapper>[《酩酊玄剣掌》](/ja/system/books/book_3010)</MarkdownWrapper>を入手できる。
+    <br>• 2年目に留学せず客桟線を進んだ場合、<MarkdownWrapper>[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>イベントを経験しているため、ここで龍淵の展開差分及び📜「信義を守る」が追加され、秘笈<MarkdownWrapper>[《酩酊玄剣掌》](/ja/system/books/book_3010)</MarkdownWrapper>を入手できる。ただし2年目6月より前に<Girl2Icon>葉雲裳</Girl2Icon>好感≧30になっていると、客桟線に入れなくなる点に注意。
     <br>• 龍淵好感8以上なら、秘笈<MarkdownWrapper>[《龍淵七絶》](/ja/system/books/book_7013)</MarkdownWrapper>を入手できる。
 </td>
 </tr>
