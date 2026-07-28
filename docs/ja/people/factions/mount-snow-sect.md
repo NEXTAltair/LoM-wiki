@@ -64,7 +64,7 @@ tags:
 
 - [奪魄幽霊爪](/ja/system/books/book_6007)
 - [雪山飛鴻爪](/ja/system/books/book_6009)
-- [登雲踏．望月](/ja/system/books/book_6008)
+- [登雲踏・望月](/ja/system/books/book_6008)
 - [雪山心法](/ja/system/books/book_7010)
 
 ## 備考

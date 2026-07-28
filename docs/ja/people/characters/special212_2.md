@@ -72,7 +72,7 @@ tags:
 ## 備考
 
 - 現在[趙活](/ja/people/characters/player)は葉雲裳ルートでのみ彼を認識できる。(v5000)
-- 十里一詩は学問の[趙活](/ja/people/characters/player)に平仄が協わないと嘲笑され、聞いていられない。彼はこの詩は戦場が出所で、戦争の酷さを描写したもので、本来は風流な修飾がないと言った。
+- 十里一詩は学のある[趙活](/ja/people/characters/player)に平仄が合っていないとやじられ、聞いていられなくなった。彼はこの詩は戦場が出所で、戦争の酷さを描写したもので、本来は風流な修飾がないと言った。
 - もし[趙活](/ja/people/characters/player)が瀝泉小剣を手にすれば、怒り狂って「いい度胆だ」と大声で罵る。
 - 疑いを持つが[杏花林](/ja/people/factions/apricot-forest)と何か関係あるらしい。
 - 無相が奪魄門で偽装するのは閉関中の姚掌門で、[勾魂叟](/ja/people/characters/special806)ではない。[勾魂叟](/ja/people/characters/special806)は代理掌門に過ぎない。

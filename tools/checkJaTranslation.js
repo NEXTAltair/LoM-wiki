@@ -101,7 +101,7 @@ const BASELINE = {
 	TABLE: 0,
 	// LABEL は判定を「ファイル名と同一か」から「title と一致するか」に広げたため、
 	// 言い換えラベル等の既存分が残っている。直した分だけ下げる。
-	LABEL: 338,
+	LABEL: 336,
 };
 
 const STALE_TERM_EXEMPT_FILES = new Set([

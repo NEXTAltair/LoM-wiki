@@ -175,7 +175,7 @@ aside: false
 
 <br>
 
-[崆峒派](/ja/people/factions/kong-tong-sect)．鉄拳門当代掌門の嫡伝女弟子。
+[崆峒派](/ja/people/factions/kong-tong-sect)。鉄拳門当代掌門の嫡伝女弟子。
 
 <br>
 

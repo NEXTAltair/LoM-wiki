@@ -351,7 +351,7 @@ tags:
         <td></td>
     </tr>	
     <tr>
-        <td><BookItemIcon :no="`6008`">登雲踏．望月</BookItemIcon></td>
+        <td><BookItemIcon :no="`6008`">登雲踏・望月</BookItemIcon></td>
         <td>軽功3<br>拳掌3</td>
         <td>25</td>
         <td></td>
