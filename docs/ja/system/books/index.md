@@ -208,7 +208,7 @@ tags:
         <td>体力5<br>内功5<br>拳掌10<br>刀剣10<br>傲慢</td>
         <td>80</td>
         <td>学問20<br>拳掌20<br>刀剣15<br>黃酒80</td>
-        <td>留学していないことが必要。千面人魔イベントで[龍淵](/ja/people/characters/special2)と知り合い、[龍湘](/ja/people/characters/girl8)と結ばれる際に信義について話すと贈られる</td>
+        <td><MarkdownWrapper>留学していないことが必要。千面人魔イベントで[龍淵](/ja/people/characters/special2)と知り合い、[龍湘](/ja/people/characters/girl8)と結ばれる際に信義について話すと贈られる</MarkdownWrapper></td>
         <td></td>
     </tr>
     <tr>
@@ -504,7 +504,7 @@ tags:
         <td>内功15<br>龍淵七絶LV5</td>
         <td>80</td>
         <td>内功30</td>
-        <td>[龍湘](/ja/people/characters/girl8)と結ばれるイベント、祝言の際に[龍淵](/ja/people/characters/special2)好感≧8</td>
+        <td><MarkdownWrapper>[龍湘](/ja/people/characters/girl8)と結ばれるイベント、祝言の際に[龍淵](/ja/people/characters/special2)好感≧8</MarkdownWrapper></td>
         <td></td>
     </tr>
     <tr>

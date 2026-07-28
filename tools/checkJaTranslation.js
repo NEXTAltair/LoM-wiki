@@ -5,8 +5,9 @@
 //   RESIDUE    中国語残存の機械検出ヒット数 (allowlist 除く)
 //   OLD_TERM   旧訳語・誤訳語が残っている行数 (STALE_TERMS 参照)
 //   CONTROL    制御文字が混入している行数 (一括置換スクリプトの事故検出)
+//   RAW_LINK   <td> 内で MarkdownWrapper に囲まれていない Markdown リンクの行数
 //
-// 5つとも 0 で exit 0。
+// 6つとも 0 で exit 0。
 //
 // RESIDUE は品質の証明ではない。高精度・低再現率に振ってあり、
 // 「あからさまな機械置換の残骸を落とす」下限ゲートとしてしか機能しない。
@@ -63,6 +64,12 @@ const STALE_TERMS = [
 	{ bad: "爐", good: "炉", note: "MOD に爐の用例なし (炉63)。乾坤造化炉・主炉 (2026-07-27)" },
 	{ bad: "鐵", good: "鉄", note: "MOD は鉄 (鉄578/鐵14)。鉄琵琶功等。歌訣の引用のみ allowlist で除外 (2026-07-27)" },
 	{ bad: "邊", good: "辺", note: "MOD に邊の用例なし (辺115)。歌訣の引用のみ allowlist で除外 (2026-07-27)" },
+	{ bad: "錄", good: "録", note: "MOD は録 (江湖鬼蜮録・戦神語録・伝灯録)。旧字体の取りこぼし (2026-07-28)" },
+	{ bad: "繪", good: "絵", note: "「立繪」等。日本語は立ち絵 (2026-07-28)" },
+	// 中国語のまま残っていた語。ユーザー指摘で一掃したので再発をここで止める。
+	{ bad: "決策", good: "決定", compoundOk: true, note: "日本語では使わない語。ゲーム内の選択肢ラベルも「決定：」に統一。原文名『眾人的決策』と「解決策」は直前が漢字なので対象外 (2026-07-28)" },
+	{ bad: "支線", good: "サブイベント", compoundOk: true, note: "ルート/サブクエストの意味。英語版は Side Quest。原文併記の「主支線年表」は直前が漢字なので対象外 (2026-07-28)" },
+	{ bad: "最晚", good: "最遅", note: "中国語。発生時期の記述に混入していた (2026-07-28)" },
 ];
 const STALE_TERM_EXEMPT_FILES = new Set([
 	"glossary.md", // 対訳表。bad側(旧語=原文)が正しく載るページ
@@ -299,6 +306,42 @@ function scanControlChars(file) {
 	return hits;
 }
 
+/**
+ * RAW_LINK: `<td>` の中で MarkdownWrapper に囲まれていない Markdown リンクを検出する。
+ *
+ * `<Table class="timeline-table">` や素の `<table>` の中身は markdown-it から見ると
+ * 一続きの raw HTML ブロックで、Markdown リンクが解釈されない。囲みを忘れると
+ * `[表示名](/ja/...)` という文字列がそのまま読者に見える (ビルドは通ってしまうので
+ * dead link 検査では捕まらない)。
+ *
+ * `<ChTd>` のような Vue コンポーネントは raw HTML ブロック扱いにならず正しく描画される
+ * ため、素の `<td>` に入っている場合だけを対象にする。
+ */
+function scanRawLinks(file) {
+	const rel = path.relative(ROOT, file);
+	const hits = [];
+	const LINK = /\[[^\]\n]+\]\(\//;
+	let td = 0;
+	let wrap = 0;
+	fs.readFileSync(file, "utf8")
+		.split("\n")
+		.forEach((line, idx) => {
+			const openW = (line.match(/<MarkdownWrapper>/g) || []).length;
+			const closeW = (line.match(/<\/MarkdownWrapper>/g) || []).length;
+			const openT = (line.match(/<td[ >]/g) || []).length;
+			const closeT = (line.match(/<\/td>/g) || []).length;
+			// 行頭時点で開いているか、この行で開くかのどちらかなら中にいるとみなす
+			const inTd = td > 0 || openT > 0;
+			const inWrap = wrap > 0 || openW > 0;
+			if (inTd && !inWrap && LINK.test(line)) {
+				hits.push({ file: rel, line: idx + 1, text: line.trim().slice(0, 90) });
+			}
+			wrap += openW - closeW;
+			td += openT - closeT;
+		});
+	return hits;
+}
+
 function readLedger() {
 	const ledger = new Map();
 	if (!fs.existsSync(LEDGER)) return ledger;
@@ -330,12 +373,14 @@ function main() {
 	const oldTermAllow = loadAllowlist(OLD_TERM_ALLOWLIST);
 	const oldTerms = files.flatMap((f) => scanStaleTerms(f, oldTermAllow));
 	const controls = files.flatMap((f) => scanControlChars(f));
+	const rawLinks = files.flatMap((f) => scanRawLinks(f));
 
 	console.log(`MISSING: ${missing.length}`);
 	console.log(`STALE: ${stale.length}`);
 	console.log(`RESIDUE: ${residue.length}`);
 	console.log(`OLD_TERM: ${oldTerms.length}`);
 	console.log(`CONTROL: ${controls.length}`);
+	console.log(`RAW_LINK: ${rawLinks.length}`);
 
 	const show = (label, arr, fmt) => {
 		if (!arr.length) return;
@@ -349,8 +394,19 @@ function main() {
 	show("RESIDUE: 中国語残存の疑い", residue, (x) => `${x.file}:${x.line} [${x.why}] ${x.text}`);
 	show("OLD_TERM: 旧訳語・誤訳語の残存", oldTerms, (x) => `${x.file}:${x.line} [${x.bad}→${x.good}] ${x.note} :: ${x.text}`);
 	show("CONTROL: 制御文字の混入", controls, (x) => `${x.file}:${x.line} [${x.code}] ${x.text}`);
+	show(
+		"RAW_LINK: <td> 内の Markdown リンクが MarkdownWrapper で囲まれていない",
+		rawLinks,
+		(x) => `${x.file}:${x.line} ${x.text}`,
+	);
 
-	const ok = !missing.length && !stale.length && !residue.length && !oldTerms.length && !controls.length;
+	const ok =
+		!missing.length &&
+		!stale.length &&
+		!residue.length &&
+		!oldTerms.length &&
+		!controls.length &&
+		!rawLinks.length;
 	if (!ok) console.log("\n未達。上記を解消すること。");
 	process.exit(ok ? 0 : 1);
 }
