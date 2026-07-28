@@ -79,11 +79,9 @@ const STALE_TERMS = [
 // TABLE / LABEL の据え置き基準値。既存の未修正分をここに記録し、これを超えたら落とす。
 // 直した分だけ数を下げていく。増やしてはいけない。
 const BASELINE = {
-	// 4-02-2-東西武林盟會戰.md の「加入唐門の衆人」表 (2026-07-28 時点)
-	TABLE: 1,
-	// リンクテキストがファイル名のままの箇所 (2026-07-28 時点)。
-	// 大半は 3-12-1-眾人的決策 への参照。
-	LABEL: 58,
+	// 2026-07-28 に既存分を全て解消したので 0。増えたら落ちる。
+	TABLE: 0,
+	LABEL: 0,
 };
 
 const STALE_TERM_EXEMPT_FILES = new Set([
@@ -400,6 +398,14 @@ function scanTableShape(file) {
  * ファイル名の中国語は3ロケールでパスを揃えるための識別子であって、読者に見せる名前ではない。
  * リンクテキストにはリンク先ページの frontmatter title を使う。
  */
+function frontmatterTitle(file) {
+	if (!fs.existsSync(file)) return null;
+	for (const line of fs.readFileSync(file, "utf8").split("\n").slice(0, 15)) {
+		if (line.startsWith("title:")) return line.slice("title:".length).trim();
+	}
+	return null;
+}
+
 function scanFilenameLabels(file) {
 	const rel = path.relative(ROOT, file);
 	const hits = [];
@@ -420,9 +426,12 @@ function scanFilenameLabels(file) {
 				const stem = path.basename(m[2].split("#")[0]);
 				// 年-月-旬 の接頭辞を外した形もファイル名扱いにする
 				const bare = stem.replace(/^\d+-\d+-\d+-/, "");
-				if (label === stem || label === bare) {
-					hits.push({ file: rel, line: idx + 1, label, stem });
-				}
+				if (label !== stem && label !== bare) continue;
+				// 訳と原文が同一表記のページ (四字熟語など) は title がそのまま
+				// ファイル名と一致する。この場合ラベルは title であって欠陥ではない。
+				const target = path.join(JA_DIR, m[2].split("#")[0].replace(/^\/ja\//, "") + ".md");
+				if (frontmatterTitle(target) === label) continue;
+				hits.push({ file: rel, line: idx + 1, label, stem });
 			}
 		});
 	return hits;

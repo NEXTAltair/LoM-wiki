@@ -501,7 +501,7 @@ tags:
 			<td>-</td>
 			<td>
 				<MarkdownWrapper>
-				[大師兄刺金](/ja/event/simple/2-09-3-大師兄刺金)<br>
+				[大師兄、刺金行へ発つ](/ja/event/simple/2-09-3-大師兄刺金)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -573,13 +573,13 @@ tags:
 				[唐衫入門 (唐衫拜門)](/ja/event/simple/3-01-1-唐衫拜門)<br>
 				[葉家兄妹の出発 (葉氏兄妹離去)](/ja/event/simple/3-01-1-葉氏兄妹離去)<br>
 				[大師兄の帰郷 (大師兄回歸)](/ja/event/simple/3-01-1-大師兄回歸)<br>
-				[大師兄負傷](/ja/event/simple/3-01-1-大師兄負傷)<br>
+				[大師兄の負傷](/ja/event/simple/3-01-1-大師兄負傷)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
 				[臥雲崗イベント (臥雲崗事件)](/ja/event/simple/3-01-2-臥雲崗事件)<br>
-				[臥雲崗留守](/ja/event/simple/3-01-2-臥雲崗留守)<br>
+				[臥雲崗の留守番](/ja/event/simple/3-01-2-臥雲崗留守)<br>
 				[臥雲崗へ向かう (前往臥雲崗)](/ja/event/simple/3-01-2-前往臥雲崗)<br>
 				</MarkdownWrapper>
 			</td>
@@ -587,7 +587,7 @@ tags:
 				<MarkdownWrapper>
 				[臥雲崗見物 (圍觀臥雲崗)](/ja/event/simple/3-01-3-圍觀臥雲崗)<br>
 				[帰路での襲撃 (回程遇刺)](/ja/event/simple/3-01-3-回程遇刺)<br>
-				[大師兄重傷](/ja/event/simple/3-01-3-大師兄重傷)<br>
+				[大師兄の重傷](/ja/event/simple/3-01-3-大師兄重傷)<br>
 				[後山埋葬 (後山安葬)](/ja/event/simple/3-01-3-後山安葬)<br>
 				[丹薬解毒 (煉丹解毒)](/ja/event/simple/3-01-3-煉丹解毒)<br>
 				[葉雲裳の診察](/ja/event/simple/3-01-4-雲裳問診)<br>
