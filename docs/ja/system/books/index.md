@@ -648,7 +648,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`8005`">江湖鬼蜮錄</BookItemIcon></td>
+        <td><BookItemIcon :no="`8005`">江湖鬼蜮録</BookItemIcon></td>
         <td>石灰粉<br>性情-5<br>道徳-5<br>処世+5</td>
         <td>25</td>
         <td></td>
@@ -656,15 +656,15 @@ tags:
         <td>900</td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`8006`">江湖鬼蜮錄．続</BookItemIcon></td>
+        <td><BookItemIcon :no="`8006`">江湖鬼蜮録・続</BookItemIcon></td>
         <td>核棗釘<br>性情-13<br>心相-10<br></td>
         <td>25</td>
         <td></td>
-        <td>二年十月中旬－唐惟元から購入 ($900)<br>三年四月中旬に販売終了<br>千面人イベント－外門弟子を選び、龍湘の話題で「心配になる」を選択 (江湖鬼蜮錄を所持済み)</td>
+        <td>二年十月中旬－唐惟元から購入 ($900)<br>三年四月中旬に販売終了<br>千面人イベント－外門弟子を選び、龍湘の話題で「心配になる」を選択 (江湖鬼蜮録を所持済み)</td>
         <td>900</td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`8007`">戦神語錄</BookItemIcon></td>
+        <td><BookItemIcon :no="`8007`">戦神語録</BookItemIcon></td>
         <td>弁舌20<br>儒学LV2<br>孟子曰<br>処世-8</td>
         <td>50</td>
         <td>儒学LV2</td>
