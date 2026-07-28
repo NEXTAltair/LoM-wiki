@@ -84,14 +84,14 @@ tags:
 <br><br>
 入門後も悪癖は治らず、[趙活](/ja/people/characters/player)の薪を盗んで努力した振りをしたり、みんなにご飯をおごってから金を持ってないと言ったり、[唐錚](/ja/people/characters/brother2)の指示通りに丹薬を煉らず爆発させたり、師姑の馬に乗って丐幇の犬を踏み殺したり。もっと酷いのは、一度たりとも自分の非を認めたことがない。
 <br><br>
-ある日突然唐門から消えた。もう二度と顔を合わさないと思っていたのに、突然[唐布衣](/ja/people/characters/brother1)に五色泥を投げつけて功を散らし、武林大会上で[釈明](/ja/people/characters/special826)と共に[掌門（唐中翎）](/ja/people/characters/master)が修羅道法王だと中傷。
+ある日突然唐門から消えた。もう二度と顔を合わさないと思っていたのに、突然[唐布衣](/ja/people/characters/brother1)に五色泥を投げつけて功を散らし、武林大会上で[釈明](/ja/people/characters/special826)と共に[掌門](/ja/people/characters/master)が修羅道法王だと中傷。
 <br><br>
 お前は最初から彼を許してはいけなかった。
 
 ## 悪行
 
 -   [趙活](/ja/people/characters/player)を偽装して広州で偽造医薬を売ったり、自称掌門をしたり。
--   [丐幇](/ja/people/factions/beggar-gang)と[嵩山派](/ja/people/factions/mount-song-sect)を煽動して争わせ、[趙活](/ja/people/characters/player)に罪をなすりつけようとした。後に唐錚に捕まったが、[乾娘（唐小樓）](/ja/people/characters/aunt2)のおかげで、[掌門（唐中翎）](/ja/people/characters/master)が彼の罰を代わりに受けた。
+-   [丐幇](/ja/people/factions/beggar-gang)と[嵩山派](/ja/people/factions/mount-song-sect)を煽動して争わせ、[趙活](/ja/people/characters/player)に罪をなすりつけようとした。後に唐錚に捕まったが、[乾娘](/ja/people/characters/aunt2)のおかげで、[掌門](/ja/people/characters/master)が彼の罰を代わりに受けた。
 
 ## 結局
 

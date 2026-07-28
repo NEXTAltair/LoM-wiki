@@ -53,7 +53,7 @@ tags:
 
 ### 結縁対象
 
-結縁対象によって、エンディングシナリオと対応する[風雲史（実績）](/ja/event/achievements/)に差異がある。<br>
+結縁対象によって、エンディングシナリオと対応する[風雲史](/ja/event/achievements/)に差異がある。<br>
 ※武林の伝説の結縁優先度(v1.0.3200.2)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
 
 -   <Girl5Icon>夏侯蘭</Girl5Icon>：<AchievementIcon :size="`small`" :no="`12`">雪山派の大弟子</AchievementIcon>

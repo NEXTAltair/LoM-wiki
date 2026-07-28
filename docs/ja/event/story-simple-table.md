@@ -24,27 +24,27 @@ tags:
 			<td>四月</td>
 			<td>
 				<MarkdownWrapper>
-                [ゲーム開始 (遊戲開局)](/ja/event/simple/1-04-1-遊戲開局)<br> 
-				[最初の夜 (第一晚)](/ja/event/simple/1-04-1-第一晚)<br> 
-				[大師兄唐布衣との初対面 (初識唐布衣)](/ja/event/simple/1-04-1-初識唐布衣)<br>
-				[二師兄唐錚との初対面 (初識唐錚)](/ja/event/simple/1-04-1-初識唐錚)<br>
-				[四師兄唐惟元との初対面 (初識唐惟元)](/ja/event/simple/1-04-1-初識唐惟元)<br>
-				[小師妹の修行 (小師妹練操)](/ja/event/simple/1-04-1-小師妹練操)<br>
-				[大師兄が楽しみを探す (大師兄找樂子)](/ja/event/simple/1-04-1-大師兄找樂子)<br>
-				[後山で人を押す (後山推人)](/ja/event/simple/1-04-1-後山推人)<br>
-				[食い逃げ事件 (霸王餐事件)](/ja/event/simple/1-04-1-霸王餐事件)<br>
-				[怠け者事件 一〜四 (偷懶怪事件)](/ja/event/simple/1-04-1-偷懶怪事件)<br>
-				[四師兄との切磋 (切磋四師兄)](/ja/event/simple/1-04-1-切磋四師兄)<br>
+                [ゲーム開始](/ja/event/simple/1-04-1-遊戲開局)<br> 
+				[最初の夜](/ja/event/simple/1-04-1-第一晚)<br> 
+				[大師兄唐布衣との初対面](/ja/event/simple/1-04-1-初識唐布衣)<br>
+				[二師兄唐錚との初対面](/ja/event/simple/1-04-1-初識唐錚)<br>
+				[四師兄唐惟元との初対面](/ja/event/simple/1-04-1-初識唐惟元)<br>
+				[小師妹の修行](/ja/event/simple/1-04-1-小師妹練操)<br>
+				[大師兄が楽しみを探す](/ja/event/simple/1-04-1-大師兄找樂子)<br>
+				[後山で人を押す](/ja/event/simple/1-04-1-後山推人)<br>
+				[食い逃げ事件](/ja/event/simple/1-04-1-霸王餐事件)<br>
+				[怠け者事件 一〜四](/ja/event/simple/1-04-1-偷懶怪事件)<br>
+				[四師兄との切磋](/ja/event/simple/1-04-1-切磋四師兄)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[仮面の人の導き (蒙面人開導)](/ja/event/simple/1-04-2-蒙面人開導)<br>
+				[仮面の人の導き](/ja/event/simple/1-04-2-蒙面人開導)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[葉氏兄妹との初対面 (初遇葉氏兄妹)](/ja/event/simple/1-04-3-初遇葉氏兄妹)<br>
+				[葉氏兄妹との初対面](/ja/event/simple/1-04-3-初遇葉氏兄妹)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -52,21 +52,21 @@ tags:
 			<td>五月</td>
 			<td>
 				<MarkdownWrapper>
-				[貢献度評点 (貢獻評點)](/ja/event/simple/1-05-1-貢獻評點)<br>
+				[貢献度評点](/ja/event/simple/1-05-1-貢獻評點)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>
 				<MarkdownWrapper>
-				[最初の段階試験 (初次段考)](/ja/event/simple/1-05-3-初次段考)<br>
+				[最初の段階試験](/ja/event/simple/1-05-3-初次段考)<br>
 				</MarkdownWrapper></td>
 		</tr>
 		<tr>
 			<td>六月</td>
 			<td>
 				<MarkdownWrapper>
-				[貢献度評点 (貢獻評點)](/ja/event/simple/1-05-1-貢獻評點)<br>
-				[掌門の手配 (掌門的安排)](/ja/event/simple/1-06-1-掌門的安排)<br>
+				[貢献度評点](/ja/event/simple/1-05-1-貢獻評點)<br>
+				[掌門の手配](/ja/event/simple/1-06-1-掌門的安排)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -76,15 +76,15 @@ tags:
 			<td>七月</td>
 			<td>
 				<MarkdownWrapper>
-				[最初の唐門会議 (初次唐門例會)](/ja/event/simple/1-07-1-初次唐門例會)<br>
-				[広州こぼれ話 (廣州軼聞)](/ja/event/simple/1-07-1-廣州軼聞)<br>
-				[呂翁の取り立て (呂翁討債)](/ja/event/simple/1-07-1-呂翁討債)<br>
+				[最初の唐門会議](/ja/event/simple/1-07-1-初次唐門例會)<br>
+				[広州こぼれ話](/ja/event/simple/1-07-1-廣州軼聞)<br>
+				[呂翁の取り立て](/ja/event/simple/1-07-1-呂翁討債)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>
 				<MarkdownWrapper>
-				[定期段階試験 (唐門段考)](/ja/event/simple/1-07-3-唐門段考)<br>
+				[定期段階試験](/ja/event/simple/1-07-3-唐門段考)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -93,22 +93,22 @@ tags:
 			<td>
 				<li>唐門例会</li>
 				<MarkdownWrapper>
-				[武穆王の宝蔵談義 (談論武穆王寶藏)](/ja/event/simple/1-08-1-談論武穆王寶藏)<br>
-				[葉氏の行方をめぐる騒動 (葉氏行蹤風波)](/ja/event/simple/1-08-1-葉氏行蹤風波)<br>
-				[葉雲裳の体当たり (葉雲裳衝擊)](/ja/event/simple/1-08-1-葉雲裳衝擊)<br>
-				[唐門の財務改善 (唐門財務改善)](/ja/event/simple/1-08-1-唐門財務改善)<br>
+				[武穆王の宝蔵談義](/ja/event/simple/1-08-1-談論武穆王寶藏)<br>
+				[葉氏の行方をめぐる騒動](/ja/event/simple/1-08-1-葉氏行蹤風波)<br>
+				[葉雲裳の体当たり](/ja/event/simple/1-08-1-葉雲裳衝擊)<br>
+				[唐門の財務改善](/ja/event/simple/1-08-1-唐門財務改善)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[偽趙活登場 (假趙活登場)](/ja/event/simple/1-08-2-假趙活登場)<br>
+				[偽趙活登場](/ja/event/simple/1-08-2-假趙活登場)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[晁和の入門 (晁和入門)](/ja/event/simple/1-08-3-晁和入門)<br>
+				[晁和の入門](/ja/event/simple/1-08-3-晁和入門)<br>
 				[晁和搞鬼イベント集](/ja/event/simple/1-08-3-晁和搞鬼事件集)<br>
-				[丐幇と嵩山の喧嘩 (丐幫與嵩山打架)](/ja/event/simple/1-08-3-丐幫與嵩山打架)<br>
+				[丐幇と嵩山の喧嘩](/ja/event/simple/1-08-3-丐幫與嵩山打架)<br>
 				[葉雲裳の診察とお出かけ](/ja/event/simple/1-08-3-雲裳問診出遊)<br>
 				</MarkdownWrapper>
 			</td>
@@ -117,24 +117,24 @@ tags:
 			<td>九月</td>
 			<td>
 				<MarkdownWrapper>
-				[龍湘との出会い (初識龍湘)](/ja/event/simple/1-09-1-初識龍湘)<br>
-				[唐芳師姉の帰還 (唐芳師姉帰還)](/ja/event/simple/2-11-1-唐芳師姉帰還)<br>
+				[龍湘との出会い](/ja/event/simple/1-09-1-初識龍湘)<br>
+				[唐芳師姉の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[四師兄、人手を駆り出す (四師兄抓公差)](/ja/event/simple/1-09-2-四師兄抓公差)<br>
-				[李富貴・樊嘯天との出会い (初識李富貴、樊嘯天)](/ja/event/simple/1-09-2-初識李富貴、樊嘯天)<br>
-				[福韞との出会い (初識福韞)](/ja/event/simple/1-09-2-初識福韞)<br>
-				[仏法教育 (佛法教育)](/ja/event/simple/1-09-2-佛法教育)<br>
+				[四師兄、人手を駆り出す](/ja/event/simple/1-09-2-四師兄抓公差)<br>
+				[李富貴・樊嘯天との出会い](/ja/event/simple/1-09-2-初識李富貴、樊嘯天)<br>
+				[福韞との出会い](/ja/event/simple/1-09-2-初識福韞)<br>
+				[仏法教育](/ja/event/simple/1-09-2-佛法教育)<br>
 				[龍湘、盗難に遭う](/ja/event/simple/1-09-2-龍湘遭竊)<br>
-				[龍湘の告発 (龍湘告官)](/ja/event/simple/1-09-3-龍湘告官)<br>
+				[龍湘の告発](/ja/event/simple/1-09-3-龍湘告官)<br>
 				[紙札遊戯の対決](/ja/event/simple/1-09-2-紙牌對決)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[定期段階試験 (唐門段考)](/ja/event/simple/1-07-3-唐門段考)<br>
+				[定期段階試験](/ja/event/simple/1-07-3-唐門段考)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -147,7 +147,7 @@ tags:
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[夔州へ出発 (出發夔州)](/ja/event/simple/1-10-2-出發夔州)<br>
+				[夔州へ出発](/ja/event/simple/1-10-2-出發夔州)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -156,9 +156,9 @@ tags:
 			<td>十一月</td>
 			<td>
 				<MarkdownWrapper>
-				[譚霸刀を捕捉する (捉拿譚霸刀)](/ja/event/simple/1-11-1-捉拿譚霸刀)<br>
-				[江陵に初到着 (初到江陵)](/ja/event/simple/1-11-1-初到江陵)<br>
-				[寿宴へ出発 (啟程赴壽宴)](/ja/event/simple/1-11-1-啟程赴壽宴)<br>
+				[譚霸刀を捕捉する](/ja/event/simple/1-11-1-捉拿譚霸刀)<br>
+				[江陵に初到着](/ja/event/simple/1-11-1-初到江陵)<br>
+				[寿宴へ出発](/ja/event/simple/1-11-1-啟程赴壽宴)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -168,7 +168,7 @@ tags:
 			<td>十二月</td>
 			<td>
 				<MarkdownWrapper>
-				[南宮寿宴 (南宮壽宴)](/ja/event/simple/1-12-1-南宮壽宴)<br>
+				[南宮寿宴](/ja/event/simple/1-12-1-南宮壽宴)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -193,7 +193,7 @@ tags:
 			<td>-</td>
 			<td>
 				<MarkdownWrapper>
-				[定期段階試験 (唐門段考)](/ja/event/simple/1-07-3-唐門段考)<br>
+				[定期段階試験](/ja/event/simple/1-07-3-唐門段考)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -201,7 +201,7 @@ tags:
 			<td>二月</td>
 			<td>
 				<MarkdownWrapper>
-				[留学について (留學討論)](/ja/event/simple/2-02-1-留學討論)<br>
+				[留学について](/ja/event/simple/2-02-1-留學討論)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -211,7 +211,7 @@ tags:
 			<td>三月</td>
 			<td>
 				<MarkdownWrapper>
-				[留学生の来訪 (留學生來訪)](/ja/event/simple/2-03-1-留學生來訪)<br>
+				[留学生の来訪](/ja/event/simple/2-03-1-留學生來訪)<br>
 				[留学生の乱闘](/ja/event/simple/2-02-2-留學生鬥毆)<br>
 				</MarkdownWrapper>
 				<li>唐門例会</li>
@@ -219,7 +219,7 @@ tags:
 			<td>-</td>
 			<td>
                 <MarkdownWrapper>
-				[唐門の幽霊 (唐門鬧鬼)](/ja/event/simple/2-03-3-唐門鬧鬼)<br>
+				[唐門の幽霊](/ja/event/simple/2-03-3-唐門鬧鬼)<br>
 				</MarkdownWrapper>
             </td>
 		</tr>
@@ -239,8 +239,8 @@ tags:
 			<td>五月</td>
 			<td>
 				<MarkdownWrapper>
-				[複数の人が弟子入りする (多人拜師)](/ja/event/simple/2-05-1-多人拜師)<br>
-				[峨眉の女傑 狄傲 (峨嵋狄傲)](/ja/event/simple/2-05-1-峨嵋狄傲)<br>
+				[複数の人が弟子入りする](/ja/event/simple/2-05-1-多人拜師)<br>
+				[峨眉の女傑 狄傲](/ja/event/simple/2-05-1-峨嵋狄傲)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -307,13 +307,13 @@ tags:
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[派閥宣戦 (門派宣戰)](/ja/event/simple/2-12-2-門派宣戰)<br>
+				[派閥宣戦](/ja/event/simple/2-12-2-門派宣戰)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[掌門会議 (掌門議事)](/ja/event/simple/2-12-3-掌門議事)<br>
-				[唐門内戦 (唐門內戰)](/ja/event/simple/2-12-3-唐門內戰)<br>
+				[掌門会議](/ja/event/simple/2-12-3-掌門議事)<br>
+				[唐門内戦](/ja/event/simple/2-12-3-唐門內戰)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -378,19 +378,19 @@ tags:
 			<td>十二月</td>
 			<td>
 				<MarkdownWrapper>
-				[大師兄、刺金行の顛末 (大師兄刺金行)](/ja/event/simple/2-12-1-大師兄刺金行)<br>
+				[大師兄、刺金行の顛末](/ja/event/simple/2-12-1-大師兄刺金行)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
 				中旬に他ルートと同じ本編へ合流<br>
-				[派閥宣戦 (門派宣戰)](/ja/event/simple/2-12-2-門派宣戰)<br>
+				[派閥宣戦](/ja/event/simple/2-12-2-門派宣戰)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[掌門会議 (掌門議事)](/ja/event/simple/2-12-3-掌門議事)<br>
-				[唐門内戦 (唐門內戰)](/ja/event/simple/2-12-3-唐門內戰)<br>
+				[掌門会議](/ja/event/simple/2-12-3-掌門議事)<br>
+				[唐門内戦](/ja/event/simple/2-12-3-唐門內戰)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -413,7 +413,7 @@ tags:
 			<td>-</td>
 			<td>
 				<MarkdownWrapper>
-				[定期段階試験 (唐門段考)](/ja/event/simple/1-07-3-唐門段考)<br>
+				[定期段階試験](/ja/event/simple/1-07-3-唐門段考)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -421,7 +421,7 @@ tags:
 			<td>二月</td>
 			<td>
 				<MarkdownWrapper>
-				[留学について (留學討論)](/ja/event/simple/2-02-1-留學討論)<br>
+				[留学について](/ja/event/simple/2-02-1-留學討論)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -431,13 +431,13 @@ tags:
 			<td>三月</td>
 			<td>
 				<MarkdownWrapper>
-				[崆峒への留学 (崆峒留學)](/ja/event/simple/2-03-1-崆峒留學)<br>
-				[鉄拳小路へ初潜入 (初入鐵拳巷)](/ja/event/simple/2-03-1-初入鐵拳巷)<br>
+				[崆峒への留学](/ja/event/simple/2-03-1-崆峒留學)<br>
+				[鉄拳小路へ初潜入](/ja/event/simple/2-03-1-初入鐵拳巷)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[鶴が外出する (鶴手出遊)](/ja/event/simple/2-03-2-鶴手出遊)<br>
+				[鶴が外出する](/ja/event/simple/2-03-2-鶴手出遊)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -446,11 +446,11 @@ tags:
 			<td>四月</td>
 			<td>
 				<MarkdownWrapper>
-				[衣服が盗まれる (衣服遭竊)](/ja/event/simple/2-04-1-衣服遭竊)<br>
-				[奪魄森林イベント集 (奪魄森林事件集)](/ja/event/simple/2-04-1-奪魄森林事件集)<br>
-				[修練に気が散る (練功分心)](/ja/event/simple/2-04-1-練功分心)<br>
-				[崆峒での強盗 (崆峒搶劫)](/ja/event/simple/2-04-1-崆峒搶劫)<br>
-				[隠蔽地での衝突 (窩居衝突)](/ja/event/simple/2-04-1-窩居衝突)<br>
+				[衣服が盗まれる](/ja/event/simple/2-04-1-衣服遭竊)<br>
+				[奪魄森林イベント集](/ja/event/simple/2-04-1-奪魄森林事件集)<br>
+				[修練に気が散る](/ja/event/simple/2-04-1-練功分心)<br>
+				[崆峒での強盗](/ja/event/simple/2-04-1-崆峒搶劫)<br>
+				[隠蔽地での衝突](/ja/event/simple/2-04-1-窩居衝突)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -520,7 +520,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[小梅が訪ねてくる](/ja/event/simple/2-10-3-小梅上門)<br>
-				[虞小梅がらみのランダムイベント (虞小梅相關)](/ja/event/simple/2-10-3-虞小梅相關)<br>
+				[虞小梅がらみのランダムイベント](/ja/event/simple/2-10-3-虞小梅相關)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -537,18 +537,18 @@ tags:
 			<td>
 				<li>唐門例会</li>
 				<MarkdownWrapper>
-				[大師兄、刺金行の顛末 (大師兄刺金行)](/ja/event/simple/2-12-1-大師兄刺金行)<br>
+				[大師兄、刺金行の顛末](/ja/event/simple/2-12-1-大師兄刺金行)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[派閥宣戦 (門派宣戰)](/ja/event/simple/2-12-2-門派宣戰)<br>
+				[派閥宣戦](/ja/event/simple/2-12-2-門派宣戰)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[掌門会議 (掌門議事)](/ja/event/simple/2-12-3-掌門議事)<br>
-				[唐門内戦 (唐門內戰)](/ja/event/simple/2-12-3-唐門內戰)<br>
+				[掌門会議](/ja/event/simple/2-12-3-掌門議事)<br>
+				[唐門内戦](/ja/event/simple/2-12-3-唐門內戰)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -570,26 +570,26 @@ tags:
 			<td>
 				<li>唐門例会</li>
 				<MarkdownWrapper>
-				[唐衫入門 (唐衫拜門)](/ja/event/simple/3-01-1-唐衫拜門)<br>
-				[葉家兄妹の出発 (葉氏兄妹離去)](/ja/event/simple/3-01-1-葉氏兄妹離去)<br>
-				[大師兄の帰郷 (大師兄回歸)](/ja/event/simple/3-01-1-大師兄回歸)<br>
+				[唐衫入門](/ja/event/simple/3-01-1-唐衫拜門)<br>
+				[葉家兄妹の出発](/ja/event/simple/3-01-1-葉氏兄妹離去)<br>
+				[大師兄の帰郷](/ja/event/simple/3-01-1-大師兄回歸)<br>
 				[大師兄の負傷](/ja/event/simple/3-01-1-大師兄負傷)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[臥雲崗イベント (臥雲崗事件)](/ja/event/simple/3-01-2-臥雲崗事件)<br>
+				[臥雲崗イベント](/ja/event/simple/3-01-2-臥雲崗事件)<br>
 				[臥雲崗の留守番](/ja/event/simple/3-01-2-臥雲崗留守)<br>
-				[臥雲崗へ向かう (前往臥雲崗)](/ja/event/simple/3-01-2-前往臥雲崗)<br>
+				[臥雲崗へ向かう](/ja/event/simple/3-01-2-前往臥雲崗)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[臥雲崗見物 (圍觀臥雲崗)](/ja/event/simple/3-01-3-圍觀臥雲崗)<br>
-				[帰路での襲撃 (回程遇刺)](/ja/event/simple/3-01-3-回程遇刺)<br>
+				[臥雲崗見物](/ja/event/simple/3-01-3-圍觀臥雲崗)<br>
+				[帰路での襲撃](/ja/event/simple/3-01-3-回程遇刺)<br>
 				[大師兄の重傷](/ja/event/simple/3-01-3-大師兄重傷)<br>
-				[後山埋葬 (後山安葬)](/ja/event/simple/3-01-3-後山安葬)<br>
-				[丹薬解毒 (煉丹解毒)](/ja/event/simple/3-01-3-煉丹解毒)<br>
+				[後山埋葬](/ja/event/simple/3-01-3-後山安葬)<br>
+				[丹薬解毒](/ja/event/simple/3-01-3-煉丹解毒)<br>
 				[葉雲裳の診察](/ja/event/simple/3-01-4-雲裳問診)<br>
 				</MarkdownWrapper>
 			</td>
@@ -599,7 +599,7 @@ tags:
 			<td>
 				<li>唐門例会</li>
 				<MarkdownWrapper>
-				[一時の平穏 (一波暫平)](/ja/event/simple/3-02-1-一波暫平)<br>
+				[一時の平穏](/ja/event/simple/3-02-1-一波暫平)<br>
 				[正心修身](/ja/event/simple/3-02-1-正心修身)<br>
 				</MarkdownWrapper>
 			</td>
@@ -612,7 +612,7 @@ tags:
 				<li>唐門例会</li>
 				<MarkdownWrapper>
 				[飛石幇解戦](/ja/event/simple/3-03-1-飛石幫解戰)<br>
-				[猿酒 (猴兒酒)](/ja/event/simple/3-03-1-猴兒酒)<br>
+				[猿酒](/ja/event/simple/3-03-1-猴兒酒)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -679,7 +679,7 @@ tags:
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[雪山の約束 (雪山之約)](/ja/event/simple/3-07-2-雪山之約)<br>
+				[雪山の約束](/ja/event/simple/3-07-2-雪山之約)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -733,10 +733,10 @@ tags:
 			<td>十一月</td>
 			<td>
 				<MarkdownWrapper>
-				<li>[唐門に帰る (回到唐門)](/ja/event/detailed_description/3-11-1-回到唐門#唐門に帰る-回到唐門)</li>
-				<li>[弟子が暇乞いする (弟子想告辭)](/ja/event/detailed_description/3-11-1-回到唐門#弟子が暇乞いする-弟子想告辭)</li>
-				<li>[四師兄が帰る (四師兄歸來)](/ja/event/detailed_description/3-11-1-回到唐門#四師兄が帰る-四師兄歸來)</li>
-				<li>[覚醒夢 (清醒夢)](/ja/event/simple/3-11-1-清醒夢)</li>
+				<li>[唐門に帰る](/ja/event/detailed_description/3-11-1-回到唐門#唐門に帰る-回到唐門)</li>
+				<li>[弟子が暇乞いする](/ja/event/detailed_description/3-11-1-回到唐門#弟子が暇乞いする-弟子想告辭)</li>
+				<li>[四師兄が帰る](/ja/event/detailed_description/3-11-1-回到唐門#四師兄が帰る-四師兄歸來)</li>
+				<li>[覚醒夢](/ja/event/simple/3-11-1-清醒夢)</li>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -833,7 +833,7 @@ tags:
 		<tr>
 			<td>
 				<MarkdownWrapper>
-				[心変わりの夢 (變心夢)](/ja/event/simple/1-06-1-變心夢)<br>
+				[心変わりの夢](/ja/event/simple/1-06-1-變心夢)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>心変わり(變心)が10に到達するたび発生(繰り返しあり)</td>

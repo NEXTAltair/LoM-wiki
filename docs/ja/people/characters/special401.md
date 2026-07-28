@@ -90,7 +90,7 @@ aside: false
 ## 江陵圍城
 
 -   実は[泥教](/ja/people/factions/mud-school)の畜生道法王である。
--   武林を団結させて官民の心を合わせるために、江陵包囲という一つの芝居を仕組んだ。[丐幇](/ja/people/factions/beggar-gang)に江陵を包囲させることで、各地の俠士たちが救援に駆けつけるようにしたのだ。一方、これは[天道法王（車軒轅）](/ja/people/characters/special409)を試すためでもあった。  
+-   武林を団結させて官民の心を合わせるために、江陵包囲という一つの芝居を仕組んだ。[丐幇](/ja/people/factions/beggar-gang)に江陵を包囲させることで、各地の俠士たちが救援に駆けつけるようにしたのだ。一方、これは[天道法王](/ja/people/characters/special409)を試すためでもあった。  
 -   江陵決戦では一人で大勢の敵に立ち向かい、数十名の江湖の手練れと力戦したが、敵わない者はいなかった。
 -   金剛神槍指を錬成し、江陵決戦では一指で[瑞笙](/ja/people/characters/special999)を退かせた。
 -   さらに戦いを申し出て[南宮遠](/ja/people/characters/special101)を呼び出し、二人はようやく再び相見えることになった。

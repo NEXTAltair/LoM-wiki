@@ -104,6 +104,6 @@ aside: false
 - かつて[旧魔教の教主](/ja/people/characters/other7)と百余合を打ち合い、勝負がつかなかった。
 - 唐門包囲時に出場の機会があり、十年の約を果たすために来たと言う。
 - 前半生を仏道に生き、[趙活](/ja/people/characters/player)とも旧知の仲なので、手加減はしてくれる。それでも無防備のまま万里先輩の平手打ちを食らえば、頭が3回転してその場で昇天する。手加減といっても「頭4回転が3回転に弱まる」程度である。[^1]
-- [南宮の御大 (南宮橫)](/ja/people/characters/special104)とは旧交があり、[南宮深](/ja/people/characters/special102)が眉を曇らせているのを見て、若い頃の南宮橫にそっくりだと思い、手を貸すことに決めた。
+- [南宮の御大](/ja/people/characters/special104)とは旧交があり、[南宮深](/ja/people/characters/special102)が眉を曇らせているのを見て、若い頃の南宮橫にそっくりだと思い、手を貸すことに決めた。
 
 [^1]: Facebook－[原始鳥熊2022/5/28](https://www.facebook.com/obbstudio/posts/pfbid0eCugXSVT3rj6YvRCXSRnAf9Mch2t2SQCUnpkyZU5XF5jnzhcF7G5AeD6bsZ4Zk31l)

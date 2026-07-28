@@ -109,11 +109,11 @@ tags:
 
 本名は蘇迎香。[錦香宮](/ja/people/factions/jin-xiang-palace)の主人で、[龍湘](/ja/people/characters/girl8)の師匠。琴曲や琵琶曲で音波功を使い、人を治療したり敵を傷つけたりする。内功は温氏兄妹から習い、極楽教の魔琴功を組み合わせて独自の流派を作った。[錦香宮](/ja/people/factions/jin-xiang-palace)を一から打ち立て、世間の偏見で苦しむ可哀そうな女性たちを受け入れた。手腕は鉄の鎖で川を封じるほど厳格で、江湖の人々で彼女を畏れない者はいない。
 <br><br>
-[奪魄幽蘭（夏侯蘭）](/ja/people/characters/girl5)が現れる前、かつて江湖第一の美女だった。[上官隼](/ja/people/characters/special407)とは子どもの頃からの知り合い。生来放蕩な上官隼はいつも友人を連れて彼女をからかった。楽坊で働く彼女は楽坊の教えから臆病で気が弱く、この富豪の息子が怖かった。大人になると、上官隼は彼女がますます美しく優雅になるのを見て、幾度も楽坊に圧力をかけて人を出すよう要求した。その時に少年[南宮遠](/ja/people/characters/special101)がヒーローよろしく彼女を救い、美しい女性の好意を勝ち取ったのだ。
+[奪魄幽蘭](/ja/people/characters/girl5)が現れる前、かつて江湖第一の美女だった。[上官隼](/ja/people/characters/special407)とは子どもの頃からの知り合い。生来放蕩な上官隼はいつも友人を連れて彼女をからかった。楽坊で働く彼女は楽坊の教えから臆病で気が弱く、この富豪の息子が怖かった。大人になると、上官隼は彼女がますます美しく優雅になるのを見て、幾度も楽坊に圧力をかけて人を出すよう要求した。その時に少年[南宮遠](/ja/people/characters/special101)がヒーローよろしく彼女を救い、美しい女性の好意を勝ち取ったのだ。
 <br><br>
-しかし結局のところ、それは一場の夢と消えた。[南宮遠](/ja/people/characters/special101)は親友[温無畏](/ja/people/characters/other13)が傷を負い床に伏せているのを見て心が痛み、恨みを抱いたまま人生を終わるのが耐えられず、迎香を彼に譲った。こうして二十年間の隔絶が続くことになった。[王二壮（王春曉）](/ja/people/characters/special401)はこのため出家して僧になった。[上官隼](/ja/people/characters/special407)も恋愛に心を閉ざした。[温無畏](/ja/people/characters/other13)が亡くなった後、[南宮遠](/ja/people/characters/special101)は錦香閣に彼女を訪ねに来た。よりを戻すことは求めずただ償いを願っているだけだったが、彼女は許さず、迷薬と琴の音で彼の心を乱し、醜い女との関係を持たせて[南宮淺](/ja/people/characters/special103)を生ませたのだ。
+しかし結局のところ、それは一場の夢と消えた。[南宮遠](/ja/people/characters/special101)は親友[温無畏](/ja/people/characters/other13)が傷を負い床に伏せているのを見て心が痛み、恨みを抱いたまま人生を終わるのが耐えられず、迎香を彼に譲った。こうして二十年間の隔絶が続くことになった。[王二壮](/ja/people/characters/special401)はこのため出家して僧になった。[上官隼](/ja/people/characters/special407)も恋愛に心を閉ざした。[温無畏](/ja/people/characters/other13)が亡くなった後、[南宮遠](/ja/people/characters/special101)は錦香閣に彼女を訪ねに来た。よりを戻すことは求めずただ償いを願っているだけだったが、彼女は許さず、迷薬と琴の音で彼の心を乱し、醜い女との関係を持たせて[南宮淺](/ja/people/characters/special103)を生ませたのだ。
 <br><br>
-その後、[龍淵](/ja/people/characters/special2)は片腕を失い隠れて別の名を名乗り、彼女は彼の娘[龍湘](/ja/people/characters/girl8)を弟子に迎えた。[王二壮（王春曉）](/ja/people/characters/special401)は丐幇に入門した後、彼女のもとに戻ってきた。しかし彼女は一生で一人の人しか愛することができず、彼と異性の兄妹の関係を結んだ。
+その後、[龍淵](/ja/people/characters/special2)は片腕を失い隠れて別の名を名乗り、彼女は彼の娘[龍湘](/ja/people/characters/girl8)を弟子に迎えた。[王二壮](/ja/people/characters/special401)は丐幇に入門した後、彼女のもとに戻ってきた。しかし彼女は一生で一人の人しか愛することができず、彼と異性の兄妹の関係を結んだ。
 <br><br>
 [瑞杏](/ja/people/characters/girl1)が十一歳の時、宮殿を師への礼として人心について学ぶことを願い出てきた。彼女はこれに乗じて[錦香宮](/ja/people/factions/jin-xiang-palace)を打ち立てた。たとえ[瑞杏](/ja/people/characters/girl1)が彼女を師と呼んでも、二人の間に師弟としての情はない。
 <br><br>
@@ -136,7 +136,7 @@ tags:
 ## 備考
 
 -   [上官隼](/ja/people/characters/special407)によれば、彼女は罪人の遺児だという。
--   [上官隼](/ja/people/characters/special407)：「蘇迎香。あなたが心を[南宮遠](/ja/people/characters/special101)に、体を[温無畏](/ja/people/characters/other13)に、二十年の友情を[王二壮（王春曉）](/ja/people/characters/special401)に捧げたなら、命を私に官位購入金として与えてくれ。これがあなたが俺に借りているものだ。」
+-   [上官隼](/ja/people/characters/special407)：「蘇迎香。あなたが心を[南宮遠](/ja/people/characters/special101)に、体を[温無畏](/ja/people/characters/other13)に、二十年の友情を[王二壮](/ja/people/characters/special401)に捧げたなら、命を私に官位購入金として与えてくれ。これがあなたが俺に借りているものだ。」
 -   [画中仙](/ja/people/characters/special813)とはかつてそれぞれ別の主人に仕えていた関係だった。[瑞杏](/ja/people/characters/girl1)によってようやく仲直りすることができた。
 -   [明玉](/ja/people/characters/other18)、[画中仙](/ja/people/characters/special813)あるいは[龍湘](/ja/people/characters/girl8)、[盛雪](/ja/people/characters/other12)はみな攻防一体の二人絹法と剣法を習得して、護衛の最高の人選だった。ただし残念なことに、風雨山の変のときに離散させられ、そのため[上官隼](/ja/people/characters/special407)に敗北してしまった。
 -   もし風雨山の変がなければ、[錦香宮](/ja/people/factions/jin-xiang-palace)を解散した後、東北へ遠く去り、長白山の西で長く年を重ねる計画だった。

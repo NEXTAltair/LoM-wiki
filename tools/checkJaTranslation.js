@@ -7,7 +7,7 @@
 //   CONTROL    制御文字が混入している行数 (一括置換スクリプトの事故検出)
 //   RAW_LINK   <td> 内で MarkdownWrapper に囲まれていない Markdown リンクの行数
 //   TABLE      Markdown テーブルの見出し行と区切り行で列数が食い違っている箇所
-//   LABEL      リンクテキストにページのファイル名 (原文中国語) を使っている箇所
+//   LABEL      リンクテキストがリンク先ページの title と食い違っている箇所
 //
 // 上位6つが 0、TABLE/LABEL が基準値以下で exit 0。
 //
@@ -81,7 +81,9 @@ const STALE_TERMS = [
 const BASELINE = {
 	// 2026-07-28 に既存分を全て解消したので 0。増えたら落ちる。
 	TABLE: 0,
-	LABEL: 0,
+	// LABEL は判定を「ファイル名と同一か」から「title と一致するか」に広げたため、
+	// 言い換えラベル等の既存分が残っている。直した分だけ下げる。
+	LABEL: 340,
 };
 
 const STALE_TERM_EXEMPT_FILES = new Set([
@@ -393,10 +395,18 @@ function scanTableShape(file) {
 }
 
 /**
- * LABEL: リンクテキストにページのファイル名 (原文中国語) をそのまま使っているものを検出する。
+ * LABEL: リンクテキストがリンク先ページの title と食い違っているものを検出する。
  *
- * ファイル名の中国語は3ロケールでパスを揃えるための識別子であって、読者に見せる名前ではない。
- * リンクテキストにはリンク先ページの frontmatter title を使う。
+ * リンクテキストにはリンク先の frontmatter title を使う。ファイル名の中国語は
+ * 3ロケールでパスを揃えるための識別子であって読者に見せる名前ではないし、
+ * 書き手がその場で言い換えた名前はページ名と読者の中で結びつかない。
+ *
+ * 比較時に落とすもの:
+ *   - title 末尾の括弧書き (「衆人の決断 (眾人的決策)」の原文併記、
+ *     「龍湘 (リュウショウ)」の読み)。リンクテキストには入れない
+ *   - ラベル両端の飾り記号 《》〈〉「」『』 (秘笈名を《》で囲む等)
+ *
+ * 節へのリンク (#見出し) はラベルが節名になるのが正しいので対象外。
  */
 function frontmatterTitle(file) {
 	if (!fs.existsSync(file)) return null;
@@ -406,10 +416,21 @@ function frontmatterTitle(file) {
 	return null;
 }
 
-function scanFilenameLabels(file) {
+/** title 末尾の括弧書き (原文併記・読み) を落とす */
+function titleForLabel(title) {
+	const m = title.match(/^(.+?)\s*[(（]([^)）]+)[)）]$/);
+	return m ? m[1].trim() : title;
+}
+
+/** ラベル両端の飾り記号を落とす */
+function undecorate(label) {
+	return label.replace(/^[《〈「『]/, "").replace(/[》〉」』]$/, "");
+}
+
+function scanLinkLabels(file) {
 	const rel = path.relative(ROOT, file);
 	const hits = [];
-	const LINK = /\[([^\]\n]+)\]\((\/ja\/[^)\s]+)\)/g;
+	const LINK = /\[([^\]\n]+)\]\((\/ja\/[^)\s#]+)(#[^)\s]*)?\)/g;
 	let inFence = false;
 	fs.readFileSync(file, "utf8")
 		.split("\n")
@@ -422,16 +443,15 @@ function scanFilenameLabels(file) {
 			let m;
 			LINK.lastIndex = 0;
 			while ((m = LINK.exec(line))) {
+				if (m[3]) continue; // 節へのリンクはラベルが節名
 				const label = m[1];
-				const stem = path.basename(m[2].split("#")[0]);
-				// 年-月-旬 の接頭辞を外した形もファイル名扱いにする
-				const bare = stem.replace(/^\d+-\d+-\d+-/, "");
-				if (label !== stem && label !== bare) continue;
-				// 訳と原文が同一表記のページ (四字熟語など) は title がそのまま
-				// ファイル名と一致する。この場合ラベルは title であって欠陥ではない。
-				const target = path.join(JA_DIR, m[2].split("#")[0].replace(/^\/ja\//, "") + ".md");
-				if (frontmatterTitle(target) === label) continue;
-				hits.push({ file: rel, line: idx + 1, label, stem });
+				const target = path.join(JA_DIR, m[2].replace(/^\/ja\//, "") + ".md");
+				const title = frontmatterTitle(target);
+				if (!title) continue;
+				const want = titleForLabel(title);
+				const got = undecorate(label);
+				if (got === want || got === title || label === want || label === title) continue;
+				hits.push({ file: rel, line: idx + 1, label, want });
 			}
 		});
 	return hits;
@@ -470,7 +490,7 @@ function main() {
 	const controls = files.flatMap((f) => scanControlChars(f));
 	const rawLinks = files.flatMap((f) => scanRawLinks(f));
 	const tables = files.flatMap((f) => scanTableShape(f));
-	const labels = files.flatMap((f) => scanFilenameLabels(f));
+	const labels = files.flatMap((f) => scanLinkLabels(f));
 
 	console.log(`MISSING: ${missing.length}`);
 	console.log(`STALE: ${stale.length}`);
@@ -504,9 +524,9 @@ function main() {
 		(x) => `${x.file}:${x.line} 見出し${x.head}列 / 区切り${x.delim}列`,
 	);
 	show(
-		"LABEL: リンクテキストがファイル名のまま (リンク先ページの title を使う)",
+		"LABEL: リンクテキストがリンク先の title と不一致",
 		labels,
-		(x) => `${x.file}:${x.line} [${x.label}] → ${x.stem}`,
+		(x) => `${x.file}:${x.line} [${x.label}] → title は「${x.want}」`,
 	);
 
 	const ok =
