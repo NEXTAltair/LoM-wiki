@@ -67,7 +67,7 @@ tags:
 
 青城留学中、[鉄冠道人](/ja/people/characters/special212)に化身して[葉雲裳](/ja/people/characters/girl2)の体に九泉丹の気があることを発見し、彼女を人丹として[教主](/ja/people/characters/special405)に献上する目論見で、[唐默鈴](/ja/people/characters/girl0)の招親の日に出撃。[趙活](/ja/people/characters/player)と[段智秀](/ja/people/characters/special833)に阻止され、[唐門](/ja/people/factions/tang-men)の谷底に落下。谷底十日、生きながら動かず、[趙活](/ja/people/characters/player)と葉雲裳二人の CP に磕頭し、世に真情ありと直言。
 <br><br>
-趙活が顔醜いのに努力を怠らないのを見て、非常に気に入らず、趙活が自分の生存意義を否定したと考え、共戴天の仇と見なした。西武林の一役で現身して、これを殺したくて堪らない。最後に[趙活](/ja/people/characters/player)、[鄒博](/ja/people/characters/special201)、[趙逵](/ja/people/characters/special403)三人の合力に敗れた。
+趙活が顔が醜いのに努力を怠らないのを見て、非常に気に入らず、趙活が自分の生存意義を否定したと考え、共戴天の仇と見なした。西武林の一役で現身して、これを殺したくて堪らない。最後に[趙活](/ja/people/characters/player)、[鄒博](/ja/people/characters/special201)、[趙逵](/ja/people/characters/special403)三人の合力に敗れた。
 
 ## 備考
 

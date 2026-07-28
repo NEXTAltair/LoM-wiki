@@ -145,4 +145,4 @@ aside: false
 
 [^1]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^2]: Youtube－[【独占配信】話題神作《活俠傳》幕後解秘！製作団隊的首次直播訪談！ft.鳥、熊、幽火](https://www.youtube.com/watch?v=JkSfhSi3P8w)
-[^3]: 遊戯角落－[専訪原始鳥熊（2）《活俠傳》的安科精神——随機堆砌終成武林伝奇](https://game.udn.com/game/story/122090/8114531)
+[^3]: 遊戯角落－[専訪原始鳥熊（2）《活俠傳》的安科精神——ランダム堆砌終成武林伝奇](https://game.udn.com/game/story/122090/8114531)

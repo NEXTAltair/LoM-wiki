@@ -55,7 +55,7 @@ tags:
    + その他の結果：
      + **📖選項「全力で突破」**：⚔️混戦、勝敗は問わない。
      + **📖選項「一人も残さない」**：⚔️混戦、勝利必須→⚔️混戦、勝敗は問わない。
-6. 🗡️武林盟主[瑞笙](/ja/people/characters/special999)との決闘、勝利後、より優先度の高いキャラクターと結縁していない場合、結局に進入。
+6. 🗡️武林盟主[瑞笙](/ja/people/characters/special999)との決闘、勝利後、より優先度の高いキャラクターと結縁していない場合、ENDに進入。
    + ※唐門滅亡結局の結縁優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
 
 ## 分岐と変化
@@ -64,5 +64,5 @@ tags:
 影響範囲の確認待ち。
 
 ## 備考
-鳥熊が希に誤字を残した結局、  
+鳥熊が稀に誤字を残したEND。  
 極度に甘やかす ~~膩~~ 溺 

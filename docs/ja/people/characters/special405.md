@@ -109,7 +109,6 @@ aside: false
 -   屠龍という名は、[龍淵](/ja/people/characters/special2)を滅ぼしたいという意思を表しているのかもしれない。
 -   すでに人世にいない昔日の宿敵[龍淵](/ja/people/characters/special2)への限りない思慕。
 -   毒がまだ完全に抜けていない[龍湘](/ja/people/characters/girl8)に対して、敵を育てる方針をとる。龍湘が彼女の偉大な[父親](/ja/people/characters/special2)の道を歩み、頂点に達することを願い、将来もう一度決着をつけて、前世の敗北の恥を雪ぐつもりでいる。
--   
 ## 備考
 
 -   鳥熊 Facebook の紹介、[リンク](https://www.facebook.com/photo.php?fbid=443066998246681&id=100076301525150&set=a.165167019370015)

@@ -48,7 +48,7 @@ tags:
    + その他の結果：
      + **📖選項「全力で突破」**：⚔️混戦、勝負は無関係。
      + **📖選項「一人も残さない」**：⚔️混戦、勝利必須→⚔️混戦、勝負は無関係。
-6. 🗡️武林盟主-[瑞笙](/ja/people/characters/special999)との決闘、勝利後、結縁キャラがなく、[唐布衣](/ja/people/characters/brother1)が生存しない場合、結局に進入。
+6. 🗡️武林盟主-[瑞笙](/ja/people/characters/special999)との決闘、勝利後、結縁キャラがなく、[唐布衣](/ja/people/characters/brother1)が生存しない場合、ENDに進入。
 
 ### ※唐布衣生存条件
 ::: details
