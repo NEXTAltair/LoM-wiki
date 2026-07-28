@@ -70,7 +70,7 @@ tags:
 <td>• まず想い人が<Girl2Icon>葉雲裳</Girl2Icon>であることを確認。
     <br>• 📖「廃寺」を選択。</td>
 <td>• このイベント自体は想い人を要求しないが、これ以降は心変わりポイントを得にくくなる。
-    <br>• <Girl2Icon>葉雲裳</Girl2Icon>好感≧30なら、📖「宿場」を選んでも強制的に廃寺行きになる。
+    <br>• <Girl2Icon>葉雲裳</Girl2Icon>好感≧30なら、📖「宿屋」を選んでも強制的に廃寺行きになる。
     <br>• 唐門を出る前に秘笈<MarkdownWrapper>[金剛腿](/ja/system/books/book_4001)</MarkdownWrapper>の購入を検討してもよい(<MarkdownWrapper>[仏学](/ja/system/skill)</MarkdownWrapper>レベル1を得られるが、後にも他の仏学書がある)。
 </td>
 </tr>
@@ -127,7 +127,7 @@ tags:
 </td>
 <td>• <Girl2Icon>葉雲裳</Girl2Icon>好感を稼ぎたい場合、後山での修練で焼き魚イベントを狙うとよい。
     <br>• 剣聖の伝承の必要条件: 内力比べで🎲【<99】「一歩及ばない」を出し、かつ谷底での生活で雑談📜「葉雲裳の武功」を選ぶこと。
-    <br>• スキル<MarkdownWrapper>[南宮護心訣](/ja/system/skill)</MarkdownWrapper>レベル3を持っている場合、幻境の南宮遠との戦闘に勝利すると、スキル<MarkdownWrapper>[偕老の誓い](/ja/system/skill)</MarkdownWrapper>を習得する。
+    <br>• スキル<MarkdownWrapper>[南宮護心訣](/ja/system/skill)</MarkdownWrapper>レベル3を持っている場合、幻境の南宮遠との戦闘に勝利すると、新スキル<MarkdownWrapper>[偕老の誓い](/ja/system/skill)</MarkdownWrapper>に置き換わる。
     <br>• 結縁の過程で、スキル<MarkdownWrapper>[九転輪廻](/ja/system/skill)</MarkdownWrapper>を獲得する。
 </td>
 </tr>
@@ -173,7 +173,8 @@ tags:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 錦香宮: 展開が変化する。
     <br>• <Girl2Icon>葉雲裳</Girl2Icon>が同行する場合:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 道中イベント: 展開が変化する。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 錦香宮: 展開が変化し、華音閣で葉雲裳が琴を習うイベントが追加される(全3回)。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 錦香宮: 展開が変化する。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 錦香宮: 華音閣で葉雲裳が琴を習うイベントが追加され、3回終えると温夫人の展開が発生する。これにより西武林ルートの📖「三師兄を護衛する」で雲裳の琴による支援を得られるため、発生させることを推奨する。
 </td>
 <td>現バージョンでは葉雲舟の同行は<Girl2Icon>葉雲裳</Girl2Icon>との結縁に紐づいているため、葉雲舟側の展開もあわせて記載する。</td>
 </tr>
@@ -188,7 +189,7 @@ tags:
     <br>• <Girl2Icon>葉雲裳</Girl2Icon>が同行する場合:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 展開が変化する。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 投票の結果、唐門が武林の公敵になり、かつ📖「葉雲裳に付き添ってもらう」を選ぶと、<MarkdownWrapper>[風雲史《悪人は悪人が制す (惡人自有惡人磨)》](/ja/event/achievements/#風雲史-No.19)</MarkdownWrapper>を解除できる。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 客桟での休憩時、📖「湯浴み」の後📖「階下で飲む」を選ぶと南渓のイベントが発生し、葉家に関する展開があり、また<MarkdownWrapper>[唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper>や<MarkdownWrapper>[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>で南渓が加勢するため、発生させることを推奨する。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 宿屋での休憩時、📖「湯浴み」の後📖「階下で飲む」を選ぶと南渓のイベントが発生し、葉家に関する展開があり、また<MarkdownWrapper>[唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper>や<MarkdownWrapper>[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>で南渓が加勢するため、発生させることを推奨する。
 </td>
 <td>現バージョンでは葉雲舟の同行は<Girl2Icon>葉雲裳</Girl2Icon>との結縁に紐づいているため、葉雲舟側の展開もあわせて記載する。</td>
 </tr>
@@ -198,7 +199,7 @@ tags:
 <td>3年目12月中旬残り2回の行動</td>
 <td><MarkdownWrapper>[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
 <td>• 📜「葉雲舟に尋ねる」が追加され、武林大会で彼が代表として出場していた場合、<MarkdownWrapper>[同舟剣譜](/ja/system/books/book_2301)</MarkdownWrapper>を入手できる(ただし修練を終えると、以降剣聖の極招を習得できなくなる)。
-    <br>• 唐門解散を決策した場合、女弟子房と男弟子房の展開が変化する。
+    <br>• 唐門解散を決策した場合、女弟子房・男弟子房・煉丹房の展開が変化する。
     <br>• 唐門解散を決策した場合、<MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が<Girl2Icon>葉雲裳</Girl2Icon>バージョンになる。
     <br>• 西武林盟成立を決策した場合、大戦準備期間に多くの展開変化があるが、以下では重要なもののみ記載する。
 </td>
@@ -244,7 +245,8 @@ tags:
 <td>9</td>
 <td>4年目2月中旬残り2回の行動</td>
 <td><MarkdownWrapper>[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
-<td>• <Girl2Icon>葉雲裳</Girl2Icon>が参戦し、各所で展開・戦闘が変化する。
+<td>• 葉雲裳が参加し、展開が変化する。
+    <br>• 錦香宮で<Girl2Icon>葉雲裳</Girl2Icon>が温夫人に琴を習うイベントを発生させていた場合: 葉雲裳が参戦し、各所で戦闘が変化する。
     <br>• 📖「三師兄を護衛する」の2戦目🗡️決闘の終了後、🗡️無相祖師との決闘が発生する。
     <br>• 戦闘後に📜「雲裳があなたを訪ねる」が発生した際、葉雲裳好感≧50かつ条件8の剣聖伝承の条件を満たしていれば、剣聖伝承イベントが解除される。
 </td>
@@ -276,7 +278,7 @@ tags:
 </table>
 
 ## 備考
-• <Girl2Icon>葉雲裳</Girl2Icon>を結縁せずただ生存させたいだけの場合、想い人が葉雲裳以外の状態で条件7を満たせばよい(この場合<MarkdownWrapper>[九転残篇](/ja/system/books/book_8109)</MarkdownWrapper>は入手できない)。
+• <Girl2Icon>葉雲裳</Girl2Icon>を結縁せずただ生存させたいだけの場合、条件1・条件2を満たし、青城に留学せず(条件5参照)、条件7の🎲「葉雲裳の抵抗」と📖「葉雲舟を引き止める」を達成すればよい。ただしこの場合、彼女が再び登場するのは西武林ルートの最終決戦に勝利した時と[汗青書37：唐門の薪火](/ja/event/ends/end-37)の結末のみとなる。
 <br>• このルートは多くの武学の修練を要求し、また金銭を消費する支線イベントも多いため、2周目以降の資源が充実した状態での攻略を推奨する。
 <br>• 本ページは現時点で主に[〈活俠傳イベント及び分岐まとめ〉](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)を参考に執筆しており、まだ繰り返しの検証を経ていない。
 <br>• 唐芳が帰らない不具合(v1.0.5000.13): 2年目1月下旬に条件1を満たし、かつ2月下旬になってから条件2を満たした場合、イベント同士の間隔設定により「唐芳の帰還」イベントが発生しなくなる。ただし唐芳が本ルートの重要な展開を欠席することはない。彼女に関する展開の大半は「唐芳の帰還」の発生を判定条件にしていないためである。
