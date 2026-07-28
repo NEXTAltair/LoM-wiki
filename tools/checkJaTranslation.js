@@ -413,7 +413,8 @@ function scanTableShape(file) {
 	const rel = path.relative(ROOT, file);
 	const hits = [];
 	const countCells = (line) => {
-		let s = line.trim();
+		// \| はリテラルのパイプであってセル区切りではない
+		let s = line.trim().replace(/\\\|/g, "\u0000");
 		if (s.startsWith("|")) s = s.slice(1);
 		if (s.endsWith("|")) s = s.slice(0, -1);
 		return s.split("|").length;
@@ -490,7 +491,10 @@ function scanLinkLabels(file) {
 			while ((m = LINK.exec(line))) {
 				if (m[3]) continue; // 節へのリンクはラベルが節名
 				const label = m[1];
-				const relTarget = m[2].replace(/^\/ja\//, "").replace(/\/$/, "");
+				const relTarget = m[2]
+					.replace(/^\/ja\//, "")
+					.replace(/\/$/, "")
+					.replace(/\.md$/, ""); // /ja/.../brother1.md 形式のリンクにも対応
 				let target = path.join(JA_DIR, relTarget + ".md");
 				// ディレクトリへのリンク (/ja/event/achievements/ 等) は index.md が実体
 				if (!fs.existsSync(target)) {
@@ -559,6 +563,17 @@ function main() {
 		return used > (baseline.get(k) || 0);
 	});
 	if (process.argv.includes("--update-label-baseline")) {
+		// 新規違反が存在する状態での再生成は、その違反を据え置き扱いに繰り込んで
+		// ラチェットを迂回できてしまうため拒否する。初回生成 (baseline 不在) と、
+		// 現在の違反が全て据え置き分に収まっている縮小方向の再生成のみ許可。
+		if (fs.existsSync(LABEL_BASELINE) && newLabels.length > 0) {
+			console.log(
+				`LABEL baseline 再生成を拒否: baseline に無い違反が ${newLabels.length} 件ある。` +
+					"先に新規分を修正すること (検出器の改良で既存違反が新たに見えるようになった場合は、" +
+					"その違反自体を直すか、baseline を一度削除して意図を明示したうえで再生成する)。",
+			);
+			process.exit(1);
+		}
 		const body = labels.map(labelKey).sort().join("\n");
 		fs.writeFileSync(
 			LABEL_BASELINE,
