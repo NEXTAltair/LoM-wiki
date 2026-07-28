@@ -724,6 +724,7 @@ tags:
 				<MarkdownWrapper>
 				<li>[錦香宮主の請願](/ja/event/simple/3-10-1-留宿錦香宮)</li>
 				<li>[武林大会](/ja/event/detailed_description/3-08-2-武林大會)</li>
+				<li>[武林大会からの帰路](/ja/event/detailed_description/3-10-2-武林大會歸途)</li>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -732,11 +733,9 @@ tags:
 			<td>十一月</td>
 			<td>
 				<MarkdownWrapper>
-				<li>[唐門に帰る](/ja/event/detailed_description/3-11-1-四師兄歸來)</li>
-				</MarkdownWrapper>
-				<li>誰かが去る</li>
-				<MarkdownWrapper>
-				<li>[四師兄が帰る (四師兄歸來)](/ja/event/detailed_description/3-11-1-四師兄歸來)</li>
+				<li>[唐門に帰る (回到唐門)](/ja/event/detailed_description/3-11-1-回到唐門#唐門に帰る-回到唐門)</li>
+				<li>[弟子が暇乞いする (弟子想告辭)](/ja/event/detailed_description/3-11-1-回到唐門#弟子が暇乞いする-弟子想告辭)</li>
+				<li>[四師兄が帰る (四師兄歸來)](/ja/event/detailed_description/3-11-1-回到唐門#四師兄が帰る-四師兄歸來)</li>
 				<li>[覚醒夢 (清醒夢)](/ja/event/simple/3-11-1-清醒夢)</li>
 				</MarkdownWrapper>
 			</td>
