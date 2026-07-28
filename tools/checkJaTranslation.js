@@ -114,7 +114,9 @@ function readLabelBaseline() {
 	return set;
 }
 
-const labelKey = (x) => `${x.file}\t${x.label}\t${x.want}`;
+// リンク先パスをキーに含める: 同じ file+ラベル+title でも別ターゲットへの
+// 張り替え (タイトルが同名の別ページが実在する) をすり抜けさせないため
+const labelKey = (x) => `${x.file}\t${x.label}\t${x.want}\t${x.target}`;
 
 const STALE_TERM_EXEMPT_FILES = new Set([
 	"glossary.md", // 対訳表。bad側(旧語=原文)が正しく載るページ
@@ -370,9 +372,15 @@ function scanRawLinks(file) {
 	const LINK = /\[[^\]\n]+\]\(\//g;
 	let td = 0;
 	let wrap = 0; // 行頭時点で開いている MarkdownWrapper の深さ
+	let inFence = false;
 	fs.readFileSync(file, "utf8")
 		.split("\n")
 		.forEach((line, idx) => {
+			if (/^```/.test(line.trim())) {
+				inFence = !inFence;
+				return;
+			}
+			if (inFence) return; // コードフェンス内の <td> 例示は描画されない
 			const openT = (line.match(/<td[ >]/g) || []).length;
 			const closeT = (line.match(/<\/td>/g) || []).length;
 			const inTd = td > 0 || openT > 0;
@@ -495,7 +503,7 @@ function scanLinkLabels(file) {
 				const relTarget = m[2]
 					.replace(/^\/ja\//, "")
 					.replace(/\/$/, "")
-					.replace(/\.md$/, ""); // /ja/.../brother1.md 形式のリンクにも対応
+					.replace(/\.(md|html)$/, ""); // /ja/.../brother1.md や .html 形式のリンクにも対応
 				let target = path.join(JA_DIR, relTarget + ".md");
 				// ディレクトリへのリンク (/ja/event/achievements/ 等) は index.md が実体
 				if (!fs.existsSync(target)) {
@@ -507,7 +515,7 @@ function scanLinkLabels(file) {
 				const want = titleForLabel(title);
 				const got = undecorate(label);
 				if (got === want || got === title || label === want || label === title) continue;
-				hits.push({ file: rel, line: idx + 1, label, want });
+				hits.push({ file: rel, line: idx + 1, label, want, target: path.relative(JA_DIR, target) });
 			}
 		});
 	return hits;
@@ -578,7 +586,7 @@ function main() {
 		const body = labels.map(labelKey).sort().join("\n");
 		fs.writeFileSync(
 			LABEL_BASELINE,
-			"# LABEL 検査の据え置き分 (file\tラベル\tリンク先title)。手編集せず\n" +
+			"# LABEL 検査の据え置き分 (file\tラベル\tリンク先title\tリンク先パス)。手編集せず\n" +
 				"# node tools/checkJaTranslation.js --update-label-baseline で再生成する。\n" +
 				"# 減らす方向の再生成のみ可。増える再生成は新規違反の隠蔽なので禁止。\n" +
 				body + "\n",

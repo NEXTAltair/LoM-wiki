@@ -1,385 +1,386 @@
-# LABEL 検査の据え置き分 (file	ラベル	リンク先title)。手編集せず
+# LABEL 検査の据え置き分 (file	ラベル	リンク先title	リンク先パス)。手編集せず
 # node tools/checkJaTranslation.js --update-label-baseline で再生成する。
 # 減らす方向の再生成のみ可。増える再生成は新規違反の隠蔽なので禁止。
-docs/ja/event/badends/badend-84.md	西武林盟シナリオルートに進む必要がある	衆人の決断
-docs/ja/event/detailed_description/2-08-5-青城療傷.md	廢寺喬装	廃寺の変装者たち
-docs/ja/event/detailed_description/3-08-2-武林大會.md	劉顎	無名
-docs/ja/event/detailed_description/3-11-1-回到唐門.md	溫夫人	温夫人
-docs/ja/event/detailed_description/3-12-1-眾人的決策.md	四師兄遠遊経商	四師兄、商いの長旅へ
-docs/ja/event/detailed_description/3-12-1-眾人的決策.md	四師兄遠遊経商	四師兄、商いの長旅へ
-docs/ja/event/detailed_description/3-12-1-眾人的決策.md	四師兄遠遊経商	四師兄、商いの長旅へ
-docs/ja/event/detailed_description/3-12-1-眾人的決策.md	四師兄遠遊経商	四師兄、商いの長旅へ
-docs/ja/event/detailed_description/3-12-1-眾人的決策.md	四師兄遠遊経商	四師兄、商いの長旅へ
-docs/ja/event/detailed_description/3-12-1-眾人的決策.md	四師兄遠遊経商	四師兄、商いの長旅へ
-docs/ja/event/detailed_description/3-12-1-眾人的決策.md	四師兄遠遊経商	四師兄、商いの長旅へ
-docs/ja/event/detailed_description/3-12-1-眾人的決策.md	四師兄遠遊経商	四師兄、商いの長旅へ
-docs/ja/event/detailed_description/3-12-1-眾人的決策.md	西武林大会	東西武林盟会戦
-docs/ja/event/detailed_description/3-12-1-眾人的決策.md	西武林大会	東西武林盟会戦
-docs/ja/event/detailed_description/3-12-1-眾人的決策.md	飛煙子	観雲客
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	上官準	上官隼
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	上官準	上官隼
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	上官準	上官隼
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	唐大鯨	許大鯨
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	四師兄遠遊経商	四師兄、商いの長旅へ
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	四師兄遠遊経商	四師兄、商いの長旅へ
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	四師兄遠遊経商	四師兄、商いの長旅へ
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	四師兄遠遊経商	四師兄、商いの長旅へ
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	四師兄遠遊経商	四師兄、商いの長旅へ
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	四師兄遠遊経商	四師兄、商いの長旅へ
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	四師兄遠遊経商	四師兄、商いの長旅へ
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	四師兄遠遊経商	四師兄、商いの長旅へ
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	広州唐門来襲	派閥宣戦
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	小師妹の比武招親 前半
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	小師妹の比武招親 前半
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	小師妹の比武招親 前半
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	小師妹の比武招親 前半
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	小師妹の比武招親 前半
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	小師妹の比武招親 前半
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	小師妹の比武招親 前半
-docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	小師妹の比武招親 前半
-docs/ja/event/detailed_description/4-02-2-飛俠歸來.md	唐門圍攻戦	唐門囲攻戦
-docs/ja/event/detailed_description/4-02-2-飛俠歸來.md	武林盟主	瑞笙
-docs/ja/event/detailed_description/4-03-1-眉山決戰.md	唐大鯨	許大鯨
-docs/ja/event/ends/end-24.md	西武林盟を成立できない決断	衆人の決断
-docs/ja/event/ends/end-25.md	西武林盟を成立できない決断	衆人の決断
-docs/ja/event/ends/end-31.md	西武林盟を成立できない決断	衆人の決断
-docs/ja/event/ends/end-32.md	罪を償いたい犯人	譚霸刀
-docs/ja/event/ends/end-35.md	唐惟元が唐門に戻る	四師兄、商いの長旅へ
-docs/ja/event/ends/end-35.md	大義分舵が唐門外姓弟子になる	衆人の決断
-docs/ja/event/ends/end-35.md	大義分舵が唐門外姓弟子になる	衆人の決断
-docs/ja/event/ends/end-35.md	大義分舵が解散	衆人の決断
-docs/ja/event/ends/end-35.md	峨嵋派が武林盟を支援	衆人の決断
-docs/ja/event/ends/end-35.md	峨嵋派が西武林盟を支援	衆人の決断
-docs/ja/event/ends/end-35.md	崆峒派が武林盟を支援	衆人の決断
-docs/ja/event/ends/end-35.md	掌門の牌令を引き継いだ後に罠を設置	衆人の決断
-docs/ja/event/ends/end-35.md	李富貴が丐幇(新派)を説得	衆人の決断
-docs/ja/event/ends/end-35.md	樊咲嫣	樊嘯天
-docs/ja/event/ends/end-35.md	金烏上人が死亡	衆人の決断
-docs/ja/event/ends/end-35.md	錦香宮が西武林盟を支援	衆人の決断
-docs/ja/event/ends/end-35.md	飛石幇が西武林盟を支援	衆人の決断
-docs/ja/event/ends/end-38.md	武林盟主	瑞笙
-docs/ja/event/ends/end-39.md	武林盟主	瑞笙
-docs/ja/event/ends/end-40.md	武林盟主	瑞笙
-docs/ja/event/ends/end-41.md	武林盟主	瑞笙
-docs/ja/event/ends/end-42.md	武林盟主	瑞笙
-docs/ja/event/ends/end-49.md	武林大会	南宮寿宴
-docs/ja/event/ends/end-50.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌
-docs/ja/event/ends/end-50.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌
-docs/ja/event/ends/end-50.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌
-docs/ja/event/ends/end-50.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌
-docs/ja/event/ends/end-51.md	唐大鯨	許大鯨
-docs/ja/event/ends/end-8.md	掌門人	唐中翎
-docs/ja/event/pursuit/girl0.md	《唐門の薪火》	汗青書37：唐門の薪火
-docs/ja/event/pursuit/girl2.md	九転輪廻	技能効果
-docs/ja/event/pursuit/girl2.md	仏学	技能効果
-docs/ja/event/pursuit/girl2.md	仏学	技能効果
-docs/ja/event/pursuit/girl2.md	仏学	技能効果
-docs/ja/event/pursuit/girl2.md	仏学	技能効果
-docs/ja/event/pursuit/girl2.md	仏学	技能効果
-docs/ja/event/pursuit/girl2.md	偕老の誓い	技能効果
-docs/ja/event/pursuit/girl2.md	医術	技能効果
-docs/ja/event/pursuit/girl2.md	医術	技能効果
-docs/ja/event/pursuit/girl2.md	医術	技能効果
-docs/ja/event/pursuit/girl2.md	南宮護心訣	技能効果
-docs/ja/event/pursuit/girl2.md	同舟剣法	技能効果
-docs/ja/event/pursuit/girl2.md	唐芳の帰還	唐芳師姉の帰還
-docs/ja/event/pursuit/girl2.md	点破雲関	技能効果
-docs/ja/event/pursuit/girl5.md	【崆峒磨喝楽】	道具一覧
-docs/ja/event/pursuit/girl5.md	密密縫	鍛冶場・煉丹房開発ロードマップ
-docs/ja/event/pursuit/girl5.md	樊嘯天が夏侯蘭に師事する	修練に気が散る
-docs/ja/event/pursuit/girl5.md	樊嘯天が夏侯蘭に師事する	修練に気が散る
-docs/ja/event/pursuit/girl5.md	樊嘯天が夏侯蘭に師事する	修練に気が散る
-docs/ja/event/pursuit/girl5.md	玄黄納心綱	技能効果
-docs/ja/event/pursuit/girl5.md	菊花酒	雪山の約束
-docs/ja/event/pursuit/girl8.md	《鶏もも大尽》	汗青書44：鶏もも大尽
-docs/ja/event/simple/1-06-1-變心夢.md	夏侯蘭の回憶	夏侯蘭の思い出
-docs/ja/event/simple/1-09-2-初識福韞.md	言い争いイベント	丐幇と嵩山の喧嘩
-docs/ja/event/simple/3-09-1-赴武林大會.md	嵩山老和尚	覚醒
-docs/ja/event/simple/3-09-1-赴武林大會.md	武林大会	武林大会編
-docs/ja/event/simple/3-11-1-清醒夢.md	金烏上人との対決	金烏との決闘
-docs/ja/event/stories/江陵府官道劫糧案.md	杏花仙	瑞杏
-docs/ja/event/stories/決戰極樂教.md	左護法	李元棄
-docs/ja/event/stories/決戰極樂教.md	左護法	李元棄
-docs/ja/event/stories/決戰極樂教.md	師妹	唐鹿
-docs/ja/event/stories/決戰極樂教.md	快活王	李仁友
-docs/ja/event/stories/決戰極樂教.md	翼王	完顔珣
-docs/ja/event/stories/白風峒變亂.md	奪魄幽蘭	夏侯蘭
-docs/ja/event/stories/白風峒變亂.md	風神	解無塵
-docs/ja/event/stories/白風峒變亂.md	飛俠	唐布衣
-docs/ja/event/story-simple-table.md	二師兄唐錚との初対面	唐錚との初対面
-docs/ja/event/story-simple-table.md	唐門包囲戦	唐門囲攻戦
-docs/ja/event/story-simple-table.md	唐門包囲戦	唐門囲攻戦
-docs/ja/event/story-simple-table.md	四師兄の遠経商取引	四師兄、商いの長旅へ
-docs/ja/event/story-simple-table.md	四師兄唐惟元との初対面	唐惟元との初対面
-docs/ja/event/story-simple-table.md	大師兄唐布衣との初対面	唐布衣との初対面
-docs/ja/event/story-simple-table.md	崆峒への留学	崆峒派への留学
-docs/ja/event/story-simple-table.md	武林大会	武林大会編
-docs/ja/event/story-simple-table.md	西武林大会	東西武林盟会戦
-docs/ja/event/story-simple-table.md	錦香宮からの招待	武林大会へ向かう
-docs/ja/event/story-simple-table.md	錦香宮主の請願	錦香宮に泊まる
-docs/ja/other/guide/mechanism/contribution.md	初次唐門例会	貢献度について
-docs/ja/other/guide/mechanism/contribution.md	貢献評点	貢献度について
-docs/ja/other/qna/index.md	問答集2024年10月	鳥熊 Q&A 集 2024年10月
-docs/ja/other/qna/index.md	問答集2024年11月	鳥熊 Q&A 集 2024年11月
-docs/ja/other/qna/index.md	問答集2024年8月	鳥熊 Q&A 集 2024年8月
-docs/ja/other/qna/index.md	問答集2024年9月	鳥熊 Q&A 集 2024年9月
-docs/ja/people/characters/brother1.md	白風峒変亂	白風峒変乱
-docs/ja/people/characters/brother2.md	三師兄	唐陞
-docs/ja/people/characters/brother2.md	大師兄	唐布衣
-docs/ja/people/characters/brother2.md	大師兄	唐布衣
-docs/ja/people/characters/brother2.md	大師兄	唐布衣
-docs/ja/people/characters/brother2.md	大師兄	唐布衣
-docs/ja/people/characters/brother2.md	大師兄	唐布衣
-docs/ja/people/characters/brother2.md	大師兄	唐布衣
-docs/ja/people/characters/brother2.md	大師兄	唐布衣
-docs/ja/people/characters/brother2.md	小師妹	唐默鈴
-docs/ja/people/characters/brother2.md	小師妹	唐默鈴
-docs/ja/people/characters/brother2.md	小師妹	唐默鈴
-docs/ja/people/characters/brother2.md	掌門	唐中翎
-docs/ja/people/characters/brother2.md	掌門	唐中翎
-docs/ja/people/characters/brother2.md	華仙児	画中仙
-docs/ja/people/characters/brother3.md	四師兄	唐惟元
-docs/ja/people/characters/brother3.md	大師兄	唐布衣
-docs/ja/people/characters/brother4.md	問答集2024-08-18	鳥熊 Q&A 集 2024年8月
-docs/ja/people/characters/brother4.md	問答集2024-10-08	鳥熊 Q&A 集 2024年10月
-docs/ja/people/characters/brother4.md	大師兄	唐布衣
-docs/ja/people/characters/brother4.md	小師妹	唐默鈴
-docs/ja/people/characters/brother4.md	掌門	唐中翎
-docs/ja/people/characters/brother4.md	掌門	唐中翎
-docs/ja/people/characters/brother4.md	鈴児	唐默鈴
-docs/ja/people/characters/firebird1.md	小梅	上官螢
-docs/ja/people/characters/firebird1.md	小梅	上官螢
-docs/ja/people/characters/girl0.md	三師兄	唐陞
-docs/ja/people/characters/girl0.md	二師兄	唐錚
-docs/ja/people/characters/girl0.md	二師兄	唐錚
-docs/ja/people/characters/girl0.md	四師兄	唐惟元
-docs/ja/people/characters/girl0.md	四師兄	唐惟元
-docs/ja/people/characters/girl0.md	大師兄	唐布衣
-docs/ja/people/characters/girl0.md	大師兄	唐布衣
-docs/ja/people/characters/girl0.md	大師兄	唐布衣
-docs/ja/people/characters/girl0.md	大師兄	唐布衣
-docs/ja/people/characters/girl0.md	大師兄	唐布衣
-docs/ja/people/characters/girl0.md	大師兄	唐布衣
-docs/ja/people/characters/girl0.md	大師兄	唐布衣
-docs/ja/people/characters/girl0.md	折り紙集	摺紙集
-docs/ja/people/characters/girl0.md	掌門	唐中翎
-docs/ja/people/characters/girl0.md	掌門	唐中翎
-docs/ja/people/characters/girl0.md	掌門	唐中翎
-docs/ja/people/characters/girl0.md	父親	唐中翎
-docs/ja/people/characters/girl2.md	段智秀来襲・青城脱出	段智秀来襲
-docs/ja/people/characters/girl3.md	唐仙児	火閃電
-docs/ja/people/characters/girl4.md	唐四	唐惟元
-docs/ja/people/characters/girl4.md	掌門	唐中翎
-docs/ja/people/characters/girl4.md	苦悶拳	苦悩拳
-docs/ja/people/characters/girl5.md	小梅	虞小梅
-docs/ja/people/characters/girl5.md	小竹	郁竹
-docs/ja/people/characters/girl7.md	當世詞選	当世詞選
-docs/ja/people/characters/girl8.md	問答集2024年10月#_2024-10-08	鳥熊 Q&A 集 2024年10月
-docs/ja/people/characters/girl8.md	問答集2024年10月#_2024-10-17	鳥熊 Q&A 集 2024年10月
-docs/ja/people/characters/girl8.md	問答集2024年10月#_2024-10-21	鳥熊 Q&A 集 2024年10月
-docs/ja/people/characters/girl8.md	問答集2024年10月#_2024-10-28	鳥熊 Q&A 集 2024年10月
-docs/ja/people/characters/girl8.md	問答集2024年10月#_2024-10-31	鳥熊 Q&A 集 2024年10月
-docs/ja/people/characters/girl8.md	問答集2024年11月#_2024-11-04	鳥熊 Q&A 集 2024年11月
-docs/ja/people/characters/girl8.md	問答集2024年11月#_2024-11-06	鳥熊 Q&A 集 2024年11月
-docs/ja/people/characters/girl8.md	問答集2024年9月#_2024-09-24	鳥熊 Q&A 集 2024年9月
-docs/ja/people/characters/girl8.md	生父	龍淵
-docs/ja/people/characters/index.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌
-docs/ja/people/characters/master.md	極楽教一役	決戦極楽教
-docs/ja/people/characters/other1.md	裂骨魔	郁竹
-docs/ja/people/characters/other13.md	王春暁	王二壮
-docs/ja/people/characters/other13.md	蘇迎香	温夫人
-docs/ja/people/characters/other13.md	蘇迎香	温夫人
-docs/ja/people/characters/other13.md	蘇迎香	温夫人
-docs/ja/people/characters/other17.md	小梅	虞小梅
-docs/ja/people/characters/other17.md	小竹	郁竹
-docs/ja/people/characters/other17.md	幇主	王二壮
-docs/ja/people/characters/other19.md	旧魔教	極楽教
-docs/ja/people/characters/other7.md	左使	李元棄
-docs/ja/people/characters/other7.md	極楽教の一戦	決戦極楽教
-docs/ja/people/characters/other7.md	極楽魔尊	極楽教
-docs/ja/people/characters/player.md	小竹	郁竹
-docs/ja/people/characters/player.md	師娘	唐鹿
-docs/ja/people/characters/player.md	惟元	唐惟元
-docs/ja/people/characters/player.md	掌門	唐中翎
-docs/ja/people/characters/player.md	掌門	唐中翎
-docs/ja/people/characters/player.md	掌門	唐中翎
-docs/ja/people/characters/player.md	掌門	唐中翎
-docs/ja/people/characters/player.md	鈴児	唐默鈴
-docs/ja/people/characters/player.md	黒衣人	唐布衣
-docs/ja/people/characters/special1.md	南嵩山寺	嵩山派
-docs/ja/people/characters/special1.md	白鯊幇主	白鯊幇
-docs/ja/people/characters/special101.md	王春暁	王二壮
-docs/ja/people/characters/special101.md	蘇迎香	温夫人
-docs/ja/people/characters/special101.md	蘇迎香	温夫人
-docs/ja/people/characters/special101.md	蘇迎香	温夫人
-docs/ja/people/characters/special101.md	錦香閣	錦香宮
-docs/ja/people/characters/special102.md	公子秀	段智秀
-docs/ja/people/characters/special102.md	祖父	南宮橫
-docs/ja/people/characters/special103.md	大公子	南宮深
-docs/ja/people/characters/special103.md	大猿猴	袁乘風
-docs/ja/people/characters/special103.md	東海龍王	上官隼
-docs/ja/people/characters/special103.md	父	南宮遠
-docs/ja/people/characters/special103.md	王幇主	王二壮
-docs/ja/people/characters/special104.md	掌門	唐中翎
-docs/ja/people/characters/special104.md	王幇主	王二壮
-docs/ja/people/characters/special2.md	唐掌門	唐中翎
-docs/ja/people/characters/special2.md	極楽教主との決戦	決戦極楽教
-docs/ja/people/characters/special2.md	翼王	完顔珣
-docs/ja/people/characters/special201.md	丘真人	丘處機
-docs/ja/people/characters/special201.md	南宮老太爺	南宮橫
-docs/ja/people/characters/special201.md	唐の兄貴	唐中翎
-docs/ja/people/characters/special202.md	掌門	唐中翎
-docs/ja/people/characters/special202.md	極楽教主	申屠龍
-docs/ja/people/characters/special202.md	点蒼剣聖	無名
-docs/ja/people/characters/special202.md	蒼松剣客	葉雲舟
-docs/ja/people/characters/special203.md	掌門	唐中翎
-docs/ja/people/characters/special203.md	極楽教主	申屠龍
-docs/ja/people/characters/special203.md	点蒼剣聖	無名
-docs/ja/people/characters/special203.md	蒼松剣客	葉雲舟
-docs/ja/people/characters/special205.md	全真派	全真教
-docs/ja/people/characters/special205.md	奪魄幽蘭	夏侯蘭
-docs/ja/people/characters/special205.md	風神	解無塵
-docs/ja/people/characters/special205.md	飛俠	唐布衣
-docs/ja/people/characters/special208.md	乾娘	唐小楼
-docs/ja/people/characters/special208.md	掌門	唐中翎
-docs/ja/people/characters/special208.md	掌門	唐中翎
-docs/ja/people/characters/special209.md	全真派	全真教
-docs/ja/people/characters/special210.md	丘真人	丘處機
-docs/ja/people/characters/special210.md	丘真人	丘處機
-docs/ja/people/characters/special211.md	寧陽郡主	段婉清
-docs/ja/people/characters/special212_2.md	教主	申屠龍
-docs/ja/people/characters/special212_2.md	極楽教主	李仁友
-docs/ja/people/characters/special213.md	白風峒変亂	白風峒変乱
-docs/ja/people/characters/special213.md	白風峒変亂	白風峒変乱
-docs/ja/people/characters/special3.md	唐仙児	画中仙
-docs/ja/people/characters/special3.md	問答集2024-10-31	鳥熊 Q&A 集 2024年10月
-docs/ja/people/characters/special3.md	妹	葉雲裳
-docs/ja/people/characters/special3.md	妹	葉雲裳
-docs/ja/people/characters/special3.md	妹	葉雲裳
-docs/ja/people/characters/special3.md	妹	葉雲裳
-docs/ja/people/characters/special3.md	妹	葉雲裳
-docs/ja/people/characters/special3.md	妹婉清	段婉清
-docs/ja/people/characters/special4.md	幇主	王二壮
-docs/ja/people/characters/special4.md	龍大叔	龍淵
-docs/ja/people/characters/special401.md	友人	南宮遠
-docs/ja/people/characters/special401.md	天道法王	車軒轅
-docs/ja/people/characters/special401.md	蘇迎香	温夫人
-docs/ja/people/characters/special401.md	蘇迎香	温夫人
-docs/ja/people/characters/special402.md	奪魄幽蘭	夏侯蘭
-docs/ja/people/characters/special402.md	杏花仙	瑞杏
-docs/ja/people/characters/special403.md	左護法	李元棄
-docs/ja/people/characters/special403.md	極楽教との決戦	決戦極楽教
-docs/ja/people/characters/special405.md	掌門	鄒博
-docs/ja/people/characters/special405.md	掌門	鄒博
-docs/ja/people/characters/special405.md	父親	龍淵
-docs/ja/people/characters/special407.md	王春暁	王二壮
-docs/ja/people/characters/special407.md	蘇迎香	温夫人
-docs/ja/people/characters/special407.md	蘇迎香	温夫人
-docs/ja/people/characters/special407.md	鹿	唐鹿
-docs/ja/people/characters/special408.md	狄傲	狄傲 (テキゴウ) / 唐嬌嬌
-docs/ja/people/characters/special408.md	雷神脚	雷神腳
-docs/ja/people/characters/special409.md	問答集2024-10-28	鳥熊 Q&A 集 2024年10月
-docs/ja/people/characters/special409.md	問答集2024-10-29	鳥熊 Q&A 集 2024年10月
-docs/ja/people/characters/special409.md	覚空	万里鵬程
-docs/ja/people/characters/special409.md	長春真人	丘處機
-docs/ja/people/characters/special410.md	嵩山	嵩山派
-docs/ja/people/characters/special6.md	南宮の御大	南宮橫
-docs/ja/people/characters/special6.md	旧魔教の教主	李仁友
-docs/ja/people/characters/special6.md	極楽教主	李仁友
-docs/ja/people/characters/special6.md	点蒼剣聖	無名
-docs/ja/people/characters/special7.md	妻	石夫人
-docs/ja/people/characters/special7.md	鉄布衫	金鐘罩
-docs/ja/people/characters/special801.md	江陵官道穀物略奪事件	江陵府官道の穀物奪取事件
-docs/ja/people/characters/special808.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌
-docs/ja/people/characters/special808.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌
-docs/ja/people/characters/special811.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌
-docs/ja/people/characters/special819.md	極楽教との決戦	汗青書35：慷慨、義に赴く
-docs/ja/people/characters/special826.md	広州唐門	唐守鴻
-docs/ja/people/characters/special830.md	掌門	唐中翎
-docs/ja/people/characters/special832.md	唐仙児	画中仙
-docs/ja/people/characters/special833.md	亡き先代掌門の娘	南渓
-docs/ja/people/characters/special833.md	亡き先代掌門の娘	南渓
-docs/ja/people/characters/special833.md	掌門	唐中翎
-docs/ja/people/characters/special833.md	杏花仙	瑞杏
-docs/ja/people/characters/special833.md	枯栄神功	枯栄神功上卷
-docs/ja/people/characters/special833.md	青城	青城派
-docs/ja/people/characters/special999.md	王幇主	王二壮
-docs/ja/people/characters/trainee204.md	小梅	虞小梅
-docs/ja/people/characters/trainee204.md	小梅	虞小梅
-docs/ja/people/characters/trainee224.md	道法將軍	丹霞子
-docs/ja/people/characters/trainee234.md	魏掌門	魏菊
-docs/ja/people/factions/apricot-forest.md	丘真人	丘處機
-docs/ja/people/factions/apricot-forest.md	南宮老太爺	南宮橫
-docs/ja/people/factions/apricot-forest.md	無念僧	無相祖師
-docs/ja/people/factions/apricot-forest.md	牛長寿	江陵府官道の穀物奪取事件
-docs/ja/people/factions/beggar-gang.md	南宮家主	南宮遠
-docs/ja/people/factions/beggar-gang.md	李幇主	李富貴
-docs/ja/people/factions/beggar-gang.md	王幇主	王二壮
-docs/ja/people/factions/beggar-gang.md	王幇主	王二壮
-docs/ja/people/factions/beggar-gang.md	王幇主	王二壮
-docs/ja/people/factions/beggar-gang.md	畜生道法王	泥教
-docs/ja/people/factions/dian-cang-sect.md	唐門掌門	唐中翎
-docs/ja/people/factions/dian-cang-sect.md	極楽教との一戦	決戦極楽教
-docs/ja/people/factions/dian-cang-sect.md	極楽教主	李仁友
-docs/ja/people/factions/dian-cang-sect.md	点蒼剣聖	無名
-docs/ja/people/factions/dian-cang-sect.md	第四式	雲裳剣法
-docs/ja/people/factions/dian-cang-sect.md	蒼松剣客	葉雲舟
-docs/ja/people/factions/elysium-school.md	崆峒	崆峒派
-docs/ja/people/factions/elysium-school.md	左使	李元棄
-docs/ja/people/factions/elysium-school.md	左護法	李元棄
-docs/ja/people/factions/elysium-school.md	教主	申屠龍
-docs/ja/people/factions/elysium-school.md	極楽左使	李元棄
-docs/ja/people/factions/emei-sect.md	狄傲	狄傲 (テキゴウ) / 唐嬌嬌
-docs/ja/people/factions/index.md	全真派	全真教
-docs/ja/people/factions/jin-dynasty.md	全真派	全真教
-docs/ja/people/factions/jin-dynasty.md	極楽教との決戦	決戦極楽教
-docs/ja/people/factions/jin-dynasty.md	陳序	花城四少
-docs/ja/people/factions/jin-xiang-palace.md	上官家	上官世家
-docs/ja/people/factions/jin-xiang-palace.md	南宮の一族	南宮世家
-docs/ja/people/factions/jin-xiang-palace.md	南宮家主	南宮遠
-docs/ja/people/factions/jin-xiang-palace.md	宮主	温夫人
-docs/ja/people/factions/jin-xiang-palace.md	華仙児	画中仙
-docs/ja/people/factions/jin-xiang-palace.md	飛俠	唐布衣
-docs/ja/people/factions/mount-snow-sect.md	上官家主	上官隼
-docs/ja/people/factions/mount-snow-sect.md	夏侯梅	夏侯蘭
-docs/ja/people/factions/mount-song-sect.md	全真派	全真教
-docs/ja/people/factions/mount-song-sect.md	石幇主	石公遠
-docs/ja/people/factions/mud-school.md	上官家	上官世家
-docs/ja/people/factions/mud-school.md	唐老魔	唐中翎
-docs/ja/people/factions/mud-school.md	天王座	車軒轅
-docs/ja/people/factions/mud-school.md	杏花仙	瑞杏
-docs/ja/people/factions/qing-cheng-sect.md	全真派	全真教
-docs/ja/people/factions/qing-cheng-sect.md	旧魔教との頂上決戦	決戦極楽教
-docs/ja/people/factions/qing-cheng-sect.md	極楽左使	李元棄
-docs/ja/people/factions/shang-guan-family.md	極楽教主	李仁友
-docs/ja/people/factions/shang-guan-family.md	浪を逐う訣	逐浪訣
-docs/ja/people/factions/shang-guan-family.md	浪を逐う訣	逐浪訣
-docs/ja/people/factions/tang-men.md	問答集2024-10-25	鳥熊 Q&A 集 2024年10月
-docs/ja/people/factions/tang-men.md	大宋皇帝	趙擴
-docs/ja/people/factions/tang-men.md	師娘	唐鹿
-docs/ja/people/factions/tang-men.md	師娘	唐鹿
-docs/ja/people/factions/tang-men.md	師娘	唐鹿
-docs/ja/people/factions/tang-men.md	掌門	唐中翎
-docs/ja/people/factions/tang-men.md	点蒼剣聖	無名
-docs/ja/people/factions/tang-men.md	登雲踏·望月	登雲踏・望月
-docs/ja/people/factions/tang-men.md	石幇主	石公遠
-docs/ja/people/factions/thousand-lantern-tower.md	問答集2024-10月-19	鳥熊 Q&A 集 2024年10月
-docs/ja/people/factions/thousand-lantern-tower.md	小梅	虞小梅
-docs/ja/people/factions/thousand-lantern-tower.md	小梅	虞小梅
-docs/ja/people/factions/thousand-lantern-tower.md	杏花仙	瑞杏
-docs/ja/people/factions/thousand-lantern-tower.md	杏花仙	瑞杏
-docs/ja/people/mobs/index.md	江湖の人々：その他キャラ	江湖の人々：その他のキャラクター
-docs/ja/people/mobs/index.md	江湖の人々：江湖人士	江湖の人々
-docs/ja/system/books/book_2007.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌
-docs/ja/system/books/book_2007.md	狄傲	狄傲 (テキゴウ) / 唐嬌嬌
-docs/ja/system/books/book_4005.md	嵩山老和尚	覚醒
-docs/ja/system/books/book_4006.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌
-docs/ja/system/books/book_7013.md	方少俠	方震天
-docs/ja/system/books/book_7017.md	南蝥礜石散	煉丹効果
-docs/ja/system/books/book_7017.md	穿心龍膽湯	煉丹効果
-docs/ja/system/books/book_8108.md	四師兄	唐惟元
-docs/ja/system/books/book_8108.md	小師妹	唐默鈴
-docs/ja/system/books/book_8108.md	掌門	唐中翎
-docs/ja/system/books/book_8109.md	小師妹	唐默鈴
-docs/ja/system/books/index.md	小梅	虞小梅
-docs/ja/system/meeting.md	唐門の訓練	養成コマンド
+docs/ja/develop/4-4-news-template.md	公式アップデートページ	参加のはじめ方	develop/1-start.md
+docs/ja/event/badends/badend-84.md	西武林盟シナリオルートに進む必要がある	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
+docs/ja/event/detailed_description/2-08-5-青城療傷.md	廢寺喬装	廃寺の変装者たち	event/detailed_description/2-08-3-廢寺喬裝.md
+docs/ja/event/detailed_description/3-08-2-武林大會.md	劉顎	無名	people/characters/special406.md
+docs/ja/event/detailed_description/3-11-1-回到唐門.md	溫夫人	温夫人	people/characters/special402.md
+docs/ja/event/detailed_description/3-12-1-眾人的決策.md	四師兄遠遊経商	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/detailed_description/3-12-1-眾人的決策.md	四師兄遠遊経商	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/detailed_description/3-12-1-眾人的決策.md	四師兄遠遊経商	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/detailed_description/3-12-1-眾人的決策.md	四師兄遠遊経商	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/detailed_description/3-12-1-眾人的決策.md	四師兄遠遊経商	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/detailed_description/3-12-1-眾人的決策.md	四師兄遠遊経商	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/detailed_description/3-12-1-眾人的決策.md	四師兄遠遊経商	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/detailed_description/3-12-1-眾人的決策.md	四師兄遠遊経商	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/detailed_description/3-12-1-眾人的決策.md	西武林大会	東西武林盟会戦	event/detailed_description/4-02-2-東西武林盟會戰.md
+docs/ja/event/detailed_description/3-12-1-眾人的決策.md	西武林大会	東西武林盟会戦	event/detailed_description/4-02-2-東西武林盟會戰.md
+docs/ja/event/detailed_description/3-12-1-眾人的決策.md	飛煙子	観雲客	people/characters/special202.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	上官準	上官隼	people/characters/special407.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	上官準	上官隼	people/characters/special407.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	上官準	上官隼	people/characters/special407.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	唐大鯨	許大鯨	people/characters/big_shock1.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	四師兄遠遊経商	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	四師兄遠遊経商	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	四師兄遠遊経商	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	四師兄遠遊経商	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	四師兄遠遊経商	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	四師兄遠遊経商	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	四師兄遠遊経商	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	四師兄遠遊経商	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	広州唐門来襲	派閥宣戦	event/simple/2-12-2-門派宣戰.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	小師妹の比武招親 前半	event/simple/3-05-1-師妹招親前半.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	小師妹の比武招親 前半	event/simple/3-05-1-師妹招親前半.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	小師妹の比武招親 前半	event/simple/3-05-1-師妹招親前半.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	小師妹の比武招親 前半	event/simple/3-05-1-師妹招親前半.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	小師妹の比武招親 前半	event/simple/3-05-1-師妹招親前半.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	小師妹の比武招親 前半	event/simple/3-05-1-師妹招親前半.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	小師妹の比武招親 前半	event/simple/3-05-1-師妹招親前半.md
+docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	小師妹の比武招親 前半	event/simple/3-05-1-師妹招親前半.md
+docs/ja/event/detailed_description/4-02-2-飛俠歸來.md	唐門圍攻戦	唐門囲攻戦	event/detailed_description/4-01-2-唐門圍攻戰.md
+docs/ja/event/detailed_description/4-02-2-飛俠歸來.md	武林盟主	瑞笙	people/characters/special999.md
+docs/ja/event/detailed_description/4-03-1-眉山決戰.md	唐大鯨	許大鯨	people/characters/big_shock1.md
+docs/ja/event/ends/end-24.md	西武林盟を成立できない決断	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
+docs/ja/event/ends/end-25.md	西武林盟を成立できない決断	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
+docs/ja/event/ends/end-31.md	西武林盟を成立できない決断	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
+docs/ja/event/ends/end-32.md	罪を償いたい犯人	譚霸刀	people/characters/special801.md
+docs/ja/event/ends/end-35.md	唐惟元が唐門に戻る	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/ends/end-35.md	大義分舵が唐門外姓弟子になる	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
+docs/ja/event/ends/end-35.md	大義分舵が唐門外姓弟子になる	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
+docs/ja/event/ends/end-35.md	大義分舵が解散	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
+docs/ja/event/ends/end-35.md	峨嵋派が武林盟を支援	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
+docs/ja/event/ends/end-35.md	峨嵋派が西武林盟を支援	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
+docs/ja/event/ends/end-35.md	崆峒派が武林盟を支援	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
+docs/ja/event/ends/end-35.md	掌門の牌令を引き継いだ後に罠を設置	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
+docs/ja/event/ends/end-35.md	李富貴が丐幇(新派)を説得	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
+docs/ja/event/ends/end-35.md	樊咲嫣	樊嘯天	people/characters/special4.md
+docs/ja/event/ends/end-35.md	金烏上人が死亡	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
+docs/ja/event/ends/end-35.md	錦香宮が西武林盟を支援	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
+docs/ja/event/ends/end-35.md	飛石幇が西武林盟を支援	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
+docs/ja/event/ends/end-38.md	武林盟主	瑞笙	people/characters/special999.md
+docs/ja/event/ends/end-39.md	武林盟主	瑞笙	people/characters/special999.md
+docs/ja/event/ends/end-40.md	武林盟主	瑞笙	people/characters/special999.md
+docs/ja/event/ends/end-41.md	武林盟主	瑞笙	people/characters/special999.md
+docs/ja/event/ends/end-42.md	武林盟主	瑞笙	people/characters/special999.md
+docs/ja/event/ends/end-49.md	武林大会	南宮寿宴	event/simple/1-12-1-南宮壽宴.md
+docs/ja/event/ends/end-50.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌	people/characters/big_trainee_girl_1.md
+docs/ja/event/ends/end-50.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌	people/characters/big_trainee_girl_1.md
+docs/ja/event/ends/end-50.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌	people/characters/big_trainee_girl_1.md
+docs/ja/event/ends/end-50.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌	people/characters/big_trainee_girl_1.md
+docs/ja/event/ends/end-51.md	唐大鯨	許大鯨	people/characters/big_shock1.md
+docs/ja/event/ends/end-8.md	掌門人	唐中翎	people/characters/master.md
+docs/ja/event/pursuit/girl0.md	《唐門の薪火》	汗青書37：唐門の薪火	event/ends/end-37.md
+docs/ja/event/pursuit/girl2.md	九転輪廻	技能効果	system/skill.md
+docs/ja/event/pursuit/girl2.md	仏学	技能効果	system/skill.md
+docs/ja/event/pursuit/girl2.md	仏学	技能効果	system/skill.md
+docs/ja/event/pursuit/girl2.md	仏学	技能効果	system/skill.md
+docs/ja/event/pursuit/girl2.md	仏学	技能効果	system/skill.md
+docs/ja/event/pursuit/girl2.md	仏学	技能効果	system/skill.md
+docs/ja/event/pursuit/girl2.md	偕老の誓い	技能効果	system/skill.md
+docs/ja/event/pursuit/girl2.md	医術	技能効果	system/skill.md
+docs/ja/event/pursuit/girl2.md	医術	技能効果	system/skill.md
+docs/ja/event/pursuit/girl2.md	医術	技能効果	system/skill.md
+docs/ja/event/pursuit/girl2.md	南宮護心訣	技能効果	system/skill.md
+docs/ja/event/pursuit/girl2.md	同舟剣法	技能効果	system/skill.md
+docs/ja/event/pursuit/girl2.md	唐芳の帰還	唐芳師姉の帰還	event/simple/2-11-1-唐芳師姉帰還.md
+docs/ja/event/pursuit/girl2.md	点破雲関	技能効果	system/skill.md
+docs/ja/event/pursuit/girl5.md	【崆峒磨喝楽】	道具一覧	system/items/index.md
+docs/ja/event/pursuit/girl5.md	密密縫	鍛冶場・煉丹房開発ロードマップ	system/forge-roadmap.md
+docs/ja/event/pursuit/girl5.md	樊嘯天が夏侯蘭に師事する	修練に気が散る	event/simple/2-04-1-練功分心.md
+docs/ja/event/pursuit/girl5.md	樊嘯天が夏侯蘭に師事する	修練に気が散る	event/simple/2-04-1-練功分心.md
+docs/ja/event/pursuit/girl5.md	樊嘯天が夏侯蘭に師事する	修練に気が散る	event/simple/2-04-1-練功分心.md
+docs/ja/event/pursuit/girl5.md	玄黄納心綱	技能効果	system/skill.md
+docs/ja/event/pursuit/girl5.md	菊花酒	雪山の約束	event/simple/3-07-2-雪山之約.md
+docs/ja/event/pursuit/girl8.md	《鶏もも大尽》	汗青書44：鶏もも大尽	event/ends/end-44.md
+docs/ja/event/simple/1-06-1-變心夢.md	夏侯蘭の回憶	夏侯蘭の思い出	event/simple/3-06-3-夏侯蘭的回憶.md
+docs/ja/event/simple/1-09-2-初識福韞.md	言い争いイベント	丐幇と嵩山の喧嘩	event/simple/1-08-3-丐幫與嵩山打架.md
+docs/ja/event/simple/3-09-1-赴武林大會.md	嵩山老和尚	覚醒	people/characters/monk2.md
+docs/ja/event/simple/3-09-1-赴武林大會.md	武林大会	武林大会編	event/detailed_description/3-08-2-武林大會.md
+docs/ja/event/simple/3-11-1-清醒夢.md	金烏上人との対決	金烏との決闘	event/simple/3-05-1-對決金烏.md
+docs/ja/event/stories/江陵府官道劫糧案.md	杏花仙	瑞杏	people/characters/girl1.md
+docs/ja/event/stories/決戰極樂教.md	左護法	李元棄	people/characters/special213.md
+docs/ja/event/stories/決戰極樂教.md	左護法	李元棄	people/characters/special213.md
+docs/ja/event/stories/決戰極樂教.md	師妹	唐鹿	people/characters/other10.md
+docs/ja/event/stories/決戰極樂教.md	快活王	李仁友	people/characters/other7.md
+docs/ja/event/stories/決戰極樂教.md	翼王	完顔珣	people/characters/special819.md
+docs/ja/event/stories/白風峒變亂.md	奪魄幽蘭	夏侯蘭	people/characters/girl5.md
+docs/ja/event/stories/白風峒變亂.md	風神	解無塵	people/characters/special808.md
+docs/ja/event/stories/白風峒變亂.md	飛俠	唐布衣	people/characters/brother1.md
+docs/ja/event/story-simple-table.md	二師兄唐錚との初対面	唐錚との初対面	event/simple/1-04-1-初識唐錚.md
+docs/ja/event/story-simple-table.md	唐門包囲戦	唐門囲攻戦	event/detailed_description/4-01-2-唐門圍攻戰.md
+docs/ja/event/story-simple-table.md	唐門包囲戦	唐門囲攻戦	event/detailed_description/4-01-2-唐門圍攻戰.md
+docs/ja/event/story-simple-table.md	四師兄の遠経商取引	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
+docs/ja/event/story-simple-table.md	四師兄唐惟元との初対面	唐惟元との初対面	event/simple/1-04-1-初識唐惟元.md
+docs/ja/event/story-simple-table.md	大師兄唐布衣との初対面	唐布衣との初対面	event/simple/1-04-1-初識唐布衣.md
+docs/ja/event/story-simple-table.md	崆峒への留学	崆峒派への留学	event/simple/2-03-1-崆峒留學.md
+docs/ja/event/story-simple-table.md	武林大会	武林大会編	event/detailed_description/3-08-2-武林大會.md
+docs/ja/event/story-simple-table.md	西武林大会	東西武林盟会戦	event/detailed_description/4-02-2-東西武林盟會戰.md
+docs/ja/event/story-simple-table.md	錦香宮からの招待	武林大会へ向かう	event/simple/3-09-1-赴武林大會.md
+docs/ja/event/story-simple-table.md	錦香宮主の請願	錦香宮に泊まる	event/simple/3-10-1-留宿錦香宮.md
+docs/ja/other/guide/mechanism/contribution.md	初次唐門例会	貢献度について	other/guide/mechanism/contribution.md
+docs/ja/other/guide/mechanism/contribution.md	貢献評点	貢献度について	other/guide/mechanism/contribution.md
+docs/ja/other/qna/index.md	問答集2024年10月	鳥熊 Q&A 集 2024年10月	other/qna/202410.md
+docs/ja/other/qna/index.md	問答集2024年11月	鳥熊 Q&A 集 2024年11月	other/qna/202411.md
+docs/ja/other/qna/index.md	問答集2024年8月	鳥熊 Q&A 集 2024年8月	other/qna/202408.md
+docs/ja/other/qna/index.md	問答集2024年9月	鳥熊 Q&A 集 2024年9月	other/qna/202409.md
+docs/ja/people/characters/brother1.md	白風峒変亂	白風峒変乱	event/stories/白風峒變亂.md
+docs/ja/people/characters/brother2.md	三師兄	唐陞	people/characters/brother3.md
+docs/ja/people/characters/brother2.md	大師兄	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/brother2.md	大師兄	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/brother2.md	大師兄	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/brother2.md	大師兄	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/brother2.md	大師兄	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/brother2.md	大師兄	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/brother2.md	大師兄	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/brother2.md	小師妹	唐默鈴	people/characters/girl0.md
+docs/ja/people/characters/brother2.md	小師妹	唐默鈴	people/characters/girl0.md
+docs/ja/people/characters/brother2.md	小師妹	唐默鈴	people/characters/girl0.md
+docs/ja/people/characters/brother2.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/brother2.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/brother2.md	華仙児	画中仙	people/characters/special813.md
+docs/ja/people/characters/brother3.md	四師兄	唐惟元	people/characters/brother4.md
+docs/ja/people/characters/brother3.md	大師兄	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/brother4.md	問答集2024-08-18	鳥熊 Q&A 集 2024年8月	other/qna/202408.md
+docs/ja/people/characters/brother4.md	問答集2024-10-08	鳥熊 Q&A 集 2024年10月	other/qna/202410.md
+docs/ja/people/characters/brother4.md	大師兄	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/brother4.md	小師妹	唐默鈴	people/characters/girl0.md
+docs/ja/people/characters/brother4.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/brother4.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/brother4.md	鈴児	唐默鈴	people/characters/girl0.md
+docs/ja/people/characters/firebird1.md	小梅	上官螢	people/characters/girl4.md
+docs/ja/people/characters/firebird1.md	小梅	上官螢	people/characters/girl4.md
+docs/ja/people/characters/girl0.md	三師兄	唐陞	people/characters/brother3.md
+docs/ja/people/characters/girl0.md	二師兄	唐錚	people/characters/brother2.md
+docs/ja/people/characters/girl0.md	二師兄	唐錚	people/characters/brother2.md
+docs/ja/people/characters/girl0.md	四師兄	唐惟元	people/characters/brother4.md
+docs/ja/people/characters/girl0.md	四師兄	唐惟元	people/characters/brother4.md
+docs/ja/people/characters/girl0.md	大師兄	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/girl0.md	大師兄	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/girl0.md	大師兄	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/girl0.md	大師兄	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/girl0.md	大師兄	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/girl0.md	大師兄	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/girl0.md	大師兄	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/girl0.md	折り紙集	摺紙集	system/books/book_8108.md
+docs/ja/people/characters/girl0.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/girl0.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/girl0.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/girl0.md	父親	唐中翎	people/characters/master.md
+docs/ja/people/characters/girl2.md	段智秀来襲・青城脱出	段智秀来襲	event/simple/2-09-3-段智秀來襲.md
+docs/ja/people/characters/girl3.md	唐仙児	火閃電	people/characters/firebird1.md
+docs/ja/people/characters/girl4.md	唐四	唐惟元	people/characters/brother4.md
+docs/ja/people/characters/girl4.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/girl4.md	苦悶拳	苦悩拳	system/books/book_3000.md
+docs/ja/people/characters/girl5.md	小梅	虞小梅	people/characters/girl3.md
+docs/ja/people/characters/girl5.md	小竹	郁竹	people/characters/girl6.md
+docs/ja/people/characters/girl7.md	當世詞選	当世詞選	system/books/book_8013.md
+docs/ja/people/characters/girl8.md	問答集2024年10月#_2024-10-08	鳥熊 Q&A 集 2024年10月	other/qna/202410.md
+docs/ja/people/characters/girl8.md	問答集2024年10月#_2024-10-17	鳥熊 Q&A 集 2024年10月	other/qna/202410.md
+docs/ja/people/characters/girl8.md	問答集2024年10月#_2024-10-21	鳥熊 Q&A 集 2024年10月	other/qna/202410.md
+docs/ja/people/characters/girl8.md	問答集2024年10月#_2024-10-28	鳥熊 Q&A 集 2024年10月	other/qna/202410.md
+docs/ja/people/characters/girl8.md	問答集2024年10月#_2024-10-31	鳥熊 Q&A 集 2024年10月	other/qna/202410.md
+docs/ja/people/characters/girl8.md	問答集2024年11月#_2024-11-04	鳥熊 Q&A 集 2024年11月	other/qna/202411.md
+docs/ja/people/characters/girl8.md	問答集2024年11月#_2024-11-06	鳥熊 Q&A 集 2024年11月	other/qna/202411.md
+docs/ja/people/characters/girl8.md	問答集2024年9月#_2024-09-24	鳥熊 Q&A 集 2024年9月	other/qna/202409.md
+docs/ja/people/characters/girl8.md	生父	龍淵	people/characters/special2.md
+docs/ja/people/characters/index.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌	people/characters/big_trainee_girl_1.md
+docs/ja/people/characters/master.md	極楽教一役	決戦極楽教	event/stories/決戰極樂教.md
+docs/ja/people/characters/other1.md	裂骨魔	郁竹	people/characters/girl6.md
+docs/ja/people/characters/other13.md	王春暁	王二壮	people/characters/special401.md
+docs/ja/people/characters/other13.md	蘇迎香	温夫人	people/characters/special402.md
+docs/ja/people/characters/other13.md	蘇迎香	温夫人	people/characters/special402.md
+docs/ja/people/characters/other13.md	蘇迎香	温夫人	people/characters/special402.md
+docs/ja/people/characters/other17.md	小梅	虞小梅	people/characters/girl3.md
+docs/ja/people/characters/other17.md	小竹	郁竹	people/characters/girl6.md
+docs/ja/people/characters/other17.md	幇主	王二壮	people/characters/special401.md
+docs/ja/people/characters/other19.md	旧魔教	極楽教	people/factions/elysium-school.md
+docs/ja/people/characters/other7.md	左使	李元棄	people/characters/special213.md
+docs/ja/people/characters/other7.md	極楽教の一戦	決戦極楽教	event/stories/決戰極樂教.md
+docs/ja/people/characters/other7.md	極楽魔尊	極楽教	people/factions/elysium-school.md
+docs/ja/people/characters/player.md	小竹	郁竹	people/characters/girl6.md
+docs/ja/people/characters/player.md	師娘	唐鹿	people/characters/other10.md
+docs/ja/people/characters/player.md	惟元	唐惟元	people/characters/brother4.md
+docs/ja/people/characters/player.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/player.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/player.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/player.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/player.md	鈴児	唐默鈴	people/characters/girl0.md
+docs/ja/people/characters/player.md	黒衣人	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/special1.md	南嵩山寺	嵩山派	people/factions/mount-song-sect.md
+docs/ja/people/characters/special1.md	白鯊幇主	白鯊幇	people/factions/white-shark-gang.md
+docs/ja/people/characters/special101.md	王春暁	王二壮	people/characters/special401.md
+docs/ja/people/characters/special101.md	蘇迎香	温夫人	people/characters/special402.md
+docs/ja/people/characters/special101.md	蘇迎香	温夫人	people/characters/special402.md
+docs/ja/people/characters/special101.md	蘇迎香	温夫人	people/characters/special402.md
+docs/ja/people/characters/special101.md	錦香閣	錦香宮	people/factions/jin-xiang-palace.md
+docs/ja/people/characters/special102.md	公子秀	段智秀	people/characters/special833.md
+docs/ja/people/characters/special102.md	祖父	南宮橫	people/characters/special104.md
+docs/ja/people/characters/special103.md	大公子	南宮深	people/characters/special102.md
+docs/ja/people/characters/special103.md	大猿猴	袁乘風	people/characters/other11.md
+docs/ja/people/characters/special103.md	東海龍王	上官隼	people/characters/special407.md
+docs/ja/people/characters/special103.md	父	南宮遠	people/characters/special101.md
+docs/ja/people/characters/special103.md	王幇主	王二壮	people/characters/special401.md
+docs/ja/people/characters/special104.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/special104.md	王幇主	王二壮	people/characters/special401.md
+docs/ja/people/characters/special2.md	唐掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/special2.md	極楽教主との決戦	決戦極楽教	event/stories/決戰極樂教.md
+docs/ja/people/characters/special2.md	翼王	完顔珣	people/characters/special819.md
+docs/ja/people/characters/special201.md	丘真人	丘處機	people/characters/special209.md
+docs/ja/people/characters/special201.md	南宮老太爺	南宮橫	people/characters/special104.md
+docs/ja/people/characters/special201.md	唐の兄貴	唐中翎	people/characters/master.md
+docs/ja/people/characters/special202.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/special202.md	極楽教主	申屠龍	people/characters/special405.md
+docs/ja/people/characters/special202.md	点蒼剣聖	無名	people/characters/special406.md
+docs/ja/people/characters/special202.md	蒼松剣客	葉雲舟	people/characters/special3.md
+docs/ja/people/characters/special203.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/special203.md	極楽教主	申屠龍	people/characters/special405.md
+docs/ja/people/characters/special203.md	点蒼剣聖	無名	people/characters/special406.md
+docs/ja/people/characters/special203.md	蒼松剣客	葉雲舟	people/characters/special3.md
+docs/ja/people/characters/special205.md	全真派	全真教	people/factions/quan-zhen-sect.md
+docs/ja/people/characters/special205.md	奪魄幽蘭	夏侯蘭	people/characters/girl5.md
+docs/ja/people/characters/special205.md	風神	解無塵	people/characters/special808.md
+docs/ja/people/characters/special205.md	飛俠	唐布衣	people/characters/brother1.md
+docs/ja/people/characters/special208.md	乾娘	唐小楼	people/characters/aunt2.md
+docs/ja/people/characters/special208.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/special208.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/special209.md	全真派	全真教	people/factions/quan-zhen-sect.md
+docs/ja/people/characters/special210.md	丘真人	丘處機	people/characters/special209.md
+docs/ja/people/characters/special210.md	丘真人	丘處機	people/characters/special209.md
+docs/ja/people/characters/special211.md	寧陽郡主	段婉清	people/characters/special836.md
+docs/ja/people/characters/special212_2.md	教主	申屠龍	people/characters/special405.md
+docs/ja/people/characters/special212_2.md	極楽教主	李仁友	people/characters/other7.md
+docs/ja/people/characters/special213.md	白風峒変亂	白風峒変乱	event/stories/白風峒變亂.md
+docs/ja/people/characters/special213.md	白風峒変亂	白風峒変乱	event/stories/白風峒變亂.md
+docs/ja/people/characters/special3.md	唐仙児	画中仙	people/characters/special813.md
+docs/ja/people/characters/special3.md	問答集2024-10-31	鳥熊 Q&A 集 2024年10月	other/qna/202410.md
+docs/ja/people/characters/special3.md	妹	葉雲裳	people/characters/girl2.md
+docs/ja/people/characters/special3.md	妹	葉雲裳	people/characters/girl2.md
+docs/ja/people/characters/special3.md	妹	葉雲裳	people/characters/girl2.md
+docs/ja/people/characters/special3.md	妹	葉雲裳	people/characters/girl2.md
+docs/ja/people/characters/special3.md	妹	葉雲裳	people/characters/girl2.md
+docs/ja/people/characters/special3.md	妹婉清	段婉清	people/characters/special836.md
+docs/ja/people/characters/special4.md	幇主	王二壮	people/characters/special401.md
+docs/ja/people/characters/special4.md	龍大叔	龍淵	people/characters/special2.md
+docs/ja/people/characters/special401.md	友人	南宮遠	people/characters/special101.md
+docs/ja/people/characters/special401.md	天道法王	車軒轅	people/characters/special409.md
+docs/ja/people/characters/special401.md	蘇迎香	温夫人	people/characters/special402.md
+docs/ja/people/characters/special401.md	蘇迎香	温夫人	people/characters/special402.md
+docs/ja/people/characters/special402.md	奪魄幽蘭	夏侯蘭	people/characters/girl5.md
+docs/ja/people/characters/special402.md	杏花仙	瑞杏	people/characters/girl1.md
+docs/ja/people/characters/special403.md	左護法	李元棄	people/characters/special213.md
+docs/ja/people/characters/special403.md	極楽教との決戦	決戦極楽教	event/stories/決戰極樂教.md
+docs/ja/people/characters/special405.md	掌門	鄒博	people/characters/special201.md
+docs/ja/people/characters/special405.md	掌門	鄒博	people/characters/special201.md
+docs/ja/people/characters/special405.md	父親	龍淵	people/characters/special2.md
+docs/ja/people/characters/special407.md	王春暁	王二壮	people/characters/special401.md
+docs/ja/people/characters/special407.md	蘇迎香	温夫人	people/characters/special402.md
+docs/ja/people/characters/special407.md	蘇迎香	温夫人	people/characters/special402.md
+docs/ja/people/characters/special407.md	鹿	唐鹿	people/characters/other10.md
+docs/ja/people/characters/special408.md	狄傲	狄傲 (テキゴウ) / 唐嬌嬌	people/characters/big_trainee_girl_1.md
+docs/ja/people/characters/special408.md	雷神脚	雷神腳	system/books/book_4006.md
+docs/ja/people/characters/special409.md	問答集2024-10-28	鳥熊 Q&A 集 2024年10月	other/qna/202410.md
+docs/ja/people/characters/special409.md	問答集2024-10-29	鳥熊 Q&A 集 2024年10月	other/qna/202410.md
+docs/ja/people/characters/special409.md	覚空	万里鵬程	people/characters/special6.md
+docs/ja/people/characters/special409.md	長春真人	丘處機	people/characters/special209.md
+docs/ja/people/characters/special410.md	嵩山	嵩山派	people/factions/mount-song-sect.md
+docs/ja/people/characters/special6.md	南宮の御大	南宮橫	people/characters/special104.md
+docs/ja/people/characters/special6.md	旧魔教の教主	李仁友	people/characters/other7.md
+docs/ja/people/characters/special6.md	極楽教主	李仁友	people/characters/other7.md
+docs/ja/people/characters/special6.md	点蒼剣聖	無名	people/characters/special406.md
+docs/ja/people/characters/special7.md	妻	石夫人	people/characters/special815.md
+docs/ja/people/characters/special7.md	鉄布衫	金鐘罩	system/books/book_1030.md
+docs/ja/people/characters/special801.md	江陵官道穀物略奪事件	江陵府官道の穀物奪取事件	event/stories/江陵府官道劫糧案.md
+docs/ja/people/characters/special808.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌	people/characters/big_trainee_girl_1.md
+docs/ja/people/characters/special808.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌	people/characters/big_trainee_girl_1.md
+docs/ja/people/characters/special811.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌	people/characters/big_trainee_girl_1.md
+docs/ja/people/characters/special819.md	極楽教との決戦	汗青書35：慷慨、義に赴く	event/ends/end-35.md
+docs/ja/people/characters/special826.md	広州唐門	唐守鴻	people/characters/special812.md
+docs/ja/people/characters/special830.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/special832.md	唐仙児	画中仙	people/characters/special813.md
+docs/ja/people/characters/special833.md	亡き先代掌門の娘	南渓	people/characters/special829.md
+docs/ja/people/characters/special833.md	亡き先代掌門の娘	南渓	people/characters/special829.md
+docs/ja/people/characters/special833.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/characters/special833.md	杏花仙	瑞杏	people/characters/girl1.md
+docs/ja/people/characters/special833.md	枯栄神功	枯栄神功上卷	system/books/book_7017.md
+docs/ja/people/characters/special833.md	青城	青城派	people/factions/qing-cheng-sect.md
+docs/ja/people/characters/special999.md	王幇主	王二壮	people/characters/special401.md
+docs/ja/people/characters/trainee204.md	小梅	虞小梅	people/characters/girl3.md
+docs/ja/people/characters/trainee204.md	小梅	虞小梅	people/characters/girl3.md
+docs/ja/people/characters/trainee224.md	道法將軍	丹霞子	people/characters/special404.md
+docs/ja/people/characters/trainee234.md	魏掌門	魏菊	people/characters/girl7.md
+docs/ja/people/factions/apricot-forest.md	丘真人	丘處機	people/characters/special209.md
+docs/ja/people/factions/apricot-forest.md	南宮老太爺	南宮橫	people/characters/special104.md
+docs/ja/people/factions/apricot-forest.md	無念僧	無相祖師	people/characters/special212_2.md
+docs/ja/people/factions/apricot-forest.md	牛長寿	江陵府官道の穀物奪取事件	event/stories/江陵府官道劫糧案.md
+docs/ja/people/factions/beggar-gang.md	南宮家主	南宮遠	people/characters/special101.md
+docs/ja/people/factions/beggar-gang.md	李幇主	李富貴	people/characters/special809.md
+docs/ja/people/factions/beggar-gang.md	王幇主	王二壮	people/characters/special401.md
+docs/ja/people/factions/beggar-gang.md	王幇主	王二壮	people/characters/special401.md
+docs/ja/people/factions/beggar-gang.md	王幇主	王二壮	people/characters/special401.md
+docs/ja/people/factions/beggar-gang.md	畜生道法王	泥教	people/factions/mud-school.md
+docs/ja/people/factions/dian-cang-sect.md	唐門掌門	唐中翎	people/characters/master.md
+docs/ja/people/factions/dian-cang-sect.md	極楽教との一戦	決戦極楽教	event/stories/決戰極樂教.md
+docs/ja/people/factions/dian-cang-sect.md	極楽教主	李仁友	people/characters/other7.md
+docs/ja/people/factions/dian-cang-sect.md	点蒼剣聖	無名	people/characters/special406.md
+docs/ja/people/factions/dian-cang-sect.md	第四式	雲裳剣法	system/books/book_2302.md
+docs/ja/people/factions/dian-cang-sect.md	蒼松剣客	葉雲舟	people/characters/special3.md
+docs/ja/people/factions/elysium-school.md	崆峒	崆峒派	people/factions/kong-tong-sect.md
+docs/ja/people/factions/elysium-school.md	左使	李元棄	people/characters/special213.md
+docs/ja/people/factions/elysium-school.md	左護法	李元棄	people/characters/special213.md
+docs/ja/people/factions/elysium-school.md	教主	申屠龍	people/characters/special405.md
+docs/ja/people/factions/elysium-school.md	極楽左使	李元棄	people/characters/special213.md
+docs/ja/people/factions/emei-sect.md	狄傲	狄傲 (テキゴウ) / 唐嬌嬌	people/characters/big_trainee_girl_1.md
+docs/ja/people/factions/index.md	全真派	全真教	people/factions/quan-zhen-sect.md
+docs/ja/people/factions/jin-dynasty.md	全真派	全真教	people/factions/quan-zhen-sect.md
+docs/ja/people/factions/jin-dynasty.md	極楽教との決戦	決戦極楽教	event/stories/決戰極樂教.md
+docs/ja/people/factions/jin-dynasty.md	陳序	花城四少	people/characters/group1.md
+docs/ja/people/factions/jin-xiang-palace.md	上官家	上官世家	people/factions/shang-guan-family.md
+docs/ja/people/factions/jin-xiang-palace.md	南宮の一族	南宮世家	people/factions/nan-gong-family.md
+docs/ja/people/factions/jin-xiang-palace.md	南宮家主	南宮遠	people/characters/special101.md
+docs/ja/people/factions/jin-xiang-palace.md	宮主	温夫人	people/characters/special402.md
+docs/ja/people/factions/jin-xiang-palace.md	華仙児	画中仙	people/characters/special813.md
+docs/ja/people/factions/jin-xiang-palace.md	飛俠	唐布衣	people/characters/brother1.md
+docs/ja/people/factions/mount-snow-sect.md	上官家主	上官隼	people/characters/special407.md
+docs/ja/people/factions/mount-snow-sect.md	夏侯梅	夏侯蘭	people/characters/girl5.md
+docs/ja/people/factions/mount-song-sect.md	全真派	全真教	people/factions/quan-zhen-sect.md
+docs/ja/people/factions/mount-song-sect.md	石幇主	石公遠	people/characters/special7.md
+docs/ja/people/factions/mud-school.md	上官家	上官世家	people/factions/shang-guan-family.md
+docs/ja/people/factions/mud-school.md	唐老魔	唐中翎	people/characters/master.md
+docs/ja/people/factions/mud-school.md	天王座	車軒轅	people/characters/special409.md
+docs/ja/people/factions/mud-school.md	杏花仙	瑞杏	people/characters/girl1.md
+docs/ja/people/factions/qing-cheng-sect.md	全真派	全真教	people/factions/quan-zhen-sect.md
+docs/ja/people/factions/qing-cheng-sect.md	旧魔教との頂上決戦	決戦極楽教	event/stories/決戰極樂教.md
+docs/ja/people/factions/qing-cheng-sect.md	極楽左使	李元棄	people/characters/special213.md
+docs/ja/people/factions/shang-guan-family.md	極楽教主	李仁友	people/characters/other7.md
+docs/ja/people/factions/shang-guan-family.md	浪を逐う訣	逐浪訣	system/books/book_7014.md
+docs/ja/people/factions/shang-guan-family.md	浪を逐う訣	逐浪訣	system/books/book_7014.md
+docs/ja/people/factions/tang-men.md	問答集2024-10-25	鳥熊 Q&A 集 2024年10月	other/qna/202410.md
+docs/ja/people/factions/tang-men.md	大宋皇帝	趙擴	people/characters/special817.md
+docs/ja/people/factions/tang-men.md	師娘	唐鹿	people/characters/other10.md
+docs/ja/people/factions/tang-men.md	師娘	唐鹿	people/characters/other10.md
+docs/ja/people/factions/tang-men.md	師娘	唐鹿	people/characters/other10.md
+docs/ja/people/factions/tang-men.md	掌門	唐中翎	people/characters/master.md
+docs/ja/people/factions/tang-men.md	点蒼剣聖	無名	people/characters/special406.md
+docs/ja/people/factions/tang-men.md	登雲踏·望月	登雲踏・望月	system/books/book_6008.md
+docs/ja/people/factions/tang-men.md	石幇主	石公遠	people/characters/special7.md
+docs/ja/people/factions/thousand-lantern-tower.md	問答集2024-10月-19	鳥熊 Q&A 集 2024年10月	other/qna/202410.md
+docs/ja/people/factions/thousand-lantern-tower.md	小梅	虞小梅	people/characters/girl3.md
+docs/ja/people/factions/thousand-lantern-tower.md	小梅	虞小梅	people/characters/girl3.md
+docs/ja/people/factions/thousand-lantern-tower.md	杏花仙	瑞杏	people/characters/girl1.md
+docs/ja/people/factions/thousand-lantern-tower.md	杏花仙	瑞杏	people/characters/girl1.md
+docs/ja/people/mobs/index.md	江湖の人々：その他キャラ	江湖の人々：その他のキャラクター	people/mobs/other.md
+docs/ja/people/mobs/index.md	江湖の人々：江湖人士	江湖の人々	people/mobs/artists.md
+docs/ja/system/books/book_2007.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌	people/characters/big_trainee_girl_1.md
+docs/ja/system/books/book_2007.md	狄傲	狄傲 (テキゴウ) / 唐嬌嬌	people/characters/big_trainee_girl_1.md
+docs/ja/system/books/book_4005.md	嵩山老和尚	覚醒	people/characters/monk2.md
+docs/ja/system/books/book_4006.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌	people/characters/big_trainee_girl_1.md
+docs/ja/system/books/book_7013.md	方少俠	方震天	people/characters/other16.md
+docs/ja/system/books/book_7017.md	南蝥礜石散	煉丹効果	system/pills.md
+docs/ja/system/books/book_7017.md	穿心龍膽湯	煉丹効果	system/pills.md
+docs/ja/system/books/book_8108.md	四師兄	唐惟元	people/characters/brother4.md
+docs/ja/system/books/book_8108.md	小師妹	唐默鈴	people/characters/girl0.md
+docs/ja/system/books/book_8108.md	掌門	唐中翎	people/characters/master.md
+docs/ja/system/books/book_8109.md	小師妹	唐默鈴	people/characters/girl0.md
+docs/ja/system/books/index.md	小梅	虞小梅	people/characters/girl3.md
+docs/ja/system/meeting.md	唐門の訓練	養成コマンド	system/training/index.md
