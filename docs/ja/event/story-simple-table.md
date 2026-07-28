@@ -177,7 +177,7 @@ tags:
 	</table>
 </div>
 
-## 第二年 - 路線：唐門留守
+## 第二年 - ルート：唐門留守
 
 <div class="table-container">
 	<table>
@@ -320,7 +320,7 @@ tags:
 	</table>
 </div>
 
-## 第二年 - 路線：青城留学（想い人＝葉雲裳）
+## 第二年 - ルート：青城留学（想い人＝葉雲裳）
 
 <div class="table-container">
 	<table>
@@ -397,7 +397,7 @@ tags:
 	</table>
 </div>
 
-## 第二年 - 路線：崆峒派留学
+## 第二年 - ルート：崆峒派留学
 
 <div class="table-container">
 	<table>
@@ -736,13 +736,13 @@ tags:
 				</MarkdownWrapper>
 				<li>誰かが去る</li>
 				<MarkdownWrapper>
-				<li>[四師兄が帰る(手土産を頼む必要がある)](/ja/event/detailed_description/3-11-1-四師兄歸來)</li>
+				<li>[四師兄が帰る (四師兄歸來)](/ja/event/detailed_description/3-11-1-四師兄歸來)</li>
 				<li>[覚醒夢 (清醒夢)](/ja/event/simple/3-11-1-清醒夢)</li>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>
-				<li>龍湘線：閑話</li>
+				<li>龍湘ルート：閑話</li>
 			</td>
 		</tr>
 		<tr>
@@ -752,8 +752,8 @@ tags:
 				<MarkdownWrapper>
                     [衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)
                 </MarkdownWrapper>
-				<li>唐門立ち絵：西武林盟成立（李富貴の好感度2星または学問・戦術が必要）</li>
-				<li>龍湘線-後山で薪割：決闘(攻略最晚トリガー時間は一月下旬前)</li>
+				<li>西武林盟の成立（李富貴の好感度2星、または学問・戦術の条件が必要）</li>
+				<li>龍湘ルート-後山で薪割：決闘(攻略の最遅発生時期は一月下旬前)</li>
 			</td>
 			<td>
 				<li>正心堂：四師兄の出使案</li>
@@ -792,7 +792,7 @@ tags:
 			</td>
 			<td>
 				<li>各門派の返答</li>
-				<li>龍湘線-伝書鳩(最晚トリガー時間は一月下旬)</li>
+				<li>龍湘ルート-伝書鳩(最遅の発生時期は一月下旬)</li>
 			</td>
 		</tr>
 		<tr>
