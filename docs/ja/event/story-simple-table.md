@@ -109,6 +109,7 @@ tags:
 				[晁和の入門 (晁和入門)](/ja/event/simple/1-08-3-晁和入門)<br>
 				[晁和搞鬼イベント集](/ja/event/simple/1-08-3-晁和搞鬼事件集)<br>
 				[丐幇と嵩山の喧嘩 (丐幫與嵩山打架)](/ja/event/simple/1-08-3-丐幫與嵩山打架)<br>
+				[葉雲裳の診察とお出かけ](/ja/event/simple/1-08-3-雲裳問診出遊)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -128,6 +129,7 @@ tags:
 				[仏法教育 (佛法教育)](/ja/event/simple/1-09-2-佛法教育)<br>
 				[龍湘、盗難に遭う](/ja/event/simple/1-09-2-龍湘遭竊)<br>
 				[龍湘の告発 (龍湘告官)](/ja/event/simple/1-09-3-龍湘告官)<br>
+				[紙札遊戯の対決](/ja/event/simple/1-09-2-紙牌對決)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -836,22 +838,6 @@ tags:
 				</MarkdownWrapper>
 			</td>
 			<td>心変わり(變心)が10に到達するたび発生(繰り返しあり)</td>
-		</tr>
-		<tr>
-			<td>
-				<MarkdownWrapper>
-				[葉雲裳の診察とお出かけ](/ja/event/simple/1-08-3-雲裳問診出遊)<br>
-				</MarkdownWrapper>
-			</td>
-			<td>主人公と葉雲裳がともに唐門に在籍し、唐門が葉雲舟・葉雲裳兄妹を受け入れ済み。1年8月下旬〜2年3月上旬の間に発生</td>
-		</tr>
-		<tr>
-			<td>
-				<MarkdownWrapper>
-				[紙札遊戯の対決](/ja/event/simple/1-09-2-紙牌對決)<br>
-				</MarkdownWrapper>
-			</td>
-			<td>主人公と葉雲裳がともに唐門に在籍し、唐芳師姉帰還イベント後。1年9月中旬〜2年5月下旬の間、毎月上旬ごとに約1/3の確率で抽選</td>
 		</tr>
 	</table>
 </div>
