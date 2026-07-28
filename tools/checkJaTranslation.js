@@ -8,11 +8,12 @@
 //   RAW_LINK   <td> 内で MarkdownWrapper に囲まれていない Markdown リンクの行数
 //   TABLE      Markdown テーブルの見出し行と区切り行で列数が食い違っている箇所
 //   LABEL      リンクテキストがリンク先ページの title と食い違っている箇所
+//              (既存分は tools/ja-label-baseline.tsv に列挙して据え置き。新規のみ fail)
 //
 // 上位6つが 0、TABLE/LABEL が基準値以下で exit 0。
 //
-// TABLE と LABEL は既存の未修正分を基準値として据え置き、**増えたら落とす**ラチェット。
-// 既存分を直したら基準値を下げること (上げるのは禁止)。
+// LABEL の既存未修正分は baseline ファイルに1件ずつ列挙して据え置く。
+// 既存分を直したら --update-label-baseline で再生成して減らす (増やす再生成は禁止)。
 //
 // RESIDUE は品質の証明ではない。高精度・低再現率に振ってあり、
 // 「あからさまな機械置換の残骸を落とす」下限ゲートとしてしか機能しない。
@@ -94,15 +95,25 @@ const STALE_TERMS = [
 	{ bad: "矯情", good: "虚飾", note: "StatLevel/behaviour01 (2026-07-28)" },
 	{ bad: "粗魯", good: "無礼", note: "StatLevel/behaviour05 (2026-07-28)" },
 ];
-// TABLE / LABEL の据え置き基準値。既存の未修正分をここに記録し、これを超えたら落とす。
-// 直した分だけ数を下げていく。増やしてはいけない。
-const BASELINE = {
-	// 2026-07-28 に既存分を全て解消したので 0。増えたら落ちる。
-	TABLE: 0,
-	// LABEL は判定を「ファイル名と同一か」から「title と一致するか」に広げたため、
-	// 言い換えラベル等の既存分が残っている。直した分だけ下げる。
-	LABEL: 336,
-};
+// TABLE は既存分を全て解消済みのため常に 0 を要求する。
+// LABEL の既存未修正分は tools/ja-label-baseline.tsv に1件ずつ列挙して据え置く
+// (総数比較だと「既存1件を直して新規1件を入れる」±0 のすり抜けが起きるため)。
+// baseline に無い違反が1件でも出たら fail。直した分は --update-label-baseline で
+// 再生成して減らす (増やす方向の再生成は新規違反の隠蔽なので禁止)。
+const LABEL_BASELINE = path.join(ROOT, "tools/ja-label-baseline.tsv");
+
+function readLabelBaseline() {
+	const set = new Map(); // key -> 件数 (同一 key の複数出現に耐えるため多重集合)
+	if (!fs.existsSync(LABEL_BASELINE)) return set;
+	for (const l of fs.readFileSync(LABEL_BASELINE, "utf8").split("\n")) {
+		const s2 = l.trim();
+		if (!s2 || s2.startsWith("#")) continue;
+		set.set(s2, (set.get(s2) || 0) + 1);
+	}
+	return set;
+}
+
+const labelKey = (x) => `${x.file}\t${x.label}\t${x.want}`;
 
 const STALE_TERM_EXEMPT_FILES = new Set([
 	"glossary.md", // 対訳表。bad側(旧語=原文)が正しく載るページ
@@ -355,22 +366,36 @@ function scanControlChars(file) {
 function scanRawLinks(file) {
 	const rel = path.relative(ROOT, file);
 	const hits = [];
-	const LINK = /\[[^\]\n]+\]\(\//;
+	const LINK = /\[[^\]\n]+\]\(\//g;
 	let td = 0;
-	let wrap = 0;
+	let wrap = 0; // 行頭時点で開いている MarkdownWrapper の深さ
 	fs.readFileSync(file, "utf8")
 		.split("\n")
 		.forEach((line, idx) => {
-			const openW = (line.match(/<MarkdownWrapper>/g) || []).length;
-			const closeW = (line.match(/<\/MarkdownWrapper>/g) || []).length;
 			const openT = (line.match(/<td[ >]/g) || []).length;
 			const closeT = (line.match(/<\/td>/g) || []).length;
-			// 行頭時点で開いているか、この行で開くかのどちらかなら中にいるとみなす
 			const inTd = td > 0 || openT > 0;
-			const inWrap = wrap > 0 || openW > 0;
-			if (inTd && !inWrap && LINK.test(line)) {
-				hits.push({ file: rel, line: idx + 1, text: line.trim().slice(0, 90) });
+			if (inTd) {
+				// 同一行に「囲まれたリンク+囲まれていないリンク」が混在しても検出できるよう、
+				// 行全体を一括判定せず、リンクごとに直前までのタグ列から深さを求める
+				const TAG = /<\/?MarkdownWrapper>/g;
+				let m;
+				LINK.lastIndex = 0;
+				while ((m = LINK.exec(line))) {
+					let depth = wrap;
+					let t;
+					TAG.lastIndex = 0;
+					while ((t = TAG.exec(line)) && t.index < m.index) {
+						depth += t[0] === "<MarkdownWrapper>" ? 1 : -1;
+					}
+					if (depth <= 0) {
+						hits.push({ file: rel, line: idx + 1, text: line.trim().slice(0, 90) });
+						break; // 1行1報告で十分
+					}
+				}
 			}
+			const openW = (line.match(/<MarkdownWrapper>/g) || []).length;
+			const closeW = (line.match(/<\/MarkdownWrapper>/g) || []).length;
 			wrap += openW - closeW;
 			td += openT - closeT;
 		});
@@ -465,7 +490,13 @@ function scanLinkLabels(file) {
 			while ((m = LINK.exec(line))) {
 				if (m[3]) continue; // 節へのリンクはラベルが節名
 				const label = m[1];
-				const target = path.join(JA_DIR, m[2].replace(/^\/ja\//, "") + ".md");
+				const relTarget = m[2].replace(/^\/ja\//, "").replace(/\/$/, "");
+				let target = path.join(JA_DIR, relTarget + ".md");
+				// ディレクトリへのリンク (/ja/event/achievements/ 等) は index.md が実体
+				if (!fs.existsSync(target)) {
+					const asIndex = path.join(JA_DIR, relTarget, "index.md");
+					if (fs.existsSync(asIndex)) target = asIndex;
+				}
 				const title = frontmatterTitle(target);
 				if (!title) continue;
 				const want = titleForLabel(title);
@@ -518,8 +549,28 @@ function main() {
 	console.log(`OLD_TERM: ${oldTerms.length}`);
 	console.log(`CONTROL: ${controls.length}`);
 	console.log(`RAW_LINK: ${rawLinks.length}`);
-	console.log(`TABLE: ${tables.length} (基準 ${BASELINE.TABLE})`);
-	console.log(`LABEL: ${labels.length} (基準 ${BASELINE.LABEL})`);
+	// LABEL: baseline との個別突き合わせ (行番号は動くので file+label+title で同定)
+	const baseline = readLabelBaseline();
+	const seen = new Map();
+	const newLabels = labels.filter((x) => {
+		const k = labelKey(x);
+		const used = (seen.get(k) || 0) + 1;
+		seen.set(k, used);
+		return used > (baseline.get(k) || 0);
+	});
+	if (process.argv.includes("--update-label-baseline")) {
+		const body = labels.map(labelKey).sort().join("\n");
+		fs.writeFileSync(
+			LABEL_BASELINE,
+			"# LABEL 検査の据え置き分 (file\tラベル\tリンク先title)。手編集せず\n" +
+				"# node tools/checkJaTranslation.js --update-label-baseline で再生成する。\n" +
+				"# 減らす方向の再生成のみ可。増える再生成は新規違反の隠蔽なので禁止。\n" +
+				body + "\n",
+		);
+		console.log(`LABEL baseline を再生成: ${labels.length}件`);
+	}
+	console.log(`TABLE: ${tables.length} (0 必須)`);
+	console.log(`LABEL: ${labels.length} (据え置き ${labels.length - newLabels.length} / 新規 ${newLabels.length})`);
 
 	const show = (label, arr, fmt) => {
 		if (!arr.length) return;
@@ -544,8 +595,8 @@ function main() {
 		(x) => `${x.file}:${x.line} 見出し${x.head}列 / 区切り${x.delim}列`,
 	);
 	show(
-		"LABEL: リンクテキストがリンク先の title と不一致",
-		labels,
+		"LABEL: リンクテキストがリンク先の title と不一致 (baseline に無い新規分)",
+		newLabels,
 		(x) => `${x.file}:${x.line} [${x.label}] → title は「${x.want}」`,
 	);
 
@@ -556,14 +607,8 @@ function main() {
 		!oldTerms.length &&
 		!controls.length &&
 		!rawLinks.length &&
-		tables.length <= BASELINE.TABLE &&
-		labels.length <= BASELINE.LABEL;
-	if (tables.length > BASELINE.TABLE || labels.length > BASELINE.LABEL) {
-		console.log(
-			`\n基準値を超過。TABLE ${tables.length}/${BASELINE.TABLE}、LABEL ${labels.length}/${BASELINE.LABEL}。` +
-				"新しく作った分を直すこと (既存分の基準値を上げて通すのは禁止)。",
-		);
-	}
+		tables.length === 0 &&
+		newLabels.length === 0;
 	if (!ok) console.log("\n未達。上記を解消すること。");
 	process.exit(ok ? 0 : 1);
 }
