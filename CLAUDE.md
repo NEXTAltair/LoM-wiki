@@ -116,6 +116,16 @@ a parenthetical past the OLD_TERM gate. That allowlist is for lines where the ol
 character legitimately belongs. If the parenthetical has no source, drop the
 parenthetical instead of silencing the gate.
 
+## Rendering defects the build does not catch
+
+Link text must be the target page's frontmatter `title` (minus its trailing
+parenthetical) — never the filename or an ad-hoc phrase. This and two other defects
+that build cleanly (Markdown links inside a plain `<td>`, malformed table delimiter
+rows) are gated by `tools/checkJaTranslation.js` (`LABEL` / `RAW_LINK` / `TABLE`);
+the exact comparison rules live in that script's comments. Verify rendering against
+the built `dist/`, not the dev server. Ratcheted baselines in the script may be
+lowered when you fix occurrences, never raised to make the check pass.
+
 ## Research the sources before you write "unverified"
 
 Two source trees answer most questions about an event's trigger, prerequisite, branch,
