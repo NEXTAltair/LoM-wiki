@@ -100,6 +100,7 @@ tags:
 </td>
 <td>
 <span style="color: Gray;">【唐門離脱】</span><br>
+「怠け者事件」系列イベントを完了する。<br>
 <MarkdownWrapper>[廃寺の密謀](/ja/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>イベントで「唐門を攻撃する」を選び、勝利する。<br>
 </td>
 </tr>
