@@ -79,8 +79,8 @@ tags:
 <td>5</td>
 <td>2年目8月中旬</td>
 <td><MarkdownWrapper>[廃寺の密謀](/ja/event/simple/2-08-2-破廟密謀)</MarkdownWrapper></td>
-<td>• 廃寺で陰謀を知った後、📜「唐門を攻撃する」や📜「逃げる」を選んではいけない。
-    <br>• 夜襲を迎え撃つ際、唐門から離れてはいけない(離脱できるのは大門を選んだ場合のみ)。
+<td>• <MarkdownWrapper>[廃寺の密謀](/ja/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件で📜「唐門を攻撃する」や📜「逃げる」を選んではいけない。
+    <br>• <MarkdownWrapper>[廃寺の密謀](/ja/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件で🚩山道を離れてはいけない(離脱できるのは大門を選んだ場合のみ)。
     <br>• 🗡️戦闘後(勝敗を問わず)、想い人が<Girl2Icon>葉雲裳</Girl2Icon>である必要があり、これで青城への留学が発生する。
 </td>
 <td>• 留学期間中は本筋の展開が固定されているため、生き残る以外に必要条件はない。
