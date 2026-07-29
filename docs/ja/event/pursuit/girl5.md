@@ -132,11 +132,11 @@ tags:
 <tr>
 <td>3</td>
 <td>3年目12月中旬、残り行動回数2</td>
-<td><MarkdownWrapper>[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
+<td><MarkdownWrapper>[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
 <td>• <Girl5Icon>夏侯蘭</Girl5Icon>を訪ねられる。
     <br>• <MarkdownWrapper>[樊嘯天が夏侯蘭に師事する](/ja/event/simple/2-04-1-練功分心)</MarkdownWrapper>かつこの時点で唐門にいる場合、会話が分岐する。
-    <br>• 唐門解散を決策した場合、修練場と男弟子房の展開が分岐する。
-    <br>• 唐門解散を決策した場合、<MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が夏侯蘭と共に雪山へ登るバージョンに変わるほか、道徳≧60なら<MarkdownWrapper>[汗青書31：伝説の人](/ja/event/ends/end-31)</MarkdownWrapper>に進める。</td>
+    <br>• 唐門解散を決断した場合、修練場と男弟子房の展開が分岐する。
+    <br>• 唐門解散を決断した場合、<MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が夏侯蘭と共に雪山へ登るバージョンに変わるほか、道徳≧60なら<MarkdownWrapper>[汗青書31：伝説の人](/ja/event/ends/end-31)</MarkdownWrapper>に進める。</td>
 <td></td>
 </tr>
 

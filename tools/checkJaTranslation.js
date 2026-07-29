@@ -5,8 +5,15 @@
 //   RESIDUE    中国語残存の機械検出ヒット数 (allowlist 除く)
 //   OLD_TERM   旧訳語・誤訳語が残っている行数 (STALE_TERMS 参照)
 //   CONTROL    制御文字が混入している行数 (一括置換スクリプトの事故検出)
+//   RAW_LINK   <td> 内で MarkdownWrapper に囲まれていない Markdown リンクの行数
+//   TABLE      Markdown テーブルの見出し行と区切り行で列数が食い違っている箇所
+//   LABEL      リンクテキストがリンク先ページの title と食い違っている箇所
+//              (既存分は tools/ja-label-baseline.tsv に列挙して据え置き。新規のみ fail)
 //
-// 5つとも 0 で exit 0。
+// 上位6つが 0、TABLE/LABEL が基準値以下で exit 0。
+//
+// LABEL の既存未修正分は baseline ファイルに1件ずつ列挙して据え置く。
+// 既存分を直したら --update-label-baseline で再生成して減らす (増やす再生成は禁止)。
 //
 // RESIDUE は品質の証明ではない。高精度・低再現率に振ってあり、
 // 「あからさまな機械置換の残骸を落とす」下限ゲートとしてしか機能しない。
@@ -63,9 +70,58 @@ const STALE_TERMS = [
 	{ bad: "爐", good: "炉", note: "MOD に爐の用例なし (炉63)。乾坤造化炉・主炉 (2026-07-27)" },
 	{ bad: "鐵", good: "鉄", note: "MOD は鉄 (鉄578/鐵14)。鉄琵琶功等。歌訣の引用のみ allowlist で除外 (2026-07-27)" },
 	{ bad: "邊", good: "辺", note: "MOD に邊の用例なし (辺115)。歌訣の引用のみ allowlist で除外 (2026-07-27)" },
+	{ bad: "錄", good: "録", note: "MOD は録 (江湖鬼蜮録・戦神語録・伝灯録)。旧字体の取りこぼし (2026-07-28)" },
+	{ bad: "繪", good: "絵", note: "「立繪」等。日本語は立ち絵 (2026-07-28)" },
+	// 中国語のまま残っていた語。ユーザー指摘で一掃したので再発をここで止める。
+	{ bad: "決策", good: "決定", compoundOk: true, note: "日本語では使わない語。ゲーム内の選択肢ラベルも「決定：」に統一。原文名『眾人的決策』と「解決策」は直前が漢字なので対象外 (2026-07-28)" },
+	{ bad: "支線", good: "サブイベント", compoundOk: true, note: "ルート/サブクエストの意味。英語版は Side Quest。原文併記の「主支線年表」は直前が漢字なので対象外 (2026-07-28)" },
+	{ bad: "最晚", good: "最遅", note: "中国語。発生時期の記述に混入していた (2026-07-28)" },
+	// 2026-07-28 全ページ読みスイープで一掃した語。単発の見つけ物ではなく複数ページに
+	// 系統的に残っていたものだけをゲートに載せる (開かれた語彙をここで網羅しようとしない)。
+	{ bad: "正向補正", good: "正の補正", note: "ダイス補正記法の中国語残り。37箇所を一掃 (2026-07-28)" },
+	{ bad: "負向補正", good: "負の補正", note: "同上 (2026-07-28)" },
+	{ bad: "随機", good: "ランダム", note: "中国語 (2026-07-28)" },
+	{ bad: "転盤", good: "ダイス", note: "轉盤の直訳。ルーレット/スピンボタン含めダイスに統一 (2026-07-28ユーザー裁定)" },
+	{ bad: "ルーレット", good: "ダイス", note: "ダイスに統一 (2026-07-28ユーザー裁定)" },
+	{ bad: "スピンボタン", good: "ダイス", note: "ダイスに統一 (2026-07-28ユーザー裁定)" },
+	// ステータス段階名。MOD の StatLevel 表が SSoT:
+	// 性情=臆病/慎重/中庸/勇敢/無謀、品性=狂人/乱暴/中庸/冷静/君子、
+	// 処世=虚飾/丁寧/中庸/颯爽/無礼、道徳=極悪/悪人/中庸/善人/侠客
+	{ bad: "莽夫", good: "無謀", note: "StatLevel/disposition05 (2026-07-28)" },
+	{ bad: "懦夫", good: "臆病", note: "StatLevel/disposition01 (2026-07-28)" },
+	{ bad: "瘋狂", good: "狂人", note: "StatLevel/training01 (2026-07-28)" },
+	{ bad: "暴躁", good: "乱暴", note: "StatLevel/training02 (2026-07-28)" },
+	{ bad: "沉著", good: "冷静", note: "StatLevel/training04 (2026-07-28)" },
+	{ bad: "矯情", good: "虚飾", note: "StatLevel/behaviour01 (2026-07-28)" },
+	{ bad: "粗魯", good: "無礼", note: "StatLevel/behaviour05 (2026-07-28)" },
+	{ bad: "悪棍", good: "極悪", note: "StatLevel/karma01 の中国語別名 (2026-07-29)" },
 ];
+// TABLE は既存分を全て解消済みのため常に 0 を要求する。
+// LABEL の既存未修正分は tools/ja-label-baseline.tsv に1件ずつ列挙して据え置く
+// (総数比較だと「既存1件を直して新規1件を入れる」±0 のすり抜けが起きるため)。
+// baseline に無い違反が1件でも出たら fail。直した分は --update-label-baseline で
+// 再生成して減らす (増やす方向の再生成は新規違反の隠蔽なので禁止)。
+const LABEL_BASELINE = path.join(ROOT, "tools/ja-label-baseline.tsv");
+
+function readLabelBaseline() {
+	const set = new Map(); // key -> 件数 (同一 key の複数出現に耐えるため多重集合)
+	if (!fs.existsSync(LABEL_BASELINE)) return set;
+	for (const l of fs.readFileSync(LABEL_BASELINE, "utf8").split("\n")) {
+		const s2 = l.trim();
+		if (!s2 || s2.startsWith("#")) continue;
+		set.set(s2, (set.get(s2) || 0) + 1);
+	}
+	return set;
+}
+
+// リンク先パスをキーに含める: 同じ file+ラベル+title でも別ターゲットへの
+// 張り替え (タイトルが同名の別ページが実在する) をすり抜けさせないため
+const labelKey = (x) => `${x.file}\t${x.label}\t${x.want}\t${x.target}`;
+
 const STALE_TERM_EXEMPT_FILES = new Set([
 	"glossary.md", // 対訳表。bad側(旧語=原文)が正しく載るページ
+	"address-terms.md", // 呼称表。原語(zh-TW)列が繁体字なのが役目
+	"first-person-pronouns.md", // 一人称表。同上
 ]);
 
 // 中国語にしか現れない字・機能語。カナが混じっていても中国語構文の残骸として拾う。
@@ -299,6 +355,172 @@ function scanControlChars(file) {
 	return hits;
 }
 
+/**
+ * RAW_LINK: `<td>` の中で MarkdownWrapper に囲まれていない Markdown リンクを検出する。
+ *
+ * `<Table class="timeline-table">` や素の `<table>` の中身は markdown-it から見ると
+ * 一続きの raw HTML ブロックで、Markdown リンクが解釈されない。囲みを忘れると
+ * `[表示名](/ja/...)` という文字列がそのまま読者に見える (ビルドは通ってしまうので
+ * dead link 検査では捕まらない)。
+ *
+ * `<ChTd>` のような Vue コンポーネントは raw HTML ブロック扱いにならず正しく描画される
+ * ため、素の `<td>` に入っている場合だけを対象にする。
+ */
+function scanRawLinks(file) {
+	const rel = path.relative(ROOT, file);
+	const hits = [];
+	const LINK = /\[[^\]\n]+\]\(\//g;
+	let td = 0;
+	let wrap = 0; // 行頭時点で開いている MarkdownWrapper の深さ
+	let inFence = false;
+	fs.readFileSync(file, "utf8")
+		.split("\n")
+		.forEach((line, idx) => {
+			if (/^```/.test(line.trim())) {
+				inFence = !inFence;
+				return;
+			}
+			if (inFence) return; // コードフェンス内の <td> 例示は描画されない
+			const openT = (line.match(/<td[ >]/g) || []).length;
+			const closeT = (line.match(/<\/td>/g) || []).length;
+			const inTd = td > 0 || openT > 0;
+			if (inTd) {
+				// 同一行に「囲まれたリンク+囲まれていないリンク」が混在しても検出できるよう、
+				// 行全体を一括判定せず、リンクごとに直前までのタグ列から深さを求める
+				const TAG = /<\/?MarkdownWrapper>/g;
+				let m;
+				LINK.lastIndex = 0;
+				while ((m = LINK.exec(line))) {
+					let depth = wrap;
+					let t;
+					TAG.lastIndex = 0;
+					while ((t = TAG.exec(line)) && t.index < m.index) {
+						depth += t[0] === "<MarkdownWrapper>" ? 1 : -1;
+					}
+					if (depth <= 0) {
+						hits.push({ file: rel, line: idx + 1, text: line.trim().slice(0, 90) });
+						break; // 1行1報告で十分
+					}
+				}
+			}
+			const openW = (line.match(/<MarkdownWrapper>/g) || []).length;
+			const closeW = (line.match(/<\/MarkdownWrapper>/g) || []).length;
+			wrap += openW - closeW;
+			td += openT - closeT;
+		});
+	return hits;
+}
+
+/**
+ * TABLE: Markdown テーブルの見出し行と区切り行で列数が食い違っているものを検出する。
+ *
+ * GFM は両者の列数が一致しない表をテーブルとして認識しない。結果、表全体が
+ * `| 人物 | 加入条件 | ...` という1個の段落として読者に見える。ビルドは通るので
+ * dead link 検査では捕まらない。
+ */
+function scanTableShape(file) {
+	const rel = path.relative(ROOT, file);
+	const hits = [];
+	const countCells = (line) => {
+		// \| はリテラルのパイプであってセル区切りではない
+		let s = line.trim().replace(/\\\|/g, "\u0000");
+		if (s.startsWith("|")) s = s.slice(1);
+		if (s.endsWith("|")) s = s.slice(0, -1);
+		return s.split("|").length;
+	};
+	const isDelimiter = (line) =>
+		/^\s*\|?\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)*\|?\s*$/.test(line);
+	const lines = fs.readFileSync(file, "utf8").split("\n");
+	let inFence = false;
+	lines.forEach((line, idx) => {
+		if (/^```/.test(line.trim())) {
+			inFence = !inFence;
+			return;
+		}
+		if (inFence || idx === 0 || !isDelimiter(line)) return;
+		const head = lines[idx - 1];
+		if (!head.includes("|") || !head.trim()) return;
+		const h = countCells(head);
+		const d = countCells(line);
+		if (h !== d) {
+			hits.push({ file: rel, line: idx + 1, head: h, delim: d });
+		}
+	});
+	return hits;
+}
+
+/**
+ * LABEL: リンクテキストがリンク先ページの title と食い違っているものを検出する。
+ *
+ * リンクテキストにはリンク先の frontmatter title を使う。ファイル名の中国語は
+ * 3ロケールでパスを揃えるための識別子であって読者に見せる名前ではないし、
+ * 書き手がその場で言い換えた名前はページ名と読者の中で結びつかない。
+ *
+ * 比較時に落とすもの:
+ *   - title 末尾の括弧書き (「衆人の決断 (眾人的決策)」の原文併記、
+ *     「龍湘 (リュウショウ)」の読み)。リンクテキストには入れない
+ *   - ラベル両端の飾り記号 《》〈〉「」『』 (秘笈名を《》で囲む等)
+ *
+ * 節へのリンク (#見出し) はラベルが節名になるのが正しいので対象外。
+ */
+function frontmatterTitle(file) {
+	if (!fs.existsSync(file)) return null;
+	for (const line of fs.readFileSync(file, "utf8").split("\n").slice(0, 15)) {
+		if (line.startsWith("title:")) return line.slice("title:".length).trim();
+	}
+	return null;
+}
+
+/** title 末尾の括弧書き (原文併記・読み) を落とす */
+function titleForLabel(title) {
+	const m = title.match(/^(.+?)\s*[(（]([^)）]+)[)）]$/);
+	return m ? m[1].trim() : title;
+}
+
+/** ラベル両端の飾り記号を落とす */
+function undecorate(label) {
+	return label.replace(/^[《〈「『]/, "").replace(/[》〉」』]$/, "");
+}
+
+function scanLinkLabels(file) {
+	const rel = path.relative(ROOT, file);
+	const hits = [];
+	const LINK = /\[([^\]\n]+)\]\((\/ja\/[^)\s#]+)(#[^)\s]*)?\)/g;
+	let inFence = false;
+	fs.readFileSync(file, "utf8")
+		.split("\n")
+		.forEach((line, idx) => {
+			if (/^```/.test(line.trim())) {
+				inFence = !inFence;
+				return;
+			}
+			if (inFence) return;
+			let m;
+			LINK.lastIndex = 0;
+			while ((m = LINK.exec(line))) {
+				if (m[3]) continue; // 節へのリンクはラベルが節名
+				const label = m[1];
+				const relTarget = m[2]
+					.replace(/^\/ja\//, "")
+					.replace(/\/$/, "")
+					.replace(/\.(md|html)$/, ""); // /ja/.../brother1.md や .html 形式のリンクにも対応
+				let target = path.join(JA_DIR, relTarget + ".md");
+				// ディレクトリへのリンク (/ja/event/achievements/ 等) は index.md が実体
+				if (!fs.existsSync(target)) {
+					const asIndex = path.join(JA_DIR, relTarget, "index.md");
+					if (fs.existsSync(asIndex)) target = asIndex;
+				}
+				const title = frontmatterTitle(target);
+				if (!title) continue;
+				const want = titleForLabel(title);
+				const got = undecorate(label);
+				if (got === want || got === title || label === want || label === title) continue;
+				hits.push({ file: rel, line: idx + 1, label, want, target: path.relative(JA_DIR, target) });
+			}
+		});
+	return hits;
+}
+
 function readLedger() {
 	const ledger = new Map();
 	if (!fs.existsSync(LEDGER)) return ledger;
@@ -330,12 +552,49 @@ function main() {
 	const oldTermAllow = loadAllowlist(OLD_TERM_ALLOWLIST);
 	const oldTerms = files.flatMap((f) => scanStaleTerms(f, oldTermAllow));
 	const controls = files.flatMap((f) => scanControlChars(f));
+	const rawLinks = files.flatMap((f) => scanRawLinks(f));
+	const tables = files.flatMap((f) => scanTableShape(f));
+	const labels = files.flatMap((f) => scanLinkLabels(f));
 
 	console.log(`MISSING: ${missing.length}`);
 	console.log(`STALE: ${stale.length}`);
 	console.log(`RESIDUE: ${residue.length}`);
 	console.log(`OLD_TERM: ${oldTerms.length}`);
 	console.log(`CONTROL: ${controls.length}`);
+	console.log(`RAW_LINK: ${rawLinks.length}`);
+	// LABEL: baseline との個別突き合わせ (行番号は動くので file+label+title で同定)
+	const baseline = readLabelBaseline();
+	const seen = new Map();
+	const newLabels = labels.filter((x) => {
+		const k = labelKey(x);
+		const used = (seen.get(k) || 0) + 1;
+		seen.set(k, used);
+		return used > (baseline.get(k) || 0);
+	});
+	if (process.argv.includes("--update-label-baseline")) {
+		// 新規違反が存在する状態での再生成は、その違反を据え置き扱いに繰り込んで
+		// ラチェットを迂回できてしまうため拒否する。初回生成 (baseline 不在) と、
+		// 現在の違反が全て据え置き分に収まっている縮小方向の再生成のみ許可。
+		if (fs.existsSync(LABEL_BASELINE) && newLabels.length > 0) {
+			console.log(
+				`LABEL baseline 再生成を拒否: baseline に無い違反が ${newLabels.length} 件ある。` +
+					"先に新規分を修正すること (検出器の改良で既存違反が新たに見えるようになった場合は、" +
+					"その違反自体を直すか、baseline を一度削除して意図を明示したうえで再生成する)。",
+			);
+			process.exit(1);
+		}
+		const body = labels.map(labelKey).sort().join("\n");
+		fs.writeFileSync(
+			LABEL_BASELINE,
+			"# LABEL 検査の据え置き分 (file\tラベル\tリンク先title\tリンク先パス)。手編集せず\n" +
+				"# node tools/checkJaTranslation.js --update-label-baseline で再生成する。\n" +
+				"# 減らす方向の再生成のみ可。増える再生成は新規違反の隠蔽なので禁止。\n" +
+				body + "\n",
+		);
+		console.log(`LABEL baseline を再生成: ${labels.length}件`);
+	}
+	console.log(`TABLE: ${tables.length} (0 必須)`);
+	console.log(`LABEL: ${labels.length} (据え置き ${labels.length - newLabels.length} / 新規 ${newLabels.length})`);
 
 	const show = (label, arr, fmt) => {
 		if (!arr.length) return;
@@ -349,8 +608,31 @@ function main() {
 	show("RESIDUE: 中国語残存の疑い", residue, (x) => `${x.file}:${x.line} [${x.why}] ${x.text}`);
 	show("OLD_TERM: 旧訳語・誤訳語の残存", oldTerms, (x) => `${x.file}:${x.line} [${x.bad}→${x.good}] ${x.note} :: ${x.text}`);
 	show("CONTROL: 制御文字の混入", controls, (x) => `${x.file}:${x.line} [${x.code}] ${x.text}`);
+	show(
+		"RAW_LINK: <td> 内の Markdown リンクが MarkdownWrapper で囲まれていない",
+		rawLinks,
+		(x) => `${x.file}:${x.line} ${x.text}`,
+	);
+	show(
+		"TABLE: 見出し行と区切り行の列数が不一致 (表として描画されない)",
+		tables,
+		(x) => `${x.file}:${x.line} 見出し${x.head}列 / 区切り${x.delim}列`,
+	);
+	show(
+		"LABEL: リンクテキストがリンク先の title と不一致 (baseline に無い新規分)",
+		newLabels,
+		(x) => `${x.file}:${x.line} [${x.label}] → title は「${x.want}」`,
+	);
 
-	const ok = !missing.length && !stale.length && !residue.length && !oldTerms.length && !controls.length;
+	const ok =
+		!missing.length &&
+		!stale.length &&
+		!residue.length &&
+		!oldTerms.length &&
+		!controls.length &&
+		!rawLinks.length &&
+		tables.length === 0 &&
+		newLabels.length === 0;
 	if (!ok) console.log("\n未達。上記を解消すること。");
 	process.exit(ok ? 0 : 1);
 }

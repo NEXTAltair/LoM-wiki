@@ -170,7 +170,7 @@ borderless: false
     やがて父が武林の伝説だと聞き、<br>
 	悲しくも誇りを感じ、父の足跡をたどり故人を訪ね、<br>
 	亡き父の話をもっと集めたいと、その記憶を大事にした。<br><br>
-    剣法はすべて家伝の秘笈から得た。龍淵七訣の中でも特に剣に長けており、<br>
+    剣法はすべて家伝の秘笈から得た。龍淵七絶の中でも特に剣に長けており、<br>
 	幼い頃から鶏腿を剣としてあやつり、人剣一体の妙を会得したが本人は気づかず、<br>
 	今も自分が本当に高手なのかよくわかっていない。
   </Tab>
@@ -283,7 +283,7 @@ borderless: false
 -   全[錦香宮](/ja/people/factions/jin-xiang-palace)の中で[龍湘](/ja/people/characters/girl8)だけが自発的に入宮しなかった。幼い頃から[温夫人](/ja/people/characters/special402)に連れられて育てられ、名義上は師徒だが、実質は母女に近い。
 -   ただし、伝説テキストではそう述べられているが、鳥熊は[温夫人](/ja/people/characters/special402)と龍湘は師弟の情だと述べている。[^12]
 -   [錦香宮](/ja/people/factions/jin-xiang-palace)でもっとも湘姉を寵愛する四人：[盛雪](/ja/people/characters/other12)、[温夫人](/ja/people/characters/special402)、[画中仙](/ja/people/characters/special813)、[明玉](/ja/people/characters/other18)。[^15]
--   初版で[唐布衣](/ja/people/characters/brother1)と大戦後、もともと[唐布衣](/ja/people/characters/brother1)が意図的に彼女の頬にキスして逃げさせたが、ユニコーンプレイヤーから批判を受けて、[趙活](/ja/people/characters/player)が落ちてきて彼女にキスするように変更された。その後、天命転盤で誰がキスするかが決まるように改変された。
+-   初版で[唐布衣](/ja/people/characters/brother1)と大戦後、もともと[唐布衣](/ja/people/characters/brother1)が意図的に彼女の頬にキスして逃げさせたが、ユニコーンプレイヤーから批判を受けて、[趙活](/ja/people/characters/player)が落ちてきて彼女にキスするように変更された。その後、天命ダイスで誰がキスするかが決まるように改変された。
 -   [唐布衣](/ja/people/characters/brother1)に憧憬を抱き、[龍淵](/ja/people/characters/special2)、[王二壮](/ja/people/characters/special401)と同じく仁侠義士として崇拝している。~~ただし会うたびに戦闘になることもあるが~~、そのため[趙活](/ja/people/characters/player)は常に自分が隙をついて入り込んだと思っている。
 -   [趙活](/ja/people/characters/player)への評価は高く、何をしても褒める。[唐布衣](/ja/people/characters/brother1)からは錦香宮のゴマすり殺人鬼とからかわれた。
 -   飛俠が地に降りた後の一月間、[唐門](/ja/people/factions/tang-men)に仮住まいして、全派の者と切磋相手をして一通り相手をした。攻撃の気迫は驚くほどで、唐門の弟子たちを怖がらせた。[^11]

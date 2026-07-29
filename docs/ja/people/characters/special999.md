@@ -132,7 +132,7 @@ aside: false
 -   派手な服が嫌いで、綺麗好き。だらしない格好もしたくない。結果、素朴で清潔な縞衣に落ち着いた。華美な装いで人目を引こうとしない意志の表れである。[^3]
 -   顔が良くても集中砲火は浴びる。
 -   [万里鵬程](/ja/people/characters/special6)は瑞笙を「瑞小友」と呼ぶが、両者の関係は不明。
--   <MarkdownWrapper>||解析データによれば、趙活と親友になる笙活双俠線が存在するが、v3206 時点では未実装||</MarkdownWrapper>
+-   <MarkdownWrapper>||解析データによれば、趙活と親友になる笙活双俠ルートが存在するが、v3206 時点では未実装||</MarkdownWrapper>
 -   <MarkdownWrapper>||初版の西武林では趙活と引き分ける結末があったが、伏線不足でプレイヤーの不満を買い、この結末は現在削除されている||</MarkdownWrapper>
 
 [^1]: バハムート - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)

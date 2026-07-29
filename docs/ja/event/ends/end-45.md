@@ -26,12 +26,12 @@ tags:
 </EndBackground>
 
 ## 条件と進行
-<strong>条件：</strong>誰とも結縁していない、[唐布衣](/ja/people/characters/brother1)が生存しない、「徹底抗戦」シナリオ線に進入。<br>
+<strong>条件：</strong>誰とも結縁していない、[唐布衣](/ja/people/characters/brother1)が生存しない、「徹底抗戦」シナリオルートに進入。<br>
 **ルート：**<br>
-1. 三年十二月上旬最後の行動前。[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で「徹底抗戦」シナリオ線に進入。
-2. 唐門包囲戦：開始時期は[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)の結果で異なる。
-   + [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)が1️⃣西武林盟成立の決策：四年二月中旬残り２行動時に開始。
-   + [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)が2️⃣西武林盟不成立の決策：四年一月中旬残り2行動時に開始。
+1. 三年十二月上旬最後の行動前。[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)で「徹底抗戦」シナリオルートに進入。
+2. 唐門包囲戦：開始時期は[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)の結果で異なる。
+   + [衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)が1️⃣西武林盟成立の決断：四年二月中旬残り２行動時に開始。
+   + [衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)が2️⃣西武林盟不成立の決断：四年一月中旬残り2行動時に開始。
 3. **🎲運命：弟子脱走結果......**(上限50、➕加値：団結/2)：
    + **🧾【＝99】一人も去らない**：門人-0。
    + **🧾【＞60】小部分が去った**：門人-5。
@@ -48,7 +48,7 @@ tags:
    + その他の結果：
      + **📖選項「全力で突破」**：⚔️混戦、勝負は無関係。
      + **📖選項「一人も残さない」**：⚔️混戦、勝利必須→⚔️混戦、勝負は無関係。
-6. 🗡️武林盟主-[瑞笙](/ja/people/characters/special999)との決闘、勝利後、結縁キャラがなく、[唐布衣](/ja/people/characters/brother1)が生存しない場合、結局に進入。
+6. 🗡️武林盟主-[瑞笙](/ja/people/characters/special999)との決闘、勝利後、結縁キャラがなく、[唐布衣](/ja/people/characters/brother1)が生存しない場合、ENDに進入。
 
 ### ※唐布衣生存条件
 ::: details

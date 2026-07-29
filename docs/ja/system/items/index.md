@@ -143,8 +143,8 @@ tags:
         <td>不明</td>
         <td>不明</td>
         <td></td>
-        <td>1年弟子房-<MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>と詩琴書画について雑談。肩甲が嫌い。1年目債権者が来た時、「行きなさい、今すぐ何か考えねば」の目が出た場合、先生に見せられるが、たしなめられる
-(前置条件：6月上旬[唐惟元](/ja/people/characters/brother4)が会議に呼んだ時、「もしかして...あの件か」+「うっかり字画を焼いてしまった」を選択)</td>
+        <td><MarkdownWrapper>1年弟子房-[唐布衣](/ja/people/characters/brother1)と詩琴書画について雑談。肩甲が嫌い。1年目債権者が来た時、「行きなさい、今すぐ何か考えねば」の目が出た場合、先生に見せられるが、たしなめられる
+(前置条件：6月上旬[唐惟元](/ja/people/characters/brother4)が会議に呼んだ時、「もしかして...あの件か」+「うっかり字画を焼いてしまった」を選択)</MarkdownWrapper></td>
     </tr>
     <tr>
         <td>龍湘の銀銭</td>
