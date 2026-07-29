@@ -100,7 +100,7 @@ tags:
 </td>
 <td>
 <span style="color: Gray;">【唐門離脱】</span><br>
-唐門から追放され、最終的に何も成し遂げることなく人波に埋もれてゆく。
+<MarkdownWrapper>[廃寺の密謀](/ja/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>イベントで「唐門を攻撃する」を選び、勝利する。<br>
 </td>
 </tr>
 <tr>
@@ -314,7 +314,7 @@ tags:
 <span style="color: Gray;">【唐門離脱】</span><br>
 <span style="color: #FF1493;">【廃廟ルート】</span><br>
 留学しない、気に入らず唐門を離脱し、唐默鈴(もしくは葉雲裳も)を唐門に送り届けた後も、依然として唐門を永遠に離れ、江湖から隠退。<br>
-性情が用心深い時、廃廟ルートの最後の場面で急いで逃げる選択肢が追加され、敵に遭遇して勝利する。
+<MarkdownWrapper>[廃寺の密謀](/ja/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>イベントで「逃げる」を選び、戦闘に勝利し、道徳≧40。<br>
 </td>
 </tr>
 <tr>
