@@ -751,8 +751,8 @@ tags:
 				<MarkdownWrapper>
                     [衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)
                 </MarkdownWrapper>
-				<li>西武林盟の成立（李富貴の好感度2星、または学問・戦術の条件が必要）</li>
-				<li>龍湘ルート-後山で薪割：決闘(攻略の最遅発生時期は一月下旬前)</li>
+				<li>西武林盟の成立</li>
+				<li>龍湘ルート-後山で薪割：決闘</li>
 			</td>
 			<td>
 				<li>正心堂：四師兄の出使案</li>
@@ -786,12 +786,12 @@ tags:
 			<td>
 				<li>三師兄が帰る</li>
                 <MarkdownWrapper>
-                [唐門包囲戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)【混戦-徹底抗戦】
+                [唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)【西武林盟不成立】
                 </MarkdownWrapper>
 			</td>
 			<td>
 				<li>各門派の返答</li>
-				<li>龍湘ルート-伝書鳩(最遅の発生時期は一月下旬)</li>
+				<li>龍湘ルート-伝書鳩</li>
 			</td>
 		</tr>
 		<tr>
@@ -804,7 +804,7 @@ tags:
 			<td>
                 <MarkdownWrapper>
 				[西武林大会](/ja/event/detailed_description/4-02-2-東西武林盟會戰)<br>
-                [唐門包囲戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)【西武林盟成立-徹底抗戦】
+                [唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)【西武林盟成立失敗】
                 </MarkdownWrapper>
 			</td>
 			<td>-</td>

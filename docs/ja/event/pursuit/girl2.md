@@ -59,7 +59,7 @@ tags:
 <td>月例会議で📜「崆峒派に留学したい」を選ばず、そのまま📜「退席」を選ぶ。</td>
 <td>• 秘笈が不足していて後に<MarkdownWrapper>[医術](/ja/system/skill)</MarkdownWrapper>をレベル3まで修練できない場合、この時点で四師兄から購入しておくとよい。
     <br>• 後で<MarkdownWrapper>[九転残篇](/ja/system/books/book_8109)</MarkdownWrapper>を修練するには<MarkdownWrapper>[仏学](/ja/system/skill)</MarkdownWrapper>レベル2が必要なので、この時点で<MarkdownWrapper>[羅漢拳譜](/ja/system/books/book_6001)</MarkdownWrapper>を購入しておくとよい。
-    <br>• 4年目の西武林ルートで剣聖の極招を習得したい場合、この時点で<MarkdownWrapper>[点蒼剣譜](/ja/system/books/book_2300)</MarkdownWrapper>を購入しておく必要がある。
+    <br>• 4年目に同舟剣法または剣聖の極招 (西武林ルート限定) を習得したい場合、この時点で<MarkdownWrapper>[点蒼剣譜](/ja/system/books/book_2300)</MarkdownWrapper>を購入しておく必要がある。
 </td>
 </tr>
 
@@ -78,9 +78,7 @@ tags:
 <tr>
 <td>5</td>
 <td>2年目8月中旬</td>
-<td><MarkdownWrapper>[廃寺の変装者たち](/ja/event/detailed_description/2-08-3-廢寺喬裝)</MarkdownWrapper>
-    <br>(名称仮称)
-</td>
+<td><MarkdownWrapper>[廃寺の密謀](/ja/event/simple/2-08-2-破廟密謀)</MarkdownWrapper></td>
 <td>• 廃寺で陰謀を知った後、📜「唐門を攻撃する」や📜「逃げる」を選んではいけない。
     <br>• 夜襲を迎え撃つ際、唐門から離れてはいけない(離脱できるのは大門を選んだ場合のみ)。
     <br>• 🗡️戦闘後(勝敗を問わず)、想い人が<Girl2Icon>葉雲裳</Girl2Icon>である必要があり、これで青城への留学が発生する。
@@ -261,7 +259,7 @@ tags:
     <br>• 🎲【≧50】「葉雲舟は現れなかった」を出すと、剣聖の極招を学ぶ過程に進む。
     <br>• スキル<MarkdownWrapper>[点破雲関](/ja/system/skill)</MarkdownWrapper>を持ち、かつ<MarkdownWrapper>[同舟剣法](/ja/system/skill)</MarkdownWrapper>を習得していないことが、🎲の結果に応じて剣聖の極招を習得するための条件。
 </td>
-<td></td>
+<td>剣聖の極招は実のところ強くない。</td>
 </tr>
 
 <tr>
