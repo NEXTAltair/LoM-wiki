@@ -354,7 +354,7 @@ tags:
     </td>
     <td style="text-align: center">
         <MarkdownWrapper>
-            [廃寺の変装者たち](/ja/event/detailed_description/2-08-3-廢寺喬裝)<br>
+            [廃寺の密謀](/ja/event/simple/2-08-2-破廟密謀)<br>
         </MarkdownWrapper>
     </td>
     <td style="text-align: center">
