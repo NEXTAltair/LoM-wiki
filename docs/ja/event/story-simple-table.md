@@ -337,7 +337,6 @@ tags:
             [廃寺の密謀](/ja/event/simple/2-08-2-破廟密謀)<br>
             [唐門への報告](/ja/event/simple/2-08-2-唐門報信)<br>
             [唐門の迎撃](/ja/event/simple/2-08-2-唐門迎敵)<br>
-            [廃寺の変装者たち](/ja/event/detailed_description/2-08-3-廢寺喬裝)<br>
         </MarkdownWrapper>
     </td>
 </tr>
@@ -353,7 +352,11 @@ tags:
 			[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)<br>
         </MarkdownWrapper>
     </td>
-    <td style="text-align: center">-</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+            [廃寺の変装者たち](/ja/event/detailed_description/2-08-3-廢寺喬裝)<br>
+        </MarkdownWrapper>
+    </td>
     <td style="text-align: center">
         <MarkdownWrapper>
         [青城での療養](/ja/event/detailed_description/2-08-5-青城療傷)<br>
@@ -462,7 +465,10 @@ tags:
     <td style="text-align: center">上</td>
     <td colspan = 3 style="text-align: center">唐門例会</td>
     <td style="text-align: center">
+        <MarkdownWrapper>
         葉雲裳、倒れる<br>
+        青城滞在が続く。[枯栄神功上卷](/ja/system/books/book_7017)の入手機会 (未収録)<br>
+        </MarkdownWrapper>
     </td>
 </tr>
 <tr>
