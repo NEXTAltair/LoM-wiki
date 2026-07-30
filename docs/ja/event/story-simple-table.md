@@ -781,12 +781,11 @@ tags:
 <tr>
   <td rowspan = 3 style="text-align: center">一</td>
   <td style="text-align: center">上</td>
+  <td style="text-align: center">-</td>
   <td style="text-align: center">
     <MarkdownWrapper>
     [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)【滅門ルート】<br>
     </MarkdownWrapper>
-  </td>
-  <td style="text-align: center">
     小師妹の再訪<br>
   </td>
   <td colspan = 2 style="text-align: center">
@@ -826,13 +825,11 @@ tags:
   <td rowspan = 4 style="text-align: center">二</td>
   <td style="text-align: center">上</td>
   <td style="text-align: center">-</td>
-  <td style="text-align: center">
+  <td style="text-align: center">-</td>
+  <td colspan = 2 style="text-align: center">
     <MarkdownWrapper>
     [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)<br>
     </MarkdownWrapper>
-  </td>
-  <td colspan = 2 style="text-align: center">
-    瑞笙来訪<br>
     小師妹の再訪<br>
   </td>
 </tr>
