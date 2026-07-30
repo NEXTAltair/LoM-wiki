@@ -409,7 +409,7 @@ tags:
 </tr>
 
 <tr>
-    <td rowspan = 2 style="text-align: center">十</td>
+    <td rowspan = 3 style="text-align: center">十</td>
     <td style="text-align: center">上</td>
     <td style="text-align: center">
         <MarkdownWrapper>
@@ -418,8 +418,6 @@ tags:
 			[江陵決戦](/ja/event/simple/2-10-1-江陵決戰)<br>
 			[南宮家からの訃報](/ja/event/simple/2-10-1-南宮訃音)<br>
 			[唐門に帰還](/ja/event/simple/2-10-1-返回唐門)<br>
-			[小梅が訪ねてくる](/ja/event/simple/2-10-3-小梅上門)<br>
-			[虞小梅がらみのランダムイベント](/ja/event/simple/2-10-3-虞小梅相關)<br>
         </MarkdownWrapper>
     </td>
     <td style="text-align: center">
@@ -445,6 +443,18 @@ tags:
             [後ろ指を指されて](/ja/event/simple/2-10-2-指指點點)<br>
 		</MarkdownWrapper>        
     </td>
+</tr>
+<tr>
+    <td style="text-align: center">下</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+			[小梅が訪ねてくる](/ja/event/simple/2-10-3-小梅上門)<br>
+			[虞小梅がらみのランダムイベント](/ja/event/simple/2-10-3-虞小梅相關)<br>
+        </MarkdownWrapper>
+    </td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
 </tr>
 
 <tr>
