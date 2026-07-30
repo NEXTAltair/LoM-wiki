@@ -153,7 +153,9 @@ event/simple/2-06-1-離家出走.md	REWROTE	fa349753b412fdd98ca25f4dacc465bb0afc
 event/simple/2-08-1-江陵傳聞.md	REWROTE	0f9112c3472e9d3f72703e601e1d33fb0e1490363b20041bedadf14442b57bfb
 event/simple/2-08-1-馳援南宮.md	OK	02b9d61398bbb1b781cb73d26ccef42330fc6e8f824a2c3dd79739e7cfaea9ea
 event/simple/2-08-2-破廟密謀.md	REWROTE	31a9f0d0d03d6c2ba8abb402097af75a70d8bb5a6d95d6cae7a391a63adc1ca9
-event/simple/2-08-2-唐門報信.md	REWROTE	9466099607997381c4ad8c8640bf8d9642b6b5e5e42a166dac960f456febb256
+event/simple/2-08-2-唐門報信.md	REWROTE	3711ed2b89bafedcbaac7837181db61fe8b5a967b0c70a0895232ff85d55cb85
+event/simple/2-10-2-指指點點.md	REWROTE	dcd4af7c955d33f2e5b6fde5cea80c69435237951a27764c77f518eb73e4b733
+event/simple/2-08-2-唐門迎敵.md	REWROTE	e5b4c686aa2ca55929705b71e0142e37922e525e243832de5ff5fca92239598d
 event/simple/2-08-3-巧遇龍淵.md	REWROTE	267e1ccb051f8bcc43f7a89ccf7a47870206b8c20aa1a77f1380f6539f1d1b84
 event/simple/2-09-1-南宮作客事件集.md	REWROTE	d82d67b27ac8fde3b447d12bf13ef1f5dac00bdd4a3047c317d91d1a2641c23c
 event/simple/2-09-1-南宮家夜遊.md	REWROTE	be8b8ffef685188bfaf959c37b96de77f5bd47288307d781b5ea794532ecb5d8
@@ -207,7 +209,7 @@ event/stories/決戰極樂教.md	REWROTE	0fa21c5771a381edf73e34654ac6ed0cb12d3b4
 event/stories/白風峒變亂.md	REWROTE	4e81664edf2bce5f59ac6ddb4c8c9a433204fc5fd23fc57c2fffcc64257f53b3
 event/stories/青城論道.md	REWROTE	cc550960efedfb1334480dbc29224e38af17c4083819d4bc69480f1f28c4bc18
 event/story-branch-timeline.md	REWROTE	b82e2c734a63806c20cf267cbf161f0306662ec43c6ddc8ed50ddd6a0a27fb24
-event/story-simple-table.md	REWROTE	a4c0668bb9802ad28a3b7ea712f5dfa2bfbfe163b928084372ba96bb49127f93
+event/story-simple-table.md	REWROTE	22d2305eb6e2fcfa93551d5dfcebf08a314656c503432516961ae8994cb789b2
 glossary.md	OK	fa37f7a6579a089948ff5b4fff901418eb8a9a14bf3e92adea6622a151aa3441
 index.md	OK	49aaad62fece47edba28b7ff795a4939e25b67ca507722c02ba9af94b443ffd5
 other/guide/1-game-objective.md	REWROTE	75174f3d6f3b32845a414dcf1bc1965e92b90f60ac7ea7e198e576b535a7507f
@@ -565,6 +567,6 @@ event/simple/1-06-1-變心夢.md	OK	a6065a1662493e5902b8743a17f30937e13e84f49613
 event/simple/1-07-3-唐門段考.md	OK	ce9b5458f123aaedd40f4d54dae3f02588c4d38a24154043ef9de509ac49c21c
 event/simple/2-10-3-虞小梅相關.md	OK	2eba5fab5910ad442a1e4a97f4e741ee9722902fc7781a0ba5dee63f23710998
 event/simple/2-12-1-大師兄刺金行.md	OK	49c512a515de139530262d0b259fa9a664e781e9f387871df1474aa15bafb940
-event/pursuit/girl2.md	OK	7900a40a27d035ec750acdad250136dc905e7ee21cc2e308181f9b1fa0897d14
+event/pursuit/girl2.md	OK	1957b94fb36bb5b60673b066467cbcad01fd514968536f7074bfab2c6a94e0d9
 
 event/detailed_description/3-10-2-武林大會歸途.md	REWROTE	09842489822ae9f8d13e50d1fad7e033aab13148fd0ce0dfded5f7f30f3bc850
