@@ -9,7 +9,7 @@
 import {defineComponent, computed} from 'vue'
 import {withBase, useData} from "vitepress";
 import {useLocalePrefix} from "../../../script/useLocalePrefix";
-import localePageManifest from "../../../../../../docs/public/json/locale_page_manifest.json";
+import localePageManifest from "../../../data/locale_page_manifest.json";
 
 export default defineComponent({
     props: {
