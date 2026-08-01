@@ -146,9 +146,9 @@ title: 用語対訳表
 | 原文 (zh-TW) | 日本語 | English | 備考 |
 | --- | --- | --- | --- |
 | 溫泉 | 温泉 | Hot Spring | |
-| 藥舖 | 薬舗 | Apothecary | |
+| 藥舖 | 薬屋 | Apothecary | ★MOD。自由行動メニュー・場所名・対話とも薬屋 (薬舗は3件のみ) |
 | 茶肆 | 茶屋 (茶肆) | Tea House | |
-| 義田 | 義田 | Charitable Farm | ★MOD |
+| 義田 | 義田 | Charitable Farm | ★MOD。自由行動メニューと対話は義田、Facility/Name のみ共有田 |
 | 外堡 | 外堡 | Outer Fort | ★MOD |
 | 行商 | 行商 | Merchant Trading | |
 | 煉丹房 | 煉丹房 | Alchemy Room | ★MOD。対話・地の文は煉丹房が優勢 (50件)。自由行動の場所表示のみ「錬丹部屋」(金偏、Position/Name) で、wiki 本文は煉丹房に統一 |
