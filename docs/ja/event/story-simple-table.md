@@ -341,7 +341,7 @@ tags:
     </td>
 </tr>
 <tr>
-    <td style="text-align: center">唐門襲撃後</td>
+    <td style="text-align: center"><MarkdownWrapper>[「唐門の戦後処理」](/ja/event/simple/2-08-2-唐門戰後)</MarkdownWrapper></td>
     <td style="text-align: center">重傷を負い、夢の中をさまよう</td>
 </tr>
 <tr>
@@ -352,11 +352,7 @@ tags:
 			[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)<br>
         </MarkdownWrapper>
     </td>
-    <td style="text-align: center">
-        <MarkdownWrapper>
-            [廃寺の変装者たち](/ja/event/detailed_description/2-08-3-廢寺喬裝)<br>
-        </MarkdownWrapper>
-    </td>
+    <td style="text-align: center">-</td>
     <td style="text-align: center">
         <MarkdownWrapper>
         [青城での療養](/ja/event/detailed_description/2-08-5-青城療傷)<br>

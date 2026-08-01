@@ -139,6 +139,15 @@ research. Speculation ("〜と推定", "正体は〜の可能性が高い") neve
 page — verify it, or leave it out. Unresolved items are tracked in the memo
 (`tools/ja-fix-notes-template.md`), not as guesses in the published text.
 
+Branches the game data defines but never surfaces are an exception worth publishing — they
+are facts about the data, not guesses. Mark them inline where they occur with the `🚧未実装`
+prefix, in the same place any other branch would be written; do not relocate them to a
+dedicated section or a page of their own, because other pages already document
+currently-unreachable conditions inline and a separate structure would break that
+consistency. Only mark a branch once "no visible difference" is actually evidenced. The
+notation rules live in `docs/ja/develop/clean-event-template.md`; the evidence bar for
+calling a branch unused is in the `lom-data-mining` skill.
+
 ## Where a rule belongs
 
 Three destinations, and they are not interchangeable:
