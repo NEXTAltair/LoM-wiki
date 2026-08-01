@@ -151,7 +151,7 @@ title: 用語対訳表
 | 義田 | 義田 | Charitable Farm | ★MOD |
 | 外堡 | 外堡 | Outer Fort | ★MOD |
 | 行商 | 行商 | Merchant Trading | |
-| 煉丹房 | 煉丹房 | Alchemy Room | ★MOD。MOD 内は煉丹房が優勢 (対話文の一部のみ煉丹部屋) |
+| 煉丹房 | 煉丹房 | Alchemy Room | ★MOD。対話・地の文は煉丹房が優勢 (50件)。自由行動の場所表示のみ「錬丹部屋」(金偏、Position/Name) で、wiki 本文は煉丹房に統一 |
 | 鍛造 / 鍛冶場 | 鍛冶場 | Forge | |
 | 機關 | からくり | Mechanisms | 施設・装置名では「からくり◯◯」と訳す |
 | 機關馬桶 | からくり便所 | | ★MOD 準拠 (「機関トイレ」としない) |
