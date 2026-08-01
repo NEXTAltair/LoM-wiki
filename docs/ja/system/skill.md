@@ -162,7 +162,7 @@ tags:
     <tr>
         <td>逐浪訣</td>
         <td></td>
-        <td>現在のコンボ数に基づいて、攻撃に追加確率で【失衡】を引き起こす</td>
+        <td>現在のコンボ数に基づいて、攻撃に追加確率で【蹌踉】を引き起こす</td>
         <td><MarkdownWrapper>[《逐浪訣》](/ja/system/books/book_7014)</MarkdownWrapper></td>
     </tr>
     <tr>
