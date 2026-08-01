@@ -95,7 +95,7 @@ title: 用語対訳表
 | 關於能力值 | 能力値について | About Attributes | |
 | 關於心上人 | 想い人について | About Sweetheart | ★MOD |
 | 關於投降 | 降参について | About Surrender | |
-| 關於命運 | 命運について | About Destiny | |
+| 關於命運 | 運命について | About Destiny | ガイドページ名。ステータス名に合わせ運命表記 |
 | 關於四師兄商店 | 四師兄の商店について | Fourth Brother Shop Mechanism | |
 | 如何開始 | 参加のはじめ方 | How to Start Collaborating on LoM-wiki | |
 | 設定檔項目說明 | 設定ファイル項目説明 | Configuration File Description | |
@@ -135,8 +135,8 @@ title: 用語対訳表
 | 段考 | 段階試験 (段考) | Exams | 唐門の定期試験 |
 | 心上人 | 想い人 | Sweetheart | ★MOD |
 | 變心 | 心変わり | | ★MOD (想い人の変更カウント) |
-| 命運 | 命運 | Destiny | |
-| 命運收束之力 | 運命収束の力 | Power of Destiny Convergence | ★MOD (Library/Award/30016)。単独の「命運」は上記通り保持だが、この道具名に限り MOD 表記が「運命」 |
+| 命運 | 運命 | Destiny | ★MOD (PlayerStat/fate)。ステータス名は運命。MOD の「命運」は地の文の一般語のみ |
+| 命運收束之力 | 運命収束の力 | Power of Destiny Convergence | ★MOD (Library/Award/30016) |
 | 收束 (擲骰範囲選択) | 収束 | Convergence | ★MOD (System/DiceRange)。天命擲骰の判定範囲を選べるシステム名 |
 | 投降 | 降参 | Surrender | |
 | 外姓弟子 | 外弟子 | External Disciple | 唐姓以外の門下弟子。内門武功の修習は許されない |
@@ -146,12 +146,12 @@ title: 用語対訳表
 | 原文 (zh-TW) | 日本語 | English | 備考 |
 | --- | --- | --- | --- |
 | 溫泉 | 温泉 | Hot Spring | |
-| 藥舖 | 薬舗 | Apothecary | |
+| 藥舖 | 薬屋 | Apothecary | ★MOD。自由行動メニュー・場所名・対話とも薬屋 (薬舗は3件のみ) |
 | 茶肆 | 茶屋 (茶肆) | Tea House | |
-| 義田 | 義田 | Charitable Farm | ★MOD |
+| 義田 | 義田 | Charitable Farm | ★MOD。自由行動メニューと対話は義田、Facility/Name のみ共有田 |
 | 外堡 | 外堡 | Outer Fort | ★MOD |
 | 行商 | 行商 | Merchant Trading | |
-| 煉丹房 | 煉丹房 | Alchemy Room | ★MOD |
+| 煉丹房 | 煉丹房 | Alchemy Room | ★MOD。対話・地の文は煉丹房が優勢 (50件)。自由行動の場所表示のみ「錬丹部屋」(金偏、Position/Name) で、wiki 本文は煉丹房に統一 |
 | 鍛造 / 鍛冶場 | 鍛冶場 | Forge | |
 | 機關 | からくり | Mechanisms | 施設・装置名では「からくり◯◯」と訳す |
 | 機關馬桶 | からくり便所 | | ★MOD 準拠 (「機関トイレ」としない) |
@@ -230,7 +230,7 @@ title: 用語対訳表
 | 內戰 | 内戦 | Internal Conflict | |
 | 事件集 | イベント集 | Event Collection | |
 | 閒聊 | 雑談 | Chat | イベント記法の絵文字プレフィックス (💬)。中国語のまま残っていた誤り |
-| 黑暗大法師 | 封印されしエクゾディア | Exodia the Forbidden One | 生死簿82の元ネタ。頭・右手・右足・左手・左足の5パーツを揃えると勝利する能力が「遊戯王」のエクゾディアそのものを指しているため、直訳「暗黒大法師」ではなく実在するカードの日本語名称に合わせる |
+| 黑暗大法師 | 暗黒大法師 | Exodia the Forbidden One | 生死簿82の元ネタは「遊戯王」のエクゾディア (5パーツ揃えで勝利)。以前は実在カード名「封印されしエクゾディア」に寄せていたが、MOD 実訳が「かの暗黒大法師のごとく」のため 2026-08-01 に MOD 訳へ統一 (ルビでエクゾディアを保持) |
 | 基本流程 | 基本の流れ | Basic Process | detailed_description ページの節見出し。中国語のまま残っていた誤り。既存の複数ページで未修正 |
 | 無可救藥 (線) | 無可救薬ルート | Beyond Redemption (route) | 直訳は「救いようのない話」。固有ルート名として定着しているため訳語は当てず、原文の字を新字体化した「無可救薬ルート」と表記する |
 | 頑抗到底 (劇情線) | 徹底抗戦 | (stubborn resistance storyline) | ユーザー指摘: 中国語表記の名残、日本語に訳すべき(2026-07-24訂正)。英語版は「stubborn resistance」。既存ページに「抵抗を続ける」「最後まで抵抗」の訳ブレがあったため「徹底抗戦」に統一 |
