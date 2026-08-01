@@ -54,4 +54,4 @@ tags:
 + <Girl0Icon>唐默鈴</Girl0Icon>：東海へ逃げる
 + <Girl5Icon>夏侯蘭</Girl5Icon>：大雪山へ戻る
 + <Girl8Icon>龍湘</Girl8Icon>：金国へ逃げる
-※異郷の客の結縁優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
+※宿無し犬の結縁優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>

@@ -163,7 +163,7 @@ tags:
         <td>
             2年目で親密度4星以上（5星推奨）<br>
             <Girl5Icon>夏侯蘭</Girl5Icon>の心法伝授に抵抗した後、<br>
-            武林の伝説クリア時に想い人として<Girl5Icon>夏侯蘭</Girl5Icon>を保つ。手順は<MarkdownWrapper>[〈夏侯蘭結縁攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
+            武林伝説クリア時に想い人として<Girl5Icon>夏侯蘭</Girl5Icon>を保つ。手順は<MarkdownWrapper>[〈夏侯蘭結縁攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
         </td>
         <td></td>
         <td></td>
@@ -174,7 +174,7 @@ tags:
         <td>千に防ぎ万に防いでも、内の賊は防ぎ難し。まさか、あなただったとは！</td>
         <td>
             2年目で親密度4星以上（5星推奨）<br>
-            武林の伝説クリア時に想い人として<Girl0Icon>唐默鈴</Girl0Icon>を保つ。
+            武林伝説クリア時に想い人として<Girl0Icon>唐默鈴</Girl0Icon>を保つ。
         </td>
         <td></td>
         <td>~~内部通報を教え、内部通報を行わせる~~</td>
@@ -186,7 +186,7 @@ tags:
         <td>
             2年目で親密度4星以上（5星推奨）<br>
             飛鴿伝書イベントを発動させた後、<br>
-            武林の伝説クリア時に想い人として<Girl8Icon>龍湘</Girl8Icon>を保つ。
+            武林伝説クリア時に想い人として<Girl8Icon>龍湘</Girl8Icon>を保つ。
         </td>
         <td></td>
         <td>~~約束したろ。天下の鶏をお前が全部退治する、毎食鶏腿~~</td>
@@ -223,7 +223,7 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`18`">魔王の爪牙</AchievementIcon></td>
         <td>あなたは彼女の腹心で、彼女はあなたの想い人。</td>
         <td>2年目で親密度4星以上（確認待ち、5星推奨）<br>
-            武林の伝説クリア時に<Girl2Icon>葉雲裳</Girl2Icon>と結縁している。手順は<MarkdownWrapper>[〈葉雲裳結縁攻略〉](/ja/event/pursuit/girl2)</MarkdownWrapper>を参照。</td>
+            武林伝説クリア時に<Girl2Icon>葉雲裳</Girl2Icon>と結縁している。手順は<MarkdownWrapper>[〈葉雲裳結縁攻略〉](/ja/event/pursuit/girl2)</MarkdownWrapper>を参照。</td>
         <td></td>
         <td>v1.0.5000.0版本以後に追加</td>
     </tr>
