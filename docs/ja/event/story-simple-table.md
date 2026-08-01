@@ -352,11 +352,7 @@ tags:
 			[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)<br>
         </MarkdownWrapper>
     </td>
-    <td style="text-align: center">
-        <MarkdownWrapper>
-            [廃寺の密謀](/ja/event/simple/2-08-2-破廟密謀)<br>
-        </MarkdownWrapper>
-    </td>
+    <td style="text-align: center">-</td>
     <td style="text-align: center">
         <MarkdownWrapper>
         [青城での療養](/ja/event/detailed_description/2-08-5-青城療傷)<br>
