@@ -95,7 +95,7 @@ title: 用語対訳表
 | 關於能力值 | 能力値について | About Attributes | |
 | 關於心上人 | 想い人について | About Sweetheart | ★MOD |
 | 關於投降 | 降参について | About Surrender | |
-| 關於命運 | 命運について | About Destiny | |
+| 關於命運 | 運命について | About Destiny | ガイドページ名。ステータス名に合わせ運命表記 |
 | 關於四師兄商店 | 四師兄の商店について | Fourth Brother Shop Mechanism | |
 | 如何開始 | 参加のはじめ方 | How to Start Collaborating on LoM-wiki | |
 | 設定檔項目說明 | 設定ファイル項目説明 | Configuration File Description | |
@@ -135,8 +135,8 @@ title: 用語対訳表
 | 段考 | 段階試験 (段考) | Exams | 唐門の定期試験 |
 | 心上人 | 想い人 | Sweetheart | ★MOD |
 | 變心 | 心変わり | | ★MOD (想い人の変更カウント) |
-| 命運 | 命運 | Destiny | |
-| 命運收束之力 | 運命収束の力 | Power of Destiny Convergence | ★MOD (Library/Award/30016)。単独の「命運」は上記通り保持だが、この道具名に限り MOD 表記が「運命」 |
+| 命運 | 運命 | Destiny | ★MOD (PlayerStat/fate)。ステータス名は運命。MOD の「命運」は地の文の一般語のみ |
+| 命運收束之力 | 運命収束の力 | Power of Destiny Convergence | ★MOD (Library/Award/30016) |
 | 收束 (擲骰範囲選択) | 収束 | Convergence | ★MOD (System/DiceRange)。天命擲骰の判定範囲を選べるシステム名 |
 | 投降 | 降参 | Surrender | |
 | 外姓弟子 | 外弟子 | External Disciple | 唐姓以外の門下弟子。内門武功の修習は許されない |
