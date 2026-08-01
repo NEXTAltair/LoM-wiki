@@ -34,7 +34,7 @@ tags:
 				[大師兄が楽しみを探す](/ja/event/simple/1-04-1-大師兄找樂子)<br>
 				[後山で人を押す](/ja/event/simple/1-04-1-後山推人)<br>
 				[食い逃げ事件](/ja/event/simple/1-04-1-霸王餐事件)<br>
-				[怠け者事件 一〜四](/ja/event/simple/1-04-1-偷懶怪事件)<br>
+				[怠け者](/ja/event/simple/1-04-1-偷懶怪)<br>
 				[四師兄との切磋](/ja/event/simple/1-04-1-切磋四師兄)<br>
 				</MarkdownWrapper>
 			</td>
@@ -102,6 +102,7 @@ tags:
 			</td>
 			<td>
 				<MarkdownWrapper>
+				[偽の借用書](/ja/event/simple/1-08-2-假字據)<br>
 				[偽趙活登場](/ja/event/simple/1-08-2-假趙活登場)<br>
 				</MarkdownWrapper>
 			</td>
@@ -110,7 +111,7 @@ tags:
 				[晁和の入門](/ja/event/simple/1-08-3-晁和入門)<br>
 				[晁和搞鬼イベント集](/ja/event/simple/1-08-3-晁和搞鬼事件集)<br>
 				[丐幇と嵩山の喧嘩](/ja/event/simple/1-08-3-丐幫與嵩山打架)<br>
-				[葉雲裳の診察とお出かけ](/ja/event/simple/1-08-3-雲裳問診出遊)<br>
+				[唐錚の診断](/ja/event/simple/1-08-3-唐錚診斷)・[葉雲裳とのお出かけ](/ja/event/simple/1-08-3-雲裳問診出遊)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -280,6 +281,7 @@ tags:
         <MarkdownWrapper>
             [複数の人が弟子入りする](/ja/event/simple/2-05-1-多人拜師)<br>
 			[峨眉の女傑 狄傲](/ja/event/simple/2-05-1-峨嵋狄傲)<br>
+			[川辺の水遊び](/ja/event/simple/2-05-1-溪邊玩水)<br>
         </MarkdownWrapper>
         <li>唐門例会</li>
     </td>
@@ -310,7 +312,7 @@ tags:
     <td style="text-align: center">上</td>
     <td style="text-align: center">-</td>
     <td colspan = 3 style="text-align: center">
-         外堡へ戻る
+         <MarkdownWrapper>[外堡へ舞い戻る](/ja/event/simple/2-07-1-重回外堡)</MarkdownWrapper>
     </td>
 </tr>
 
@@ -342,7 +344,7 @@ tags:
 </tr>
 <tr>
     <td style="text-align: center"><MarkdownWrapper>[「唐門の戦後処理」](/ja/event/simple/2-08-2-唐門戰後)</MarkdownWrapper></td>
-    <td style="text-align: center">重傷を負い、夢の中をさまよう</td>
+    <td style="text-align: center"><MarkdownWrapper>[重傷の夢](/ja/event/simple/2-08-2-重傷夢境)</MarkdownWrapper></td>
 </tr>
 <tr>
     <td style="text-align: center">下</td>
@@ -380,7 +382,7 @@ tags:
         </MarkdownWrapper>
     </td>
     <td style="text-align: center">-</td>
-    <td style="text-align: center">南宮己を尋問する</td>
+    <td style="text-align: center"><MarkdownWrapper>[南宮己の拷問](/ja/event/simple/2-09-1-拷問南宮己)</MarkdownWrapper></td>
     <td style="text-align: center">
         <MarkdownWrapper>
         [四師兄の青城訪問](/ja/event/simple/2-09-2-四師兄行商)<br>
@@ -433,7 +435,7 @@ tags:
     <td style="text-align: center">中</td>
     <td style="text-align: center">-</td>
     <td colspan = 2 style="text-align: center">
-        四師兄、江陵より帰還<br>
+        <MarkdownWrapper>[四師兄の江陵からの帰還](/ja/event/simple/2-10-2-四師兄江陵回歸)</MarkdownWrapper><br>
     </td>
     <td style="text-align: center">
         <MarkdownWrapper>
