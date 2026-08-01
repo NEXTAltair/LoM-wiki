@@ -613,7 +613,7 @@ tags:
 				[金烏との決闘](/ja/event/simple/3-05-1-對決金烏)<br>
 				[小師妹の帰る先](/ja/event/simple/3-05-1-師妹的歸宿)<br>
 				[恩讐の果て](/ja/event/simple/3-05-1-恩仇盡頭)<br>
-				葉雲裳との結縁<br>
+				[雲裳と結ばれる](/ja/event/simple/3-05-1-雲裳結緣)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
