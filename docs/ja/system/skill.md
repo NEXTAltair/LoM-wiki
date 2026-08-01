@@ -127,7 +127,7 @@ tags:
         <td><MarkdownWrapper>[《流星剣譜》](/ja/system/books/book_2001)</MarkdownWrapper>LV10</td>
     </tr>
     <tr>
-        <td>君子風</td>
+        <td>君子の風</td>
         <td>-</td>
         <td>性情・処世・品性が中庸の時、ダメージと軽減をそれぞれ20%上昇</td>
         <td><MarkdownWrapper>[《孔夫子剣》](/ja/system/books/book_2006)</MarkdownWrapper>LV10<br><MarkdownWrapper>[《君子論剣》](/ja/system/books/book_2003)</MarkdownWrapper>LV10</td>

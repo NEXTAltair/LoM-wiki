@@ -48,7 +48,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`2003`">君子論剣</BookItemIcon></td>
-        <td>刀剣5<br>学問8<br>君子風<br>儒学LV1<br>処世中寄り</td>
+        <td>刀剣5<br>学問8<br>君子の風<br>儒学LV1<br>処世中寄り</td>
         <td>80</td>
         <td>儒学LV3</td>
         <td>三年四月上旬－唐惟元から購入 ($2500)</td>
@@ -72,7 +72,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`2006`">孔夫子剣</BookItemIcon></td>
-        <td>刀剣10<br>儒学LV1<br>君子風<br>品性+10<br>性情中寄り<br>処世中寄り</td>
+        <td>刀剣10<br>儒学LV1<br>君子の風<br>品性+10<br>性情中寄り<br>処世中寄り</td>
         <td>80</td>
         <td>儒学LV1</td>
         <td>二年崆峒派留学－玄功門の季試で勝利 (魏菊好感2★未満)<br>二年崆峒派留学－玄功門－季試で2勝し、報酬で「武功秘笈」を選択</td>
