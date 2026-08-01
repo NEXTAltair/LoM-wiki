@@ -23,10 +23,6 @@ tags:
 </EndBackground>
 
 ## 条件
-経路一: 怠け者事件シリーズを完了する(市街で荷物を切られる事件で貢献度を下げてもよい)
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 最も遅くとも一年五月下、貢献度<0で発動。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 一年四月中～二年一月下、貢献度<-50で発動。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 一年四月中～二年一月下、貢献度<-100で発動。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;4. 一年四月中～二年一月下、貢献度<-150で発動、選択肢は何を選んでも差異なし。
+経路一: <MarkdownWrapper>[怠け者 (偷懶怪)](/ja/event/simple/1-04-1-偷懶怪)</MarkdownWrapper>系列イベントを完了する。
 <br>
 <br>経路二: [廃寺の密謀](/ja/event/simple/2-08-2-破廟密謀)事件中、唐門を攻撃するを選択し、二連戦とも勝利。
