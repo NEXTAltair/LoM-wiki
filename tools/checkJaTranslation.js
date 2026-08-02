@@ -36,6 +36,7 @@ const RESIDUE_EXEMPT_FILES = new Set([
 	"glossary.md", // 用語対訳表。1列目が繁体字なのが役目
 	"address-terms.md", // 呼称表。原語(zh-TW)列が繁体字なのが役目
 	"first-person-pronouns.md", // 一人称表。原語(zh-TW)列が繁体字なのが役目
+	"other/jp-mod-changes.md", // MOD版別変更点。旧版の訳語(繁体字混じり)を左列に載せるのが役目
 ]);
 
 // 過去に「MOD訳と齟齬がある/旧字体のまま」と判明し、置換で解消したはずの語。
@@ -122,6 +123,7 @@ const STALE_TERM_EXEMPT_FILES = new Set([
 	"glossary.md", // 対訳表。bad側(旧語=原文)が正しく載るページ
 	"address-terms.md", // 呼称表。原語(zh-TW)列が繁体字なのが役目
 	"first-person-pronouns.md", // 一人称表。同上
+	"other/jp-mod-changes.md", // MOD版別変更点。MODが旧版で使っていた語を左列に載せるのが役目
 ]);
 
 // 中国語にしか現れない字・機能語。カナが混じっていても中国語構文の残骸として拾う。
