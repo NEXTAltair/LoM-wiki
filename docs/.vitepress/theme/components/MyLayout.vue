@@ -4,7 +4,6 @@
 import DefaultTheme from "vitepress/theme";
 import { defineAsyncComponent, provide } from "vue";
 import Twikoo from "./default/Twikoo.vue";
-import EventNav from "./EventNav.vue";
 import Borderless from "./default/Borderless.vue";
 import MetaManager from "./default/MetaManager.vue";
 
@@ -38,9 +37,6 @@ provide('toggle-appearance', async (event) => {
 			<p class="post-visitor">
 				瀏覽數：<span id="twikoo_visitors">0</span>
 			</p>
-		</template>
-		<template #doc-footer-before>
-			<EventNav></EventNav>
 		</template>
 		<template #doc-after>
 			<Twikoo></Twikoo>
