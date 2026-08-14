@@ -33,7 +33,7 @@ tags:
 				[小師妹練操](/event/simple/1-04-1-小師妹練操)<br>
 				[大師兄找樂子](/event/simple/1-04-1-大師兄找樂子)<br>
 				[後山推人](/event/simple/1-04-1-後山推人)<br>
-                同門關懷<br>
+                [同門關懷](/event/simple/1-04-1-同門關懷)<br>
                 [偷懶怪](/event/simple/1-04-1-偷懶怪)<br>
 				</MarkdownWrapper>
 			</td>
@@ -102,6 +102,7 @@ tags:
 				<MarkdownWrapper>
                 [假字據](/event/simple/1-08-2-假字據)<br>
 				[假趙活登場](/event/simple/1-08-2-假趙活登場)<br>
+                [師妹交友](/event/simple/1-08-2-師妹交友)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -117,19 +118,19 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[初識龍湘](/event/simple/1-09-1-初識龍湘)<br>
-                唐芳歸來<br>
+                [唐芳歸來](/event/simple/1-09-1-唐芳歸來)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
 				[四師兄抓公差](/event/simple/1-09-2-四師兄抓公差)<br>
-                下山郊遊<br>
                 [丐幫與嵩山打架](/event/simple/1-08-3-丐幫與嵩山打架)<br>
 				[初識李富貴、樊嘯天](/event/simple/1-09-2-初識李富貴、樊嘯天)<br>
 				[初識福韞](/event/simple/1-09-2-初識福韞)<br>
 				[佛法教育](/event/simple/1-09-2-佛法教育)<br>
 				[龍湘遭竊](/event/simple/1-09-2-龍湘遭竊)<br>
-                卡牌決鬥<br>
+                [卡牌決鬥](/event/simple/1-09-2-卡牌決鬥)<br>
+                [下山郊遊](/event/simple/1-09-2-下山郊遊)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -239,7 +240,7 @@ tags:
     <td style="text-align: center">-</td>
     <td colspan = 3 style="text-align: center">
         <MarkdownWrapper>
-            唐門鬧鬼<br>
+            [唐門鬧鬼](/event/simple/2-03-3-唐門鬧鬼)<br>
         </MarkdownWrapper>        
     </td>
 </tr>
@@ -354,8 +355,11 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
             [青城醒轉](/event/simple/2-08-3-青城醒轉)<br>
-            青城導覽<br>
-            青城排擠<br>
+            [青城導覽](/event/simple/2-08-3-青城導覽)<br>
+            [青城排擠](/event/simple/2-08-3-青城排擠)<br>
+            [初入常風觀](/event/simple/2-08-3-初入常風觀)<br>
+            [初入上清宮](/event/simple/2-08-3-初入上清宮)<br>
+            [道長地位](/event/simple/2-08-3-道長地位)<br>
         </MarkdownWrapper>
     </td>
 </tr>
@@ -378,9 +382,11 @@ tags:
         </MarkdownWrapper>        
     </td>
     <td style="text-align: center">
-        雲裳秘笈<br>
-        虎嘯功<br>
-        雲裳逗留<br>
+        <MarkdownWrapper>
+            [雲裳秘笈](/event/simple/2-09-1-雲裳秘笈)<br>
+            [申屠贈禮](/event/simple/2-09-1-申屠贈禮)<br>
+            [雲裳逗留](/event/simple/2-09-1-雲裳逗留)<br>
+        </MarkdownWrapper>
     </td>
 </tr>
 <tr>
@@ -393,7 +399,11 @@ tags:
     <td style="text-align: center">-</td>
     <td style="text-align: center">-</td>
     <td style="text-align: center">
-        鄒博歸來<br>
+        <MarkdownWrapper>
+            [鄒博歸來](/event/simple/2-09-3-鄒博歸來)<br>
+            [鄒博嘉勉](/event/simple/2-09-3-鄒博嘉勉)<br>
+            [申屠遇襲](/event/simple/2-09-3-申屠遇襲)<br>
+        </MarkdownWrapper>
     </td>
 </tr>
 
@@ -416,7 +426,9 @@ tags:
     </td>
     <td style="text-align: center">-</td>
     <td style="text-align: center">
-        四師兄來訪<br>
+        <MarkdownWrapper>
+			[四師兄訪青城](/event/simple/2-10-1-四師兄訪青城)<br>
+        </MarkdownWrapper>
     </td>
 </tr>
 <tr>
@@ -429,8 +441,9 @@ tags:
     </td>
     <td style="text-align: center">
         <MarkdownWrapper>
-            比試人選<br>
-            江湖救急<br>
+            [遭遇段智秀](/event/simple/2-10-2-遭遇段智秀)<br>
+            [雲裳商議](/event/simple/2-10-2-雲裳商議)<br>
+            [投餵雲裳](/event/simple/2-10-2-投餵雲裳)<br>
             [指指點點](/event/simple/2-10-2-指指點點)<br>
 		</MarkdownWrapper>        
     </td>
@@ -441,7 +454,9 @@ tags:
     <td style="text-align: center">上</td>
     <td colspan = 3 style="text-align: center">唐門例會</td>
     <td style="text-align: center">
-        雲裳倒地<br>
+        <MarkdownWrapper>
+            [雲裳倒地](/event/simple/2-11-1-雲裳倒地)<br>
+		</MarkdownWrapper>
     </td>
 </tr>
 <tr>
@@ -459,28 +474,41 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
             [指指點點](/event/simple/2-10-2-指指點點)<br>
-            青城段考<br>
-            趙逵上山<br>
-            逃離青城<br>
+            [青城段考](/event/simple/2-11-3-青城段考)<br>
+            [趙逵上山](/event/simple/2-11-3-趙逵上山)<br>
+            [逃離青城](/event/simple/2-11-3-逃離青城)<br>
 		</MarkdownWrapper> 
     </td>
 </tr>
 
 <tr>
-    <td rowspan = 3 style="text-align: center">十二</td>
-    <td style="text-align: center">上</td>
+    <td rowspan = 4 style="text-align: center">十二</td>
+    <td rowspan = 2 style="text-align: center">上</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+            [大師兄刺金行](/event/simple/2-12-1-大師兄刺金行)<br>
+        </MarkdownWrapper>
+    </td>
+    <td style="text-align: center">-</td>
     <td colspan = 4 style="text-align: center">
-        葉雲舟歸來<br>
-        葉雲舟還錢<br>
-        大師兄刺金行<br>
-        唐門例會<br>
+        <MarkdownWrapper>
+            [葉雲舟歸來](/event/simple/2-12-1-葉雲舟歸來)<br>
+        </MarkdownWrapper>
+    </td>
+</tr>
+<tr>
+    <td colspan = 4 style="text-align: center">
+        <MarkdownWrapper>
+            [葉雲舟還錢](/event/simple/2-12-1-葉雲舟還錢)<br>
+            唐門例會<br>
+        </MarkdownWrapper>
     </td>
 </tr>
 <tr>
     <td style="text-align: center">中</td>
     <td colspan = 4 style="text-align: center">
         <MarkdownWrapper>
-				[門派宣戰](/event/simple/2-12-2-門派宣戰)<br>
+		    [門派宣戰](/event/simple/2-12-2-門派宣戰)<br>
         </MarkdownWrapper>
     </td>
 </tr>
@@ -490,7 +518,7 @@ tags:
         <MarkdownWrapper>
 			[掌門議事](/event/simple/2-12-3-掌門議事)<br>
 			[唐門內戰](/event/simple/2-12-3-唐門內戰)<br>
-            唐守鴻處置
+            [唐守鴻處置](/event/simple/2-12-3-唐守鴻處置)<br>
         </MarkdownWrapper>
     </td>
 </tr>
@@ -499,7 +527,7 @@ tags:
 </div>
 <br>
 
-## 第三年: 一月至十一月
+## 第三年: 一月至十月
 為節省版面，本表以月/旬方式呈現。
 
 <div class="table-container">
@@ -570,11 +598,13 @@ tags:
 			<td>四月</td>
 			<td>
 				<MarkdownWrapper>
-				[唐門議婚](/event/simple/3-04-1-唐門議婚)<br>
+				    [唐門議婚](/event/simple/3-04-1-唐門議婚)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
-                雲裳心事
+				<MarkdownWrapper>
+				    [雲裳心事](/event/simple/3-04-2-雲裳心事)<br>
+				</MarkdownWrapper>
             </td>
 			<td>-</td>
 		</tr>
@@ -582,21 +612,23 @@ tags:
 			<td>五月</td>
 			<td>
 				<MarkdownWrapper>
-				[師妹招親前半](/event/simple/3-05-1-師妹招親前半)<br>
-				[師妹招親後半](/event/simple/3-05-1-師妹招親後半)<br>
-				[金烏鬧事](/event/simple/3-05-1-金烏鬧事)<br>
-				[對決金烏](/event/simple/3-05-1-對決金烏)<br>
-				[師妹的歸宿](/event/simple/3-05-1-師妹的歸宿)<br>
-				[恩仇盡頭](/event/simple/3-05-1-恩仇盡頭)<br>
-                [雲裳結緣](/event/simple/3-05-1-雲裳結緣)<br>
+				    [師妹招親前半](/event/simple/3-05-1-師妹招親前半)<br>
+				    [師妹招親後半](/event/simple/3-05-1-師妹招親後半)<br>
+				    [金烏鬧事](/event/simple/3-05-1-金烏鬧事)<br>
+				    [對決金烏](/event/simple/3-05-1-對決金烏)<br>
+				    [師妹的歸宿](/event/simple/3-05-1-師妹的歸宿)<br>
+				    [恩仇盡頭](/event/simple/3-05-1-恩仇盡頭)<br>
+                    [雲裳結緣](/event/simple/3-05-1-雲裳結緣)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
-                雲裳之死<br>
+                <MarkdownWrapper>
+				    [雲裳之死](/event/simple/3-05-3-雲裳之死)<br>
+				</MarkdownWrapper>
             </td>
 			<td>
 				<MarkdownWrapper>
-				[建造樹屋](/event/simple/3-05-3-建造樹屋)<br>
+				    [建造樹屋](/event/simple/3-05-3-建造樹屋)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -674,24 +706,12 @@ tags:
 			</td>
 			<td>-</td>
 		</tr>
-		<tr>
-			<td>十一月</td>
-			<td>
-                失魂醒轉<br>
-				回到唐門<br>
-				門人辭別<br>
-			</td>
-			<td>-</td>
-			<td>
-				龍湘心事<br>
-			</td>
-		</tr>
 	</table>
 </div>
 <br>
 
-## 第三年十二月至第四年
-因劇情有四條路線，本表以時間/路線方式呈現。
+## 第三年十一月至第四年
+因劇情有五條路線，本表以時間/路線方式呈現。
 
 <div class="table-container">
 <table>
@@ -699,6 +719,7 @@ tags:
 <tr>
   <th rowspan = 2 style="text-align: center">月</th>
   <th rowspan = 2 style="text-align: center">旬</th>
+  <th rowspan = 2 style="text-align: center">無可救藥</th>
   <th colspan = 2 style="text-align: center">不成立西武林</th>
   <th colspan = 2 style="text-align: center">成立西武林</th>
 </tr>
@@ -712,8 +733,51 @@ tags:
 
 <tbody>
 <tr>
+  <td rowspan = 3 style="text-align: center">十一</td>
+  <td style="text-align: center">上</td>
+  <td style="text-align: center">
+      <MarkdownWrapper>
+          醒轉失憶<br>
+          四師兄閒聊<br>
+          禁止打雜<br>
+          懷念師妹<br>
+      </MarkdownWrapper>
+  </td>
+  <td colspan = 4 style="text-align: center">
+      <MarkdownWrapper>
+          失魂醒轉<br>
+          回到唐門<br>
+          門人辭別<br>
+      </MarkdownWrapper>    
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center">中</td>
+  <td style="text-align: center">-</td>
+  <td colspan = 4 style="text-align: center">
+      <MarkdownWrapper>
+          龍湘心事<br>
+      </MarkdownWrapper>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center">下</td>
+  <td style="text-align: center">-</td>
+  <td colspan = 4 style="text-align: center">-</td>
+</tr>
+    
+<tr>
   <td rowspan = 3 style="text-align: center">十二</td>
   <td style="text-align: center">上</td>
+  <td style="text-align: center">
+      唐門會議<br>
+      決戰市場<br>
+      反攻飛石<br>
+      送禮飛石<br>
+      投靠魔教<br>
+      段考<br>
+      後山之約<br>
+  </td>
   <td colspan = 4 style="text-align: center">
       <MarkdownWrapper>
           武林檄文<br>
@@ -725,6 +789,7 @@ tags:
 </tr>
 <tr>
   <td style="text-align: center">中</td>
+  <td style="text-align: center">-</td>
   <td style="text-align: center">
     告別唐門<br>
   </td>
@@ -738,6 +803,9 @@ tags:
 </tr>
 <tr>
   <td style="text-align: center">下</td>
+  <td style="text-align: center">
+      師妹回訪
+  </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     龍湘結緣<br>
@@ -752,6 +820,10 @@ tags:
 <tr>
   <td rowspan = 3 style="text-align: center">一</td>
   <td style="text-align: center">上</td>
+  <td style="text-align: center">
+      唐門會議<br>
+      通緝雲舟<br>
+  </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     師妹回訪<br>
@@ -763,6 +835,7 @@ tags:
 </tr>
 <tr>
   <td style="text-align: center">中</td>
+  <td style="text-align: center">唐門覆滅</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     <MarkdownWrapper>
@@ -780,6 +853,7 @@ tags:
   <td style="text-align: center">下</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
+  <td style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
     青城回音<br>
     中小門派回音<br>
@@ -794,12 +868,14 @@ tags:
   <td style="text-align: center">上</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
+  <td style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
     師妹回訪<br>
   </td>
 </tr>
 <tr>
   <td rowspan = 2 style="text-align: center">中</td>
+  <td rowspan = 2 style="text-align: center">-</td>
   <td rowspan = 2 style="text-align: center">-</td>
   <td rowspan = 2 style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
@@ -824,6 +900,7 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
+  <td style="text-align: center">-</td>
   <td style="text-align: center">
     後山切磋<br>
     劍聖傳承<br>
@@ -834,6 +911,7 @@ tags:
 <tr>
   <td rowspan = 4 style="text-align: center">三</td>
   <td style="text-align: center">上</td>
+  <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>

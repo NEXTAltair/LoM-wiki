@@ -70,7 +70,8 @@ tags:
 <td>• 先確保心上人為<Girl2Icon>葉雲裳</Girl2Icon>。
     <br>• 選擇📖「住破廟」。</td>
 <td>• 此事件並不要求心上人，但此後不易獲得變心點。
-    <br>• 若<Girl2Icon>葉雲裳</Girl2Icon>好感≧30，就算選擇📖「住客棧」也會被迫住破廟。
+    <br>• 建議此時達到<Girl2Icon>葉雲裳</Girl2Icon>好感≧30，因後續有許多對話改變。
+    <br>• 若葉雲裳好感≧30，就算選擇📖「住客棧」也會被迫住破廟。
     <br>• 離開唐門前可以考慮購買秘笈<MarkdownWrapper>[《金剛腿》](/system/books/book_4001)</MarkdownWrapper>(可提供<MarkdownWrapper>[《佛學》](/system/skill)</MarkdownWrapper>等級1，但後面也有其他佛學書)。
 </td>
 </tr>
@@ -97,8 +98,8 @@ tags:
 <tr>
 <td>6</td>
 <td>第二年十二月上旬</td>
-<td>葉雲舟歸來</td>
-<td><Girl2Icon>葉雲裳</Girl2Icon>好感≧30，且技能<MarkdownWrapper>[《醫術》](/system/skill)</MarkdownWrapper>等級≧3，以觸發聽說《寂滅三摩地》。</td>
+<td><MarkdownWrapper>[葉雲舟歸來](/event/simple/2-12-1-葉雲舟歸來)</MarkdownWrapper></td>
+<td><Girl2Icon>葉雲裳</Girl2Icon>好感≧30，且技能<MarkdownWrapper>[《醫術》](/system/skill)</MarkdownWrapper>等級≧3，以觸發🚩「聽說寂滅三摩地」。</td>
 <td><MarkdownWrapper>[《佛學》](/system/skill)</MarkdownWrapper>等級造成對話變化。</td>
 </tr>
 
@@ -121,7 +122,10 @@ tags:
 <tr>
 <td>8</td>
 <td>第三年五月上旬</td>
-<td><MarkdownWrapper>[師妹招親](/event/simple/3-05-1-師妹招親前半)</MarkdownWrapper></td>
+<td>
+    <MarkdownWrapper>[師妹招親](/event/simple/3-05-1-師妹招親後半)</MarkdownWrapper><br>
+    <MarkdownWrapper>[雲裳結緣](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper><br>
+</td>
 <td>• 先確保心上人為<Girl2Icon>葉雲裳</Girl2Icon>、葉雲裳好感≧50、秘笈<MarkdownWrapper>[《九轉殘篇》](/system/books/book_8109)</MarkdownWrapper>修練完畢。
     <br>• 對葉雲裳對策連續三次選擇📖「軟性對策」。
     <br>• 若🗡️對決段智秀獲勝，則🗡️對決鐵冠道人時，需撐四回合以上且最終戰鬥落敗。
@@ -285,4 +289,4 @@ tags:
 • 若只希望<Girl2Icon>葉雲裳</Girl2Icon>存活而非與她結緣，只要完成條件1、條件2、未曾留學青城(見條件5)，並達成條件7中🎲「葉雲裳的抵抗」及📖「勸葉雲舟留」即可，但她只會在西武林線終戰獲勝以及[唐門薪火](/event/ends/end-37)結局中再次出現。
 <br>• 由於本路線要求修練許多武學，且有許多支線事件消耗金錢，建議二周目以上資源較充足再攻略。
 <br>• 目前本頁面主要參考[〈活俠傳事件及分歧整理〉](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)撰寫，尚未經過反覆驗證。
-<br>• 唐芳未歸來(v1.0.5000.13): 若在第二年一月下旬完成條件1，且二月下旬才完成條件2，因事件之間的間隔設定，會導致「唐芳歸來」事件無法觸發。但唐芳並不會因此缺席本路線重要劇情，因為她相關的劇情大多未檢測「唐芳歸來」。
+<br>• 唐芳未歸來(v1.0.5000.13): 若在第二年一月下旬完成條件1，且二月下旬才完成條件2，因事件之間的間隔設定，會導致[「唐芳歸來」](/event/simple/1-09-1-唐芳歸來)事件無法觸發。但唐芳並不會因此缺席本路線重要劇情，因為她相關的劇情大多未檢測「唐芳歸來」。
