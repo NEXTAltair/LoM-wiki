@@ -82,7 +82,7 @@ tags:
             -
         </td>
         <td>
-            1.崖を眺望して休息を選択後、判定失敗<br>
+            1.崖に登って眺望し、「休息する」を選んだ後の判定に失敗する<br>
             2.女弟子房の埋伏で、<Girl0Icon>唐默鈴</Girl0Icon>に窓から谷に突き落とされる<br>
             3.第一年五月下旬前に裏山の薪拾いイベントをトリガー（低確率）
         </td>
@@ -144,9 +144,9 @@ tags:
             FPS ゲームのヘッドショット（頭部への一撃必殺）を指す。
         </td>
         <td>
-            1.初対面・葉家兄妹イベントで船上で馬鹿ぶりをした後、判定失敗<br>
+            1.<MarkdownWrapper>[葉氏兄妹との初対面](/ja/event/simple/1-04-3-初遇葉氏兄妹)</MarkdownWrapper>の船上で「ふりをする」(とぼける) を選び、続く🎲天運「嘘をつく」に失敗する<br>
             2.<Girl0Icon>唐默鈴</Girl0Icon>の比武招親夜間に金烏上人襲来。「寄ってたかって殴る」を選択、団戦勝利後、追撃の最初の決闘で鉄拳弟子に敗北して逃亡に失敗（崆峒派への留学ができず、かつ鉄拳門入門もなく、唐默鈴・葉雲舟・瑞笙が同行下山していない場合のみ）<br>
-            3.青城留学ルートの終盤、<MarkdownWrapper>[青城からの脱出](/ja/event/simple/2-11-3-逃離青城)</MarkdownWrapper>でダイスが仙姑の待ち伏せになり、対決に敗北。<br>
+            3.青城留学ルートの終盤、<MarkdownWrapper>[青城からの脱出](/ja/event/simple/2-11-3-逃離青城)</MarkdownWrapper>でダイスが仙姑の待ち伏せになり、対決に敗北する<br>
         </td>
         <td>
             -
@@ -187,7 +187,7 @@ tags:
             『チャーリーズ・エンジェル』の台湾版タイトル『霹靂嬌娃』との言葉遊び
         </td>
         <td>
-            第一年四月上旬に食堂で<MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>と会い、判定失敗で怖くなる
+            第1年4月上旬に伙房で<MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>と出くわし、ダイスで「驚き死ぬ」を引く
         </td>
         <td>
             -
