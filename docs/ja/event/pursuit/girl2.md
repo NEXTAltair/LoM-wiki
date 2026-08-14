@@ -277,8 +277,8 @@ tags:
 
 ## 備考
 • 条件2で葉家兄妹が唐門に滞在することになると、結縁に必須ではないが<Girl2Icon>葉雲裳</Girl2Icon>が絡む随時イベントが発生するようになる。発生時期が固定されていないため、上表の条件の合間に挟まる。
-<br>• <MarkdownWrapper>[唐錚の診断](/ja/event/simple/1-08-3-唐錚診斷)・[葉雲裳とのお出かけ](/ja/event/simple/1-08-3-雲裳問診出遊)</MarkdownWrapper>: 1年目8月下旬〜2年目3月に発生。葉雲裳の内傷が判明し、唐錚が治療を引き受ける経緯が語られる。
-<br>• <MarkdownWrapper>[紙札遊戯の対決](/ja/event/simple/1-09-2-紙牌對決)</MarkdownWrapper>: <MarkdownWrapper>[唐芳の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)</MarkdownWrapper>後、1年目9月中旬〜2年目5月下旬の毎月上旬に抽選。🎲天運で「葉雲裳の反則的な制圧」が出ると好感が上がる。
+<br>• <MarkdownWrapper>[唐錚の診断](/ja/event/simple/1-08-3-唐錚診斷)・[山を下りての遠出](/ja/event/simple/1-09-2-下山郊遊)</MarkdownWrapper>: 1年目8月下旬〜2年目3月に発生。葉雲裳の内傷が判明し、唐錚が治療を引き受ける経緯が語られる。
+<br>• <MarkdownWrapper>[紙札遊戯の対決](/ja/event/simple/1-09-2-卡牌決鬥)</MarkdownWrapper>: <MarkdownWrapper>[唐芳の帰還](/ja/event/simple/1-09-1-唐芳歸來)</MarkdownWrapper>後、1年目9月中旬〜2年目5月下旬の毎月上旬に抽選。🎲天運で「葉雲裳の反則的な制圧」が出ると好感が上がる。
 <br>• <Girl2Icon>葉雲裳</Girl2Icon>を結縁せずただ生存させたいだけの場合、条件1・条件2を満たし、青城に留学せず(条件5参照)、条件7の🎲「葉雲裳の抵抗」と📖「葉雲舟を引き止める」を達成すればよい。ただしこの場合、彼女が再び登場するのは西武林ルートの最終決戦に勝利した時と[汗青書37：唐門の火種](/ja/event/ends/end-37)の結末のみとなる。
 <br>• このルートは多くの武学の修練を要求し、また金銭を消費するサブイベントも多いため、2周目以降の資源が充実した状態での攻略を推奨する。
 <br>• 本ページは現時点で主に[〈活俠傳イベント及び分岐まとめ〉](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)を参考に執筆しており、まだ繰り返しの検証を経ていない。
