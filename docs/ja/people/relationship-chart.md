@@ -50,6 +50,7 @@ graph TB
   master -->|父| ml
   luk -->|母| ml
   luk -.->|生母と疑われる| b2
+  luk -->|万霊丹を託す| b1
   master -->|師| b1
   master -->|師| b2
   master -->|師| b3
@@ -64,6 +65,48 @@ graph TB
 - [唐陞](/ja/people/characters/brother3) は刑場破りの折、まだ掌門就任前の [唐中翎](/ja/people/characters/master) が少年の [唐布衣](/ja/people/characters/brother1)・[唐錚](/ja/people/characters/brother2) を率いて救い出した縁で唐門に入った。
 - [唐小楼](/ja/people/characters/aunt2) は講経楼に二十年座った大師姑。すでに嫁ぎ出たが折々戻っては輩分を振りかざす。子がなく、[晁和](/ja/people/characters/special208) を乾児子として溺愛している。
 - 広州唐門は叛逃者「佛手香」[唐守鴻](/ja/people/characters/special812) が開いた分院で、唐門はこれを認めていない。弟子に [唐衫](/ja/people/characters/special811) がいる。
+- 失伝した真の万霊丹は、[唐鹿](/ja/people/characters/other10) が [唐布衣](/ja/people/characters/brother1) に与えた一份だけが残る。同時に贈られたガラスの花は唐門の暗器『無形箭』。
+
+## 蜀中唐門 — 弟子世代の間柄図
+
+弟子世代どうしの個人間の間柄です。この図には段と世代の対応はありません。
+
+```mermaid
+%%{init: {
+  'flowchart': {
+    'nodeSpacing': 40,
+    'rankSpacing': 60
+  }
+} }%%
+graph LR
+  player((趙活))
+  b1[唐布衣<br>大師兄]
+  b2[唐錚<br>二師兄]
+  b3[唐陞<br>三師兄]
+  b4[唐惟元<br>四師兄]
+  ml[唐默鈴<br>小師妹]
+  chao[晁和]
+  aunt[唐小楼<br>大師姑]
+
+  b1 -.->|黒衣を装い後山で密かに指南| player
+  b2 -->|罵倒しながら世話を焼く| player
+  b3 -->|下山時に本命銭を旅費として贈る| player
+  b4 -->|言い訳の盾にしつつ分け前は折半| player
+  player -->|幼少から世話係・毎晩寝かしつけ| ml
+  ml -->|懐いている| player
+  chao -.->|なりすまし・罪の擦り付け| player
+  aunt -.->|雑役と見下す| player
+  b4 -->|銭を詐取| chao
+  chao -.->|三度の召喚を無視・丹薬を爆発| b2
+```
+
+- [唐布衣](/ja/people/characters/brother1) は何度も [趙活](/ja/people/characters/player) の背中を忘形篇で打ち、黒衣の者を装って後山で指南した。
+- [唐錚](/ja/people/characters/brother2) は [趙活](/ja/people/characters/player) を「役立たず」「趙氏蠢豚」と罵るが、江陵の千金方に働き口を紹介するなど面倒見はよい。
+- [唐陞](/ja/people/characters/brother3) は志気を失って下山する [趙活](/ja/people/characters/player) に、長年身につけていた本命銭を「複数の師兄の代わり」として旅費に持たせた。
+- [唐惟元](/ja/people/characters/brother4) は言い逃れの際に [趙活](/ja/people/characters/player) を盾として推し出すが、その助力で [晁和](/ja/people/characters/special208) から詐取した銭は率先して半分を分ける。
+- [唐默鈴](/ja/people/characters/girl0) は幼い頃から妹のように [趙活](/ja/people/characters/player) に預けられて世話され、毎晩窓の下でお話を聞いて眠る。趙活が窓の外に座っていることをずっと前から知っていた。
+- [晁和](/ja/people/characters/special208) は [趙活](/ja/people/characters/player) になりすまして広州で偽造医薬を売り、[丐幇](/ja/people/factions/beggar-gang) と [嵩山派](/ja/people/factions/mount-song-sect) を煽動した争いの罪を擦り付けようとした。
+- [唐小楼](/ja/people/characters/aunt2) は [趙活](/ja/people/characters/player) を低い身分の雑役と見なし、彼に良いことが起こるのを快く思わない。
 
 ## 蜀中唐門 — 対外因縁図
 
