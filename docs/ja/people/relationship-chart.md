@@ -58,8 +58,6 @@ tags:
   <text class="rc-lab" x="508" y="522">餞別の銭</text>
   <line class="rc-e rc-neu" x1="726" y1="517.1" x2="657.1" y2="460.5" marker-end="url(#rc-ar-neu)"/>
   <text class="rc-lab" x="712" y="478" text-anchor="start">詐欺の相棒</text>
-  <line class="rc-e rc-neu" x1="801.6" y1="530.8" x2="904.6" y2="495.6" marker-end="url(#rc-ar-neu)"/>
-  <text class="rc-lab" x="850" y="502">銭を詐取</text>
   <line class="rc-e rc-neg" x1="906.5" y1="473.4" x2="667.5" y2="437.2" marker-end="url(#rc-ar-neg)"/>
   <text class="rc-lab" x="790" y="443">罪の擦り付け</text>
   <line class="rc-e rc-neg" x1="907.5" y1="351.6" x2="662.5" y2="417.4" marker-end="url(#rc-ar-neg)"/>
