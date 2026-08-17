@@ -15,7 +15,7 @@ tags:
 
 勢力を軸に1枚へまとめています。線には関係の要点だけを短く記し、詳細は図の下の補足に書いています。
 
-<p class="rc-legend"><span style="color:#d98a2b;">━</span> 情誼・家族　<span style="color:#8a8f98;">━</span> 利害・その他　<span style="color:#8a8f98;">╌╌</span> 疑い　<span style="color:#d64545;">╌╌</span> 敵意・対立・離反　<span style="color:#4a7dd6;">╌╌</span> 隠れた関係</p>
+<p class="rc-legend"><span style="color:#d98a2b;">━</span> 情誼・家族　<span style="color:#8a8f98;">━</span> 利害・その他　<span style="color:#8a8f98;">╌╌</span> 疑い　<span style="color:#d64545;">╌╌</span> 敵意・対立・離反</p>
 
 ## 蜀中唐門相関図
 
@@ -26,7 +26,6 @@ tags:
     <marker id="rc-ar-neu" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto"><path d="M0,0 L12,5 L0,10 z" fill="#8a8f98"/></marker>
     <marker id="rc-ar-neg" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto"><path d="M0,0 L12,5 L0,10 z" fill="#d64545"/></marker>
     <marker id="rc-ar-neg-s" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="1" refY="5" orient="auto"><path d="M12,0 L0,5 L12,10 z" fill="#d64545"/></marker>
-    <marker id="rc-ar-cov" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto"><path d="M0,0 L12,5 L0,10 z" fill="#4a7dd6"/></marker>
     <clipPath id="rc-c-master"><circle cx="470" cy="200" r="38"/></clipPath>
     <clipPath id="rc-c-ml"><circle cx="450" cy="350" r="38"/></clipPath>
     <clipPath id="rc-c-player"><circle cx="620" cy="430" r="38"/></clipPath>
@@ -51,8 +50,8 @@ tags:
   <text class="rc-lab" x="540" y="422">子守役</text>
   <line class="rc-e rc-warm" x1="493.2" y1="361.5" x2="580" y2="402.4" marker-end="url(#rc-ar-warm)"/>
   <text class="rc-lab" x="545" y="366">懐く</text>
-  <line class="rc-e rc-cov" x1="184" y1="430" x2="572" y2="430" marker-end="url(#rc-ar-cov)"/>
-  <text class="rc-lab" x="360" y="449">密かに指南</text>
+  <line class="rc-e rc-warm" x1="184" y1="430" x2="572" y2="430" marker-end="url(#rc-ar-warm)"/>
+  <text class="rc-lab" x="360" y="449">無形の型を託す</text>
   <line class="rc-e rc-neu" x1="301.9" y1="531.6" x2="578.1" y2="443.4" marker-end="url(#rc-ar-neu)"/>
   <text class="rc-lab" x="430" y="478">罵倒&世話</text>
   <line class="rc-e rc-warm" x1="466.7" y1="530.8" x2="583.3" y2="454.4" marker-end="url(#rc-ar-warm)"/>
@@ -150,7 +149,7 @@ tags:
 - [唐鹿](/ja/people/characters/other10) は [唐中翎](/ja/people/characters/master) の師妹にして妻。[極楽教](/ja/people/factions/elysium-school) の『屍心丹』に中毒して支配されていた間に [唐錚](/ja/people/characters/brother2) を生んだと疑われた (図の「母?」)。[唐默鈴](/ja/people/characters/girl0) を [趙活](/ja/people/characters/player) に託した後、崖に身を投げた。
 - 失伝した真の万霊丹は、[唐鹿](/ja/people/characters/other10) が [唐布衣](/ja/people/characters/brother1) に与えた一份だけが残る。同時に贈られたガラスの花は唐門の暗器『無形箭』。
 - [唐陞](/ja/people/characters/brother3) は刑場破りの折、まだ掌門就任前の [唐中翎](/ja/people/characters/master) が少年の [唐布衣](/ja/people/characters/brother1)・[唐錚](/ja/people/characters/brother2) を率いて救い出した縁で唐門に入った。
-- [唐布衣](/ja/people/characters/brother1) は何度も [趙活](/ja/people/characters/player) の背中を忘形篇で打ち、黒衣の者を装って後山で指南した。
+- [唐布衣](/ja/people/characters/brother1) が編み出した武学の至理「無形の型」は、先入観のない [趙活](/ja/people/characters/player) によってはじめて体現された。何度も忘形篇の暗唱を抜き打ちで確かめ、黒衣の者を装って後山で指南している。
 - [唐錚](/ja/people/characters/brother2) は [趙活](/ja/people/characters/player) を「役立たず」「趙氏蠢豚」と罵るが、江陵の千金方に働き口を紹介するなど面倒見はよい。
 - [唐陞](/ja/people/characters/brother3) は志気を失って下山する [趙活](/ja/people/characters/player) に、長年身につけていた本命銭を「複数の師兄の代わり」として旅費に持たせた (図の「餞別の銭」)。
 - [唐惟元](/ja/people/characters/brother4) は言い逃れの際に [趙活](/ja/people/characters/player) を盾として推し出すが、その助力で [晁和](/ja/people/characters/special208) から詐取した銭は率先して半分を分ける。
@@ -187,7 +186,6 @@ tags:
 .rc-warm { stroke: #d98a2b; }
 .rc-neu { stroke: #8a8f98; }
 .rc-neg { stroke: #d64545; stroke-dasharray: 6 5; }
-.rc-cov { stroke: #4a7dd6; stroke-dasharray: 6 5; }
 .rc-dash { stroke-dasharray: 6 5; }
 .rc-n { fill: none; stroke: var(--vp-c-divider); stroke-width: 2; }
 .rc-f { fill: var(--vp-c-bg-soft); stroke: var(--vp-c-divider); stroke-width: 1.5; rx: 10; }
