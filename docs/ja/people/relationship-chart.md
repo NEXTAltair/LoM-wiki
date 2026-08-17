@@ -31,6 +31,7 @@ graph TB
   subgraph 蜀中唐門
     master[唐中翎<br>掌門]
     luk[唐鹿<br>師娘・故人]
+    mar(["夫婦・師兄妹"])
     ml[唐默鈴<br>千金]
     b1[唐布衣<br>大師兄]
     b2[唐錚<br>二師兄]
@@ -45,10 +46,11 @@ graph TB
     shan[唐衫]
   end
 
-  master ---|夫婦・師兄妹| luk
-  master -->|父| ml
-  luk -->|母| ml
+  master --- mar
+  luk --- mar
+  mar -->|娘| ml
   luk -.->|生母と疑われる| b2
+  master ---|同門| aunt
   master -->|師| b1
   master -->|師| b2
   master -->|師| b3
