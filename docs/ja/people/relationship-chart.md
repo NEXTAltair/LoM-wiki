@@ -20,6 +20,8 @@ tags:
 
 ## 蜀中唐門 — 師承・家族図
 
+横の並びが同じ段の人物は同世代 (同じ輩分) です。同世代内の関係 (夫婦・同門) はノード内の肩書きに記しています。
+
 ```mermaid
 %%{init: {
   'flowchart': {
@@ -28,36 +30,33 @@ tags:
   }
 } }%%
 graph TB
-  subgraph 蜀中唐門
+  subgraph tangmen["蜀中唐門"]
+    aunt["唐小楼<br>大師姑 (掌門と同門)・嫁ぎ先へ"]
     master[唐中翎<br>掌門]
-    luk[唐鹿<br>師娘・故人]
-    mar(["夫婦・師兄妹"])
-    ml[唐默鈴<br>千金]
+    luk["唐鹿<br>師娘 (掌門の妻・師妹)・故人"]
     b1[唐布衣<br>大師兄]
     b2[唐錚<br>二師兄]
     b3[唐陞<br>三師兄]
     b4[唐惟元<br>四師兄]
     player[趙活<br>外姓弟子]
-    aunt[唐小楼<br>大師姑・嫁ぎ先へ]
+    ml[唐默鈴<br>千金]
     chao[晁和]
   end
-  subgraph 広州唐門["広州唐門 (唐門非公認)"]
+  subgraph gz["広州唐門 (唐門非公認)"]
     shouhong["唐守鴻<br>「佛手香」"]
     shan[唐衫]
   end
 
-  master --- mar
-  luk --- mar
-  mar -->|娘| ml
+  master -->|父| ml
+  luk -->|母| ml
   luk -.->|生母と疑われる| b2
-  master ---|同門| aunt
   master -->|師| b1
   master -->|師| b2
   master -->|師| b3
   master -->|師| b4
   master -->|師| player
   aunt -.->|乾児子| chao
-  shouhong -.->|叛逃| master
+  tangmen -.-|叛逃| shouhong
   shouhong -->|師| shan
 ```
 
