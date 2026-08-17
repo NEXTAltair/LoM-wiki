@@ -19,7 +19,7 @@ tags:
 
 ## 蜀中唐門 — 師承・家族図
 
-横の並びが同じ段の人物は同世代 (同じ輩分) です。
+横の並びが同じ段の人物は同世代 (同じ輩分) です。下段の弟子たちは全員 [唐中翎](/ja/people/characters/master) の弟子で、自明な師弟の線は引かず、個別の事情がある線だけを示しています。
 
 <div class="rc-fig">
 <svg viewBox="0 0 1010 560" role="img" aria-label="蜀中唐門 師承・家族図">
@@ -50,16 +50,8 @@ tags:
   <text class="rc-lab" x="250" y="90">同門</text>
   <line class="rc-e rc-warm" x1="434" y1="100" x2="576" y2="100"/>
   <text class="rc-lab" x="505" y="90">夫婦・師兄妹</text>
-  <line class="rc-e rc-neu" x1="366.8" y1="137.4" x2="235.3" y2="349.2" marker-end="url(#rc-ar-neu)"/>
-  <text class="rc-lab" x="255" y="305">師</text>
-  <line class="rc-e rc-neu" x1="381.1" y1="143.1" x2="339.7" y2="343" marker-end="url(#rc-ar-neu)"/>
-  <text class="rc-lab" x="348" y="303">師</text>
   <line class="rc-e rc-neu" x1="398.9" y1="143.1" x2="440.3" y2="343" marker-end="url(#rc-ar-neu)"/>
-  <text class="rc-lab" x="432" y="303">師</text>
-  <line class="rc-e rc-neu" x1="413.2" y1="137.4" x2="544.7" y2="349.2" marker-end="url(#rc-ar-neu)"/>
-  <text class="rc-lab" x="524" y="305">師</text>
-  <line class="rc-e rc-neu" x1="421.6" y1="130.6" x2="655.5" y2="356.6" marker-end="url(#rc-ar-neu)"/>
-  <text class="rc-lab" x="609" y="311">師</text>
+  <text class="rc-lab" x="420" y="240">刑場破りで救出</text>
   <line class="rc-e rc-warm" x1="426.2" y1="125" x2="770.5" y2="362.7" marker-end="url(#rc-ar-warm)"/>
   <text class="rc-lab" x="616" y="254">父</text>
   <line class="rc-e rc-warm" x1="644.1" y1="136.8" x2="783.7" y2="349.9" marker-end="url(#rc-ar-warm)"/>
