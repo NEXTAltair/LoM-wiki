@@ -27,86 +27,86 @@ tags:
     <marker id="rc-ar-neg" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto"><path d="M0,0 L12,5 L0,10 z" fill="#d64545"/></marker>
     <marker id="rc-ar-neg-s" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="1" refY="5" orient="auto"><path d="M12,0 L0,5 L12,10 z" fill="#d64545"/></marker>
     <marker id="rc-ar-cov" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto"><path d="M0,0 L12,5 L0,10 z" fill="#4a7dd6"/></marker>
-    <clipPath id="rc-c-master"><circle cx="300" cy="200" r="38"/></clipPath>
-    <clipPath id="rc-c-ml"><circle cx="330" cy="360" r="38"/></clipPath>
-    <clipPath id="rc-c-player"><circle cx="540" cy="420" r="38"/></clipPath>
+    <clipPath id="rc-c-master"><circle cx="470" cy="200" r="38"/></clipPath>
+    <clipPath id="rc-c-ml"><circle cx="450" cy="350" r="38"/></clipPath>
+    <clipPath id="rc-c-player"><circle cx="620" cy="430" r="38"/></clipPath>
     <clipPath id="rc-c-b1"><circle cx="140" cy="430" r="38"/></clipPath>
     <clipPath id="rc-c-b2"><circle cx="260" cy="545" r="38"/></clipPath>
     <clipPath id="rc-c-b3"><circle cx="430" cy="555" r="38"/></clipPath>
-    <clipPath id="rc-c-b4"><circle cx="640" cy="530" r="38"/></clipPath>
-    <clipPath id="rc-c-aunt"><circle cx="860" cy="340" r="38"/></clipPath>
-    <clipPath id="rc-c-chao"><circle cx="860" cy="480" r="38"/></clipPath>
+    <clipPath id="rc-c-b4"><circle cx="760" cy="545" r="38"/></clipPath>
+    <clipPath id="rc-c-aunt"><circle cx="950" cy="340" r="38"/></clipPath>
+    <clipPath id="rc-c-chao"><circle cx="950" cy="480" r="38"/></clipPath>
   </defs>
-  <rect x="60" y="110" width="700" height="530" rx="14" fill="var(--vp-c-bg-soft)" fill-opacity="0.45" stroke="var(--vp-c-divider)" stroke-width="1.5"/>
-  <text class="rc-grp" x="115" y="140">蜀中唐門</text>
+  <rect x="60" y="110" width="760" height="530" rx="14" fill="var(--vp-c-bg-soft)" fill-opacity="0.45" stroke="var(--vp-c-divider)" stroke-width="1.5"/>
+  <text class="rc-grp" x="745" y="145">蜀中唐門</text>
   <line class="rc-e rc-warm" x1="338" y1="200" x2="432" y2="200"/>
   <text class="rc-lab" x="385" y="190">夫婦</text>
-  <line class="rc-e rc-warm" x1="385" y1="202" x2="344.3" y2="318.4" marker-end="url(#rc-ar-warm)"/>
-  <text class="rc-lab" x="350" y="262">娘</text>
-  <line class="rc-e rc-neu rc-dash" x1="447" y1="238" x2="287" y2="500" marker-end="url(#rc-ar-neu)"/>
-  <text class="rc-lab" x="400" y="330">母?</text>
-  <path class="rc-e rc-warm" d="M 430 210 Q 250 215 175 400" marker-end="url(#rc-ar-warm)"/>
-  <text class="rc-lab" x="230" y="222">万霊丹</text>
-  <line class="rc-e rc-warm" x1="495.5" y1="415.6" x2="373.9" y2="380.9" marker-end="url(#rc-ar-warm)"/>
-  <text class="rc-lab" x="430" y="417">子守役</text>
-  <line class="rc-e rc-warm" x1="374.5" y1="364.4" x2="496.1" y2="399.1" marker-end="url(#rc-ar-warm)"/>
-  <text class="rc-lab" x="445" y="364">懐く</text>
-  <line class="rc-e rc-cov" x1="184" y1="428.9" x2="492" y2="421.2" marker-end="url(#rc-ar-cov)"/>
-  <text class="rc-lab" x="330" y="447">密かに指南</text>
-  <line class="rc-e rc-neu" x1="300.2" y1="527.1" x2="496.2" y2="439.6" marker-end="url(#rc-ar-neu)"/>
-  <text class="rc-lab" x="400" y="472">罵倒&世話</text>
-  <line class="rc-e rc-warm" x1="457.8" y1="520.9" x2="509.6" y2="457.2" marker-end="url(#rc-ar-warm)"/>
-  <text class="rc-lab" x="505" y="512" text-anchor="start">餞別の銭</text>
-  <line class="rc-e rc-neu" x1="610.4" y1="497.4" x2="572.3" y2="455.5" marker-end="url(#rc-ar-neu)"/>
-  <text class="rc-lab" x="612" y="472" text-anchor="start">詐欺の相棒</text>
-  <line class="rc-e rc-neu" x1="682.9" y1="520.2" x2="813.1" y2="490.7" marker-end="url(#rc-ar-neu)"/>
-  <text class="rc-lab" x="748" y="492">銭を詐取</text>
-  <line class="rc-e rc-neg" x1="816.8" y1="471.9" x2="587.2" y2="428.8" marker-end="url(#rc-ar-neg)"/>
-  <text class="rc-lab" x="700" y="436">罪の擦り付け</text>
-  <line class="rc-e rc-neg" x1="817.3" y1="350.7" x2="586.6" y2="408.3" marker-end="url(#rc-ar-neg)"/>
-  <text class="rc-lab" x="700" y="366">見下す</text>
-  <line class="rc-e rc-warm rc-dash" x1="860" y1="384" x2="860" y2="432" marker-end="url(#rc-ar-warm)"/>
-  <text class="rc-lab" x="874" y="412" text-anchor="start">乾児子</text>
-  <line class="rc-e rc-neg" x1="935" y1="160" x2="768" y2="180" marker-end="url(#rc-ar-neg)"/>
-  <text class="rc-lab" x="850" y="156">叛逃</text>
+  <line class="rc-e rc-warm" x1="385" y1="202" x2="432.3" y2="309.7" marker-end="url(#rc-ar-warm)"/>
+  <text class="rc-lab" x="395" y="258">娘</text>
+  <line class="rc-e rc-neu rc-dash" x1="295" y1="243.7" x2="265.5" y2="497.3" marker-end="url(#rc-ar-neu)"/>
+  <text class="rc-lab" x="322" y="363">母?</text>
+  <line class="rc-e rc-warm" x1="274.9" y1="236.1" x2="167.4" y2="390.6" marker-end="url(#rc-ar-warm)"/>
+  <text class="rc-lab" x="185" y="300">万霊丹</text>
+  <line class="rc-e rc-warm" x1="576.8" y1="418.5" x2="490" y2="377.6" marker-end="url(#rc-ar-warm)"/>
+  <text class="rc-lab" x="540" y="422">子守役</text>
+  <line class="rc-e rc-warm" x1="493.2" y1="361.5" x2="580" y2="402.4" marker-end="url(#rc-ar-warm)"/>
+  <text class="rc-lab" x="545" y="366">懐く</text>
+  <line class="rc-e rc-cov" x1="184" y1="430" x2="572" y2="430" marker-end="url(#rc-ar-cov)"/>
+  <text class="rc-lab" x="360" y="449">密かに指南</text>
+  <line class="rc-e rc-neu" x1="301.9" y1="531.6" x2="578.1" y2="443.4" marker-end="url(#rc-ar-neu)"/>
+  <text class="rc-lab" x="430" y="478">罵倒&世話</text>
+  <line class="rc-e rc-warm" x1="466.7" y1="530.8" x2="583.3" y2="454.4" marker-end="url(#rc-ar-warm)"/>
+  <text class="rc-lab" x="508" y="522">餞別の銭</text>
+  <line class="rc-e rc-neu" x1="726" y1="517.1" x2="657.1" y2="460.5" marker-end="url(#rc-ar-neu)"/>
+  <text class="rc-lab" x="712" y="478" text-anchor="start">詐欺の相棒</text>
+  <line class="rc-e rc-neu" x1="801.6" y1="530.8" x2="904.6" y2="495.6" marker-end="url(#rc-ar-neu)"/>
+  <text class="rc-lab" x="850" y="502">銭を詐取</text>
+  <line class="rc-e rc-neg" x1="906.5" y1="473.4" x2="667.5" y2="437.2" marker-end="url(#rc-ar-neg)"/>
+  <text class="rc-lab" x="790" y="443">罪の擦り付け</text>
+  <line class="rc-e rc-neg" x1="907.5" y1="351.6" x2="662.5" y2="417.4" marker-end="url(#rc-ar-neg)"/>
+  <text class="rc-lab" x="780" y="373">見下す</text>
+  <line class="rc-e rc-warm rc-dash" x1="950" y1="384" x2="950" y2="432" marker-end="url(#rc-ar-warm)"/>
+  <text class="rc-lab" x="964" y="412" text-anchor="start">乾児子</text>
+  <line class="rc-e rc-neg" x1="935" y1="160" x2="826" y2="172" marker-end="url(#rc-ar-neg)"/>
+  <text class="rc-lab" x="880" y="152">叛逃</text>
   <line class="rc-e rc-neu" x1="902" y1="52" x2="946" y2="52" marker-end="url(#rc-ar-neu)"/>
   <text class="rc-lab" x="925" y="40">密命</text>
-  <line class="rc-e rc-neg" x1="985" y1="74" x2="712" y2="110" marker-end="url(#rc-ar-neg)"/>
-  <text class="rc-lab" x="860" y="97">暗中工作</text>
+  <line class="rc-e rc-neg" x1="985" y1="74" x2="766" y2="106" marker-end="url(#rc-ar-neg)"/>
+  <text class="rc-lab" x="850" y="112">暗中工作</text>
   <line class="rc-e rc-neu" x1="1018" y1="74" x2="1018" y2="128"/>
   <text class="rc-lab" x="1032" y="105" text-anchor="start">結託</text>
   <line class="rc-e rc-neu" x1="1018" y1="194" x2="1018" y2="236"/>
   <text class="rc-lab" x="1032" y="218" text-anchor="start">結託</text>
-  <line class="rc-e rc-neg" x1="946" y1="262" x2="766" y2="262" marker-end="url(#rc-ar-neg)"/>
-  <text class="rc-lab" x="855" y="250">怨恨</text>
+  <line class="rc-e rc-neg" x1="946" y1="262" x2="826" y2="262" marker-end="url(#rc-ar-neg)"/>
+  <text class="rc-lab" x="886" y="250">怨恨</text>
   <line class="rc-e rc-neg" x1="150" y1="78" x2="150" y2="106" marker-start="url(#rc-ar-neg-s)" marker-end="url(#rc-ar-neg)"/>
   <text class="rc-lab" x="164" y="95" text-anchor="start">宿敵</text>
   <line class="rc-e rc-warm" x1="350" y1="78" x2="350" y2="106" marker-end="url(#rc-ar-warm)"/>
   <text class="rc-lab" x="364" y="95" text-anchor="start">仲裁役</text>
   <line class="rc-e rc-neg" x1="545" y1="78" x2="545" y2="106" marker-end="url(#rc-ar-neg)"/>
   <text class="rc-lab" x="559" y="95" text-anchor="start">討滅戦で重創</text>
-  <image href="/images/characters/master/normal.webp" x="262" y="162" width="76" height="76" preserveAspectRatio="xMidYMin slice" clip-path="url(#rc-c-master)"/>
+  <circle cx="300" cy="200" r="38" fill="var(--vp-c-bg-soft)"/>
+  <text class="rc-name" x="300" y="207" style="font-size:20px;">鹿</text>
   <circle class="rc-n" cx="300" cy="200" r="38"/>
-  <text class="rc-name" x="300" y="255">唐中翎</text>
-  <text class="rc-role" x="300" y="271">掌門</text>
-  <circle cx="470" cy="200" r="38" fill="var(--vp-c-bg-soft)"/>
-  <text class="rc-name" x="470" y="207" style="font-size:20px;">鹿</text>
+  <text class="rc-name" x="300" y="255">唐鹿</text>
+  <text class="rc-role" x="300" y="271">師娘・故人</text>
+  <image href="/images/characters/master/normal.webp" x="432" y="162" width="76" height="76" preserveAspectRatio="xMidYMin slice" clip-path="url(#rc-c-master)"/>
   <circle class="rc-n" cx="470" cy="200" r="38"/>
-  <text class="rc-name" x="470" y="255">唐鹿</text>
-  <text class="rc-role" x="470" y="271">師娘・故人</text>
-  <image href="/images/characters/girl_0/normal.webp" x="292" y="322" width="76" height="76" preserveAspectRatio="xMidYMin slice" clip-path="url(#rc-c-ml)"/>
-  <circle class="rc-n" cx="330" cy="360" r="38"/>
-  <text class="rc-name" x="300" y="410" text-anchor="end">唐默鈴</text>
-  <text class="rc-role" x="300" y="426" text-anchor="end">千金・小師妹</text>
-  <image href="/images/characters/player/normal.webp" x="502" y="382" width="76" height="76" preserveAspectRatio="xMidYMin slice" clip-path="url(#rc-c-player)"/>
-  <circle class="rc-n" cx="540" cy="420" r="38"/>
-  <text class="rc-name" x="540" y="475">趙活</text>
-  <text class="rc-role" x="540" y="491">外姓弟子</text>
+  <text class="rc-name" x="470" y="255">唐中翎</text>
+  <text class="rc-role" x="470" y="271">掌門</text>
+  <image href="/images/characters/girl_0/normal.webp" x="377" y="175" width="152" height="359" clip-path="url(#rc-c-ml)"/>
+  <circle class="rc-n" cx="450" cy="350" r="38"/>
+  <text class="rc-name" x="450" y="404">唐默鈴</text>
+  <text class="rc-role" x="450" y="420">千金・小師妹</text>
+  <image href="/images/characters/player/normal.webp" x="582" y="392" width="76" height="76" preserveAspectRatio="xMidYMin slice" clip-path="url(#rc-c-player)"/>
+  <circle class="rc-n" cx="620" cy="430" r="38"/>
+  <text class="rc-name" x="620" y="485">趙活</text>
+  <text class="rc-role" x="620" y="501">外姓弟子</text>
   <image href="/images/characters/brother1/normal.webp" x="102" y="392" width="76" height="76" preserveAspectRatio="xMidYMin slice" clip-path="url(#rc-c-b1)"/>
   <circle class="rc-n" cx="140" cy="430" r="38"/>
   <text class="rc-name" x="140" y="485">唐布衣</text>
   <text class="rc-role" x="140" y="501">大師兄</text>
-  <image href="/images/characters/brother2/normal.webp" x="222" y="507" width="76" height="76" preserveAspectRatio="xMidYMin slice" clip-path="url(#rc-c-b2)"/>
+  <image href="/images/characters/brother2/normal.webp" x="128" y="388" width="282" height="369" clip-path="url(#rc-c-b2)"/>
   <circle class="rc-n" cx="260" cy="545" r="38"/>
   <text class="rc-name" x="260" y="600">唐錚</text>
   <text class="rc-role" x="260" y="616">二師兄</text>
@@ -114,18 +114,18 @@ tags:
   <circle class="rc-n" cx="430" cy="555" r="38"/>
   <text class="rc-name" x="430" y="610">唐陞</text>
   <text class="rc-role" x="430" y="626">三師兄</text>
-  <image href="/images/characters/brother4/normal.webp" x="602" y="492" width="76" height="76" preserveAspectRatio="xMidYMin slice" clip-path="url(#rc-c-b4)"/>
-  <circle class="rc-n" cx="640" cy="530" r="38"/>
-  <text class="rc-name" x="640" y="585">唐惟元</text>
-  <text class="rc-role" x="640" y="601">四師兄</text>
-  <image href="/images/characters/aunt2/normal.webp" x="822" y="302" width="76" height="76" preserveAspectRatio="xMidYMin slice" clip-path="url(#rc-c-aunt)"/>
-  <circle class="rc-n" cx="860" cy="340" r="38"/>
-  <text class="rc-name" x="812" y="335" text-anchor="end">唐小楼</text>
-  <text class="rc-role" x="812" y="351" text-anchor="end">大師姑・嫁ぎ出た</text>
-  <image href="/images/characters/special208/normal.webp" x="822" y="442" width="76" height="76" preserveAspectRatio="xMidYMin slice" clip-path="url(#rc-c-chao)"/>
-  <circle class="rc-n" cx="860" cy="480" r="38"/>
-  <text class="rc-name" x="860" y="535">晁和</text>
-  <text class="rc-role" x="860" y="551">唐小楼の乾児子</text>
+  <image href="/images/characters/brother4/normal.webp" x="722" y="507" width="76" height="76" preserveAspectRatio="xMidYMin slice" clip-path="url(#rc-c-b4)"/>
+  <circle class="rc-n" cx="760" cy="545" r="38"/>
+  <text class="rc-name" x="760" y="600">唐惟元</text>
+  <text class="rc-role" x="760" y="616">四師兄</text>
+  <image href="/images/characters/aunt2/normal.webp" x="874" y="135" width="155" height="369" clip-path="url(#rc-c-aunt)"/>
+  <circle class="rc-n" cx="950" cy="340" r="38"/>
+  <text class="rc-name" x="898" y="325" text-anchor="end">唐小楼</text>
+  <text class="rc-role" x="898" y="341" text-anchor="end">大師姑・嫁ぎ出た</text>
+  <image href="/images/characters/special208/normal.webp" x="912" y="442" width="76" height="76" preserveAspectRatio="xMidYMin slice" clip-path="url(#rc-c-chao)"/>
+  <circle class="rc-n" cx="950" cy="480" r="38"/>
+  <text class="rc-name" x="950" y="535">晁和</text>
+  <text class="rc-role" x="950" y="551">唐小楼の乾児子</text>
   <rect class="rc-f" x="80" y="30" width="140" height="44"/>
   <text class="rc-name" x="150" y="57">点蒼派</text>
   <rect class="rc-f" x="280" y="30" width="140" height="44"/>
