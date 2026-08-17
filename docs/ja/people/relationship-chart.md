@@ -1,6 +1,6 @@
 ---
 title: 人物相関図
-aside: true
+aside: false
 sidebar: false
 outline: [2, 3]
 tags:
@@ -21,7 +21,8 @@ tags:
 
 横の並びが同じ段の人物は同世代 (同じ輩分) です。
 
-<svg viewBox="0 0 1010 560" role="img" aria-label="蜀中唐門 師承・家族図" style="max-width:100%;height:auto;display:block;margin:0 auto;">
+<div class="rc-fig">
+<svg viewBox="0 0 1010 560" role="img" aria-label="蜀中唐門 師承・家族図">
   <defs>
     <marker id="rc-ar-warm" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto"><path d="M0,0 L12,5 L0,10 z" fill="#d98a2b"/></marker>
     <marker id="rc-ar-neu" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto"><path d="M0,0 L12,5 L0,10 z" fill="#8a8f98"/></marker>
@@ -122,6 +123,7 @@ tags:
   <circle class="rc-n" cx="948" cy="390" r="36"/>
   <text class="rc-name" x="948" y="443">唐衫</text>
 </svg>
+</div>
 
 - [唐鹿](/ja/people/characters/other10) は [唐中翎](/ja/people/characters/master) の師妹にして妻。[極楽教](/ja/people/factions/elysium-school) の『屍心丹』に中毒して支配されていた間に [唐錚](/ja/people/characters/brother2) を生んだと疑われた。[唐默鈴](/ja/people/characters/girl0) を [趙活](/ja/people/characters/player) に託した後、崖に身を投げた。
 - [唐陞](/ja/people/characters/brother3) は刑場破りの折、まだ掌門就任前の [唐中翎](/ja/people/characters/master) が少年の [唐布衣](/ja/people/characters/brother1)・[唐錚](/ja/people/characters/brother2) を率いて救い出した縁で唐門に入った。
@@ -133,7 +135,8 @@ tags:
 
 弟子世代どうしの個人間の間柄です。この図には段と世代の対応はありません。
 
-<svg viewBox="0 0 920 640" role="img" aria-label="蜀中唐門 弟子世代の間柄図" style="max-width:100%;height:auto;display:block;margin:0 auto;">
+<div class="rc-fig">
+<svg viewBox="0 0 920 640" role="img" aria-label="蜀中唐門 弟子世代の間柄図">
   <defs>
     <clipPath id="rc-c-player"><circle cx="460" cy="300" r="40"/></clipPath>
     <clipPath id="rc-c-b1"><circle cx="150" cy="110" r="40"/></clipPath>
@@ -197,6 +200,7 @@ tags:
   <text class="rc-name" x="405" y="75" text-anchor="end">唐小楼</text>
   <text class="rc-role" x="405" y="91" text-anchor="end">大師姑</text>
 </svg>
+</div>
 
 - [唐布衣](/ja/people/characters/brother1) は何度も [趙活](/ja/people/characters/player) の背中を忘形篇で打ち、黒衣の者を装って後山で指南した。
 - [唐錚](/ja/people/characters/brother2) は [趙活](/ja/people/characters/player) を「役立たず」「趙氏蠢豚」と罵るが、江陵の千金方に働き口を紹介するなど面倒見はよい。
@@ -208,7 +212,8 @@ tags:
 
 ## 蜀中唐門 — 対外因縁図
 
-<svg viewBox="0 0 940 590" role="img" aria-label="蜀中唐門 対外因縁図" style="max-width:100%;height:auto;display:block;margin:0 auto;">
+<div class="rc-fig">
+<svg viewBox="0 0 940 590" role="img" aria-label="蜀中唐門 対外因縁図">
   <line class="rc-e rc-neg" x1="213" y1="140" x2="424" y2="272" marker-start="url(#rc-ar-neg)" marker-end="url(#rc-ar-neg)"/>
   <text class="rc-lab" x="300" y="190">宿敵・数十戦</text>
   <line class="rc-e rc-warm" x1="212" y1="300" x2="412" y2="300" marker-end="url(#rc-ar-warm)"/>
@@ -249,6 +254,7 @@ tags:
   <rect class="rc-f" x="790" y="458" width="130" height="44"/>
   <text class="rc-name" x="855" y="485">広州唐門</text>
 </svg>
+</div>
 
 - [点蒼派](/ja/people/factions/dian-cang-sect) との宿怨は剣聖のだまし討ちに始まり、大小数十戦に及ぶ。衰退期の唐門に挑んだ点蒼剣聖 [無名](/ja/people/characters/special406) を掌門が打ち倒し、[南宮世家](/ja/people/factions/nan-gong-family) の仲裁の下で封剣隠退させた。
 - [大宋](/ja/people/factions/song-dynasty) 朝廷は刑場破り以来唐門を忌憚し、[趙擴](/ja/people/characters/special817) が [上官世家](/ja/people/factions/shang-guan-family) に暗中での弱体化を命じた。上官世家は南嵩山の [釈明](/ja/people/characters/special826)、広州唐門と結託して難を起こした。
@@ -257,6 +263,21 @@ tags:
 - [極楽教](/ja/people/factions/elysium-school) 討滅戦で唐門は重創を受け、衰退の起点となった。
 
 <style>
+.rc-fig {
+    width: min(1100px, 96vw);
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    overflow-x: auto;
+    margin: 16px 0;
+}
+.rc-fig svg {
+    width: 1100px;
+    max-width: none;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
 .rc-e { stroke-width: 2; fill: none; }
 .rc-warm { stroke: #d98a2b; }
 .rc-neu { stroke: #8a8f98; }
