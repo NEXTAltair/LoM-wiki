@@ -41,10 +41,8 @@ tags:
   <text class="rc-grp" x="115" y="140">蜀中唐門</text>
   <line class="rc-e rc-warm" x1="338" y1="200" x2="432" y2="200"/>
   <text class="rc-lab" x="385" y="190">夫婦</text>
-  <line class="rc-e rc-warm" x1="307" y1="244" x2="323" y2="316" marker-end="url(#rc-ar-warm)"/>
-  <text class="rc-lab" x="287" y="290">父</text>
-  <line class="rc-e rc-warm" x1="438" y1="236" x2="362" y2="323" marker-end="url(#rc-ar-warm)"/>
-  <text class="rc-lab" x="392" y="285">母</text>
+  <line class="rc-e rc-warm" x1="385" y1="202" x2="344.3" y2="318.4" marker-end="url(#rc-ar-warm)"/>
+  <text class="rc-lab" x="350" y="262">娘</text>
   <line class="rc-e rc-neu rc-dash" x1="447" y1="238" x2="287" y2="500" marker-end="url(#rc-ar-neu)"/>
   <text class="rc-lab" x="400" y="330">母?</text>
   <path class="rc-e rc-warm" d="M 430 210 Q 250 215 175 400" marker-end="url(#rc-ar-warm)"/>
