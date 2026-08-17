@@ -15,51 +15,113 @@ tags:
 
 関係の種類ごとに図を分けています。1枚の図にすべての関係を詰め込むと読めなくなるため、「師承・家族」「対外的な因縁」のように図ごとに主題を固定しています。
 
-- **実線** … 作中で確定している関係
-- **破線** … 疑い・非公式・一方的な関係
+<p class="rc-legend"><span style="color:#d98a2b;">━</span> 情誼・家族　<span style="color:#8a8f98;">━</span> 師承・利害・その他　<span style="color:#8a8f98;">╌╌</span> 疑い　<span style="color:#d64545;">╌╌</span> 敵意・対立・離反　<span style="color:#4a7dd6;">╌╌</span> 隠れた関係</p>
 
 ## 蜀中唐門 — 師承・家族図
 
-横の並びが同じ段の人物は同世代 (同じ輩分) です。同世代内の関係 (夫婦・同門) はノード内の肩書きに記しています。
+横の並びが同じ段の人物は同世代 (同じ輩分) です。
 
-```mermaid
-%%{init: {
-  'flowchart': {
-    'nodeSpacing': 40,
-    'rankSpacing': 60
-  }
-} }%%
-graph TB
-  subgraph tangmen["蜀中唐門"]
-    aunt["唐小楼<br>大師姑 (掌門と同門)・嫁ぎ先へ"]
-    master[唐中翎<br>掌門]
-    luk["唐鹿<br>師娘 (掌門の妻・師妹)・故人"]
-    b1[唐布衣<br>大師兄]
-    b2[唐錚<br>二師兄]
-    b3[唐陞<br>三師兄]
-    b4[唐惟元<br>四師兄]
-    player[趙活<br>外姓弟子]
-    ml[唐默鈴<br>千金]
-    chao[晁和]
-  end
-  subgraph gz["広州唐門 (唐門非公認)"]
-    shouhong["唐守鴻<br>「佛手香」"]
-    shan[唐衫]
-  end
-
-  master -->|父| ml
-  luk -->|母| ml
-  luk -.->|生母と疑われる| b2
-  luk -->|万霊丹を託す| b1
-  master -->|師| b1
-  master -->|師| b2
-  master -->|師| b3
-  master -->|師| b4
-  master -->|師| player
-  aunt -.->|乾児子| chao
-  tangmen -.-|叛逃| shouhong
-  shouhong -->|師| shan
-```
+<svg viewBox="0 0 1010 560" role="img" aria-label="蜀中唐門 師承・家族図" style="max-width:100%;height:auto;display:block;margin:0 auto;">
+  <defs>
+    <marker id="rc-ar-warm" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto"><path d="M0,0 L12,5 L0,10 z" fill="#d98a2b"/></marker>
+    <marker id="rc-ar-neu" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto"><path d="M0,0 L12,5 L0,10 z" fill="#8a8f98"/></marker>
+    <marker id="rc-ar-neg" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto"><path d="M0,0 L12,5 L0,10 z" fill="#d64545"/></marker>
+    <marker id="rc-ar-cov" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto"><path d="M0,0 L12,5 L0,10 z" fill="#4a7dd6"/></marker>
+    <clipPath id="rf-c-aunt"><circle cx="110" cy="100" r="36"/></clipPath>
+    <clipPath id="rf-c-master"><circle cx="390" cy="100" r="36"/></clipPath>
+    <clipPath id="rf-c-luk"><circle cx="620" cy="100" r="36"/></clipPath>
+    <clipPath id="rf-c-chao"><circle cx="90" cy="390" r="36"/></clipPath>
+    <clipPath id="rf-c-b1"><circle cx="210" cy="390" r="36"/></clipPath>
+    <clipPath id="rf-c-b2"><circle cx="330" cy="390" r="36"/></clipPath>
+    <clipPath id="rf-c-b3"><circle cx="450" cy="390" r="36"/></clipPath>
+    <clipPath id="rf-c-b4"><circle cx="570" cy="390" r="36"/></clipPath>
+    <clipPath id="rf-c-player"><circle cx="690" cy="390" r="36"/></clipPath>
+    <clipPath id="rf-c-ml"><circle cx="810" cy="390" r="36"/></clipPath>
+    <clipPath id="rf-c-shouhong"><circle cx="948" cy="100" r="36"/></clipPath>
+    <clipPath id="rf-c-shan"><circle cx="948" cy="390" r="36"/></clipPath>
+  </defs>
+  <rect x="25" y="30" width="850" height="450" rx="10" fill="none" stroke="var(--vp-c-divider)" stroke-width="1.5"/>
+  <text class="rc-grp" x="45" y="55" text-anchor="start">蜀中唐門</text>
+  <rect x="893" y="30" width="112" height="450" rx="10" fill="none" stroke="var(--vp-c-divider)" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <text class="rc-grp" x="948" y="55">広州唐門</text>
+  <text class="rc-role" x="948" y="70">(唐門非公認)</text>
+  <line class="rc-e rc-neu" x1="154" y1="100" x2="346" y2="100"/>
+  <text class="rc-lab" x="250" y="90">同門</text>
+  <line class="rc-e rc-warm" x1="434" y1="100" x2="576" y2="100"/>
+  <text class="rc-lab" x="505" y="90">夫婦・師兄妹</text>
+  <line class="rc-e rc-neu" x1="366.8" y1="137.4" x2="235.3" y2="349.2" marker-end="url(#rc-ar-neu)"/>
+  <text class="rc-lab" x="255" y="305">師</text>
+  <line class="rc-e rc-neu" x1="381.1" y1="143.1" x2="339.7" y2="343" marker-end="url(#rc-ar-neu)"/>
+  <text class="rc-lab" x="348" y="303">師</text>
+  <line class="rc-e rc-neu" x1="398.9" y1="143.1" x2="440.3" y2="343" marker-end="url(#rc-ar-neu)"/>
+  <text class="rc-lab" x="432" y="303">師</text>
+  <line class="rc-e rc-neu" x1="413.2" y1="137.4" x2="544.7" y2="349.2" marker-end="url(#rc-ar-neu)"/>
+  <text class="rc-lab" x="524" y="305">師</text>
+  <line class="rc-e rc-neu" x1="421.6" y1="130.6" x2="655.5" y2="356.6" marker-end="url(#rc-ar-neu)"/>
+  <text class="rc-lab" x="609" y="311">師</text>
+  <line class="rc-e rc-warm" x1="426.2" y1="125" x2="770.5" y2="362.7" marker-end="url(#rc-ar-warm)"/>
+  <text class="rc-lab" x="616" y="254">父</text>
+  <line class="rc-e rc-warm" x1="644.1" y1="136.8" x2="783.7" y2="349.9" marker-end="url(#rc-ar-warm)"/>
+  <text class="rc-lab" x="714" y="243">母</text>
+  <line class="rc-e rc-neu rc-dash" x1="588.9" y1="131.1" x2="364" y2="356.1" marker-end="url(#rc-ar-neu)"/>
+  <text class="rc-lab" x="505" y="207">生母と疑われる</text>
+  <line class="rc-e rc-warm" x1="584.1" y1="125.4" x2="249.2" y2="362.3" marker-end="url(#rc-ar-warm)"/>
+  <text class="rc-lab" x="513" y="170">万霊丹を託す</text>
+  <line class="rc-e rc-warm rc-dash" x1="107" y1="143.9" x2="93.3" y2="342.1" marker-end="url(#rc-ar-warm)"/>
+  <text class="rc-lab" x="140" y="243">乾児子</text>
+  <line class="rc-e rc-neg" x1="904" y1="100" x2="878" y2="100" marker-end="url(#rc-ar-neg)"/>
+  <text class="rc-lab" x="893" y="88">叛逃</text>
+  <line class="rc-e rc-neu" x1="948" y1="144" x2="948" y2="342" marker-end="url(#rc-ar-neu)"/>
+  <text class="rc-lab" x="962" y="243" text-anchor="start">師</text>
+  <image href="/images/characters/aunt2/normal.webp" x="74" y="64" width="72" height="72" preserveAspectRatio="xMidYMin slice" clip-path="url(#rf-c-aunt)"/>
+  <circle class="rc-n" cx="110" cy="100" r="36"/>
+  <text class="rc-name" x="110" y="153">唐小楼</text>
+  <text class="rc-role" x="110" y="168">大師姑 (掌門と同門)</text>
+  <image href="/images/characters/master/normal.webp" x="354" y="64" width="72" height="72" preserveAspectRatio="xMidYMin slice" clip-path="url(#rf-c-master)"/>
+  <circle class="rc-n" cx="390" cy="100" r="36"/>
+  <text class="rc-name" x="390" y="153">唐中翎</text>
+  <text class="rc-role" x="390" y="168">掌門</text>
+  <circle cx="620" cy="100" r="36" fill="var(--vp-c-bg-soft)"/>
+  <text class="rc-name" x="620" y="107" style="font-size:20px;">鹿</text>
+  <circle class="rc-n" cx="620" cy="100" r="36"/>
+  <text class="rc-name" x="620" y="153">唐鹿</text>
+  <text class="rc-role" x="620" y="168">師娘・故人</text>
+  <image href="/images/characters/special208/normal.webp" x="54" y="354" width="72" height="72" preserveAspectRatio="xMidYMin slice" clip-path="url(#rf-c-chao)"/>
+  <circle class="rc-n" cx="90" cy="390" r="36"/>
+  <text class="rc-name" x="90" y="443">晁和</text>
+  <text class="rc-role" x="90" y="458">入門弟子</text>
+  <image href="/images/characters/brother1/normal.webp" x="174" y="354" width="72" height="72" preserveAspectRatio="xMidYMin slice" clip-path="url(#rf-c-b1)"/>
+  <circle class="rc-n" cx="210" cy="390" r="36"/>
+  <text class="rc-name" x="210" y="443">唐布衣</text>
+  <text class="rc-role" x="210" y="458">大師兄</text>
+  <image href="/images/characters/brother2/normal.webp" x="294" y="354" width="72" height="72" preserveAspectRatio="xMidYMin slice" clip-path="url(#rf-c-b2)"/>
+  <circle class="rc-n" cx="330" cy="390" r="36"/>
+  <text class="rc-name" x="330" y="443">唐錚</text>
+  <text class="rc-role" x="330" y="458">二師兄</text>
+  <image href="/images/characters/brother3/normal.webp" x="414" y="354" width="72" height="72" preserveAspectRatio="xMidYMin slice" clip-path="url(#rf-c-b3)"/>
+  <circle class="rc-n" cx="450" cy="390" r="36"/>
+  <text class="rc-name" x="450" y="443">唐陞</text>
+  <text class="rc-role" x="450" y="458">三師兄</text>
+  <image href="/images/characters/brother4/normal.webp" x="534" y="354" width="72" height="72" preserveAspectRatio="xMidYMin slice" clip-path="url(#rf-c-b4)"/>
+  <circle class="rc-n" cx="570" cy="390" r="36"/>
+  <text class="rc-name" x="570" y="443">唐惟元</text>
+  <text class="rc-role" x="570" y="458">四師兄</text>
+  <image href="/images/characters/player/normal.webp" x="654" y="354" width="72" height="72" preserveAspectRatio="xMidYMin slice" clip-path="url(#rf-c-player)"/>
+  <circle class="rc-n" cx="690" cy="390" r="36"/>
+  <text class="rc-name" x="690" y="443">趙活</text>
+  <text class="rc-role" x="690" y="458">外姓弟子</text>
+  <image href="/images/characters/girl_0/normal.webp" x="774" y="354" width="72" height="72" preserveAspectRatio="xMidYMin slice" clip-path="url(#rf-c-ml)"/>
+  <circle class="rc-n" cx="810" cy="390" r="36"/>
+  <text class="rc-name" x="810" y="443">唐默鈴</text>
+  <text class="rc-role" x="810" y="458">千金</text>
+  <image href="/images/characters/special812/normal.webp" x="912" y="64" width="72" height="72" preserveAspectRatio="xMidYMin slice" clip-path="url(#rf-c-shouhong)"/>
+  <circle class="rc-n" cx="948" cy="100" r="36"/>
+  <text class="rc-name" x="948" y="153">唐守鴻</text>
+  <text class="rc-role" x="948" y="168">「佛手香」</text>
+  <image href="/images/characters/special811/normal.webp" x="912" y="354" width="72" height="72" preserveAspectRatio="xMidYMin slice" clip-path="url(#rf-c-shan)"/>
+  <circle class="rc-n" cx="948" cy="390" r="36"/>
+  <text class="rc-name" x="948" y="443">唐衫</text>
+</svg>
 
 - [唐鹿](/ja/people/characters/other10) は [唐中翎](/ja/people/characters/master) の師妹にして妻。[極楽教](/ja/people/factions/elysium-school) の『屍心丹』に中毒して支配されていた間に [唐錚](/ja/people/characters/brother2) を生んだと疑われた。[唐默鈴](/ja/people/characters/girl0) を [趙活](/ja/people/characters/player) に託した後、崖に身を投げた。
 - [唐陞](/ja/people/characters/brother3) は刑場破りの折、まだ掌門就任前の [唐中翎](/ja/people/characters/master) が少年の [唐布衣](/ja/people/characters/brother1)・[唐錚](/ja/people/characters/brother2) を率いて救い出した縁で唐門に入った。
@@ -71,45 +133,8 @@ graph TB
 
 弟子世代どうしの個人間の間柄です。この図には段と世代の対応はありません。
 
-### Mermaid 版
-
-```mermaid
-%%{init: {
-  'flowchart': {
-    'nodeSpacing': 40,
-    'rankSpacing': 60
-  }
-} }%%
-graph LR
-  player((趙活))
-  b1[唐布衣<br>大師兄]
-  b2[唐錚<br>二師兄]
-  b3[唐陞<br>三師兄]
-  b4[唐惟元<br>四師兄]
-  ml[唐默鈴<br>小師妹]
-  chao[晁和]
-  aunt[唐小楼<br>大師姑]
-
-  b1 -.->|黒衣を装い後山で密かに指南| player
-  b2 -->|罵倒しながら世話を焼く| player
-  b3 -->|下山時に本命銭を旅費として贈る| player
-  b4 -->|言い訳の盾にしつつ分け前は折半| player
-  player -->|幼少から世話係・毎晩寝かしつけ| ml
-  ml -->|懐いている| player
-  chao -.->|なりすまし・罪の擦り付け| player
-  aunt -.->|雑役と見下す| player
-  b4 -->|銭を詐取| chao
-  chao -.->|三度の召喚を無視・丹薬を爆発| b2
-```
-
-### SVG 版
-
 <svg viewBox="0 0 920 640" role="img" aria-label="蜀中唐門 弟子世代の間柄図" style="max-width:100%;height:auto;display:block;margin:0 auto;">
   <defs>
-    <marker id="rc-ar-warm" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto"><path d="M0,0 L12,5 L0,10 z" fill="#d98a2b"/></marker>
-    <marker id="rc-ar-neu" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto"><path d="M0,0 L12,5 L0,10 z" fill="#8a8f98"/></marker>
-    <marker id="rc-ar-neg" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto"><path d="M0,0 L12,5 L0,10 z" fill="#d64545"/></marker>
-    <marker id="rc-ar-cov" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto"><path d="M0,0 L12,5 L0,10 z" fill="#4a7dd6"/></marker>
     <clipPath id="rc-c-player"><circle cx="460" cy="300" r="40"/></clipPath>
     <clipPath id="rc-c-b1"><circle cx="150" cy="110" r="40"/></clipPath>
     <clipPath id="rc-c-b2"><circle cx="770" cy="110" r="40"/></clipPath>
@@ -173,8 +198,6 @@ graph LR
   <text class="rc-role" x="405" y="91" text-anchor="end">大師姑</text>
 </svg>
 
-<p class="rc-legend"><span style="color:#d98a2b;">━</span> 情誼　<span style="color:#8a8f98;">━</span> 利害・その他　<span style="color:#d64545;">╌╌</span> 敵意・一方的　<span style="color:#4a7dd6;">╌╌</span> 隠れた関係</p>
-
 - [唐布衣](/ja/people/characters/brother1) は何度も [趙活](/ja/people/characters/player) の背中を忘形篇で打ち、黒衣の者を装って後山で指南した。
 - [唐錚](/ja/people/characters/brother2) は [趙活](/ja/people/characters/player) を「役立たず」「趙氏蠢豚」と罵るが、江陵の千金方に働き口を紹介するなど面倒見はよい。
 - [唐陞](/ja/people/characters/brother3) は志気を失って下山する [趙活](/ja/people/characters/player) に、長年身につけていた本命銭を「複数の師兄の代わり」として旅費に持たせた。
@@ -185,35 +208,47 @@ graph LR
 
 ## 蜀中唐門 — 対外因縁図
 
-```mermaid
-%%{init: {
-  'flowchart': {
-    'nodeSpacing': 40,
-    'rankSpacing': 60
-  }
-} }%%
-graph LR
-  tang((蜀中唐門))
-  dc[点蒼派]
-  ng[南宮世家]
-  song[大宋朝廷]
-  sg[上官世家]
-  shiming[釈明]
-  gz[広州唐門]
-  fs[飛石幇]
-  el[極楽教<br>討滅済]
-
-  dc <-->|宿敵・数十戦| tang
-  ng ---|仲裁・庇護| tang
-  song -.->|刑場破り以来忌憚| tang
-  song -->|弱体化の密命| sg
-  sg -.->|暗中工作| tang
-  shiming -.->|南嵩山の怨恨| tang
-  sg ---|結託| shiming
-  shiming ---|結託| gz
-  fs -.->|石夫人の件の誤解| tang
-  el -.->|討滅戦で唐門重創| tang
-```
+<svg viewBox="0 0 940 590" role="img" aria-label="蜀中唐門 対外因縁図" style="max-width:100%;height:auto;display:block;margin:0 auto;">
+  <line class="rc-e rc-neg" x1="213" y1="140" x2="424" y2="272" marker-start="url(#rc-ar-neg)" marker-end="url(#rc-ar-neg)"/>
+  <text class="rc-lab" x="300" y="190">宿敵・数十戦</text>
+  <line class="rc-e rc-warm" x1="212" y1="300" x2="412" y2="300" marker-end="url(#rc-ar-warm)"/>
+  <text class="rc-lab" x="310" y="288">仲裁・庇護</text>
+  <line class="rc-e rc-neg" x1="213" y1="460" x2="424" y2="330" marker-end="url(#rc-ar-neg)"/>
+  <text class="rc-lab" x="300" y="412">討滅戦で唐門重創 (過去)</text>
+  <line class="rc-e rc-neg" x1="700" y1="140" x2="516" y2="272" marker-end="url(#rc-ar-neg)"/>
+  <text class="rc-lab" x="600" y="190">刑場破り以来忌憚</text>
+  <line class="rc-e rc-neu" x1="760" y1="144" x2="760" y2="276" marker-end="url(#rc-ar-neu)"/>
+  <text class="rc-lab" x="772" y="215" text-anchor="start">弱体化の密命</text>
+  <line class="rc-e rc-neg" x1="698" y1="300" x2="526" y2="300" marker-end="url(#rc-ar-neg)"/>
+  <text class="rc-lab" x="612" y="288">暗中工作</text>
+  <line class="rc-e rc-neg" x1="608" y1="456" x2="496" y2="346" marker-end="url(#rc-ar-neg)"/>
+  <text class="rc-lab" x="590" y="412">南嵩山の怨恨</text>
+  <line class="rc-e rc-neu" x1="748" y1="324" x2="646" y2="454"/>
+  <text class="rc-lab" x="712" y="390">結託</text>
+  <line class="rc-e rc-neu" x1="682" y1="480" x2="788" y2="480"/>
+  <text class="rc-lab" x="735" y="470">結託</text>
+  <line class="rc-e rc-neg" x1="470" y1="114" x2="470" y2="244" marker-end="url(#rc-ar-neg)"/>
+  <text class="rc-lab" x="482" y="185" text-anchor="start">石夫人の件の誤解</text>
+  <circle cx="470" cy="300" r="52" fill="var(--vp-c-bg-soft)" stroke="var(--vp-c-text-2)" stroke-width="2"/>
+  <text class="rc-name" x="470" y="306" style="font-size:16px;">蜀中唐門</text>
+  <rect class="rc-f" x="90" y="98" width="120" height="44"/>
+  <text class="rc-name" x="150" y="125">点蒼派</text>
+  <rect class="rc-f" x="90" y="278" width="120" height="44"/>
+  <text class="rc-name" x="150" y="305">南宮世家</text>
+  <rect class="rc-f" x="90" y="458" width="120" height="44"/>
+  <text class="rc-name" x="150" y="478">極楽教</text>
+  <text class="rc-role" x="150" y="495">討滅済</text>
+  <rect class="rc-f" x="410" y="68" width="120" height="44"/>
+  <text class="rc-name" x="470" y="95">飛石幇</text>
+  <rect class="rc-f" x="700" y="98" width="120" height="44"/>
+  <text class="rc-name" x="760" y="125">大宋朝廷</text>
+  <rect class="rc-f" x="700" y="278" width="120" height="44"/>
+  <text class="rc-name" x="760" y="305">上官世家</text>
+  <rect class="rc-f" x="560" y="458" width="120" height="44"/>
+  <text class="rc-name" x="620" y="485">釈明</text>
+  <rect class="rc-f" x="790" y="458" width="130" height="44"/>
+  <text class="rc-name" x="855" y="485">広州唐門</text>
+</svg>
 
 - [点蒼派](/ja/people/factions/dian-cang-sect) との宿怨は剣聖のだまし討ちに始まり、大小数十戦に及ぶ。衰退期の唐門に挑んだ点蒼剣聖 [無名](/ja/people/characters/special406) を掌門が打ち倒し、[南宮世家](/ja/people/factions/nan-gong-family) の仲裁の下で封剣隠退させた。
 - [大宋](/ja/people/factions/song-dynasty) 朝廷は刑場破り以来唐門を忌憚し、[趙擴](/ja/people/characters/special817) が [上官世家](/ja/people/factions/shang-guan-family) に暗中での弱体化を命じた。上官世家は南嵩山の [釈明](/ja/people/characters/special826)、広州唐門と結託して難を起こした。
@@ -227,7 +262,15 @@ graph LR
 .rc-neu { stroke: #8a8f98; }
 .rc-neg { stroke: #d64545; stroke-dasharray: 6 5; }
 .rc-cov { stroke: #4a7dd6; stroke-dasharray: 6 5; }
+.rc-dash { stroke-dasharray: 6 5; }
 .rc-n { fill: none; stroke: var(--vp-c-divider); stroke-width: 2; }
+.rc-f { fill: var(--vp-c-bg-soft); stroke: var(--vp-c-divider); stroke-width: 1.5; rx: 10; }
+.rc-grp {
+    font-size: 14px;
+    font-weight: 600;
+    text-anchor: middle;
+    fill: var(--vp-c-text-2);
+}
 .rc-lab {
     font-size: 13px;
     text-anchor: middle;
