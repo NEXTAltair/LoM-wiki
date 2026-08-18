@@ -23,7 +23,7 @@ tags:
 | (第一次同盟の後) | 武林第二次同盟：岳飛の北伐 | 十二道の金牌で岳飛が呼び戻され、江湖と朝廷の不和が決定的になる |
 | 二十数年前 | [青城論道](/ja/event/stories/青城論道) | 崆峒・全真・青城の五人が論道。[趙逵](/ja/people/characters/special403)の道心が[火龍仙君](/ja/people/characters/special204)に曲解された道籍の影響を受ける |
 | 約十八～二十年前 | [唐門](/ja/people/factions/tang-men)の刑場破り | [唐中翎](/ja/people/characters/master)が[唐布衣](/ja/people/characters/brother1)・[唐錚](/ja/people/characters/brother2)を率いて[唐陞](/ja/people/characters/brother3)を刑場から救出。以後唐門は朝廷に忌憚される |
-| 約二十年前 | 武林第三次同盟：[決戦極楽教](/ja/event/stories/決戰極樂教) | 盟主[龍淵](/ja/people/characters/special2)が武林を率いて[極楽教](/ja/people/factions/elysium-school)を討伐、旧魔教は滅亡。唐門・嵩山派は共に元気を失う |
+| 約二十年前 | 武林第三次同盟：[決戦極楽教](/ja/event/stories/決戰極樂教) | 盟主[龍淵](/ja/people/characters/special2)が武林を率いて[極楽教](/ja/people/factions/elysium-school)を討伐、旧魔教は滅亡。唐門・嵩山派は共に大きな打撃を受ける |
 | (決戦極楽教の後) | [点蒼派](/ja/people/factions/dian-cang-sect)の唐門への挑戦 | 病を押した[唐中翎](/ja/people/characters/master)が応戦。師娘[唐鹿](/ja/people/characters/other10)が病没 |
 | 十数年前 | [江陵府官道の穀物奪取事件](/ja/event/stories/江陵府官道劫糧案) | 官糧が奪われ、[南宮世家](/ja/people/factions/nan-gong-family)が長年濡れ衣を着せられる |
 | 約十年前 | [錦香宮](/ja/people/factions/jin-xiang-palace)の洞庭移転 | 杏花仙[瑞杏](/ja/people/characters/girl1)が宮殿を弟子入りの礼として献上、閣を挙げて洞庭湖に移り住む |
@@ -51,7 +51,7 @@ tags:
 
 戦いの最終段階では、[唐中翎](/ja/people/characters/master)が毒薬を飲んで力を強引に高め右護法を討ち取ったが後遺症が残り、左護法の[李元棄](/ja/people/characters/special213)は青城の[趙逵](/ja/people/characters/special403)を打ち破って逃亡し、盟主[龍淵](/ja/people/characters/special2)は天觴剣で万悪の首魁「快活王」こと[李仁友](/ja/people/characters/other7)を誅殺したものの戦後行方をくらませた――義兄弟である金国の翼王[完顔珣](/ja/people/characters/special819)が援軍の約束を違えて傍観していたことを知り、責めには行ったが手を下せず、自ら右腕を切り落として詫びとし、身分を隠して[丐幇](/ja/people/factions/beggar-gang)の中に紛れ込んだ。
 
-この戦いで唐門と嵩山は共に元気を失ったが、嵩山はなお世人から尊敬されたのに対し、唐門は皆から叩かれる犬扱いされるようになった。
+この戦いで唐門と嵩山は共に大きな打撃を受けたが、嵩山はなお世人から尊敬されたのに対し、唐門は皆から叩かれる犬扱いされるようになった。
 
 ## 決戦極楽教前後の伏線と余波
 
