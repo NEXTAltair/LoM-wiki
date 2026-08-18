@@ -19,7 +19,7 @@ Time markers keep the source's relative phrasing ("about N years ago") rather th
 | Relative Time | Event | Summary |
 | --- | --- | --- |
 | 1125-1127 | Jingkang Incident, retreat to Lin'an | [Great Song](/en/people/factions/song-dynasty) loses the Central Plains and the court retreats south, becoming neighbors with the Jin Dynasty and Western Xia |
-| (shortly after the Jingkang Incident) | 1st martial alliance: relief of Bianliang | Alliance leader Nangong Zhi fights for two years, but Bianliang still falls |
+| (shortly after the Jingkang Incident) | 1st martial alliance: relief of Bianliang | Alliance leader Nangong Zhi fights for two years, but Bianliang still falls; the court's threats afterward mark the start of jianghu's break with the throne |
 | (after the 1st alliance) | 2nd martial alliance: Yue Fei's northern campaign | The twelve gold plaques recall Yue Fei; jianghu's break with the court becomes final |
 | about 20+ years ago | [Qingcheng Discourse](/en/event/stories/青城論道) | Five masters from Kongtong, Quanzhen and Qingcheng debate philosophy; [Zhao Kui](/en/people/characters/special403)'s heart is swayed by [Huo Long Xian Jun](/en/people/characters/special204)'s distorted teachings |
 | about 18-20 years ago | [Tangmen](/en/people/factions/tang-men)'s execution-ground rescue | [Tang Zhong Ling](/en/people/characters/master) leads [Tang Buyi](/en/people/characters/brother1) and [Tang Zheng](/en/people/characters/brother2) to save [Tang Sheng](/en/people/characters/brother3) from execution; Tangmen is marked by the court from then on |
@@ -39,7 +39,9 @@ According to [Nan Gong Heng](/en/people/characters/special104), speaking at a bi
 
 ### 1st: the relief of Bianliang
 
-Alliance leader Nangong Zhi led the martial world to Bianliang to hold back the Jin army, fighting for two full years. Emperors Qinzong and Huizong were still captured and Bianliang fell; seeing the cause lost, Nangong Zhi apologized to his allies, resigned as leader, and disbanded the alliance. After Emperor Gaozong took the throne at Yingtianfu, he tried to bring jianghu's fighters under court control, ordering Nangong Zhi to reorganize his forces under the command of Military Commissioner Liu Guangshi — and threatened to send troops against him if he refused. This is where the rift between jianghu and the court began.
+Alliance leader Nangong Zhi, together with two of his granduncles, led the martial world to Bianliang to hold back the Jin army. The fighting dragged on for two full years, and many who went never came home. Even so, Emperors Qinzong and Huizong were captured and Bianliang fell; seeing the cause lost, Nangong Zhi apologized to his allies, resigned as leader, and disbanded the alliance. The fighters who answered the call drew no court stipend and sought no rank — they went purely out of loyalty to country and people. Yet after Emperor Gaozong (formerly Prince Kang) took the throne at Yingtianfu, he ordered Nangong Zhi to reorganize his forces under Military Commissioner Liu Guangshi, threatening that refusal would bring troops to raid their homes, seize their livestock as army rations, and carry off their wives and daughters to reward the soldiers. This is where the rift between jianghu and the court began.
+
+The gaudy shoulder armor worn by [Nangong Family](/en/people/factions/nan-gong-family) members, and the Phoenix Armor [Nan Gong Shen](/en/people/characters/special102) sometimes wears, both trace back to armor Nangong Zhi had forged for this battle at Bianliang, deliberately garish so as to intimidate the Jin army from a distance.
 
 ### 2nd: Yue Fei's northern campaign
 
