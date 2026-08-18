@@ -22,12 +22,14 @@ Time markers keep the source's relative phrasing ("about N years ago") rather th
 | (shortly after the Jingkang Incident) | 1st martial alliance: relief of Bianliang | Alliance leader Nangong Zhi fights for two years, but Bianliang still falls; the court's threats afterward mark the start of jianghu's break with the throne |
 | (after the 1st alliance) | 2nd martial alliance: Yue Fei's northern campaign | The twelve gold plaques recall Yue Fei; jianghu's break with the court becomes final |
 | about 20+ years ago | [Qingcheng Discourse](/en/event/stories/青城論道) | Five masters from Kongtong, Quanzhen and Qingcheng debate philosophy; [Zhao Kui](/en/people/characters/special403)'s heart is swayed by [Huo Long Xian Jun](/en/people/characters/special204)'s distorted teachings |
+| (while Xiahou Lan was still a child) | [Snow Mountain Sect Extermination](/en/event/stories/雪山派滅門) | The Kongtong Sect wipes out the Snow Mountain Sect; the sect leader's only daughter, Xiahou Mei, is abducted and renamed [Xiahou Lan](/en/people/characters/girl5) |
 | about 18-20 years ago | [Tangmen](/en/people/factions/tang-men)'s execution-ground rescue | [Tang Zhong Ling](/en/people/characters/master) leads [Tang Buyi](/en/people/characters/brother1) and [Tang Zheng](/en/people/characters/brother2) to save [Tang Sheng](/en/people/characters/brother3) from execution; Tangmen is marked by the court from then on |
 | about 20 years ago | 3rd martial alliance: [The Battle of Ji Le Teachings](/en/event/stories/決戰極樂教) | Alliance leader [Long Yuan](/en/people/characters/special2) leads jianghu against the [Blissful Sect](/en/people/factions/elysium-school); the old cult is destroyed, but Tangmen and the Songshan Sect are both left crippled |
 | (after the Battle of Ji Le Teachings) | [Point Cang Faction](/en/people/factions/dian-cang-sect) challenges Tangmen | An ailing [Tang Zhong Ling](/en/people/characters/master) fights the challenge; Tangmen's matriarch [Tang Lu](/en/people/characters/other10) dies of illness |
 | 10+ years ago | [The Robbery of Grain on the Official Road in Jiangling Prefecture](/en/event/stories/江陵府官道劫糧案) | Government grain is stolen and the [Nangong Family](/en/people/factions/nan-gong-family) is falsely blamed for years |
 | about 10 years ago | [Jinxiang Palace](/en/people/factions/jin-xiang-palace) relocates to Dongting | Apricot Immortal [Rui Xing](/en/people/characters/girl1) offers her palace as a discipleship gift and the whole hall moves to Lake Dongting |
 | some years to about a decade after the Blissful Sect's fall | Baifengdong Rebellion (event page not yet translated) | The fugitive Left Enforcer resurfaces as "Li Yuanqi" and raises an army in Chenzhou; he is eventually killed |
+| (around the same time as the Baifengdong Rebellion) | [The Yue Army Tally](/en/event/stories/岳家軍兵符) | The secret of the tally the Ye family guarded for three generations comes to light; the family is wiped out and the siblings are orphaned |
 
 ## The Jingkang Incident and the retreat south
 
@@ -44,6 +46,10 @@ Alliance leader Nangong Zhi, together with two of his granduncles, led the marti
 ### 2nd: Yue Fei's northern campaign
 
 [Marshal Yue](https://zh.wikipedia.org/zh-tw/%E5%B2%B3%E9%A3%9E) emerged and petitioned to lead a northern campaign. Sharing wine with jianghu's strategist Zeng Wen on a river journey, he asked him to come out of seclusion and help reclaim the lost territory. With Zeng Wen and the Red Cloak King at the head — one commanding the scholars, the other the martial world — they followed Marshal Yue in retaking lost ground, until the twelve gold plaques recalled and ultimately killed this loyal general. Zeng Wen went to remonstrate with the Marshal and vanished along the way; the Red Cloak King retreated into monastic life under the Buddhist name Chun Mian. Jianghu swore never to trust the court again.
+
+<br>
+
+Yue Fei's death would set another tragedy in motion decades later — see [The Yue Army Tally](/en/event/stories/岳家軍兵符).
 
 ### 3rd: The Battle of Ji Le Teachings
 
