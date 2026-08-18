@@ -53,7 +53,7 @@ In the final stage of the battle, [Tang Zhong Ling](/en/people/characters/master
 
 Both Tangmen and Songshan came out of this battle crippled — but while Songshan remained respected, Tangmen became the world's whipping boy.
 
-## Before and after the Battle of Ji Le Teachings
+## Other events
 
 - **[Qingcheng Discourse](/en/event/stories/青城論道)** (20-some years ago): Kongtong's [Huo Long Xian Jun](/en/people/characters/special204), Quanzhen's [Qiu Chuji](/en/people/characters/special209) and [Hao Datong](/en/people/characters/other4), and Qingcheng's [Zou Bo](/en/people/characters/special201) and [Zhao Kui](/en/people/characters/special403) gathered to debate. Huo Long Xian Jun's distorted teaching later became the root cause of Zhao Kui's fall into corruption as one of the Mud Sect's kings.
 - **[Tangmen](/en/people/factions/tang-men)'s execution-ground rescue**: before becoming sect leader, [Tang Zhong Ling](/en/people/characters/master) led young [Tang Buyi](/en/people/characters/brother1) and [Tang Zheng](/en/people/characters/brother2) to save [Tang Sheng](/en/people/characters/brother3), who had offended a noble and was about to be executed. It became a legend of chivalry, but it also left Tangmen marked as an enemy of the court for over a decade — the root cause of the [Great Song](/en/people/factions/song-dynasty) emperor later ordering the [Shangguan Family](/en/people/factions/shang-guan-family) to weaken Tangmen.

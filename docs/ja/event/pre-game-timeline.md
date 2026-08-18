@@ -53,7 +53,7 @@ tags:
 
 この戦いで唐門と嵩山は共に大きな打撃を受けたが、嵩山はなお世人から尊敬されたのに対し、唐門は皆から叩かれる犬扱いされるようになった。
 
-## 決戦極楽教前後の伏線と余波
+## その他の出来事
 
 - **[青城論道](/ja/event/stories/青城論道)**(二十数年前)：崆峒の[火龍仙君](/ja/people/characters/special204)、全真の[丘處機](/ja/people/characters/special209)、[郝大通](/ja/people/characters/other4)、青城の[鄒博](/ja/people/characters/special201)、[趙逵](/ja/people/characters/special403)が一堂に会し論道した。この場で[火龍仙君](/ja/people/characters/special204)に道籍を曲解された[趙逵](/ja/people/characters/special403)は、その後の決戦極楽教で左護法の[李元棄](/ja/people/characters/special213)の魔功に敗れたことをきっかけに性情がいっそう残忍になり、最終的に[泥教](/ja/people/factions/mud-school)の地獄道法王に堕落した。
 - **[唐門](/ja/people/factions/tang-men)の刑場破り**：掌門就任前の[唐中翎](/ja/people/characters/master)が、少年の[唐布衣](/ja/people/characters/brother1)・[唐錚](/ja/people/characters/brother2)を率いて、権貴に罪を得て斬首されかけていた[唐陞](/ja/people/characters/brother3)を刑場から救い出した。これは美談だが、以後十数年にわたり唐門は朝廷に目の敵にされ、[大宋](/ja/people/factions/song-dynasty)皇帝が[上官世家](/ja/people/factions/shang-guan-family)に唐門弱体化を命じる遠因となった。
