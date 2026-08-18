@@ -58,9 +58,6 @@ tags:
 - **[青城論道](/ja/event/stories/青城論道)**(二十数年前)：崆峒の[火龍仙君](/ja/people/characters/special204)、全真の[丘處機](/ja/people/characters/special209)、[郝大通](/ja/people/characters/other4)、青城の[鄒博](/ja/people/characters/special201)、[趙逵](/ja/people/characters/special403)が一堂に会し論道した。この場で[火龍仙君](/ja/people/characters/special204)に道籍を曲解された[趙逵](/ja/people/characters/special403)は、その後の決戦極楽教で左護法の[李元棄](/ja/people/characters/special213)の魔功に敗れたことをきっかけに性情がいっそう残忍になり、最終的に[泥教](/ja/people/factions/mud-school)の地獄道法王に堕落した。
 - **[唐門](/ja/people/factions/tang-men)の刑場破り**：掌門就任前の[唐中翎](/ja/people/characters/master)が、少年の[唐布衣](/ja/people/characters/brother1)・[唐錚](/ja/people/characters/brother2)を率いて、権貴に罪を得て斬首されかけていた[唐陞](/ja/people/characters/brother3)を刑場から救い出した。これは美談だが、以後十数年にわたり唐門は朝廷に目の敵にされ、[大宋](/ja/people/factions/song-dynasty)皇帝が[上官世家](/ja/people/factions/shang-guan-family)に唐門弱体化を命じる遠因となった。
 - **[点蒼派](/ja/people/factions/dian-cang-sect)の唐門への挑戦**：決戦極楽教の後、病を押した[唐中翎](/ja/people/characters/master)が挑んできた[点蒼派](/ja/people/factions/dian-cang-sect)に応戦し、[無名](/ja/people/characters/special406)(点蒼剣聖)を打ち倒したが唐門側も大きな痛手を負った。[南宮世家](/ja/people/factions/nan-gong-family)家主の仲裁により、掌門は剣聖の命を取らず封剣隠退させることで点蒼の撤退と引き換えた。同じ頃、師娘[唐鹿](/ja/people/characters/other10)が世を去った。
-- **[江陵府官道の穀物奪取事件](/ja/event/stories/江陵府官道劫糧案)**(十数年前)：かつて極楽教が[南宮世家](/ja/people/factions/nan-gong-family)の裏切り者南宮禹に命じて穀物を奪わせたと伝わる事件。事が露見して南宮禹は自害し、[南宮世家](/ja/people/factions/nan-gong-family)は長年濡れ衣を着せられた。真相はのちに[趙活](/ja/people/characters/player)と[唐布衣](/ja/people/characters/brother1)によって明らかにされる。
-- **[錦香宮](/ja/people/factions/jin-xiang-palace)の洞庭移転**(約十年前)：もとは錦香閣といったが、杏花仙[瑞杏](/ja/people/characters/girl1)が宮殿を弟子入りの礼として献上し、閣を挙げて洞庭湖に移り住んだ。
-- **[白風峒変乱](/ja/event/stories/白風峒變亂)**(極楽教滅亡後、数年～十年の間。この十年で江湖最大の事件)：逃亡していた極楽左使が「[李元棄](/ja/people/characters/special213)」と名乗り、郴州で民心を煽って挙兵。最終的に[唐布衣](/ja/people/characters/brother1)、[解無塵](/ja/people/characters/special808)、[夏侯蘭](/ja/people/characters/girl5)ら五人の江湖侠士の手で討ち取られた。
 
 ## 備考
 
