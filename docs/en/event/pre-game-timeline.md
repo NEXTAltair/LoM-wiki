@@ -44,7 +44,7 @@ Alliance leader Nangong Zhi, together with two of his granduncles, led the marti
 
 ### 2nd: Yue Fei's northern campaign
 
-[Marshal Yue](https://zh.wikipedia.org/zh-tw/%E5%B2%B3%E9%A3%9E) emerged and petitioned to lead a northern campaign. Sharing wine with jianghu's strategist Master Zeng Wen on a river journey, he asked him to come out of seclusion and help reclaim the lost territory. With Master Zeng Wen and the Red Cloak King at the head — one commanding the scholars, the other the martial world — they followed Marshal Yue in retaking lost ground, until the twelve gold plaques recalled and ultimately killed this loyal general. Master Zeng Wen went to remonstrate with the Marshal and vanished along the way; the Red Cloak King retreated into monastic life under the Buddhist name Chun Mian. Jianghu swore never to trust the court again.
+[Marshal Yue](https://zh.wikipedia.org/zh-tw/%E5%B2%B3%E9%A3%9E) emerged and petitioned to lead a northern campaign. Sharing wine with jianghu's strategist Zeng Wen on a river journey, he asked him to come out of seclusion and help reclaim the lost territory. With Zeng Wen and the Red Cloak King at the head — one commanding the scholars, the other the martial world — they followed Marshal Yue in retaking lost ground, until the twelve gold plaques recalled and ultimately killed this loyal general. Zeng Wen went to remonstrate with the Marshal and vanished along the way; the Red Cloak King retreated into monastic life under the Buddhist name Chun Mian. Jianghu swore never to trust the court again.
 
 ### 3rd: The Battle of Ji Le Teachings
 
