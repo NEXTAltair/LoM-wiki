@@ -22,7 +22,7 @@ tags:
 | (靖康の変の後まもなく) | 武林第一次同盟：汴梁救援 | 盟主南宮智が2年間戦うも汴梁は陥落。事後の朝廷の脅しが江湖と朝廷の不和の始まりとなる |
 | (第一次同盟の後) | 武林第二次同盟：岳飛の北伐 | 十二道の金牌で岳飛が呼び戻され、江湖と朝廷の不和が決定的になる |
 | 二十数年前 | [青城論道](/ja/event/stories/青城論道) | 崆峒・全真・青城の五人が論道。[趙逵](/ja/people/characters/special403)が[火龍仙君](/ja/people/characters/special204)に道籍を曲解され、後に地獄道法王へ堕落する一因となる |
-| (夏侯蘭がまだ幼い頃) | [雪山派滅門](/ja/event/stories/雪山派滅門) | 崆峒派が雪山派を滅門。掌門の一人娘の夏侯梅が攫われ[夏侯蘭](/ja/people/characters/girl5)に改名させられる |
+| (夏侯蘭がまだ幼い頃) | [雪山派滅門](/ja/people/factions/mount-snow-sect#滅門) | 崆峒派が雪山派を滅門。掌門の一人娘の夏侯梅が攫われ[夏侯蘭](/ja/people/characters/girl5)に改名させられる |
 | 約十八～二十年前 | [唐門](/ja/people/factions/tang-men)の刑場破り | [唐中翎](/ja/people/characters/master)が[唐布衣](/ja/people/characters/brother1)・[唐錚](/ja/people/characters/brother2)を率いて[唐陞](/ja/people/characters/brother3)を刑場から救出。以後唐門は朝廷に忌憚される |
 | 約二十年前 | 武林第三次同盟：[決戦極楽教](/ja/event/stories/決戰極樂教) | 盟主[龍淵](/ja/people/characters/special2)が武林を率いて[極楽教](/ja/people/factions/elysium-school)を討伐、旧魔教は滅亡。唐門・嵩山派は共に大きな打撃を受ける |
 | (決戦極楽教の後) | [点蒼派](/ja/people/factions/dian-cang-sect)の唐門への挑戦 | 病を押した[唐中翎](/ja/people/characters/master)が応戦。師娘[唐鹿](/ja/people/characters/other10)が病没 |
