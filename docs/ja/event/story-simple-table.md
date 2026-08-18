@@ -455,7 +455,6 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
 			[小梅、唐門を頼る](/ja/event/simple/2-10-3-小梅投靠)<br>
-			[小梅が訪ねてくる](/ja/event/simple/2-10-3-小梅上門)<br>
 			[虞小梅がらみのランダムイベント](/ja/event/simple/2-10-3-虞小梅相關)<br>
         </MarkdownWrapper>
     </td>
