@@ -27,14 +27,10 @@ tags:
 				<MarkdownWrapper>
                 [遊戲開局](/event/simple/1-04-1-遊戲開局)<br> 
 				[第一晚](/event/simple/1-04-1-第一晚)<br> 
-				[初遇大師兄](/event/simple/1-04-1-初識唐布衣)<br>
-				[初遇二師兄](/event/simple/1-04-1-初識唐錚)<br>
-				[初遇四師兄](/event/simple/1-04-1-初識唐惟元)<br>
-				[小師妹練操](/event/simple/1-04-1-小師妹練操)<br>
-				[大師兄找樂子](/event/simple/1-04-1-大師兄找樂子)<br>
-				[後山推人](/event/simple/1-04-1-後山推人)<br>
-                [同門關懷](/event/simple/1-04-1-同門關懷)<br>
+                [各設施初始事件](/event/simple/1-04-1-各設施初始事件)<br>
+				[後山推人](/event/simple/1-04-1-後山推人)<br>                
                 [偷懶怪](/event/simple/1-04-1-偷懶怪)<br>
+                [龍湘霸王餐](/event/simple/1-04-1-龍湘霸王餐)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -52,8 +48,8 @@ tags:
 			<td>五月</td>
 			<td>
 				<MarkdownWrapper>
-				[貢獻評點](/event/simple/1-05-1-貢獻評點)<br>
-                運功療傷<br>
+				    [貢獻評點](/event/simple/1-05-1-貢獻評點)<br>
+                    [運功療傷](/event/simple/1-05-1-運功療傷)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -157,7 +153,7 @@ tags:
 				<MarkdownWrapper>
 				[捉拿譚霸刀](/event/simple/1-11-1-捉拿譚霸刀)<br>
 				[初到江陵](/event/simple/1-11-1-初到江陵)<br>
-				[初到江陵](/event/simple/1-11-1-啟程赴壽宴)<br>
+				[啟程赴宴](/event/simple/1-11-1-啟程赴壽宴)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -222,8 +218,9 @@ tags:
     <td colspan = 3 style="text-align: center">
         <MarkdownWrapper>
             [留學生來訪](/event/simple/2-03-1-留學生來訪)<br>
+            [留學生衝突](/event/simple/2-03-1-留學生衝突)<br>
+            唐門例會<br>
         </MarkdownWrapper>
-        唐門例會<br>
     </td>
 </tr>
 <tr>
@@ -251,6 +248,7 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
 			[衣服遭竊](/event/simple/2-04-1-衣服遭竊)<br>
+            [季試消息](/event/simple/2-04-1-季試消息)<br>
 			[奪魄森林事件集](/event/simple/2-04-1-奪魄森林事件集)<br>
 			[練功分心](/event/simple/2-04-1-練功分心)<br>
 			[崆峒搶劫](/event/simple/2-04-1-崆峒搶劫)<br>
@@ -267,7 +265,7 @@ tags:
     <td colspan = 3 style="text-align: center">
         <MarkdownWrapper>
             [多人拜師](/event/simple/2-05-1-多人拜師)<br>
-            [唐門例會](/event/simple/2-05-1-多人拜師)<br>
+            唐門例會<br>
 			[峨嵋狄傲](/event/simple/2-05-1-峨嵋狄傲)<br>
             [溪邊玩水](/event/simple/2-05-1-溪邊玩水)<br>
         </MarkdownWrapper>
@@ -408,7 +406,7 @@ tags:
 </tr>
 
 <tr>
-    <td rowspan = 2 style="text-align: center">十</td>
+    <td rowspan = 3 style="text-align: center">十</td>
     <td style="text-align: center">上</td>
     <td style="text-align: center">
         <MarkdownWrapper>
@@ -433,7 +431,11 @@ tags:
 </tr>
 <tr>
     <td style="text-align: center">中</td>
-    <td style="text-align: center">-</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+            [雲裳重逢](/event/simple/2-10-2-雲裳重逢)<br>
+		</MarkdownWrapper>
+    </td>
     <td colspan = 2 style="text-align: center">
         <MarkdownWrapper>
             [四師兄江陵回歸](/event/simple/2-10-2-四師兄江陵回歸)<br>
@@ -447,6 +449,17 @@ tags:
             [指指點點](/event/simple/2-10-2-指指點點)<br>
 		</MarkdownWrapper>        
     </td>
+</tr>
+
+<tr>
+    <td style="text-align: center">下</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+            [小梅投靠](/event/simple/2-10-3-小梅投靠)<br>
+		</MarkdownWrapper>
+    </td>
+    <td colspan = 2 style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
 </tr>
 
 <tr>
@@ -664,22 +677,28 @@ tags:
 				</MarkdownWrapper>
 			</td>
 			<td>
-                兄妹對決
+                <MarkdownWrapper>
+				    [兄妹對決](/event/simple/3-07-3-兄妹對決)<br>
+				</MarkdownWrapper>
             </td>
 		</tr>
 		<tr>
 			<td>八月</td>
 			<td>
                 <MarkdownWrapper>
-				唐門例會：[四師兄辭別](/event/detailed_description/3-08-1-四師兄遠遊經商)
+				    唐門例會：[四師兄辭別](/event/detailed_description/3-08-1-四師兄遠遊經商)
                 </MarkdownWrapper>
 			</td>
 			<td>
-				大會請帖<br>
+                <MarkdownWrapper>
+                    [大會請帖](/event/simple/3-08-2-大會請帖)<br>
+				    [邀請葉雲舟](/event/simple/3-08-2-邀請葉雲舟)<br>
+                </MarkdownWrapper>
 			</td>
 			<td>
-                邀請葉雲舟<br>
-                邀請夏侯蘭<br>
+                <MarkdownWrapper>
+                    [邀請夏侯蘭](/event/simple/3-08-3-邀請夏侯蘭)<br>
+                </MarkdownWrapper>
             </td>
 		</tr>
 		<tr>
@@ -700,7 +719,7 @@ tags:
                 龍湘夜遊<br>
 			</td>
 			<td>
-				人間道<br>
+				溫夫人託付<br>
 				武林大會<br>
                 大會歸途<br>
 			</td>
@@ -719,7 +738,7 @@ tags:
 <tr>
   <th rowspan = 2 style="text-align: center">月</th>
   <th rowspan = 2 style="text-align: center">旬</th>
-  <th rowspan = 2 style="text-align: center">無可救藥</th>
+  <th rowspan = 2 style="text-align: center">無可救藥<br>(Demo)</th>
   <th colspan = 2 style="text-align: center">不成立西武林</th>
   <th colspan = 2 style="text-align: center">成立西武林</th>
 </tr>
@@ -748,6 +767,7 @@ tags:
           失魂醒轉<br>
           回到唐門<br>
           門人辭別<br>
+          [接風四師兄](/event/simple/3-11-1-接風四師兄)<br>
       </MarkdownWrapper>    
   </td>
 </tr>
@@ -902,9 +922,11 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
-    後山切磋<br>
-    劍聖傳承<br>
-    探訪戰友<br>
+      <MarkdownWrapper>
+          後山切磋<br>
+          [劍聖傳承](/event/simple/4-02-3-劍聖傳承)<br>
+          探訪戰友<br>
+      </MarkdownWrapper>    
   </td>
 </tr>
 
