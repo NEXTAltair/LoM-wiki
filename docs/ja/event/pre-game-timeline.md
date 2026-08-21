@@ -64,7 +64,7 @@ tags:
 - **[青城論道](/ja/event/stories/青城論道)**(二十数年前)：崆峒の[火龍仙君](/ja/people/characters/special204)、全真の[丘處機](/ja/people/characters/special209)、[郝大通](/ja/people/characters/other4)、青城の[鄒博](/ja/people/characters/special201)、[趙逵](/ja/people/characters/special403)が一堂に会し論道した。この場で[火龍仙君](/ja/people/characters/special204)に道籍を曲解された[趙逵](/ja/people/characters/special403)は、その後の決戦極楽教で左護法の[李元棄](/ja/people/characters/special213)の魔功に敗れたことをきっかけに性情がいっそう残忍になり、最終的に[泥教](/ja/people/factions/mud-school)の地獄道法王に堕落した。
 - **[唐門](/ja/people/factions/tang-men)の刑場破り**：掌門就任前の[唐中翎](/ja/people/characters/master)が、少年の[唐布衣](/ja/people/characters/brother1)・[唐錚](/ja/people/characters/brother2)を率いて、権貴に罪を得て斬首されかけていた[唐陞](/ja/people/characters/brother3)を刑場から救い出した。これは美談だが、以後十数年にわたり唐門は朝廷に目の敵にされ、[大宋](/ja/people/factions/song-dynasty)皇帝が[上官世家](/ja/people/factions/shang-guan-family)に唐門弱体化を命じる遠因となった。
 - **[点蒼派](/ja/people/factions/dian-cang-sect)の唐門への挑戦**：決戦極楽教の直後、その弱り目につけこんで挑んできた[点蒼派](/ja/people/factions/dian-cang-sect)に、後遺症を抱えたままの[唐中翎](/ja/people/characters/master)が応戦した。戦いは意外なほど長引き、その最中に師娘[唐鹿](/ja/people/characters/other10)が幼い[唐默鈴](/ja/people/characters/girl0)を残して世を去った。掌門は[無名](/ja/people/characters/special406)(点蒼剣聖)を打ち倒したが唐門の痛手も大きく、[南宮世家](/ja/people/factions/nan-gong-family)家主の仲裁で剣聖を封剣隠退させ、点蒼の撤退と引き換えた。
-    - [唐默鈴](/ja/people/characters/girl0)の列伝(母の死後十年間の折り鶴)と第一年時点の推定15歳から、師娘の死は開幕の約十年前。つまり戦いは決戦極楽教の直後から約十年続き、[趙活](/ja/people/characters/player)の入門と師娘の臨終の託しもこの間にあたる。
+    - [唐默鈴](/ja/people/characters/girl0)の列伝(母の死後十年間の折り鶴)と第一年時点の推定15歳から、師娘の死は開幕の約十年前。つまり戦いは決戦極楽教の直後から約十年続き、[趙活](/ja/people/characters/player)の入門もこの間にあたる。師娘は死の間際、小師妹の世話を趙活に託している。
 
 ## 備考
 
