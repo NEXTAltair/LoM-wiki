@@ -181,7 +181,7 @@ event/simple/2-08-1-江陵傳聞.md	REWROTE	0f9112c3472e9d3f72703e601e1d33fb0e14
 event/simple/2-08-1-馳援南宮.md	OK	02b9d61398bbb1b781cb73d26ccef42330fc6e8f824a2c3dd79739e7cfaea9ea
 event/simple/2-08-2-唐門報信.md	REWROTE	9ac54e2e9b430ec5c9d65d3c443bcce231f181bf724ec25b2fc32726de5ff002
 event/simple/2-08-2-唐門戰後.md	REWROTE	5f60bc230b6170291403e3386a6a9c73d1a08e6c7e8612a3bc18cdd45973a1da
-event/simple/2-08-2-唐門迎敵.md	REWROTE	47a689e39943e821bb13157408e0780dfaa7c22ee1f32db53fe376c20146fa06
+event/simple/2-08-2-唐門迎敵.md	REWROTE	5edf9fabbd6a9625932b1f1715c4ed26e49a800f44c7d8d5e77a37ec9eb1af32
 event/simple/2-08-2-破廟密謀.md	REWROTE	13a029257eb17f704c2da1dad02254c1b92f22add880396bdad60d42baa95c1b
 event/simple/2-08-2-重傷夢境.md	REWROTE	df9edc5a7e38ab391214d96368b734d4085034ece6d8e9aeba933f9c1cc3e948
 event/simple/2-08-3-初入上清宮.md	OK	54752787cbc8034c5464c37d4125c936e7624721162d07a8ce21ac4e4f233c63
@@ -221,7 +221,7 @@ event/simple/2-10-3-虞小梅相關.md	OK	2955ee91946d0b8532928767022efbbb7fb436
 event/simple/2-11-1-雲裳倒地.md	OK	39cd4cd41b50fe605b3dc377a1884ebc87f1963692427cb21498dbb69b6d1012
 event/simple/2-11-3-趙逵上山.md	OK	df4bb6adb02c60d412b039026a39a6fdadb3257d1ff045999a2704e1bf6289aa
 event/simple/2-11-3-逃離青城.md	OK	85a73b41b6e4f57530f0c92c8b37965131282b4d5ef6107dfef7f08abb79a2e9
-event/simple/2-11-3-青城段考.md	OK	abfd5187c132ca634b2ea17403b6a50e0c06540842b336b2658123903aa8c4e8
+event/simple/2-11-3-青城段考.md	OK	1d345ff5e4973cabb90d1a6805005dafe8133ba3af5ede0647eee548961ec47e
 event/simple/2-12-1-大師兄刺金行.md	OK	49c512a515de139530262d0b259fa9a664e781e9f387871df1474aa15bafb940
 event/simple/2-12-1-葉雲舟歸來.md	REWROTE	7cbbf4a722d20428f49f53419a2913371569accb3b975c9a901c47c0dc9b2585
 event/simple/2-12-1-葉雲舟還錢.md	REWROTE	3196099e7caf13879ad2925ce1926e07fe91b5332756104e626a8808bd4f0aa9
@@ -618,4 +618,4 @@ system/training/train-01.md	OK	4c967cc0e8466b7b8d5f8f2e29819e1dfac84e40708af061b
 wiki-list.md	OK	10e0b23b38d54325653b6d56e9ce408d62b8a9221fbb2ef7c55a4b4d78159d83
 event/simple/3-09-3-武英殿修練.md	REWROTE	59ebc11a89fe1ad541c7ae33760f1d1989bfeaef9b3458ab5ce6a5dcc60e9f2c
 event/simple/3-09-3-錦香宮事件集.md	REWROTE	8dde3ece629017194e4b9d0c53c755bb8b1159496e532aa4c4cdda0d32aa7d86
-system/develop-list.md	REWROTE	3f31027f9831265e748126192f40c34476d99c654f15db6e2c3fb3d447752287
+system/develop-list.md	REWROTE	b19f259d30d7b4cf5278c25dcf6c7c3736b5bb80f128fed7603c979c111ae531
