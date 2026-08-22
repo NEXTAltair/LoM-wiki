@@ -53,7 +53,7 @@ tags:
     <td style="text-align: center">9</td>
     <td style="text-align: center">10</td>
     <td rowspan=8 style="text-align: center">初始</td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8></td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-爆擊骰子</td>
@@ -173,7 +173,7 @@ tags:
     <td style="text-align: center">45</td>
     <td style="text-align: center">50</td>
     <td rowspan=8 style="text-align: center">初始</td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8></td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-爆擊骰子</td>
@@ -297,7 +297,7 @@ tags:
         <li>🚩<MarkdownWrapper>[客棧線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，<MarkdownWrapper>[回歸唐門](/event/simple/2-10-1-回歸唐門)</MarkdownWrapper>中獲得。<br></li>
         <li><MarkdownWrapper>[葉雲裳結緣線](/event/pursuit/girl2)</MarkdownWrapper>，<MarkdownWrapper>[谷底生活](/event/simple/3-05-1-谷底生活)</MarkdownWrapper>時<br>【🎲＜50 古老的兵器殘骸】<br>後獲得。<br></li>
     </td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8></td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-爆擊骰子</td>
@@ -420,7 +420,7 @@ tags:
     <td rowspan=8>
         <li>🚩<MarkdownWrapper>[葉雲舟同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>，<br>大會後客棧觸發嶺南派劇情，<br>葉雲舟好感≥40獲得。<br></li>
     </td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8></td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-備揍</td>
@@ -542,7 +542,7 @@ tags:
     <td rowspan=7>
         <li>🚩<MarkdownWrapper>[無可救藥線](/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>，月會選擇<br>投靠魔教、不是空穴來風、<br>我認識劉顎，即可獲得。<br>離開無可救藥線後消失。<br></li>
     </td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7></td>
   </tr>
   <tr>
     <td style="text-align: center">戰役-近戰傷害</td>
@@ -649,7 +649,7 @@ tags:
     <td rowspan=7>
         <li>虞小梅結緣相關，<br>v1.0.500.13尚未解鎖。</li>
     </td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7></td>
   </tr>
   <tr>
     <td style="text-align: center">戰役-近戰傷害</td>
@@ -756,7 +756,7 @@ tags:
     <td rowspan=7>
         <li><MarkdownWrapper>[青城醒轉](/event/simple/2-08-3-青城醒轉)</MarkdownWrapper>時道德＜40，選擇<br>翻箱倒櫃，再【🎲＜66 錢?】<br>後獲得。</li>
     </td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7></td>
   </tr>
   <tr>
     <td style="text-align: center">戰役-近戰傷害</td>
@@ -883,10 +883,10 @@ tags:
     <td style="text-align: center">23</td>
     <td style="text-align: center">25</td>
     <td rowspan=7 style="text-align: center">初始</td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7></td>
   </tr>
   <tr>
-    <td style="text-align: center">戰役-門人血量</td>
+    <td style="text-align: center">戰役-全體血量</td>
     <td style="text-align: center">-</td>
     <td style="text-align: center">5</td>
     <td style="text-align: center">10</td>
@@ -989,7 +989,7 @@ tags:
     <td style="text-align: center">9</td>
     <td style="text-align: center">10</td>
     <td rowspan=6 style="text-align: center">初始</td>
-    <td rowspan=6 style="text-align: center"></td>
+    <td rowspan=6></td>
   </tr>
   <tr>
     <td style="text-align: center">戰役-移動速度</td>
@@ -1085,7 +1085,7 @@ tags:
             時，協防講經堂並擲骰到<br>
             【🎲＜33 紙甲圖紙】獲得</li>
     </td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7></td>
   </tr>
   <tr>
     <td style="text-align: center">戰役-防禦等級</td>
@@ -1191,7 +1191,12 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=8 style="text-align: center">初始</td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8>
+        <li>
+            目前仍是素質<br>
+            最佳的護甲<br>
+        </li>
+    </td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-額外血量</td>
@@ -1208,7 +1213,7 @@ tags:
     <td style="text-align: center"></td>
   </tr>
   <tr>
-    <td style="text-align: center">戰役-門人血量</td>
+    <td style="text-align: center">戰役-全體血量</td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
@@ -1321,7 +1326,7 @@ tags:
             ，選擇不是、襲擊，並對決落敗。<br>
         </li>
     </td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7></td>
   </tr>
   <tr>
     <td style="text-align: center">戰役-防禦等級</td>
@@ -1432,10 +1437,10 @@ tags:
             ，劇情自動獲得。<br>
         </li>
     </td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7></td>
   </tr>
   <tr>
-    <td style="text-align: center">戰役-門人血量</td>
+    <td style="text-align: center">戰役-全體血量</td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
@@ -1559,7 +1564,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=9 style="text-align: center">初始</td>
-    <td rowspan=9 style="text-align: center"></td>
+    <td rowspan=9></td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-命中補正</td>
@@ -1693,7 +1698,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=10 style="text-align: center">初始</td>
-    <td rowspan=10 style="text-align: center"></td>
+    <td rowspan=10></td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-血毒</td>
@@ -1848,7 +1853,7 @@ tags:
             「金剛神槍指」獲得。<br>
         </li>
     </td>
-    <td rowspan=11 style="text-align: center"></td>
+    <td rowspan=11></td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-命中補正</td>
@@ -2010,7 +2015,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=8 style="text-align: center">初始</td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8></td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-命中補正</td>
@@ -2151,7 +2156,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=9 style="text-align: center">初始</td>
-    <td rowspan=9 style="text-align: center"></td>
+    <td rowspan=9></td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-命中補正</td>
@@ -2285,7 +2290,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=9 style="text-align: center">初始</td>
-    <td rowspan=9 style="text-align: center"></td>
+    <td rowspan=9></td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-命中補正</td>
@@ -2419,7 +2424,13 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=10 style="text-align: center">初始</td>
-    <td rowspan=10 style="text-align: center"></td>
+    <td rowspan=10>
+        <li>
+            戰役中對我方<br>
+            傷害也很高，<br>
+            注意避開範圍<br>
+        </li>
+    </td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-暗器骰子</td>
@@ -2567,7 +2578,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=9 style="text-align: center">初始</td>
-    <td rowspan=9 style="text-align: center">戰役中會絆住<br>自己，慎用</td>
+    <td rowspan=9>戰役中會絆住<br>自己，慎用</td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-血毒</td>
@@ -2722,7 +2733,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=6 style="text-align: center">初始</td>
-    <td rowspan=6 style="text-align: center"></td>
+    <td rowspan=6></td>
   </tr>
   <tr>
     <td style="text-align: center">戰役-陷阱傷害</td>
@@ -2814,7 +2825,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=7 style="text-align: center">初始</td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7></td>
   </tr>
   <tr>
     <td style="text-align: center">戰役-暗器骰子</td>
@@ -2926,7 +2937,7 @@ tags:
             【🎲＜66 猛火油櫃圖紙】獲得<br>
         </li>
     </td>
-    <td rowspan=6 style="text-align: center"></td>
+    <td rowspan=6></td>
   </tr>
   <tr>
     <td style="text-align: center">戰役-陷阱傷害</td>
@@ -3039,7 +3050,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=8 style="text-align: center">初始</td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8></td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-抗毒</td>
@@ -3159,7 +3170,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=8 style="text-align: center">初始</td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8></td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-抗麻</td>
@@ -3279,7 +3290,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=12 style="text-align: center">初始</td>
-    <td rowspan=12 style="text-align: center"></td>
+    <td rowspan=12></td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-神經毒</td>
@@ -3455,7 +3466,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=12 style="text-align: center">初始</td>
-    <td rowspan=12 style="text-align: center"></td>
+    <td rowspan=12></td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-神經毒</td>
@@ -3632,33 +3643,51 @@ tags:
   <tr>
     <td style="text-align: center">南螫礜石散<br><img src="/images/items/medis/icon_medi_01.webp" style="width:100px"></td>
     <td style="text-align: center">無</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">15</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">
+        陰陽+10<br>
+        體力+2<br>
+        內力+1<br>
+        抗毒+2<br>
+        心相+30<br>
+    </td>
     <td style="text-align: center">初始</td>
-    <td style="text-align: center"></td>
+    <td></td>
   </tr>
   <tr>
     <td style="text-align: center">穿心龍膽湯<br><img src="/images/items/medis/icon_medi_02.webp" style="width:100px"></td>
     <td style="text-align: center">
         南螫礜石散<br>開發中<br>
     </td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">15</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">
+        陰陽-10<br>
+        體力+1<br>
+        內力+2<br>
+        抗麻+2<br>
+        心相+30<br>
+    </td>
     <td style="text-align: center">初始</td>
-    <td style="text-align: center"></td>
+    <td></td>
   </tr>
   <tr>
     <td style="text-align: center">乖乖水<br><img src="/images/items/medis/icon_medi_04.webp" style="width:100px"></td>
     <td style="text-align: center">
         南螫礜石散<br>開發中<br>
     </td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">15</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">
+        陰陽-10<br>
+        修養+5<br>
+        性情-2<br>
+        向心+3<br>
+        心相+50<br>
+    </td>
     <td style="text-align: center">初始</td>
-    <td style="text-align: center"></td>
+    <td></td>
   </tr>
   <tr>
     <td style="text-align: center">胡椒粉丸<br><img src="/images/items/medis/icon_medi_03.webp" style="width:100px"></td>
@@ -3666,18 +3695,27 @@ tags:
         <li>穿心龍膽湯<br>開發中<br></li>
         <li>門派規模2<br></li>
     </td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">25</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">
+        抗毒+3<br>
+        抗麻+3<br>
+        心相+50<br>
+    </td>
     <td style="text-align: center">初始</td>
-    <td style="text-align: center"></td>
+    <td></td>
   </tr>
   <tr>
     <td style="text-align: center">睡丹<br><img src="/images/items/medis/icon_medi_05.webp" style="width:100px"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">
+        體力+5<br>
+        內力+5<br>
+        心相+80<br>
+        行動-1<br>
+    </td>
     <td>
         <li>
             🚩<MarkdownWrapper>[四師兄辭別](/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>時，天命擲骰到<br>
@@ -3687,7 +3725,10 @@ tags:
             「以前托你打聽的事」獲得。<br>
         </li>
     </td>
-    <td style="text-align: center"></td>
+    <td>
+        剩餘行動≧2<br>
+        時才能用
+    </td>
   </tr>
   <tr>
     <td style="text-align: center">萬靈油</td>
@@ -3702,7 +3743,14 @@ tags:
             <MarkdownWrapper>[唐守鴻處置](/event/simple/2-12-3-唐守鴻處置)</MarkdownWrapper>時自動獲得。<br>
         </li>
     </td>
-    <td style="text-align: center"></td>
+    <td>
+        <li>
+            若🚩<MarkdownWrapper>[和葉雲裳結緣](/event/pursuit/girl2)</MarkdownWrapper>、<br>
+            🚩葉雲裳同行武林大會、<br>
+            前往錦香宮時選擇搭船，<br>
+            此物可防止雲裳暈船。<br>
+        </li>
+    </td>
   </tr>  
 
 </table>
