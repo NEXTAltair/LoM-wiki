@@ -1843,9 +1843,10 @@ tags:
     <td rowspan=11>
         <li>初期</li>
         <li>
-            <MarkdownWrapper>[大師兄の負傷](/ja/event/simple/3-01-1-大師兄負傷)</MarkdownWrapper>の時に大師兄を治癒し、<br>
-            <MarkdownWrapper>[臥雲崗見物](/ja/event/simple/3-01-3-圍觀臥雲崗)</MarkdownWrapper>の帰路の宿屋で雑談<br>
-            「金剛神槍指」を選ぶと入手。<br>
+            <MarkdownWrapper>[臥雲崗見物](/ja/event/simple/3-01-3-圍觀臥雲崗)</MarkdownWrapper>で「石公遠の死演技」になり<br>
+            (<MarkdownWrapper>[大師兄の負傷](/ja/event/simple/3-01-1-大師兄負傷)</MarkdownWrapper>で大師兄を治癒済み、または未治癒で🎲≧50)、<br>
+            かつ1月中旬の宿屋で雑談「金剛神槍指」をしていない場合、<br>
+            帰路の宿屋の雑談「金剛神槍指」で入手。<br>
         </li>
     </td>
     <td rowspan=11 style="text-align: center"></td>
