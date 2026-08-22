@@ -53,7 +53,7 @@ tags:
     <td style="text-align: center">9</td>
     <td style="text-align: center">10</td>
     <td rowspan=8 style="text-align: center">初期</td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8></td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-爆発ダイス</td>
@@ -173,7 +173,7 @@ tags:
     <td style="text-align: center">45</td>
     <td style="text-align: center">50</td>
     <td rowspan=8 style="text-align: center">初期</td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8></td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-爆発ダイス</td>
@@ -297,7 +297,7 @@ tags:
         <li>🚩「宿屋ルート」(<MarkdownWrapper>[家出](/ja/event/simple/2-06-1-離家出走)</MarkdownWrapper>) の場合、<MarkdownWrapper>[唐門への帰還](/ja/event/simple/2-10-1-回歸唐門)</MarkdownWrapper>で入手。<br></li>
         <li><MarkdownWrapper>[葉雲裳結縁攻略](/ja/event/pursuit/girl2)</MarkdownWrapper>のルートで、<MarkdownWrapper>[谷底での生活](/ja/event/simple/3-05-1-谷底生活)</MarkdownWrapper>の<br>【🎲＜50 古い兵器の残骸】<br>の後に入手。<br></li>
     </td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8></td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-爆発ダイス</td>
@@ -420,7 +420,7 @@ tags:
     <td rowspan=8>
         <li>🚩「葉雲舟が武林大会に同行」(<MarkdownWrapper>[葉雲舟を誘う](/ja/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>) で、<br>大会後に宿屋で嶺南派のシナリオが発生し、<br>葉雲舟好感≥40なら入手。<br></li>
     </td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8></td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-被ダメージ</td>
@@ -542,7 +542,7 @@ tags:
     <td rowspan=7>
         <li>🚩「無可救薬ルート」(<MarkdownWrapper>[掌門の手配](/ja/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>) で、月例会で<br>「魔教に身を寄せる」「根も葉もない話ではない」<br>「劉顎を知っている」を選べば入手。<br>無可救薬ルートを離れると消失。<br></li>
     </td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7></td>
   </tr>
   <tr>
     <td style="text-align: center">戦役-近接ダメージ</td>
@@ -649,7 +649,7 @@ tags:
     <td rowspan=7>
         <li>虞小梅との結縁に関係するが、<br>v1.0.500.13 時点では未解放。</li>
     </td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7></td>
   </tr>
   <tr>
     <td style="text-align: center">戦役-近接ダメージ</td>
@@ -756,7 +756,7 @@ tags:
     <td rowspan=7>
         <li><MarkdownWrapper>[青城での目覚め](/ja/event/simple/2-08-3-青城醒轉)</MarkdownWrapper>の時に道徳＜40で、<br>「箱をひっくり返して漁る」を選び、さらに【🎲＜66 金?】<br>の後に入手。</li>
     </td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7></td>
   </tr>
   <tr>
     <td style="text-align: center">戦役-近接ダメージ</td>
@@ -883,10 +883,10 @@ tags:
     <td style="text-align: center">23</td>
     <td style="text-align: center">25</td>
     <td rowspan=7 style="text-align: center">初期</td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7></td>
   </tr>
   <tr>
-    <td style="text-align: center">戦役-門人生命力</td>
+    <td style="text-align: center">戦役-全体生命力</td>
     <td style="text-align: center">-</td>
     <td style="text-align: center">5</td>
     <td style="text-align: center">10</td>
@@ -989,7 +989,7 @@ tags:
     <td style="text-align: center">9</td>
     <td style="text-align: center">10</td>
     <td rowspan=6 style="text-align: center">初期</td>
-    <td rowspan=6 style="text-align: center"></td>
+    <td rowspan=6></td>
   </tr>
   <tr>
     <td style="text-align: center">戦役-移動速度</td>
@@ -1085,7 +1085,7 @@ tags:
             の時に講経堂の防衛に加わり、ダイスで<br>
             【🎲＜33 紙甲の図紙】を出すと入手</li>
     </td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7></td>
   </tr>
   <tr>
     <td style="text-align: center">戦役-防御レベル</td>
@@ -1191,7 +1191,12 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=8 style="text-align: center">初期</td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8>
+        <li>
+            現状でも性能が<br>
+            最良の防具<br>
+        </li>
+    </td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-追加生命力</td>
@@ -1208,7 +1213,7 @@ tags:
     <td style="text-align: center"></td>
   </tr>
   <tr>
-    <td style="text-align: center">戦役-門人生命力</td>
+    <td style="text-align: center">戦役-全体生命力</td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
@@ -1321,7 +1326,7 @@ tags:
             「違う」「襲撃」を選び、対決に敗北する。<br>
         </li>
     </td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7></td>
   </tr>
   <tr>
     <td style="text-align: center">戦役-防御レベル</td>
@@ -1432,10 +1437,10 @@ tags:
             青城派好感＞2なら、シナリオで自動入手。<br>
         </li>
     </td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7></td>
   </tr>
   <tr>
-    <td style="text-align: center">戦役-門人生命力</td>
+    <td style="text-align: center">戦役-全体生命力</td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
@@ -1559,7 +1564,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=9 style="text-align: center">初期</td>
-    <td rowspan=9 style="text-align: center"></td>
+    <td rowspan=9></td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-命中補正</td>
@@ -1693,7 +1698,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=10 style="text-align: center">初期</td>
-    <td rowspan=10 style="text-align: center"></td>
+    <td rowspan=10></td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-血毒</td>
@@ -1849,7 +1854,7 @@ tags:
             帰路の宿屋の雑談「金剛神槍指」で入手。<br>
         </li>
     </td>
-    <td rowspan=11 style="text-align: center"></td>
+    <td rowspan=11></td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-命中補正</td>
@@ -2011,7 +2016,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=8 style="text-align: center">初期</td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8></td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-命中補正</td>
@@ -2152,7 +2157,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=9 style="text-align: center">初期</td>
-    <td rowspan=9 style="text-align: center"></td>
+    <td rowspan=9></td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-命中補正</td>
@@ -2286,7 +2291,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=9 style="text-align: center">初期</td>
-    <td rowspan=9 style="text-align: center"></td>
+    <td rowspan=9></td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-命中補正</td>
@@ -2420,7 +2425,13 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=10 style="text-align: center">初期</td>
-    <td rowspan=10 style="text-align: center"></td>
+    <td rowspan=10>
+        <li>
+            戦役では味方への<br>
+            ダメージも大きい。<br>
+            範囲を避けるよう注意<br>
+        </li>
+    </td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-暗器ダイス</td>
@@ -2568,7 +2579,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=9 style="text-align: center">初期</td>
-    <td rowspan=9 style="text-align: center">戦役では自分の足を<br>取られるので慎重に</td>
+    <td rowspan=9>戦役では自分の足を<br>取られるので慎重に</td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-血毒</td>
@@ -2723,7 +2734,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=6 style="text-align: center">初期</td>
-    <td rowspan=6 style="text-align: center"></td>
+    <td rowspan=6></td>
   </tr>
   <tr>
     <td style="text-align: center">戦役-罠ダメージ</td>
@@ -2815,7 +2826,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=7 style="text-align: center">初期</td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7></td>
   </tr>
   <tr>
     <td style="text-align: center">戦役-暗器ダイス</td>
@@ -2927,7 +2938,7 @@ tags:
             【🎲＜66 猛火油櫃の図紙】を出すと入手<br>
         </li>
     </td>
-    <td rowspan=6 style="text-align: center"></td>
+    <td rowspan=6></td>
   </tr>
   <tr>
     <td style="text-align: center">戦役-罠ダメージ</td>
@@ -3040,7 +3051,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=8 style="text-align: center">初期</td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8></td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-抗毒</td>
@@ -3160,7 +3171,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=8 style="text-align: center">初期</td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8></td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-抗麻</td>
@@ -3280,7 +3291,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=12 style="text-align: center">初期</td>
-    <td rowspan=12 style="text-align: center"></td>
+    <td rowspan=12></td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-神経毒</td>
@@ -3456,7 +3467,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=12 style="text-align: center">初期</td>
-    <td rowspan=12 style="text-align: center"></td>
+    <td rowspan=12></td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-神経毒</td>
@@ -3633,29 +3644,47 @@ tags:
   <tr>
     <td style="text-align: center">南蝥礜石散<br><img src="/images/items/medis/icon_medi_01.webp" style="width:100px"></td>
     <td style="text-align: center">なし</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">15</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">
+        陰陽+10<br>
+        体力+2<br>
+        内功+1<br>
+        抗毒+2<br>
+        心相+30<br>
+    </td>
     <td style="text-align: center">初期</td>
-    <td style="text-align: center"></td>
+    <td></td>
   </tr>
   <tr>
     <td style="text-align: center">穿心龍膽湯<br><img src="/images/items/medis/icon_medi_02.webp" style="width:100px"></td>
     <td style="text-align: center">南蝥礜石散<br>開発中<br></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">15</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">
+        陰陽-10<br>
+        体力+1<br>
+        内功+2<br>
+        抗麻+2<br>
+        心相+30<br>
+    </td>
     <td style="text-align: center">初期</td>
-    <td style="text-align: center"></td>
+    <td></td>
   </tr>
   <tr>
     <td style="text-align: center">乖乖水<br><img src="/images/items/medis/icon_medi_04.webp" style="width:100px"></td>
     <td style="text-align: center">南蝥礜石散<br>開発中<br></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">15</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">
+        陰陽-10<br>
+        品性+5<br>
+        性情-2<br>
+        団結+3<br>
+        心相+50<br>
+    </td>
     <td style="text-align: center">初期</td>
-    <td style="text-align: center"></td>
+    <td></td>
   </tr>
   <tr>
     <td style="text-align: center">胡椒粉丸<br><img src="/images/items/medis/icon_medi_03.webp" style="width:100px"></td>
@@ -3663,18 +3692,27 @@ tags:
         <li>穿心龍膽湯<br>開発中<br></li>
         <li>門派規模2<br></li>
     </td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">25</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">
+        抗毒+3<br>
+        抗麻+3<br>
+        心相+50<br>
+    </td>
     <td style="text-align: center">初期</td>
-    <td style="text-align: center"></td>
+    <td></td>
   </tr>
   <tr>
     <td style="text-align: center">睡丹<br><img src="/images/items/medis/icon_medi_05.webp" style="width:100px"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">
+        体力+5<br>
+        内功+5<br>
+        心相+80<br>
+        行動回数-1<br>
+    </td>
     <td>
         <li>
             <MarkdownWrapper>[四師兄、商いの長旅へ](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>の別れの時、天命のダイスで<br>
@@ -3684,7 +3722,8 @@ tags:
             「以前頼んでおいた件」で入手。<br>
         </li>
     </td>
-    <td style="text-align: center"></td>
+    <td>残り行動回数≧2<br>
+        の時のみ使用可</td>
   </tr>
   <tr>
     <td style="text-align: center">万霊油</td>
@@ -3699,7 +3738,14 @@ tags:
             <MarkdownWrapper>[唐守鴻の処遇](/ja/event/simple/2-12-3-唐守鴻處置)</MarkdownWrapper>の時に自動入手。<br>
         </li>
     </td>
-    <td style="text-align: center"></td>
+    <td>
+        <li>
+            🚩「葉雲裳と結縁」(<MarkdownWrapper>[葉雲裳結縁攻略](/ja/event/pursuit/girl2)</MarkdownWrapper>)、<br>
+            🚩「葉雲裳が武林大会に同行」で、<br>
+            錦香宮へ向かう時に船を選ぶと、<br>
+            この品で雲裳の船酔いを防げる。<br>
+        </li>
+    </td>
   </tr>  
 
 </table>
