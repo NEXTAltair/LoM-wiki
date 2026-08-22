@@ -223,6 +223,8 @@ tags:
         <MarkdownWrapper>
 			[崆峒への留学](/ja/event/simple/2-03-1-崆峒留學)<br>
 			[鉄拳小路へ初潜入](/ja/event/simple/2-03-1-初入鐵拳巷)<br>
+			[隠蔽地での衝突](/ja/event/simple/2-03-1-窩居衝突)<br>
+			[崆峒での強盗](/ja/event/simple/2-03-1-崆峒搶劫)<br>
 		</MarkdownWrapper>
     </td>
     <td colspan = 3 style="text-align: center">
@@ -260,9 +262,6 @@ tags:
 			[衣服が盗まれる](/ja/event/simple/2-04-1-衣服遭竊)<br>
 			[季試の知らせ](/ja/event/simple/2-04-1-季試消息)<br>
 			[奪魄森林イベント集](/ja/event/simple/2-04-1-奪魄森林事件集)<br>
-			[修練に気が散る](/ja/event/simple/2-04-1-練功分心)<br>
-			[崆峒での強盗](/ja/event/simple/2-04-1-崆峒搶劫)<br>
-			[隠蔽地での衝突](/ja/event/simple/2-04-1-窩居衝突)<br>
         </MarkdownWrapper>
     </td>
     <td colspan = 3 style="text-align: center">
@@ -727,7 +726,9 @@ tags:
 			</td>
 			<td>-</td>
 			<td>
-				<li>錦香宮からの招待</li>
+				<MarkdownWrapper>
+				<li>[錦香宮イベント集](/ja/event/simple/3-09-3-錦香宮事件集)</li>
+				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
