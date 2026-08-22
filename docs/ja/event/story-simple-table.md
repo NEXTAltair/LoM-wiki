@@ -615,20 +615,42 @@ tags:
 		<tr>
 			<td>五月</td>
 			<td>
-				<MarkdownWrapper>
-				[小師妹の比武招親 前半](/ja/event/simple/3-05-1-師妹招親前半)<br>
-				[小師妹の比武招親 後半](/ja/event/simple/3-05-1-師妹招親後半)<br>
-				[金烏の騒動](/ja/event/simple/3-05-1-金烏鬧事)<br>
-				[金烏との決闘](/ja/event/simple/3-05-1-對決金烏)<br>
-				[小師妹の帰る先](/ja/event/simple/3-05-1-師妹的歸宿)<br>
-				[恩讐の果て](/ja/event/simple/3-05-1-恩仇盡頭)<br>
-				[雲裳と結ばれる](/ja/event/simple/3-05-1-雲裳結緣)<br>
-				[雲裳との決別](/ja/event/simple/3-05-1-雲裳訣別)<br>
-				[山道の戦い](/ja/event/simple/3-05-1-山道之戰)<br>
-				[谷底での生活](/ja/event/simple/3-05-1-谷底生活)<br>
-				[九転の療傷](/ja/event/simple/3-05-1-九轉療傷)<br>
-				[谷底からの脱出](/ja/event/simple/3-05-1-離開谷底)<br>
-				</MarkdownWrapper>
+				<div class="table-container">
+				<table>
+				<tbody>
+				<tr>
+					<td style="text-align: center">分岐前</td>
+					<td colspan="2" style="text-align: center">
+						<MarkdownWrapper>
+						[小師妹の比武招親 前半](/ja/event/simple/3-05-1-師妹招親前半)<br>
+						[小師妹の比武招親 後半](/ja/event/simple/3-05-1-師妹招親後半)<br>
+						</MarkdownWrapper>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align: center">分岐後<br>(🚩雲裳結縁の前提<sup>※1</sup>)</td>
+					<td style="text-align: center">
+						<MarkdownWrapper>
+						[雲裳と結ばれる](/ja/event/simple/3-05-1-雲裳結緣)<br>
+						[雲裳との決別](/ja/event/simple/3-05-1-雲裳訣別)<br>
+						[山道の戦い](/ja/event/simple/3-05-1-山道之戰)<br>
+						[谷底での生活](/ja/event/simple/3-05-1-谷底生活)<br>
+						[九転の療傷](/ja/event/simple/3-05-1-九轉療傷)<br>
+						[谷底からの脱出](/ja/event/simple/3-05-1-離開谷底)<br>
+						</MarkdownWrapper>
+					</td>
+					<td style="text-align: center">
+						<MarkdownWrapper>
+						[金烏の騒動](/ja/event/simple/3-05-1-金烏鬧事)<br>
+						[金烏との決闘](/ja/event/simple/3-05-1-對決金烏)<br>
+						[小師妹の帰る先](/ja/event/simple/3-05-1-師妹的歸宿)<sup>※2</sup><br>
+						[恩讐の果て](/ja/event/simple/3-05-1-恩仇盡頭)<sup>※3</sup><br>
+						</MarkdownWrapper>
+					</td>
+				</tr>
+				</tbody>
+				</table>
+				</div>
 			</td>
 			<td>
 				<MarkdownWrapper>
@@ -646,35 +668,34 @@ tags:
 			<td>
 				<li>唐門例会</li>
 				<MarkdownWrapper>
-				[雪山への旅](/ja/event/simple/3-06-1-雪山行)<br>
 				[実力についての評論](/ja/event/simple/3-06-1-實力評論)<br>
+				雪山ルート: [雪山への旅](/ja/event/simple/3-06-1-雪山行)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[夏侯蘭の出立](/ja/event/simple/3-06-2-夏侯蘭離去)<br>
+				選択せず: [夏侯蘭の出立](/ja/event/simple/3-06-2-夏侯蘭離去)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[雪山に到達](/ja/event/simple/3-06-3-抵達雪山)<br>
-				[夏侯蘭の思い出](/ja/event/simple/3-06-3-夏侯蘭的回憶)<br>
+				雪山ルート: [雪山に到達](/ja/event/simple/3-06-3-抵達雪山)、[夏侯蘭の思い出](/ja/event/simple/3-06-3-夏侯蘭的回憶)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
 			<td>七月</td>
 			<td>
-				<li>唐門例会</li>
+				選択せず: 唐門例会
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[雪山の約束](/ja/event/simple/3-07-2-雪山之約)<br>
+				雪山ルート: [雪山の約束](/ja/event/simple/3-07-2-雪山之約)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[兄妹対決](/ja/event/simple/3-07-3-兄妹對決)<br>
+				雲裳ルート: [兄妹対決](/ja/event/simple/3-07-3-兄妹對決)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -727,6 +748,11 @@ tags:
 		</tr>
 	</table>
 </div>
+
+※1: [葉雲裳](/ja/people/characters/girl2)が唐門在籍・好感度≧50<br>
+※2: 金烏に勝利<br>
+※3: 晩宴の乱闘に敗北+夏侯蘭に師事済み<br>
+
 <br>
 
 ## 第三年11月〜第四年
