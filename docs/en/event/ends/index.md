@@ -862,7 +862,7 @@ Ending 51
 <td>
 <!-- Ending Summary -->
 <span style="color: #FF1493;">【Ruined Temple Route】</span><br>
-Unable to beat Tang Dajing, saved by the second senior brother, lose again, and are utterly disappointed in.
+Unable to beat Tang Dajing, you are covered by the second senior brother; you lose again, and he is utterly disappointed in you.
 </td>
 </tr>
 <tr>
