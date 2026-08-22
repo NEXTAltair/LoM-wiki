@@ -1310,7 +1310,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=8>
+    <td rowspan=7>
         <li>
             🚩「夏侯蘭に師事」(<MarkdownWrapper>[衣服が盗まれる](/ja/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper>) で、<MarkdownWrapper>[雪山の約束](/ja/event/simple/3-07-2-雪山之約)</MarkdownWrapper>の時に<br>
             夏侯蘭が第三香で出陣し、その後の処置が<br>

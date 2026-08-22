@@ -1310,7 +1310,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=8>
+    <td rowspan=7>
         <li>
             🚩<MarkdownWrapper>[拜師夏侯蘭](/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper>，<MarkdownWrapper>[雪山之約](/event/simple/3-07-2-雪山之約)</MarkdownWrapper>時<br>
             ，由夏侯蘭出戰第三香，且後續處置<br>
