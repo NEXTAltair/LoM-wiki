@@ -1429,7 +1429,7 @@ tags:
     <td rowspan=7>
         <li>
             🚩「青城留学」(<MarkdownWrapper>[唐門の迎撃](/ja/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>) で、<MarkdownWrapper>[青城の段階試験](/ja/event/simple/2-11-3-青城段考)</MarkdownWrapper>の時に<br>
-            シナリオで自動入手。<br>
+            青城派好感＞2なら、シナリオで自動入手。<br>
         </li>
     </td>
     <td rowspan=7 style="text-align: center"></td>
