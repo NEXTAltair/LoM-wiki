@@ -1080,7 +1080,11 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7>
+        <li>🚩「破廟ルート」(<MarkdownWrapper>[家出](/ja/event/simple/2-06-1-離家出走)</MarkdownWrapper>) で、<MarkdownWrapper>[唐門の迎撃](/ja/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper><br>
+            の時に講経堂の防衛に加わり、ダイスで<br>
+            【🎲＜33 紙甲の図紙】を出すと入手</li>
+    </td>
     <td rowspan=7 style="text-align: center"></td>
   </tr>
   <tr>
@@ -1186,7 +1190,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8 style="text-align: center">初期</td>
     <td rowspan=8 style="text-align: center"></td>
   </tr>
   <tr>
@@ -1306,7 +1310,17 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=8>
+        <li>
+            🚩「夏侯蘭に師事」(<MarkdownWrapper>[衣服が盗まれる](/ja/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper>) で、<MarkdownWrapper>[雪山の約束](/ja/event/simple/3-07-2-雪山之約)</MarkdownWrapper>の時に<br>
+            夏侯蘭が第三香で出陣し、その後の処置が<br>
+            【🎲＜70 無情に殺害】になる。<br>
+        </li>
+        <li>
+            🚩「夏侯蘭と結縁」(<MarkdownWrapper>[夏侯蘭結縁攻略](/ja/event/pursuit/girl5)</MarkdownWrapper>) で、<MarkdownWrapper>[夏侯蘭を誘う](/ja/event/simple/3-08-3-邀請夏侯蘭)</MarkdownWrapper>の時に<br>
+            「違う」「襲撃」を選び、対決に敗北する。<br>
+        </li>
+    </td>
     <td rowspan=7 style="text-align: center"></td>
   </tr>
   <tr>
@@ -1412,7 +1426,12 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7>
+        <li>
+            🚩「青城留学」(<MarkdownWrapper>[唐門の迎撃](/ja/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>) で、<MarkdownWrapper>[青城の段階試験](/ja/event/simple/2-11-3-青城段考)</MarkdownWrapper>の時に<br>
+            シナリオで自動入手。<br>
+        </li>
+    </td>
     <td rowspan=7 style="text-align: center"></td>
   </tr>
   <tr>
@@ -1539,7 +1558,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=9 style="text-align: center"></td>
+    <td rowspan=9 style="text-align: center">初期</td>
     <td rowspan=9 style="text-align: center"></td>
   </tr>
   <tr>
@@ -1673,7 +1692,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=10 style="text-align: center"></td>
+    <td rowspan=10 style="text-align: center">初期</td>
     <td rowspan=10 style="text-align: center"></td>
   </tr>
   <tr>
@@ -1821,7 +1840,14 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=11 style="text-align: center"></td>
+    <td rowspan=11>
+        <li>初期</li>
+        <li>
+            <MarkdownWrapper>[大師兄の負傷](/ja/event/simple/3-01-1-大師兄負傷)</MarkdownWrapper>の時に大師兄を治癒し、<br>
+            <MarkdownWrapper>[臥雲崗見物](/ja/event/simple/3-01-3-圍觀臥雲崗)</MarkdownWrapper>の帰路の宿屋で雑談<br>
+            「金剛神槍指」を選ぶと入手。<br>
+        </li>
+    </td>
     <td rowspan=11 style="text-align: center"></td>
   </tr>
   <tr>
@@ -1983,7 +2009,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8 style="text-align: center">初期</td>
     <td rowspan=8 style="text-align: center"></td>
   </tr>
   <tr>
@@ -2124,7 +2150,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=9 style="text-align: center"></td>
+    <td rowspan=9 style="text-align: center">初期</td>
     <td rowspan=9 style="text-align: center"></td>
   </tr>
   <tr>
@@ -2258,7 +2284,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=9 style="text-align: center"></td>
+    <td rowspan=9 style="text-align: center">初期</td>
     <td rowspan=9 style="text-align: center"></td>
   </tr>
   <tr>
@@ -2392,7 +2418,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=10 style="text-align: center"></td>
+    <td rowspan=10 style="text-align: center">初期</td>
     <td rowspan=10 style="text-align: center"></td>
   </tr>
   <tr>
@@ -2540,8 +2566,8 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=9 style="text-align: center"></td>
-    <td rowspan=9 style="text-align: center"></td>
+    <td rowspan=9 style="text-align: center">初期</td>
+    <td rowspan=9 style="text-align: center">戦役では自分の足を<br>取られるので慎重に</td>
   </tr>
   <tr>
     <td style="text-align: center">決闘-血毒</td>
@@ -2695,7 +2721,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=6 style="text-align: center"></td>
+    <td rowspan=6 style="text-align: center">初期</td>
     <td rowspan=6 style="text-align: center"></td>
   </tr>
   <tr>
@@ -2787,7 +2813,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7 style="text-align: center">初期</td>
     <td rowspan=7 style="text-align: center"></td>
   </tr>
   <tr>
@@ -2893,7 +2919,13 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=6 style="text-align: center"></td>
+    <td rowspan=6>
+        <li>
+            🚩「破廟ルート」(<MarkdownWrapper>[家出](/ja/event/simple/2-06-1-離家出走)</MarkdownWrapper>) で、<MarkdownWrapper>[唐門の迎撃](/ja/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper><br>
+            の時に講経堂の防衛に加わり、ダイスで<br>
+            【🎲＜66 猛火油櫃の図紙】を出すと入手<br>
+        </li>
+    </td>
     <td rowspan=6 style="text-align: center"></td>
   </tr>
   <tr>
@@ -3006,7 +3038,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8 style="text-align: center">初期</td>
     <td rowspan=8 style="text-align: center"></td>
   </tr>
   <tr>
@@ -3126,7 +3158,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8 style="text-align: center">初期</td>
     <td rowspan=8 style="text-align: center"></td>
   </tr>
   <tr>
@@ -3246,7 +3278,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=12 style="text-align: center"></td>
+    <td rowspan=12 style="text-align: center">初期</td>
     <td rowspan=12 style="text-align: center"></td>
   </tr>
   <tr>
@@ -3422,7 +3454,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=12 style="text-align: center"></td>
+    <td rowspan=12 style="text-align: center">初期</td>
     <td rowspan=12 style="text-align: center"></td>
   </tr>
   <tr>
@@ -3603,7 +3635,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">初期</td>
     <td style="text-align: center"></td>
   </tr>
   <tr>
@@ -3612,7 +3644,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">初期</td>
     <td style="text-align: center"></td>
   </tr>
   <tr>
@@ -3621,7 +3653,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">初期</td>
     <td style="text-align: center"></td>
   </tr>
   <tr>
@@ -3633,7 +3665,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">初期</td>
     <td style="text-align: center"></td>
   </tr>
   <tr>
@@ -3642,7 +3674,15 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td>
+        <li>
+            <MarkdownWrapper>[四師兄、商いの長旅へ](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>の別れの時、天命のダイスで<br>
+            【🎲≧70 わかった、土産は土産だ】を出し、さらに<br>
+            「華山には仙人がいて、仙人は霊丹を持っていると聞いた」を選ぶ。<br>
+            門人との別れの後、男弟子房の雑談<br>
+            「以前頼んでおいた件」で入手。<br>
+        </li>
+    </td>
     <td style="text-align: center"></td>
   </tr>
   <tr>
@@ -3651,7 +3691,13 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td>
+        <li>
+            かつて🚩「青城留学」(<MarkdownWrapper>[唐門の迎撃](/ja/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>) しており、かつ<br>
+            <MarkdownWrapper>[唐門内戦](/ja/event/simple/2-12-3-唐門內戰)</MarkdownWrapper>の時に🚩「唐守鴻を捕らえた」なら、<br>
+            <MarkdownWrapper>[唐守鴻の処遇](/ja/event/simple/2-12-3-唐守鴻處置)</MarkdownWrapper>の時に自動入手。<br>
+        </li>
+    </td>
     <td style="text-align: center"></td>
   </tr>  
 
