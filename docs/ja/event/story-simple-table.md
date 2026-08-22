@@ -631,6 +631,7 @@ tags:
 					<td style="text-align: center">分岐後<br>(🚩雲裳結縁の前提<sup>※1</sup>)</td>
 					<td style="text-align: center">
 						<MarkdownWrapper>
+						[雲裳と結ばれる](/ja/event/simple/3-05-1-雲裳結緣)<br>
 						[雲裳との決別](/ja/event/simple/3-05-1-雲裳訣別)<br>
 						[山道の戦い](/ja/event/simple/3-05-1-山道之戰)<br>
 						[谷底での生活](/ja/event/simple/3-05-1-谷底生活)<br>
