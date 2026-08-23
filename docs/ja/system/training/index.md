@@ -209,13 +209,13 @@ text: '葉雲裳好感+',
 <tr>
 		<td>唐家大院</td>
 		<td>正心堂<br>焚香</td>
-		<td>一本の甘蔗</td>
+		<td>一本のサトウキビ</td>
 		<td>11</td>
 		<td>+3</td>
 		<td>
             • 団結-1、品性+1、処世-1、銀両-50<br>
             • 唐惟元好感+1<br>
-			• 「甘蔗」+1を獲得 (<MarkdownWrapper>[道具一覧](/ja/system/items/)</MarkdownWrapper>)
+			• 「サトウキビ」+1を獲得 (<MarkdownWrapper>[道具一覧](/ja/system/items/)</MarkdownWrapper>)
 		</td>
 		<td>-</td>
 		<td>-</td>
@@ -1391,7 +1391,7 @@ text: '葉雲裳好感+',
 <tr>
 		<td>唐家大院</td>
 		<td>練功場<br>掃除</td>
-		<td>手から離れた鏢</td>
+		<td>脱手鏢</td>
 		<td>12</td>
 		<td>-62</td>
 		<td>
@@ -2007,12 +2007,12 @@ text: '葉雲裳好感+',
 <tr>
 		<td>大門</td>
 		<td>外出<br>優先判定</td>
-		<td>姜記肉包</td>
+		<td>姜記肉まん</td>
 		<td>-</td>
 		<td>-</td>
 		<td>
 			👉 並んで買う(銀両＞500必要):<br>
-            • 学問-1、銀両-500、「姜記肉包」x1を獲得 (<MarkdownWrapper>[道具一覧](/ja/system/items/)</MarkdownWrapper>)<br>
+            • 学問-1、銀両-500、「姜記肉まん」x1を獲得 (<MarkdownWrapper>[道具一覧](/ja/system/items/)</MarkdownWrapper>)<br>
             <br>
             👉 時間を無駄にする:<br>
             • 🚩「外出で龍湘に遭遇」を設定<br>
@@ -2021,7 +2021,7 @@ text: '葉雲裳好感+',
             👉 店を壊す(道徳＜40かつ性情≥60必要):<br>
             • 道徳-2、🆚戦：江湖の拳師 が発生<br>
             • 敗北: <MarkdownWrapper>[生死簿86：肉まんを喉に詰めて](/ja/event/badends/#生死簿-No.86)</MarkdownWrapper><br>
-            • 勝利: 武学+4、銀両+1000、名声+2、姜記肉包x5を獲得、上官螢好感-3、唐中翎好感-3、宋悲好感-2、丐幇好感+2<br>
+            • 勝利: 武学+4、銀両+1000、名声+2、姜記肉まんx5を獲得、上官螢好感-3、唐中翎好感-3、宋悲好感-2、丐幇好感+2<br>
 		</td>
 		<td>-</td>
 		<td>-</td>
