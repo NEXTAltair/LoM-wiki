@@ -97,6 +97,7 @@ const STALE_TERMS = [
 	{ bad: "矯情", good: "虚飾", note: "StatLevel/behaviour01 (2026-07-28)" },
 	{ bad: "粗魯", good: "無礼", note: "StatLevel/behaviour05 (2026-07-28)" },
 	{ bad: "悪棍", good: "極悪", note: "StatLevel/karma01 の中国語別名 (2026-07-29)" },
+	{ bad: "比試", good: "試合/手合わせ(文脈で判断)", note: "中国語。武術の試合・私的な立ち合いいずれも比試と書くが、日本語にない語。19箇所を一掃 (2026-08-24)" },
 ];
 // TABLE は既存分を全て解消済みのため常に 0 を要求する。
 // LABEL の既存未修正分は tools/ja-label-baseline.tsv に1件ずつ列挙して据え置く
