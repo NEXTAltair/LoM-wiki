@@ -1441,7 +1441,7 @@ tags:
             -
         </td>
         <td>
-            崆峒派季期試験の第3戦で狂犬に敗北し、ダイスで大失敗を引く
+            <MarkdownWrapper>[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>（崆峒季試）の第3戦で狂犬に敗北し、ダイスで大失敗を引く
         </td>
         <td>
             <MarkdownWrapper>~~武術試合にはリスクがある。開始前に説明書をお読みください。~~</MarkdownWrapper>
