@@ -405,7 +405,7 @@ text: '葉雲裳好感+',
             • 👉 讓她靜一靜: 接續挑柴隨機事件<br>
             • 👉 我來告訴你，用劍: 🆚對決龍湘<br>
             • 勝：武學+6，敗：武學+2、龍湘好感+1<br>
-            • 若初次觸發，且曾與龍湘夜遊: 接龍湘心事<br>
+            • 若初次觸發，且曾觸發<MarkdownWrapper>[龍湘夜遊](/event/simple/3-09-3-龍湘夜遊)</MarkdownWrapper>: 接龍湘心事<br>
         </td>
 		<td>-</td>
 		<td>-</td>
@@ -417,7 +417,7 @@ text: '葉雲裳好感+',
         </td>
 		<td>
 			• 龍湘心事為結緣龍湘必要事件<br>
-            • <text style="color : red">待撰寫</text>: 龍湘夜遊及龍湘心事事件<br>
+            • <text style="color : red">待撰寫</text>: 龍湘心事事件<br>
 		</td>
 	</tr>
     <tr>
@@ -3841,7 +3841,7 @@ text: '葉雲裳好感+',
         </td>
 		<td>-</td>
 		<td>-</td>
-		<td>機率: <br>(虞小梅好感+1)<br>/101</td>
+		<td>機率: <br>(虞小梅好感+1)/101</td>
 		<td>觸發過<MarkdownWrapper>[鶴手出遊](/event/simple/2-03-2-鶴手出遊)</MarkdownWrapper></td>
 		<td>若未觸發此事件，接續修練事件<br></td>
 	</tr>
@@ -4111,7 +4111,7 @@ text: '葉雲裳好感+',
 		<td>-</td>
 		<td>-</td>
 		<td>
-            接續奪魄森林修練隨機事件<br> 
+            接續奪魄森林修練指令<br> 
         </td>
 		<td>-</td>
 		<td>-</td>
@@ -4134,7 +4134,7 @@ text: '葉雲裳好感+',
             • <MarkdownWrapper>[蘭字由來](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>: 夏侯蘭好感≥15<br>
             • <MarkdownWrapper>[雪山始末](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>: 夏侯蘭好感≥30，且🚩<MarkdownWrapper>[可聊雪山始末](/event/simple/2-04-1-助你收心)</MarkdownWrapper><br>
             <br>
-            除「助你收心」會結束行動之外，其他事件結束後皆接續奪魄森林修練隨機事件<br>
+            除「助你收心」會結束行動之外，其他事件結束後皆接續奪魄森林修練指令<br>
         </td>
 		<td>-</td>
 		<td>-</td>
