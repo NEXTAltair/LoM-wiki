@@ -1852,7 +1852,7 @@ tags:
             -
         </td>
         <td>
-            1. 在武林大會前，停留在錦香宮時溫夫人會把你叫去第二次，第二次選項選擇「狗屁不通」(需要修養＜40、性情＞60)，之後選擇「賴著不走」，與溫夫人決鬥，勝敗都是劇情殺。<br>
+            1. <MarkdownWrapper>[溫夫人託付](/event/simple/3-10-2-溫夫人託付)</MarkdownWrapper>時，第二問選擇👉「狗屁不通」(需要修養＜40、性情＞60)，之後選擇👉「賴著不走」，與溫夫人決鬥，勝敗皆會進入。<br>
             2. 破廟線，夜襲唐門中，反覆選擇防守弟子房。
         </td>
         <td>
@@ -1874,7 +1874,9 @@ tags:
             -
         </td>
         <td>
-            -
+            曾在🚩崆峒地牢救小梅(v1.0.5000.13尚未解鎖)。<MarkdownWrapper>[參觀錦香宮](/event/simple/3-09-3-參觀錦香宮)</MarkdownWrapper>時嚮導人選【🎲＜35 畫中仙】。
+            <MarkdownWrapper>[錦香宮自由行動](/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper>時選擇<MarkdownWrapper>[挑戰畫中仙](/event/simple/3-09-3-挑戰畫中仙)</MarkdownWrapper>，
+            且挑戰人選【🎲≥60 我來】，觸發戰畫中仙後落敗進入。
         </td>
         <td>
             這一般是RPG中怪物的下場，<br>
