@@ -309,10 +309,13 @@ tags:
 			[馳援南宮](/event/simple/2-08-1-馳援南宮)<br>
         </MarkdownWrapper>
     </td>
-    <td colspan = 3 style="text-align: center">
+    <td style="text-align: center">
          <MarkdownWrapper>
 			[江陵傳聞](/event/simple/2-08-1-江陵傳聞)<br>
          </MarkdownWrapper>
+    </td>
+    <td colspan = 2 style="text-align: center">
+         -
     </td>
 </tr>
 <tr>
@@ -944,3 +947,6 @@ tags:
 </tbody>
 </table>
 </div>
+
+## 備註
+- 事件腳本中常涉及的隱藏參數，請見[隱藏參數列表](/system/hidden-params)。
