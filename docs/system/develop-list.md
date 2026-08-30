@@ -416,7 +416,7 @@ tags:
     <td style="text-align: center">77</td>
     <td style="text-align: center">85</td>
     <td rowspan=8>
-        <li>🚩<MarkdownWrapper>[葉雲舟同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>，<br>且大會中途未離開唐門<br>(即趙活未挑戰上官隼)，<br>大會後客棧觸發嶺南派劇情，<br>葉雲舟好感≥40獲得。<br></li>
+        <li>🚩<MarkdownWrapper>[葉雲舟同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>，<br>且大會中途未離開唐門<br>(即趙活未挑戰上官隼，<br>且🚩<MarkdownWrapper>[葉雲舟代表唐門出戰](/event/simple/3-10-2-點蒼逆徒)</MarkdownWrapper>)，<br>大會後客棧觸發嶺南派劇情，<br>葉雲舟好感≥40獲得。<br></li>
     </td>
     <td rowspan=8></td>
   </tr>
@@ -3647,7 +3647,7 @@ tags:
   </tr>
 
   <tr>
-    <td style="text-align: center">南螫礜石散<br><img src="/images/items/medis/icon_medi_01.webp" style="width:100px"></td>
+    <td style="text-align: center">南蝥礜石散<br><img src="/images/items/medis/icon_medi_01.webp" style="width:100px"></td>
     <td style="text-align: center">無</td>
     <td style="text-align: center">15</td>
     <td style="text-align: center">300</td>
@@ -3664,7 +3664,7 @@ tags:
   <tr>
     <td style="text-align: center">穿心龍膽湯<br><img src="/images/items/medis/icon_medi_02.webp" style="width:100px"></td>
     <td style="text-align: center">
-        <li>南螫礜石散<br>開發中<br></li>
+        <li>南蝥礜石散<br>開發中<br></li>
     </td>
     <td style="text-align: center">15</td>
     <td style="text-align: center">300</td>
@@ -3681,7 +3681,7 @@ tags:
   <tr>
     <td style="text-align: center">乖乖水<br><img src="/images/items/medis/icon_medi_04.webp" style="width:100px"></td>
     <td style="text-align: center">
-        <li>南螫礜石散<br>開發中<br></li>
+        <li>南蝥礜石散<br>開發中<br></li>
     </td>
     <td style="text-align: center">15</td>
     <td style="text-align: center">300</td>
@@ -3714,7 +3714,7 @@ tags:
   <tr>
     <td style="text-align: center">睡丹<br><img src="/images/items/medis/icon_medi_05.webp" style="width:100px"></td>
     <td style="text-align: center">
-        <li>南螫礜石散<br>開發中<br></li>
+        <li>南蝥礜石散<br>開發中<br></li>
     </td>
     <td style="text-align: center">25</td>
     <td style="text-align: center">500</td>
@@ -3739,10 +3739,13 @@ tags:
     </td>
   </tr>
   <tr>
-    <td style="text-align: center">萬靈油</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">萬靈油<br><img src="/images/items/medis/icon_medi_22.webp" style="width:100px"></td>
+    <td style="text-align: center">
+        <li>南蝥礜石散<br>開發中<br></li>
+        <li>門派規模2<br></li>
+    </td>
+    <td style="text-align: center">25</td>
+    <td style="text-align: center">750</td>
     <td style="text-align: center">
         體力+1<br>
         內力+1<br>
@@ -3761,8 +3764,10 @@ tags:
         <li>
             若🚩<MarkdownWrapper>[和葉雲裳結緣](/event/pursuit/girl2)</MarkdownWrapper>、<br>
             🚩<MarkdownWrapper>[葉雲裳同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>，<br>
-            前往錦香宮時選擇搭船，<br>
-            此物可防止雲裳暈船。<br>
+            <MarkdownWrapper>[前往錦香宮](/event/simple/3-09-3-前往錦香宮)</MarkdownWrapper>時選擇搭船，<br>
+            已解鎖此物可防止雲裳暈船。<br>
+            (只要曾經長按解鎖過就行，<br>
+            不需要真的做出成品。)<br>
         </li>
     </td>
   </tr>  
