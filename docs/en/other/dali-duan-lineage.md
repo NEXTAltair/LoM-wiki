@@ -57,6 +57,16 @@ This is why Yunshang calls his standing as keeper of Songyan Pavilion "both high
 
 Duan Zhixiu and this coup are fiction. Historically Duan Zhixing was succeeded by his sons Duan Zhilian (1200–1204) and Duan Zhixiang (1204–1238).
 
+## Connections to Jin Yong
+
+Besides history, the in-game Duan clan draws on Jin Yong's *Demi-Gods and Semi-Devils*. Only points with a verifiable source are listed.
+
+- "Tianlong Temple" is the name that novel gives the historical Chongsheng Temple; the game follows it.
+- Duan Zhixiu's art, the Withered-and-Flourishing Divine Art (枯榮神功), takes its name from the novel's 枯榮禪功, an internal art of the Duan clan created by Duan Siping and practised by Master Kurong of Tianlong Temple, keeper of the Six Meridian Divine Sword manual.
+- Xianzong Duan Heyu (Duan Zhengyan) is the historical model for the novel's Duan Yu; Xuanzong Duan Zhixing is the model for Reverend Yideng in *The Legend of the Condor Heroes*.
+
+Reading Duan Heyu's "formless sword qi" as a nod to the Six Meridian Divine Sword is natural, but nothing in the game says so, so it is left as a reading rather than a fact.
+
 ## Related pages
 
 - [Point Cang Faction](/en/people/factions/dian-cang-sect) — the Sword Saint title and the faction's ties to the Dali court
