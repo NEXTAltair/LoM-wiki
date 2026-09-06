@@ -806,9 +806,8 @@ tags:
             -
         </td>
         <td>
-            1. 第三年一月上旬，與大師兄下山，大師兄跟飛石幫主轉盤骰出「有點冒險的絕招」，回程在旅館選擇大師兄蠢蠢欲動(大師兄好感需≧40)，轉盤(需要<Girl8Icon>龍湘</Girl8Icon>好感≧20才有轉盤)
+            第三年一月上旬，與大師兄下山，大師兄跟飛石幫主轉盤骰出「有點冒險的絕招」，回程在旅館選擇大師兄蠢蠢欲動(大師兄好感需≧40)，轉盤(需要<Girl8Icon>龍湘</Girl8Icon>好感≧20才有轉盤)
             骰出≧50「你：沒辦法，交給我吧」(基礎上限50，<Girl8Icon>龍湘</Girl8Icon>好感加值）。嘴力＜40被<Girl8Icon>龍湘</Girl8Icon>用雞腿捅死。<br>
-            2. 破廟線，選攻打唐門，戰敗二師兄
         </td>
         <td>
             <MarkdownWrapper>宋朝末年八百多年後也差不多是~~西元2000年~~左右了。</MarkdownWrapper>
@@ -1128,7 +1127,11 @@ tags:
             -
         </td>
         <td>
-            <Girl0Icon>小師妹</Girl0Icon>比武招親下山事件，<Girl0Icon>小師妹</Girl0Icon>沒有同行，選擇單挑，與金烏上人決鬥第一場戰敗，認輸(或連輸兩次)
+            <Girl0Icon>小師妹</Girl0Icon>比武招親下山事件<MarkdownWrapper>[對決金烏](/event/simple/3-05-1-對決金烏)</MarkdownWrapper>時，符合以下流程:<br>
+            1. 沒有額外同伴(目前可有小師妹、葉雲舟同行，腳本中尚有瑞笙同行可能)<br>
+            2. 對決金烏首戰戰敗，或戰勝且🚩「未見過金烏假死」且擲骰結果【🎲＜90 被偷襲】<br>
+            3. 再戰金烏需落敗，觸發選項:<br>
+            4. 選擇👉「認輸」，或選擇👉「戰你娘親」後三次擲骰至少有一次【🎲＜50 認輸】<br>
         </td>
         <td>
             簡稱嚇死
@@ -1944,7 +1947,7 @@ tags:
             -
         </td>
         <td>
-            南宮淺好感≧40，在武林大會追上南宮淺，打輸南宮淺
+            南宮淺好感≧40，在武林大會<MarkdownWrapper>[向南宮家致哀](/event/simple/3-10-2-戰後閒聊#致哀南宮)</MarkdownWrapper>時選擇<MarkdownWrapper>[追南宮淺](/event/simple/3-10-2-追南宮淺)</MarkdownWrapper>，對決南宮淺落敗
         </td>
         <td>
             這叫...一物剋一物？
@@ -1992,7 +1995,8 @@ tags:
             -
         </td>
         <td>
-            -
+            <MarkdownWrapper>[武林大會](/event/simple/3-10-2-武林大會)</MarkdownWrapper>大戰後<MarkdownWrapper>[向南宮家致哀](/event/simple/3-10-2-戰後閒聊#致哀南宮)</MarkdownWrapper>時，
+            選擇👉<MarkdownWrapper>[「追南宮淺」](/event/simple/3-10-2-追南宮淺)</MarkdownWrapper>，追上後對決南宮淺獲勝，選擇👉「追不上也要打你一頓」，對戰袁無憲落敗
         </td>
         <td>
             -
