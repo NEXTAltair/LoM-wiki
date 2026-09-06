@@ -256,7 +256,7 @@ aside: false
 
 ## 鈴
 
-「天地無音勢」を修練するため、身に7つの鈴を付ける。首・腕・手首・脚（ただし頻繁に足首のところまで下がる）。7つの鈴は枷となり、喜・怒・憂・懼・愛・憎・欲を封印し、心拍が非常に遅く、体温も低い。誰からも弄ばれなければ、かなり長生きするはずだ。鈴が鳴る時は、ほぼ魂まで叫び出すほどの状態に達している。
+「天地無音勢」を修練するため、身に7つの鈴を付ける。首・腕・手首・脚（ただし頻繁に足首のところまで下がる）。7つの鈴は枷となり、喜・怒・憂・懼・愛・憎・欲を封印し、心拍が非常に遅く、体温も低い。誰からも弄ばれなければ、かなり長生きするはずだ。鈴が鳴る時は、ほぼ魂まで叫び出すほどの状態に達している。[^9]
 
 <br><br>
 
@@ -364,6 +364,7 @@ aside: false
 [^6]: Facebook - [オリジナル鳥熊2023/3/24](https://www.facebook.com/obbstudio/posts/pfbid0RtthSh7drDNiXYqEPRvK9Mvd5ngMuBQJxCVqfE7PyCxKZfy3QqHZTi97TSfMmWeQl)
 [^7]: Facebook - [オリジナル鳥熊2024/2/5](https://www.facebook.com/obbstudio/posts/pfbid0345ukMDW1MtXHXFDAegFGKnPSZ6Ypq2gcoLq2TgEeskhyHQzGeEuywWRtu4nC5mpTl)
 [^8]: バハムート - [【文字専訪】専訪鳥熊鼠虫~129題超長訪談（施工完畢）（更新至8~9樓）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=4070&bpage=1&ltype=)
+[^9]: Facebook - [オリジナル鳥熊2022/6/6のコメント](https://www.facebook.com/share/1JwNeWNVFq/)
 
 ## ギャラリー
 
