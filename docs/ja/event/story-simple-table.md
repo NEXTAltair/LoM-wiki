@@ -760,6 +760,7 @@ tags:
 
 ## 第三年11月〜第四年
 ストーリーに5つの分岐ルートがあるため、本表は時間/ルート形式で表示する。
+🚧未実装 を付したイベントは、ゲームデータ上は存在するが現行版では発生しない。
 
 <div class="table-container">
 <table>
@@ -873,7 +874,7 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     <MarkdownWrapper>
-    [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)【滅門ルート】<br>
+    [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)【滅門ルート】🚧未実装<br>
     </MarkdownWrapper>
     小師妹の再訪<br>
   </td>
@@ -921,7 +922,7 @@ tags:
   <td style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
     <MarkdownWrapper>
-    [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)<br>
+    [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)🚧未実装<br>
     </MarkdownWrapper>
     小師妹の再訪<br>
   </td>
