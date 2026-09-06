@@ -252,7 +252,7 @@ aside: false
 
 ## 鈴鐺
 
-為了修練天地無聲勢，身繫七串鈴鐺，脖上、臂上、腕上、腿上(但經常滑到踝上)。七串鈴鐺成為枷鎖，封印了她的喜、怒、憂、懼、愛、憎、欲，心跳得很慢，體溫也較低。如果沒人弄她，應該會很長壽。鈴響的時候，八成是靈魂都在喊叫的程度了。
+為了修練天地無聲勢，身繫七串鈴鐺，脖上、臂上、腕上、腿上(但經常滑到踝上)。七串鈴鐺成為枷鎖，封印了她的喜、怒、憂、懼、愛、憎、欲，心跳得很慢，體溫也較低。如果沒人弄她，應該會很長壽。鈴響的時候，八成是靈魂都在喊叫的程度了。[^9]
 <br><br>
 [[唐中翎|掌門]]不懂育兒，[[唐布衣|大師兄]]是從小打到大的，[[唐錚|二師兄]]倒是很乖覺，被責打的次數屈指可數。為了練功，對小師妹也不意外，鈴鐺一吵，就藤條伺候。從小開始打，再活潑的孩子都會變一條死魚，小師妹的無口三分先天，七分是後天造成的。
 <br><br>
@@ -364,6 +364,7 @@ aside: false
 [^6]: Facebook－[原始鳥熊2023/3/24](https://www.facebook.com/obbstudio/posts/pfbid0RtthSh7drDNiXYqEPRvK9Mvd5ngMuBQJxCVqfE7PyCxKZfy3QqHZTi97TSfMmWeQl)
 [^7]: Facebook－[原始鳥熊2024/2/5](https://www.facebook.com/obbstudio/posts/pfbid0345ukMDW1MtXHXFDAegFGKnPSZ6Ypq2gcoLq2TgEeskhyHQzGeEuywWRtu4nC5mpTl)
 [^8]: 巴哈姆特－[【文字專訪】專訪鳥熊鼠蟲~129題超長訪談（施工完畢）（更新至8~9樓）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=4070&bpage=1&ltype=)
+[^9]: Facebook－[原始鳥熊2022/6/6的留言](https://www.facebook.com/share/1JwNeWNVFq/)
 
 ## 畫廊
 
