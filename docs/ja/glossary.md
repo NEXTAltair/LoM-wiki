@@ -190,6 +190,7 @@ title: 用語対訳表
 | 心法 | 心法 | Internal Method | ★MOD |
 | 功法 | 功法 | Practice Method | |
 | 技能 | 技能 | Skill | |
+| 絕招 | 絶招 | Ultimate | ★MOD (PlayerStat/combat-ultimate、CombatAction/ultimate)。戦闘の必殺技システム。地の文でも「必殺技」とは訳さない |
 | 內功 | 内功 | Inner Energy | ★MOD |
 | 外功 | 外功 | | |
 | 輕功 | 軽功 | | |
