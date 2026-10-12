@@ -171,8 +171,9 @@ tags:
 <td>
     <MarkdownWrapper>[邀請葉雲舟](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>
 </td>
-<td>• 前往大門可邀請葉雲舟同行武林大會。
-    <br>• 若要<Girl2Icon>葉雲裳</Girl2Icon>同行，需要📖「幫她求情」。
+<td>
+    • 前往大門可邀請葉雲舟同行武林大會。<br>
+    • 若要<Girl2Icon>葉雲裳</Girl2Icon>同行，需要📖「幫她求情」。
 </td>
 <td>建議讓她同行，但若選擇📖「妳問妳哥」有其他劇情可看。</td>
 </tr>
@@ -182,7 +183,10 @@ tags:
 <td>第三年九月上旬
     <br>到第四年十月上旬
 </td>
-<td>前往及留宿錦香宮</td>
+<td>
+    <MarkdownWrapper>[前往武林大會](/event/simple/3-09-1-前往武林大會)</MarkdownWrapper><br>
+    <MarkdownWrapper>[錦香宮事件集](/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper>
+</td>
 <td>• 若葉雲舟同行:
     <br>1. 旅途事件: 劇情變化、葉雲舟可參與戰役。
     <br>2. 錦香宮: 劇情變化。
@@ -197,10 +201,10 @@ tags:
 <tr>
 <td>4</td>
 <td>第三年十月中旬</td>
-<td>武林大會</td>
+<td><MarkdownWrapper>[武林大會](/event/simple/3-10-2-武林大會)</MarkdownWrapper></td>
 <td>• 若葉雲舟同行:
     <br>1. 劇情變化。
-    <br>2. 可讓他代表唐門參加比武，但需趙活未挑戰上官隼。
+    <br>2. 可讓他<MarkdownWrapper>[代表唐門參加比武](/event/simple/3-10-2-點蒼逆徒)</MarkdownWrapper>，但需趙活未挑戰上官隼。
     <br>• 若<Girl2Icon>葉雲裳</Girl2Icon>同行:
     <br>1. 劇情變化。
     <br>2. 若投票後唐門成為武林公敵，且選擇📖「讓葉雲裳陪伴」，可解鎖<MarkdownWrapper>[風雲史《惡人自有惡人磨》](/event/achievements/#風雲史-No.19)</MarkdownWrapper>。
@@ -214,38 +218,60 @@ tags:
 
 <tr>
 <td>5</td>
-<td>第三年十二月中旬剩2行動點</td>
-<td><MarkdownWrapper>[眾人的決策](/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
-<td>• 新增📜「詢問葉雲舟」，若武林大會他有代表出戰，會獲得<MarkdownWrapper>[同舟劍譜](/system/books/book_2301)</MarkdownWrapper>。
-    <br>• 若決策遣散唐門，女弟子房、男弟子房、煉丹爐劇情變化。
-    <br>• 若決策遣散唐門，<MarkdownWrapper>[退隱江湖](/event/ends/end-25)</MarkdownWrapper>結局演出為<Girl2Icon>葉雲裳</Girl2Icon>版本。
-    <br>• 若決策成立西武林，大戰準備期有許多劇情變化，下面只列出重要的。
+<td>第三年十二月上旬剩1行動點</td>
+<td><MarkdownWrapper>[集思廣益](/event/simple/3-12-1-集思廣益)</MarkdownWrapper></td>
+<td>
+    • 新增📜「訪問葉雲舟」，若🚩武林大會<MarkdownWrapper>[葉雲舟代表唐門出戰](/event/simple/3-10-2-點蒼逆徒)</MarkdownWrapper>，會獲得<MarkdownWrapper>[同舟劍譜](/system/books/book_2301)</MarkdownWrapper>。
 </td>
 <td>同舟劍譜若修練完成，後面就無法習得劍聖極招，但一般來說同舟劍譜比較強。</td>
 </tr>
 
 <tr>
 <td>6</td>
-<td>• 第四年一月上旬(不成立西武林盟而頑抗到底)
-    <br>• 或第四年二月上旬(成立西武林盟決策)
+<td>第三年十二月上旬剩1行動點</td>
+<td><MarkdownWrapper>[告別唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>(退隱線)</td>
+<td>
+    • 女弟子房、男弟子房、煉丹房劇情變化。<br>
+    • <MarkdownWrapper>[退隱江湖](/event/ends/end-25)</MarkdownWrapper>結局演出為<Girl2Icon>葉雲裳</Girl2Icon>版本。
 </td>
-<td>小師妹回訪</td>
-<td><Girl2Icon>葉雲裳</Girl2Icon>參與事件，劇情變化。</td>
 <td></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td>• 第四年一月中旬(不成立西武林盟而頑抗到底)
-    <br>• 或第四年二月中旬(成立西武林盟決策)
+<td>第三年十二月中旬以後</td>
+<td>
+    🚩<MarkdownWrapper>[決議成立西武林盟](/event/simple/3-12-1-武林盟對策#成立西武林盟)</MarkdownWrapper>後<br>
 </td>
-<td>伴侶之約</td>
-<td>至女弟子房可觸發與<Girl2Icon>葉雲裳</Girl2Icon>玩牌事件。</td>
-<td>若不觸發此事件，則剩兩次行動時自動觸發<Girl2Icon>葉雲裳</Girl2Icon>等不到你的事件。</td>
+<td>• 大戰準備期有許多劇情變化。</td>
+<td></td>
 </tr>
 
 <tr>
 <td>8</td>
+<td>• 第四年一月上旬(不成立西武林盟而頑抗到底)
+    <br>• 或第四年二月上旬(成立西武林盟決策)
+</td>
+<td><MarkdownWrapper>[小師妹回訪](/event/simple/4-01-1-小師妹回訪)</MarkdownWrapper></td>
+<td><Girl2Icon>葉雲裳</Girl2Icon>參與事件，劇情變化。</td>
+<td></td>
+</tr>
+
+<tr>
+<td>9</td>
+<td>• 第四年一月中旬(不成立西武林盟而頑抗到底)
+    <br>• 或第四年二月中旬(成立西武林盟決策)
+</td>
+<td><MarkdownWrapper>[伴侶之約](/event/simple/4-01-2-伴侶之約)</MarkdownWrapper></td>
+<td>
+    • 至女弟子房可觸發與<Girl2Icon>葉雲裳</Girl2Icon>玩牌事件。<br>
+    • 若有其他結緣者，則會被<MarkdownWrapper>[修羅場](/event/simple/4-01-2-修羅場)</MarkdownWrapper>事件取代，點選任意場所觸發。
+</td>
+<td>若不觸發此事件，則剩兩次行動時自動觸發<MarkdownWrapper>[失約](/event/simple/4-01-2-伴侶之約#失約)</MarkdownWrapper>事件。</td>
+</tr>
+
+<tr>
+<td>10</td>
 <td>• 第四年一月中旬剩兩次行動(不成立西武林盟而頑抗到底)
     <br>• 或第四年二月中旬剩兩次行動(成立西武林盟失敗而頑抗到底)
 </td>
@@ -260,7 +286,7 @@ tags:
 </tr>
 
 <tr>
-<td>9</td>
+<td>11</td>
 <td>第四年二月中旬剩兩次行動</td>
 <td><MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
 <td>• 葉雲裳參與，劇情變化。
@@ -272,7 +298,7 @@ tags:
 </tr>
 
 <tr>
-<td>10</td>
+<td>12</td>
 <td>第四年二月下旬</td>
 <td><MarkdownWrapper>[劍聖傳承](/event/simple/4-02-3-劍聖傳承)</MarkdownWrapper></td>
 <td>• 若有解鎖此事件，大門下山可觸發。
@@ -283,7 +309,7 @@ tags:
 </tr>
 
 <tr>
-<td>11</td>
+<td>13</td>
 <td>第四年三月上旬</td>
 <td>眉山決戰</td>
 <td>• 劇情有<Girl2Icon>葉雲裳</Girl2Icon>陪同。
