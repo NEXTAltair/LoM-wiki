@@ -547,7 +547,7 @@ tags:
     <td style="text-align: center">36</td>
     <td style="text-align: center">40</td>
     <td rowspan=7>
-        <li>🚩「無可救薬ルート」(<MarkdownWrapper>[掌門の手配](/ja/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>) で、月例会で<br>「魔教に身を寄せる」「根も葉もない話ではない」<br>「劉顎を知っている」を選べば入手。<br>無可救薬ルートを離れると消失。<br></li>
+        <li>🚩「救いようのないルート」(<MarkdownWrapper>[掌門の手配](/ja/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>) で、月例会で<br>「魔教に身を寄せる」「根も葉もない話ではない」<br>「劉顎を知っている」を選べば入手。<br>救いようのないルートを離れると消失。<br></li>
     </td>
     <td rowspan=7></td>
   </tr>

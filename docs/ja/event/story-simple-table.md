@@ -793,7 +793,7 @@ tags:
 <tr>
   <th rowspan = 2 style="text-align: center">月</th>
   <th rowspan = 2 style="text-align: center">旬</th>
-  <th rowspan = 2 style="text-align: center">無可救薬<br>(Demoルート)</th>
+  <th rowspan = 2 style="text-align: center">救いようのない物語<br>(Demoルート)</th>
   <th colspan = 2 style="text-align: center">西武林盟不成立</th>
   <th colspan = 2 style="text-align: center">西武林盟成立</th>
 </tr>
@@ -1052,5 +1052,5 @@ tags:
 
 ## 備考
 
-- 無可救薬ルート(Demo)には本編と似たイベントが多いため、イベント名に「Demo」を付けて区別している。
+- 救いようのないルート(Demo)には本編と似たイベントが多いため、イベント名に「Demo」を付けて区別している。
 - 🚧未実装 を付したイベントは、ゲームデータ上は存在するが現行版では発生しない。

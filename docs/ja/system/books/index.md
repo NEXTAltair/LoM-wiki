@@ -189,7 +189,7 @@ tags:
         <td>80</td>
         <td>内功40<br>拳掌40</td>
         <td>
-            🚩<MarkdownWrapper>[掌門の手配](/ja/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>の無可救薬ルート、
+            🚩<MarkdownWrapper>[掌門の手配](/ja/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>の救いようのないルート、
             男弟子房の<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>で「前に頼んだ調べ事」を選ぶ。<br>
             銀両2000を支払い、天命のダイスで【🎲＞40 失われた嵩山の秘笈】を出し、さらに「ではありがたく頂こう」を選ぶと入手。
         </td>
