@@ -123,7 +123,14 @@ tags:
         <td>刀劍15<br>拳掌-6<br>暗器-6<br>輕功10<br>同舟劍法</td>
         <td>50</td>
         <td>點破雲關</td>
-        <td>葉家兄妹前往武林大會，葉雲舟代表唐門出戰。<br>三年十二月收到武林盟檄文，詢問葉雲舟意見獲得。</td>
+        <td>
+            • 滿足以下所有前置條件: 
+            1. 🚩<MarkdownWrapper>[和葉雲裳結緣](/event/pursuit/girl2)</MarkdownWrapper>；
+            2. 🚩<MarkdownWrapper>[葉雲舟同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>；
+            3. 🚩<MarkdownWrapper>[葉雲舟代表唐門出戰](/event/simple/3-10-2-點蒼逆徒#師徒對決)</MarkdownWrapper>。<br>
+            • 第三年十二月上旬收到<MarkdownWrapper>[武林檄文](/event/simple/3-12-1-武林檄文)</MarkdownWrapper>後的
+            <MarkdownWrapper>[集思廣益](/event/simple/3-12-1-集思廣益)</MarkdownWrapper>時，選擇「訪問葉雲舟」後獲得。
+        </td>
         <td></td>
     </tr>
     <tr>
@@ -147,7 +154,12 @@ tags:
         <td>內力15<br>刀劍10<br>三教合一LV5<br>修養+10</td>
         <td>80</td>
         <td>佛學LV1<br>或<br>儒學LV1<br>或<br>道學LV2</td>
-        <td>四師兄遠行時拜託找仙丹，回來去弟子房閒聊選【以前托你打聽的事】，<br>唐惟元≥50，花兩千金取得</td>
+        <td>
+            參照以下流程:<br>
+            <li><MarkdownWrapper>[四師兄辭別](/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>時，選擇「故意提出一些難辦的要求」，擲骰到【≧70 好啦，土特產就土特產】，再選擇「聽說華山有神仙，而神仙有靈丹 」</li>
+            <li>第三年十一月上旬<MarkdownWrapper>[四師兄歸來](/event/simple/3-11-1-門人辭別#四師兄歸來)</MarkdownWrapper>後，至男弟子房找<MarkdownWrapper>[四師兄閒聊](/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>，選擇「以前托你打聽的事」</li>
+            <li>銀兩≥5000、唐惟元好感≥50，選擇「買」後獲得</li>
+        </td>
         <td></td>
     </tr>
     <tr>
@@ -176,7 +188,11 @@ tags:
         <td>拳掌15<br>折花手LV5</td>
         <td>80</td>
         <td>內力40<br>拳掌40</td>
-        <td>三年弟子房－四師兄打聽</td>
+        <td> 
+            🚩<MarkdownWrapper>[無可救藥線](/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>，
+            至男弟子房找<MarkdownWrapper>[四師兄閒聊](/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>，選擇「以前托你打聽的事」。<br>
+            支付2000銀兩，天命擲骰【🎲＞40 失落的嵩山秘笈】，再選擇「那我就收下了」後獲得。
+        </td>
         <td></td>
     </tr>
     <tr>
@@ -208,7 +224,10 @@ tags:
         <td>體力5<br>內力5<br>拳掌10<br>刀劍10<br>傲慢</td>
         <td>80</td>
         <td>學問20<br>拳掌20<br>刀劍15<br>黃酒80</td>
-        <td>需未留學，經過千面人魔事件認識[[龍淵]]，與[[龍湘]]結緣時聊守信用贈送</td>
+        <td>
+            <li><MarkdownWrapper>🚩[離家出走住客棧](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，故而在<MarkdownWrapper>[巧遇龍淵](/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>時🚩認識龍淵。</li>
+            <li><MarkdownWrapper>[龍湘結緣](/event/simple/3-12-3-龍湘結緣)</MarkdownWrapper>事件時，閒聊「守信用」後獲得(請見該事件流程)。</li>
+        </td>
         <td></td>
     </tr>
     <tr>
@@ -240,7 +259,10 @@ tags:
         <td>拳掌10<br>如意境LV3<br>龍淵七絕LV2</td>
         <td>80</td>
         <td></td>
-        <td>千面人事件－選項外門弟子，聊到龍湘時選擇英姿颯爽（需請龍淵吃飯）</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[離家出走住客棧](/event/simple/2-06-1-離家出走)</MarkdownWrapper>。</li>
+            <li><MarkdownWrapper>[巧遇龍淵](/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>時，選擇「準備好了」，再選「我在唐門多年，都還在當外姓弟子，何等可憐」，且龍淵好感≥4獲得。</li>
+        </td>
         <td></td>
     </tr>
     <tr>
@@ -416,7 +438,7 @@ tags:
         <td>體力10<br>內力5<br>全真體操LV5<br>道學LV2</td>
         <td>52</td>
         <td></td>
-        <td>龍湘破廟事件－幫公子俠戰勝全真弟子獲得<br>唐門債務&gt;-9000，上官螢拜訪事件，四師兄轉盤隨機贈送（四師兄好感需低於60）<br>青城留學，四師兄轉盤隨機贈送<br>二年三月上旬－四師兄買物($1200)<br>二年十月中旬下架</td>
+        <td>唐門債務&gt;-9000，上官螢拜訪事件，四師兄轉盤隨機贈送（四師兄好感需低於60）<br>青城留學，四師兄轉盤隨機贈送<br>二年三月上旬－四師兄買物($1200)<br>二年十月中旬下架</td>
         <td>1200</td>
     </tr>
     <tr>
@@ -508,7 +530,7 @@ tags:
         <td>內力15<br>龍淵七絕LV5</td>
         <td>80</td>
         <td>內力30</td>
-        <td>[[龍湘]]結緣事件，拜堂時[[龍淵]]好感≧8</td>
+        <td><MarkdownWrapper>[龍湘結緣](/event/simple/3-12-3-龍湘結緣)</MarkdownWrapper>事件，拜堂時龍淵好感≧8獲得。</td>
         <td></td>
     </tr>
     <tr>
@@ -680,7 +702,7 @@ tags:
         <td>拳掌5<br>暗器3<br>防禦5<br>修養+5</td>
         <td>25</td>
         <td>修養&gt;=60</td>
-        <td>抓雞事件－戰勝全真弟子獲得(不烤雞)<br>二年崆峒派留學－無色廣場逛街，四師兄買物($800)<br>二年三月上旬－四師兄買物<br>二年十月中旬下架<br>圍城事件－南宮遠贈送(不拿錢切磋，我方血量≤40%)</td>
+        <td>抓雞事件－戰勝全真弟子獲得(需烤雞)<br>二年崆峒派留學－無色廣場逛街，四師兄買物($800)<br>二年三月上旬－四師兄買物<br>二年十月中旬下架<br>圍城事件－南宮遠贈送(不拿錢切磋，我方血量≤40%)</td>
         <td>800</td>
     </tr>
     <tr>

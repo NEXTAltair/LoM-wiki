@@ -495,8 +495,15 @@ tags:
             -
         </td>
         <td>
-            1. 江陵攻城事件，心上人是<Girl7Icon>魏菊</Girl7Icon>，王二壯叫陣時，轉盤骰到「不妙的人」，趙活會接第二掌，選擇接受<Girl7Icon>小菊</Girl7Icon>運功治療，轉盤骰到<80：爆體而亡(基本上限40，內力正向加值)。<br>
-            2. <MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件<MarkdownWrapper>[「山道之戰」](/event/simple/3-05-1-山道之戰)</MarkdownWrapper>中，與鐵冠道人比內力時，擲骰到【🎲＜40 死】。<br>
+            1. 江陵攻城事件，心上人是<Girl7Icon>魏菊</Girl7Icon>，王二壯叫陣時，轉盤骰到「不妙的人」，
+            趙活會接第二掌，選擇接受<Girl7Icon>小菊</Girl7Icon>運功治療，
+            轉盤骰到<80：爆體而亡(基本上限40，內力正向加值)。<br>
+            2. 🚩<MarkdownWrapper>[拜師夏侯蘭](/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper>，
+                奪魄森林<MarkdownWrapper>[「助你收心」](/event/simple/2-04-1-助你收心)</MarkdownWrapper>事件中進入「蚊蟲練心」階段，
+                再擲骰到【＜20 走火入魔】。<br>
+            3. <MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件
+                <MarkdownWrapper>[「山道之戰」](/event/simple/3-05-1-山道之戰)</MarkdownWrapper>中，
+                與鐵冠道人比內力時，擲骰到【🎲＜40 死】。<br>
         </td>
         <td>
             -
@@ -713,7 +720,7 @@ tags:
             -
         </td>
         <td>
-            第二年十二月下旬掌門好感＜30，二師兄好感度≧30，選擇顧煉丹房，事件骰到「打開主爐看看！」
+            第二年十二月下旬掌門好感＜40，二師兄好感度≧30，選擇顧煉丹房，事件骰到「打開主爐看看！」
         </td>
         <td>
             <MarkdownWrapper>~~你沒有出舍利，~~</MarkdownWrapper><br>
@@ -2023,7 +2030,15 @@ tags:
             就可以宣告遊戲勝利。
         </td>
         <td>
-            同時結緣夏侯蘭及任何其他女角，第四年大戰前「伴侶之約」時，進入任何一位伴侶的約定場所，觸發對決夏侯蘭並落敗。<br>
+            <li>
+                先符合以下任一情況:<br>
+                1. 和夏侯蘭結緣，且有結緣「龍湘、上官螢、唐默鈴」中任何人，且未和葉雲裳結緣。<br>
+                2. 和龍湘結緣，且有結緣「上官螢、唐默鈴、葉雲裳」中任何兩人。<br>
+            </li>
+            <li>
+                滅門線或西武林線第四年大戰當旬行動次數＞2時，點選任意設施觸發<br>
+                <MarkdownWrapper>[修羅場](/event/simple/4-01-2-修羅場)</MarkdownWrapper>事件，並進入對決後落敗。
+            </li>
         </td>
         <td>
             事實上也叫做五馬分屍、<br>
@@ -2243,7 +2258,10 @@ tags:
             -
         </td>
         <td>
-            弟子房與四師兄切磋勝利后開放全力切磋選項，選全力切磋戰敗
+            參照以下流程:<br>
+            <li>唐惟元好感≥40，且銀兩≥100，至男弟子房找<MarkdownWrapper>[四師兄閒聊](/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>，選擇「挑戰四師兄」，觸發對決並獲勝</li>
+            <li>唐惟元好感≥50，再至男弟子房找四師兄閒聊，選擇「四師兄的實力」</li>
+            <li>銀兩≥1000，再與四師兄閒聊選擇「挑戰全力四師兄」，觸發對決後落敗</li>
         </td>
         <td>
             -

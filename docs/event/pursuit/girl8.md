@@ -63,9 +63,9 @@ tags:
 <tr>
 <td>4</td>
 <td>第三年十二月上旬，剩一次行動時</td>
-<td><MarkdownWrapper>[眾人的決策](/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
-<td>決策結果不可以是遣散唐門。</td>
-<td>• 若遣散唐門，且滿足條件2，進入後山會觸發:
+<td><MarkdownWrapper>[武林盟對策](/event/simple/3-12-1-武林盟對策)</MarkdownWrapper></td>
+<td>決策結果不可以是遣散唐門(退隱線)。</td>
+<td>• 若<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>，且滿足條件2，進入後山會觸發:
     <br>1. 若有其他結緣者，心上人為<Girl8Icon>龍湘</Girl8Icon>，選擇📖「湘姊，妳要不要跟我來呢?」，🗡️對決勝利後，選擇📖「我是不會放妳走的」，會進入<MarkdownWrapper>[汗青書24: 趕海人](/event/ends/end-24)</MarkdownWrapper>，無法結緣。
     <br>2. 其他情況，會觸發龍湘三年之約事件，無法結緣。</td>
 </tr>
@@ -73,11 +73,11 @@ tags:
 <td>5</td>
 <td>• 第三年十二月下旬(不成立西武林盟而頑抗到底)
     <br>• 或第四年一月下旬(成立西武林盟)</td>
-<td>龍湘結緣</td>
-<td>• 需滿足條件3、4才能觸發。
+<td><MarkdownWrapper>[龍湘結緣](/event/simple/3-12-3-龍湘結緣)</MarkdownWrapper></td>
+<td>• 需<Girl8Icon>龍湘</Girl8Icon>好感≧60，且滿足條件3、4才能觸發。
     <br>• 完成此事件，獲得道具【龍湘的髮簪】後，即完成結緣。</td>
 <td>• 無論戰鬥輸贏都能與龍湘結緣，但若戰鬥輸給龍湘(8回合後的自動落敗除外)會無法與龍淵對話。
-    <br>• 若第二年走不留學-客棧線，由於經歷了<MarkdownWrapper>[巧遇龍淵](/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>事件，此處有龍淵劇情差分及新增📜「守信用」，可得秘笈<MarkdownWrapper>[《酩酊玄劍掌》](/system/books/book_3010)</MarkdownWrapper>。但要注意第二年六月前，若<Girl2Icon>葉雲裳</Girl2Icon>好感≧30，會無法進客棧線。
+    <br>• 若第二年走不留學-客棧線，由於經歷了<MarkdownWrapper>[巧遇龍淵](/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>事件，此處有龍淵劇情差分及新增📜「守信用」，可得秘笈<MarkdownWrapper>[《酩酊玄劍掌》](/system/books/book_3010)</MarkdownWrapper>。但要注意第二年六月前，若<Girl2Icon>葉雲裳</Girl2Icon>在唐門，且葉雲裳好感≧30，會無法進客棧線。
     <br>• 若龍淵好感8以上，可得秘笈<MarkdownWrapper>[《龍淵七絕》](/system/books/book_7013)</MarkdownWrapper>。
 </td>
 </tr>
@@ -104,9 +104,12 @@ tags:
 <td>2</td>
 <td>• 第四年一月中旬(不成立西武林盟而頑抗到底)
     <br>• 或第四年二月中旬(成立西武林盟)</td>
-<td>伴侶之約</td>
-<td>至後山可觸發與龍湘約會劇情。</td>
-<td>若不觸發此事件，則剩2行動點時自動觸發龍湘等不到你的事件。</td>
+<td><MarkdownWrapper>[伴侶之約](/event/simple/4-01-2-伴侶之約)</MarkdownWrapper></td>
+<td>
+    • 至後山可觸發與龍湘約會劇情。<br>
+    • 若有其他結緣者，則會被<MarkdownWrapper>[修羅場](/event/simple/4-01-2-修羅場)</MarkdownWrapper>事件取代，點選任意場所觸發。
+</td>
+<td>若不觸發此事件，則剩2行動點時自動觸發<MarkdownWrapper>[失約](/event/simple/4-01-2-伴侶之約#失約)</MarkdownWrapper>事件。</td>
 </tr>
 <tr>
 <td>3</td>
