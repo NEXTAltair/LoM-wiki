@@ -39,9 +39,6 @@ docs/ja/event/detailed_description/4-02-2-東西武林盟會戰.md	武林大会	
 docs/ja/event/detailed_description/4-02-2-飛俠歸來.md	唐門圍攻戦	唐門囲攻戦	event/detailed_description/4-01-2-唐門圍攻戰.md
 docs/ja/event/detailed_description/4-02-2-飛俠歸來.md	武林盟主	瑞笙	people/characters/special999.md
 docs/ja/event/detailed_description/4-03-1-眉山決戰.md	唐大鯨	許大鯨	people/characters/big_shock1.md
-docs/ja/event/ends/end-24.md	西武林盟を成立できない決断	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
-docs/ja/event/ends/end-25.md	西武林盟を成立できない決断	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
-docs/ja/event/ends/end-31.md	西武林盟を成立できない決断	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
 docs/ja/event/ends/end-32.md	罪を償いたい犯人	譚霸刀	people/characters/special801.md
 docs/ja/event/ends/end-35.md	唐惟元が唐門に戻る	四師兄、商いの長旅へ	event/detailed_description/3-08-1-四師兄遠遊經商.md
 docs/ja/event/ends/end-35.md	大義分舵が唐門外姓弟子になる	衆人の決断	event/detailed_description/3-12-1-眾人的決策.md
@@ -68,7 +65,6 @@ docs/ja/event/ends/end-50.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌	people/
 docs/ja/event/ends/end-50.md	唐嬌嬌	狄傲 (テキゴウ) / 唐嬌嬌	people/characters/big_trainee_girl_1.md
 docs/ja/event/ends/end-8.md	掌門人	唐中翎	people/characters/master.md
 docs/ja/event/pursuit/girl2.md	九転輪廻	技能効果	system/skill.md
-docs/ja/event/pursuit/girl2.md	仏学	技能効果	system/skill.md
 docs/ja/event/pursuit/girl2.md	仏学	技能効果	system/skill.md
 docs/ja/event/pursuit/girl2.md	仏学	技能効果	system/skill.md
 docs/ja/event/pursuit/girl2.md	仏学	技能効果	system/skill.md
@@ -186,7 +182,6 @@ docs/ja/people/characters/player.md	掌門	唐中翎	people/characters/master.md
 docs/ja/people/characters/player.md	鈴児	唐默鈴	people/characters/girl0.md
 docs/ja/people/characters/player.md	黒衣人	唐布衣	people/characters/brother1.md
 docs/ja/people/characters/special1.md	南嵩山寺	嵩山派	people/factions/mount-song-sect.md
-docs/ja/people/characters/special1.md	白鯊幇主	白鯊幇	people/factions/white-shark-gang.md
 docs/ja/people/characters/special101.md	王春暁	王二壮	people/characters/special401.md
 docs/ja/people/characters/special101.md	蘇迎香	温夫人	people/characters/special402.md
 docs/ja/people/characters/special101.md	蘇迎香	温夫人	people/characters/special402.md
