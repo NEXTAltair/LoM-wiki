@@ -884,9 +884,11 @@ tags:
       </MarkdownWrapper>
   </td>
   <td colspan = 2 style="text-align: center">
-    福韞出使峨嵋<br>
-    出使青城人選<br>
-    🚧收買滄幫<br>
+      <MarkdownWrapper>
+          [福韞出使峨嵋](/event/simple/3-12-3-福韞出使峨嵋)<br>
+          [出使青城人選](/event/simple/3-12-3-出使青城人選)<br>
+          🚧收買滄幫<br>
+      </MarkdownWrapper>    
   </td>
 </tr>
 
@@ -905,8 +907,10 @@ tags:
       </MarkdownWrapper>    
   </td>
   <td colspan = 2 style="text-align: center">
-    出使峨嵋人選<br>
-    自己該做的事<br>
+      <MarkdownWrapper>
+          [出使峨嵋人選](/event/simple/4-01-1-出使峨嵋人選)<br>
+          [迎戰準備](/event/simple/4-01-1-迎戰準備)<br>
+      </MarkdownWrapper>
   </td>
 </tr>
 <tr>
