@@ -44,6 +44,7 @@ tags:
         <td>背が高くて<ruby>窈窕<rt>ようちょう</rt></ruby>な姿をしているはず</td>
         <td>素直で明るい</td>
         <td>ちょっと狂ってる感じ</td>
+        <td></td>
     </tr>
     <tr>
         <td><Girl5Icon :size="`medium`" href="/ja/people/characters/girl5">夏侯蘭</Girl5Icon></td>
@@ -86,6 +87,7 @@ tags:
         <td>小柄で可愛らしい</td>
         <td>大人しくて従順</td>
         <td>心の優しさ云々より、あいつの力は山を抜き、気は世を蓋う</td>
+        <td></td>
     </tr>
     <tr>
         <td><Girl1Icon :size="`medium`" href="/ja/people/characters/girl1">瑞杏</Girl1Icon></td>
