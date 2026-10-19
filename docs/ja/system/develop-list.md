@@ -1575,7 +1575,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=8 style="text-align: center" id = "逆鱗寶衣">逆鱗宝衣<br></td>
+    <td rowspan=8 style="text-align: center" id = "逆鱗宝衣">逆鱗宝衣<br></td>
     <td rowspan=8 style="text-align: center">
         <li>軽量化<br>レベル10<br></li>
     </td>
@@ -1712,7 +1712,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=10 style="text-align: center" id = "烏蠶寶衣">烏蚕宝衣<br></td>
+    <td rowspan=10 style="text-align: center" id = "烏蚕宝衣">烏蚕宝衣<br></td>
     <td rowspan=10 style="text-align: center">
         <li>護心鏡<br>レベル10<br></li>
     </td>
