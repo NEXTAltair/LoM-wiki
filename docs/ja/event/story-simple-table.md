@@ -638,7 +638,6 @@ tags:
 				[大師兄の重傷](/ja/event/simple/3-01-3-大師兄重傷)<br>
 				[後山埋葬](/ja/event/simple/3-01-3-後山安葬)<br>
 				[丹薬解毒](/ja/event/simple/3-01-3-煉丹解毒)<br>
-				[葉雲裳の診察](/ja/event/simple/3-01-4-雲裳問診)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
