@@ -81,6 +81,14 @@ tags:
 [点蒼派](/ja/people/factions/dian-cang-sect.md)とは宿敵の間柄で、大小の戦闘は数十回に及びます。
 <br clear="all">
 
+## 唐門全景
+
+唐門での自由行動で、行き先の施設を選ぶ画面の背景です。物語の冒頭の場面にも出ます。絵は昼用と夜用の 2 枚があります。
+
+![唐門全景 (昼)](/images/factions/tang-men_day.webp)
+
+![唐門全景 (夜)](/images/factions/tang-men_night.webp)
+
 ## 由来
 
 最初の唐門は、唐姓の一家が山林に隠れ住んでいたに過ぎません。
