@@ -971,7 +971,7 @@ tags:
   <td style="text-align: center">
     <MarkdownWrapper>
     [小師妹の再訪](/ja/event/simple/4-01-1-小師妹回訪)<br>
-    🚧未実装 [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)【滅門ルート】<br>
+    [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)<br>
     </MarkdownWrapper>
   </td>
   <td colspan = 2 style="text-align: center">
