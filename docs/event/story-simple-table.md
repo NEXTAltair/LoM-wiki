@@ -241,8 +241,7 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
 			[崆峒留學](/event/simple/2-03-1-崆峒留學)<br>
-            鐵拳巷事件集<br>
-			[初入鐵拳巷](/event/simple/2-03-1-初入鐵拳巷)<br>
+            [鐵拳巷事件集](/event/simple/2-03-1-鐵拳巷事件集)<br>
             [窩居衝突](/event/simple/2-03-1-窩居衝突)<br>
 			[崆峒搶劫](/event/simple/2-03-1-崆峒搶劫)<br>
 		</MarkdownWrapper>
@@ -270,7 +269,7 @@ tags:
         <MarkdownWrapper>
             飛天門霸凌<br>
             鎮魂獄羈押<br>
-            鶴崖事件集<br>
+            [鶴崖事件集](/event/simple/2-03-3-鶴崖事件集)<br>
         </MarkdownWrapper>
     </td>
     <td colspan = 3 style="text-align: center">
@@ -452,7 +451,8 @@ tags:
     <td style="text-align: center">中</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-			郁竹抵江陵<br>
+			崆峒派抵江陵<br>
+            郁竹在江陵<br>
         </MarkdownWrapper>
     </td>
     <td style="text-align: center">-</td>
@@ -956,7 +956,7 @@ tags:
   <td style="text-align: center">
       <MarkdownWrapper>
           [小師妹回訪](/event/simple/4-01-1-小師妹回訪)<br>
-          🚧[瑞笙來訪](/event/simple/4-02-1-瑞笙來訪)<br>
+          [瑞笙來訪](/event/simple/4-02-1-瑞笙來訪)<br>
       </MarkdownWrapper>    
   </td>
   <td colspan = 2 style="text-align: center">
