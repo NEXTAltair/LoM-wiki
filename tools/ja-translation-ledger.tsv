@@ -96,7 +96,7 @@ event/ends/end-6.md	REWROTE	4066f07190717cf6f7dc208b268444cd50660297f40f405ed2aa
 event/ends/end-7.md	REWROTE	2cf6ca980e4541b581064acf2bb50487960a41124b2def78a9904fa3ceabb3ce
 event/ends/end-8.md	REWROTE	3f35ad1fafa8ebebcf56137ea145e2419bcf5edff5cd6d69155f94ded632df3e
 event/ends/end-9.md	REWROTE	298f71f09ddbc2d70080f453938ed1f31df2c923905393ee2f2391d68c9b2238
-event/ends/index.md	REWROTE	016f2c3bb6173ea2e77964594fb0233315cd3b1c7268dd68f5a4e7333a555c33
+event/ends/index.md	REWROTE	7a80ecfa16eb522770c3cea044f3a171e2a833d5b9df4d7c210684bef543bde8
 event/pre-game-timeline.md	OK	2d9141f1b6620e9e8d987e3dbcc4660c34406e2eefabcf62667c9c37ed36b3b3
 event/pursuit/girl0.md	REWROTE	b19c460822e5c1bd5699c264405833cf774f5d29c14462b5bea4c3ea86e72782
 event/pursuit/girl2.md	OK	4843776b9ebe95ec34786d2ca43c6d42827609620080e22d5731d1c3bb2c8dd3
@@ -128,7 +128,7 @@ event/simple/1-07-1-呂翁討債.md	REWROTE	7598df62009d9a7e5cb78b05c93ddeefafc5
 event/simple/1-07-1-廣州軼聞.md	REWROTE	751a382173f96f42d1fd3a166f570882f20ad2af7dcf1f44926d33fc4d5adb0d
 event/simple/1-07-3-唐門段考.md	OK	77ec2c12073453f468a5e7ba414efdd2815a4b5d7533096abc66a30ff8271070
 event/simple/1-08-1-唐門財務改善.md	REWROTE	bb2a480d9e972c7ff110735f6a7da73323beaa9f404ae4d591ad206aa6aff390
-event/simple/1-08-1-葉氏行蹤風波.md	REWROTE	5a7821fbd4f32cbcba5105353b0d45c096e02f389c947c2dd83504562a4da5fb
+event/simple/1-08-1-葉氏行蹤風波.md	REWROTE	d17931f242dae67dfeee5786ec650984350afd8557cf4984d9635498c0a5850d
 event/simple/1-08-1-葉雲裳衝擊.md	REWROTE	4c0a9fd155857da6120d420fc45f579c7dd9587c85035307d28662cc842c1d6b
 event/simple/1-08-1-談論武穆王寶藏.md	REWROTE	57745a2b41282301f2b32a80ede4a3bad4f2e8c00c8ab707b04cd9f78621fa45
 event/simple/1-08-2-假字據.md	OK	61dc78ffe84a4a5b24cc49f3d7ba1ea31aa487f9422723c45c571f32bf1a6c01
@@ -232,9 +232,9 @@ event/simple/3-01-1-葉氏兄妹離去.md	REWROTE	b345f095e8bb2f9a0ab8350a7a2f56
 event/simple/3-01-2-前往臥雲崗.md	REWROTE	af8040a64aabf2101db648c4a35ee97a0c878af67d0702997ba541b03209c11b
 event/simple/3-01-2-臥雲崗事件.md	REWROTE	b4fdc1907e021084d70cfd791831679a8570f35f8aa362ea3ac02e098a808bbf
 event/simple/3-01-2-臥雲崗留守.md	REWROTE	72208d73ad8eec5e7e6e669bfcdccbdc8997a7ab82818b961426c612ad7c46ff
-event/simple/3-01-3-回程遇刺.md	REWROTE	b3f1c22ecfaa3cf269e687828de0f07e5963832b0558b190cb154eb3fef07f20
+event/simple/3-01-3-回程遇刺.md	REWROTE	bc842d8d7019fa712fc7a41cb1e577327496587f47df093e4abd95360cd78890
 event/simple/3-01-3-圍觀臥雲崗.md	REWROTE	e85c310443abb1b3f75763f27f79418d576db16670696fb4be7ab0d41bdc3eb3
-event/simple/3-01-3-大師兄重傷.md	REWROTE	f383e8858895c087aeaf0dafe54e07bce09356cfdeed57274c560fdb38a485a0
+event/simple/3-01-3-大師兄重傷.md	REWROTE	e2de9120ffb8f6ad3378890b91e8d798e37781641b71949587a1a55f90830fd1
 event/simple/3-01-3-後山安葬.md	OK	ce4ea04ccc9b1d269052a9431ab0394e87f5da77691967f97a8049bba858a776
 event/simple/3-01-3-煉丹解毒.md	REWROTE	2f15821f531fa5812cb29ff0eb046399c180d9f238de718505d263afadee286d
 event/simple/3-01-4-雲裳問診.md	REWROTE	14905ad948e667b43c2181444fe39d95d845878478a10cf837c24b8022c4f9de
@@ -306,7 +306,7 @@ event/stories/決戰極樂教.md	REWROTE	0fa21c5771a381edf73e34654ac6ed0cb12d3b4
 event/stories/白風峒變亂.md	REWROTE	4e81664edf2bce5f59ac6ddb4c8c9a433204fc5fd23fc57c2fffcc64257f53b3
 event/stories/青城論道.md	REWROTE	cc550960efedfb1334480dbc29224e38af17c4083819d4bc69480f1f28c4bc18
 event/story-branch-timeline.md	REWROTE	6048fcd8ec1fa8493fc5ae306a6819559de78a3fd822f1ded38876cb7c9da272
-event/story-simple-table.md	REWROTE	415aa252431e84fdd18c533eee0ec914aabe9a12e3f3affacbe707257a484c6b
+event/story-simple-table.md	REWROTE	4cf2ac2e3d8d5e2f9efbae41adaccdd60abfdbc25309733ccdee394093f7f18d
 first-person-pronouns.md	OK	c5b7948fb6b453564adc941304b546ebf641c3508fb908bb6d403f498c0b19e0
 glossary.md	OK	7078c96dfe6fe32fb6e0ebd4294838727b16d044ae86219f93d099340e15c5e9
 index.md	OK	49aaad62fece47edba28b7ff795a4939e25b67ca507722c02ba9af94b443ffd5
@@ -534,7 +534,7 @@ people/mobs/orthodox-sects.md	REWROTE	207e8f55bf3da82a3ef6f7c258161a536cbcfa97d3
 people/mobs/other.md	REWROTE	5180d68aed970777a44f8f5194d55ea9e4383ebb95989c9938e1e7e6c9dae72f
 people/mobs/tang-men-female.md	OK	a679f5f8c9a56f72c60223a4aaf0f7bc729d132e441d84da71316158f4d56ea0
 people/mobs/tang-men-male.md	REWROTE	bf40da0fd5bea3ac9415c2b1c7bd062b08a92ffee443adbaca571c160861e756
-people/title-list.md	OK	f85c03bdfec6c5a50d6983464750894434cf4c9d8e8ef82ad1aff741b8b93b32
+people/title-list.md	OK	f94869648b4ed7b8e6e53311deccb4cd2337fc725af3dce254e13efddc0b4b3a
 system/books/book_1000.md	REWROTE	874a9b4abee42cf903927eb444eb09a55feb852973e5949be1b2c1784fba77c5
 system/books/book_1010.md	REWROTE	ac25da24be66c1c16e231afb7e145e6e321100a7061cf83aa740e2331dc1d639
 system/books/book_1020.md	REWROTE	a6f20b8c7de4f5e3bac27cb6ff6f0cd279de15a94d13463b0844debd9e7c78f5
@@ -694,3 +694,4 @@ event/simple/3-12-3-出使青城人選.md	OK	577192d51efa6f60a2e75d1e50f10120a37
 event/simple/3-12-3-福韞出使峨嵋.md	OK	13637b22f9ee9ee43e1fb2a3898f3ee2a69fe5c6d96028c8c3e5cb3acedda846
 event/simple/4-01-1-出使峨嵋人選.md	OK	8bd913416b91a89886dd86af4380bd53ffbf864533bfbf46b9ab6ed8fd050c46
 event/simple/4-01-1-迎戰準備.md	OK	ffa16db4979df95062f8e2baffde387ab4f977e2eb1cb78658c23a19e1434f8d
+system/pinball.md	REWROTE	747a8f089cf085979c41d4ec6c1e4dd04d795f362578f210307a06c61af25808
