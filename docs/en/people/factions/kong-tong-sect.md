@@ -233,6 +233,8 @@ In the third-year Kongtong scenes added in the major update of October 2026, the
 
 Place names written on the map: 混元頂, 羊不爛山, 太和宮, 太陽掌, 通天橋, 朝陽洞, 磨針觀, 插香台, 棋盤嶺, 奪魄森林, 黃龍泉, 捨身崖, 半雨屏, 鑽羊洞, 蠟燭峰, 朽木橋, 鎮魂獄, 大象山, 一線天, 藥王洞, 朝天門, 修渡橋, 小象山, 八仙台, 無色廣場, 彈箏湖, 玄功洞, 飛升宮, 問道宮.
 
+North is at the top of the map. Of the places not labeled on it, the Feitian Gate's Feitian Hall (飛天殿) stands on 混元頂, further north than 太和宮, and 鶴崖 lies in the heart of the Feitian Gate's grounds.
+
 ## Landmarks and Attractions
 
 ### Colorless Market
