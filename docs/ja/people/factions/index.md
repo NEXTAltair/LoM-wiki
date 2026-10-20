@@ -72,7 +72,7 @@ tags:
 -   [雪山派](/ja/people/factions/mount-snow-sect)
 -   [孤雲山派](/ja/people/factions/mount-guyun-sect)
 -   [杏花林](/ja/people/factions/apricot-forest)
--   [耕陽読書齋](/ja/people/factions/geng-yang-study)
+-   [耕陽読書斎](/ja/people/factions/geng-yang-study)
 -   [嶺南派](/ja/people/factions/lingnan-sect)
 
 ## ゲーム内の大地図

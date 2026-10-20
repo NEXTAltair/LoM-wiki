@@ -56,4 +56,4 @@ tags:
 - [王二壮](/ja/people/characters/special401)は江陵大戦で孤雲派を認識した
 - [万里鵬程](/ja/people/characters/special6)は還俗した年に孤雲山を訪れたことがある
 
-[^1]: [RE:【討論】一起來當活学家。（劇情雷）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=5513)
+[^1]: [RE:【討論】一起来当活学家。（劇情雷）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=5513)

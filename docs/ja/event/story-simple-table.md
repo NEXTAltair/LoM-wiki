@@ -177,7 +177,7 @@ tags:
 			<td>十一月</td>
 			<td>
 				<MarkdownWrapper>
-				[譚霸刀を捕捉する](/ja/event/simple/1-11-1-捉拿譚霸刀)<br>
+				[譚覇刀を捕捉する](/ja/event/simple/1-11-1-捉拿譚霸刀)<br>
 				[江陵に初到着](/ja/event/simple/1-11-1-初到江陵)<br>
 				[寿宴へ出発](/ja/event/simple/1-11-1-啟程赴壽宴)<br>
 				</MarkdownWrapper>
@@ -492,7 +492,7 @@ tags:
     <td style="text-align: center">中</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-            [弾珠台の修理](/ja/system/pinball#修理彈珠檯)<br>
+            [弾珠台の修理](/ja/system/pinball#修理弾珠檯)<br>
             [雲裳との再会](/ja/event/simple/2-10-2-雲裳重逢)<br>
             鍛冶場の拡張<br>
             郁竹の武芸修行<br>
@@ -992,7 +992,7 @@ tags:
       [修羅場](/ja/event/simple/4-01-2-修羅場)<br>
       [伴侶との約束](/ja/event/simple/4-01-2-伴侶之約)<br>
       [唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)<br>
-      [飛俠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)<br>
+      [飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)<br>
     </MarkdownWrapper>
   </td>
   <td colspan = 2 style="text-align: center">
@@ -1051,7 +1051,7 @@ tags:
   <td style="text-align: center">
     <MarkdownWrapper>
       [東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)<br>
-      [飛俠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)<br>
+      [飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)<br>
     </MarkdownWrapper>
   </td>
 </tr>
@@ -1110,4 +1110,4 @@ tags:
 - 救いようのないルート(Demo)には本編と似たイベントが多いため、イベント名に「Demo」を付けて区別している。
 - 🚧未実装 を付したイベントは、ゲームデータ上は存在するが現行版では発生しない。
 - イベントの台本によく出てくる隠しパラメータは、[隠しパラメータ一覧](/ja/system/hidden-params)を参照。
-- 本記事は[活俠傳資料彙總](https://docs.google.com/spreadsheets/u/1/d/10wN_Kfusr5ipzXVzvNewsPHmn3HNCNUtqME26t94I4o)、[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)、[活俠傳事件分岐資料庫](https://mortal-web-database.vercel.app/)を参考に作成。
+- 本記事は[活俠傳資料彙総](https://docs.google.com/spreadsheets/u/1/d/10wN_Kfusr5ipzXVzvNewsPHmn3HNCNUtqME26t94I4o)、[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)、[活俠傳事件分岐資料庫](https://mortal-web-database.vercel.app/)を参考に作成。

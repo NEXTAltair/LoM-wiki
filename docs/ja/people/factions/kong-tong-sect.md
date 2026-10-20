@@ -73,7 +73,7 @@ tags:
 
 飛天門は崆峒の筆頭で、歴来の掌派人の大半はここから輩出されている。崆峒を代表する門派といっても過言ではなく、武林の諸事について相談を受けるのも飛天門である。また法統を継ぎ、方針を定め、三派の掌門と共同して事を決する。
 <br><br>
-飛天門は修仙を志し、専ら祭天祈福・符紙駆邪に携わっている。山人は皆、崆峒の風雨順調・五穀豊穣は飛天門の力による所だと信じている。掌門[火龍仙君](/ja/people/characters/special204)は法力が高く、額に第三の眼があり、三頭六臂を持ち、三昧真火を吐くと伝聞されている。座下の大弟子「道法將軍」[丹霞子](/ja/people/characters/special404)道長と高手[金烏上人](/ja/people/characters/special207)は共に掌派人の有力候補である。嫡伝女弟子[虞小梅](/ja/people/characters/girl3)は現在の崆峒四姝の中で最も声望が高い。
+飛天門は修仙を志し、専ら祭天祈福・符紙駆邪に携わっている。山人は皆、崆峒の風雨順調・五穀豊穣は飛天門の力による所だと信じている。掌門[火龍仙君](/ja/people/characters/special204)は法力が高く、額に第三の眼があり、三頭六臂を持ち、三昧真火を吐くと伝聞されている。座下の大弟子「道法将軍」[丹霞子](/ja/people/characters/special404)道長と高手[金烏上人](/ja/people/characters/special207)は共に掌派人の有力候補である。嫡伝女弟子[虞小梅](/ja/people/characters/girl3)は現在の崆峒四姝の中で最も声望が高い。
 <br><br>
 飛天門の弟子は皆[飛天腳](/ja/system/books/book_6002)という軽功を習う。これは高深な武学『[仙鶴迷蹤拳](/ja/system/books/book_6003)』から簡略化されたものであり、飛天腳も「鶴樁」の基本功を記載している。また『火雲剣譜』というものもあり、[夏侯蘭](/ja/people/characters/girl5)がかつて言及したことがある。鎮門絶学は『[焚心火印](/ja/system/books/book_7009)』である。
 <br><br>
@@ -360,7 +360,7 @@ tags:
 
 -   [飛天腳](/ja/system/books/book_6002)
 -   [仙鶴迷蹤拳](/ja/system/books/book_6003)
--   [烈火禪](/ja/system/books/book_7003)
+-   [烈火禅](/ja/system/books/book_7003)
 -   [焚心火印](/ja/system/books/book_7009)
 -   [無影爪](/ja/system/books/book_6004)
 -   [鉄臂神拳](/ja/system/books/book_6005)
