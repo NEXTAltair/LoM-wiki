@@ -267,7 +267,7 @@ tags:
     <td style="text-align: center">下</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-            飛天門霸凌<br>
+            [飛天門霸凌](/event/simple/2-03-3-飛天門霸凌)<br>
             鎮魂獄羈押<br>
             [鶴崖事件集](/event/simple/2-03-3-鶴崖事件集)<br>
         </MarkdownWrapper>
@@ -287,6 +287,7 @@ tags:
 			[衣服遭竊](/event/simple/2-04-1-衣服遭竊)<br>
             [季試消息](/event/simple/2-04-1-季試消息)<br>
             崆峒探險隊<br>
+            郁竹返家準備<br>
 			[奪魄森林事件集](/event/simple/2-04-1-奪魄森林事件集)<br>
         </MarkdownWrapper>
     </td>
@@ -654,6 +655,9 @@ tags:
 				<MarkdownWrapper>
 				[臥雲崗事件](/event/simple/3-01-2-臥雲崗事件)<br>
 				[臥雲崗留守](/event/simple/3-01-2-臥雲崗留守)<br>
+                兵器檢查<br>
+                幫助同門<br>
+                劍閣到訪<br>
 				[前往臥雲崗](/event/simple/3-01-2-前往臥雲崗)<br>
 				</MarkdownWrapper>
 			</td>
