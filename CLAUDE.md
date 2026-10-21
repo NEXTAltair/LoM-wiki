@@ -93,9 +93,10 @@ components — see `docs/.vitepress/theme/components/tdStyles`).
 - JA translations follow "MOD 訳最優先": when an official/community MOD translation of
   a term exists, follow it even if it reads as a mistranslation of the source — don't
   independently retranslate.
-- Numeric event effects and event identification should be derived from save-diff
-  analysis (`savediff.py` on `.ss.json` saves), not from the old F3 diff-tracking
-  approach (deprecated). See the `lom-data-mining` skill.
+- Read an event's branches and numeric effects from the game's own event scripts
+  (extracted from the game assets), and use save-diff analysis to confirm what actually
+  happened in a playthrough — a save diff shows only the one path that was played. The
+  old F3 diff-tracking approach is deprecated. See the `lom-data-mining` skill.
 
 ## Event page names are editor-assigned summaries, not official names
 
