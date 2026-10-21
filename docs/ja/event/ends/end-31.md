@@ -34,7 +34,7 @@ tags:
 <MarkdownWrapper>[〈夏侯蘭結縁攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
 
 ### 二、門人解散
-1. 第三年十二月上旬の最後の行動前。[李富貴](/ja/people/characters/special809)の好感度＜20、かつ「[金烏上人](/ja/people/characters/special207)が存命」「スキル：戦術＜5」「スキル：戦術＜8かつ学問＜60」のいずれかに当てはまる場合、[武林盟への対策](/ja/event/simple/3-12-1-武林盟對策)イベントに進む。
+1. 第三年十二月上旬の最後の行動前。[李富貴](/ja/people/characters/special809)の好感度＜20 または丐幇の好感度＜2、かつ「[金烏上人](/ja/people/characters/special207)が存命」「スキル：戦術＜5」「スキル：戦術＜8かつ学問＜60」のいずれかに当てはまる場合、[武林盟への対策](/ja/event/simple/3-12-1-武林盟對策)イベントに進む。
 2. 敵と隠居について投票を実施：[唐惟元](/ja/people/characters/brother4)が帰還した場合、[唐惟元](/ja/people/characters/brother4)の投票が追加される。
    + 主人公の決断：
      + **📜議題「決定：敵と戦う」**：敵と戦う＋１票。
