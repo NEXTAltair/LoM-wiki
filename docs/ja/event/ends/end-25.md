@@ -23,9 +23,9 @@ tags:
 
 ## 条件とフロー
 
-<strong>条件：</strong>[李富貴](/ja/people/characters/special809)の好感度＜20、スキル：戦術＜5またはスキル戦術＜8、学問＜60<br>
+<strong>条件：</strong>[李富貴](/ja/people/characters/special809)の好感度＜20、かつ「[金烏上人](/ja/people/characters/special207)が存命」「スキル：戦術＜5」「スキル：戦術＜8かつ学問＜60」のいずれか<br>
 **フロー：**<br>
-1. 第三年十二月上旬の最後の行動前。[李富貴](/ja/people/characters/special809)の好感度＜20、[金烏上人](/ja/people/characters/special207)が存命またはスキル：戦術＜5またはスキル戦術＜8、学問＜60の場合、[武林盟への対策](/ja/event/simple/3-12-1-武林盟對策)イベントに進む。
+1. 第三年十二月上旬の最後の行動前。[李富貴](/ja/people/characters/special809)の好感度＜20、かつ「[金烏上人](/ja/people/characters/special207)が存命」「スキル：戦術＜5」「スキル：戦術＜8かつ学問＜60」のいずれかに当てはまる場合、[武林盟への対策](/ja/event/simple/3-12-1-武林盟對策)イベントに進む。
 2. 敵と隠居について投票を実施：[唐惟元](/ja/people/characters/brother4)が帰還した場合、[唐惟元](/ja/people/characters/brother4)の投票が追加される。唐黙鈴と婚約した場合、<Girl0Icon>唐黙鈴</Girl0Icon>の投票が追加される。
    + 主人公の決断：
      + **📜議題「決定：敵と戦う」**：敵と戦う＋１票。
