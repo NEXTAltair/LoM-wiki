@@ -1,6 +1,6 @@
 # docs/ja 和訳進捗台帳 (tools/checkJaTranslation.js が読む)
 # 形式: パス<TAB>OK|REWROTE<TAB>sha256(現在のjaファイル)
-address-terms.md	OK	d3ec50a115e1e403a2071d6a35654e05679a60fc465590a2b1a9db3f8a0c07b6
+address-terms.md	OK	8284b489a58d0c402041e94558bc01329e71a9c01bad383eca45d80855d25ce4
 develop/1-start.md	REWROTE	c46d045817a64c8ec5ae0ca29048c9e00d83da1d1e908de5b9df8bb79727332a
 develop/2-vitepress.md	OK	3b9bda23753ce91a9fe01996b410f8719db4a803f5d18dbb1cd0cc141e8f2659
 develop/3-run-local.md	REWROTE	a9cf04f4af428783da03622b8942acd26ff573963fe60dabe9b96a418024b652
