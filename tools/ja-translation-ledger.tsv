@@ -1,6 +1,6 @@
 # docs/ja 和訳進捗台帳 (tools/checkJaTranslation.js が読む)
 # 形式: パス<TAB>OK|REWROTE<TAB>sha256(現在のjaファイル)
-address-terms.md	OK	b2402c901d0a01d69538bcd22950745989e4d94db28e57b135c401d6704cb3b8
+address-terms.md	OK	aa7d1ddbfab73834fe95640bfc705a87d59fa4d307d40cc109f5aadfddd8725b
 develop/1-start.md	REWROTE	c46d045817a64c8ec5ae0ca29048c9e00d83da1d1e908de5b9df8bb79727332a
 develop/2-vitepress.md	OK	3b9bda23753ce91a9fe01996b410f8719db4a803f5d18dbb1cd0cc141e8f2659
 develop/3-run-local.md	REWROTE	a9cf04f4af428783da03622b8942acd26ff573963fe60dabe9b96a418024b652
@@ -306,7 +306,7 @@ event/stories/白風峒變亂.md	REWROTE	ef0557b1fb01aacf1d2ab6514cb08354fe7f4b5
 event/stories/青城論道.md	REWROTE	142f8ad574ad6a03309d69bb3798eb6528785b41533728e59af24c4a8b0db55d
 event/story-branch-timeline.md	REWROTE	cd0d25ebe39da630cc9db8a17531a817ee3bbd37e9534af7316084361f50db71
 event/story-simple-table.md	REWROTE	2e6119308f77c8c15e940bba46450bbd566c1fe61afae9f80a12365d9534c224
-first-person-pronouns.md	OK	9a53746461848515289c85de8bb102dfc9e0d8446e8fab3d90fc0f0ef6eac84c
+first-person-pronouns.md	OK	dda12657ab5267a49dc5b9d0e21706684389ff0cdba207e26211d131c8b89ed5
 glossary.md	OK	c30c448d5ef0cbeaddd3298f00cbfd00191487bef3500fafc093a2a2f863a23c
 index.md	OK	49aaad62fece47edba28b7ff795a4939e25b67ca507722c02ba9af94b443ffd5
 other/guide/1-game-objective.md	REWROTE	75174f3d6f3b32845a414dcf1bc1965e92b90f60ac7ea7e198e576b535a7507f
