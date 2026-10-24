@@ -36,7 +36,8 @@ event/badends/badend-84.md	REWROTE	60fb067ec8e3d77469e1c80bd797e269482e02df9ff72
 event/badends/index.md	REWROTE	d2ae2e2c2d9f2f93d8ceb897507b8bf5f69afd2ae0ce83f9fce2a701b17ec72f
 event/detailed_description/2-08-5-青城療傷.md	REWROTE	f5c64ea8fbd7f93f2274c09573d6e22cfb724124c9ccc2c01e237535f7ced3df
 event/detailed_description/3-08-1-四師兄遠遊經商.md	REWROTE	47a318cfa584d6b7c1eb9028af3964fcf286bcf0a0e9c16177e085d6fb74f454
-event/detailed_description/3-08-2-武林大會.md	REWROTE	54ff05dfef980b6dcd2c9d5e9e6a38c1fa723b87740e9eab58eb7148abd6a87b
+event/detailed_description/3-08-2-武林大會.md	REWROTE	c91210fbfc3cc34b4e10b3717c9a1f9d82b321ace3b1acfb7e4201ad38c0002f
+event/detailed_description/3-10-2-客棧歸途.md	REWROTE	cd9647f71c16e17e7cab34896a547e811064c2c7be20cccf4eca1b12c1edbc6b
 event/detailed_description/3-12-1-眾人的決策.md	REWROTE	9a98b1f5133708d76013f14d52b2429b0305d4c42f88933225e139ab0f1c7264
 event/detailed_description/4-01-2-唐門圍攻戰.md	REWROTE	be354d6467acddbe55b02013b5bf8f8cc799b3168e0986e4846d4b92f7ed7bb0
 event/detailed_description/4-02-2-東西武林盟會戰.md	REWROTE	6dd3684a9052e320ef5a596f45316dcfa595ee3a0b499af8d1beb6163dd52da5
@@ -293,8 +294,8 @@ event/simple/3-10-2-各派支持.md	REWROTE	4c194968833b95881faf3e7014df41fca99c
 event/simple/3-10-2-武林公敵.md	REWROTE	0f059aef6be036ad73be44c41cb29eb58deed1e388ae3391012f1ed50964381b
 event/simple/3-10-2-泥教來襲.md	REWROTE	c71b8ee75e5417f297733803864d0a33dcf7078463521f53299d1906da219911
 event/simple/3-10-2-入住客棧.md	REWROTE	29c1b37cc2085ab95f5caa3a21ffe59bca3b7a525adaa467f1fa3fd86687547c
-event/simple/3-10-2-客棧休憩.md	REWROTE	4fea9e508ce1cca3c99c5b127b79fd63d05e782e4cfadae55aca20796c035744
-event/simple/3-10-2-魏菊侍酒.md	REWROTE	3c095478e9ed20fe9a4de10053560ec5d8e65a9a562ff528a3e3f2b18d67c216
+event/simple/3-10-2-客棧休憩.md	REWROTE	1ab2c5880519e2dde825223c715474f78618eb3633bb020245341d068088c528
+event/simple/3-10-2-魏菊侍酒.md	REWROTE	84d599ddaf8517f6af9d5304159b94f66737961ae98d0df14019d7335af309dd
 event/simple/3-10-2-南溪夜訪.md	REWROTE	eea43aca47f3781e09700c98111a14c9fa3e77f8090ed87cd4dffd4ca0a7ccdd
 event/simple/3-11-1-接風四師兄.md	REWROTE	440f6ad4d2ee7fd49525eb12aab058065122276433cd5b949a86f32231ec31b1
 event/simple/4-02-1-瑞笙來訪.md	REWROTE	85e3e1abbbb193440b8a796bbaf0279e759976e7d9be55615f2fc2689523165f
@@ -305,7 +306,7 @@ event/stories/決戰極樂教.md	REWROTE	0fa21c5771a381edf73e34654ac6ed0cb12d3b4
 event/stories/白風峒變亂.md	REWROTE	ef0557b1fb01aacf1d2ab6514cb08354fe7f4b5e830d4686e039e1cf8e431554
 event/stories/青城論道.md	REWROTE	142f8ad574ad6a03309d69bb3798eb6528785b41533728e59af24c4a8b0db55d
 event/story-branch-timeline.md	REWROTE	cd0d25ebe39da630cc9db8a17531a817ee3bbd37e9534af7316084361f50db71
-event/story-simple-table.md	REWROTE	2e6119308f77c8c15e940bba46450bbd566c1fe61afae9f80a12365d9534c224
+event/story-simple-table.md	REWROTE	452100d130f92374fed1d8b9ca093da7112c46f2583a36870aa01e9bbceb6434
 first-person-pronouns.md	OK	dda12657ab5267a49dc5b9d0e21706684389ff0cdba207e26211d131c8b89ed5
 glossary.md	OK	c30c448d5ef0cbeaddd3298f00cbfd00191487bef3500fafc093a2a2f863a23c
 index.md	OK	49aaad62fece47edba28b7ff795a4939e25b67ca507722c02ba9af94b443ffd5
@@ -662,11 +663,11 @@ event/simple/3-10-2-圍攻錦香.md	REWROTE	4f23b2577b40c85bed3560c8bc43a66236c0
 event/simple/3-10-2-人間落幕.md	REWROTE	cdaa13d9a6f7255ea5c7d573fab7c36cddc67b18d3dd313d2bbe65e5e95ccf60
 event/simple/3-10-2-戰後閒聊.md	REWROTE	2c58c043dbcf8c01591a5c7fac08b119928516580beab722d09719c57f5ed44c
 event/simple/1-07-1-唐門例會.md	OK	05ea31319d7c8c6d7c29f527430473f58a9d3e75172b38e59f786d7939e3e92c
-event/simple/3-10-2-同門憂思.md	OK	5c1cfb3f7235dfa4a62db02390e91050a1b9c7a254245bd3d9594bd7a0218e30
-event/simple/3-10-2-啟程返家.md	OK	5c3136d0176d1f73d345a46f72f21061968814335580463c9c4b8c9654f247d1
+event/simple/3-10-2-同門憂思.md	OK	240305d75abdb88053574e8824f2b965261e15b05b59ff8b6670d606871de7d7
+event/simple/3-10-2-啟程返家.md	OK	fe0d67ab2398e2840453f95adc8a5bd619b2d0bd0229e0df993549a2afa451b7
 event/simple/3-10-2-打發時間.md	OK	be039562cb796a09fe9b2013ce91f0c6430975c6be708b9ee52ad95768f97f08
-event/simple/3-10-2-破廟避雨.md	OK	86e3f5c0d874d4b04c182e1e1eacf129981a74dfd25cf15fd5af709140361be9
-event/simple/3-10-2-翌日早晨.md	OK	9313d53c3cf52833e78b471358a3ae5ac57294096e4b530e1912f206cfb50a68
+event/simple/3-10-2-破廟避雨.md	OK	0a0d4b80370dd33bdee57383bbdf835d104b335b4cc4bb4b9959ab12448e4262
+event/simple/3-10-2-翌日早晨.md	OK	a129a9d668af558a2a3eacdc904af5545f4a95e3ab4831421f4ffe8f0235d004
 event/simple/3-11-1-失魂醒轉.md	OK	764f6c8c7d9e9aaf0399d529d65fded29217722399e41d844dd56a1a9ba16d54
 event/simple/3-11-1-返抵唐門.md	OK	3fad4cd49d32353bba2bf4ff08ffb68a25bba995dc1f2735151ada5e985e034a
 event/simple/3-11-1-門人辭別.md	OK	89492669b911344072f661c9ea0de70d06da5ebe84f9efa785a8d4c186467fa7
