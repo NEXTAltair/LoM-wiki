@@ -83,7 +83,7 @@ tags:
 
 <br>
 
-第二代千面人魔は<MarkdownWrapper>||[画中仙](/ja/people/characters/special813)です。[温夫人](/ja/people/characters/special402)の妹で、唐門の師姉と錦香宮の弟子に化けて両派を行き来していました。風雨山の変では温夫人の命を受けて、温夫人自身が魔頭に扮し、画中仙は魔頭に鎖でつながれた温夫人に化けました。この芝居で、錦香宮の者たちが武林の人々の包囲から逃れるのを助けています。||</MarkdownWrapper>(v3206 時点では未公開の情報。データの解析が必要)
+第二代千面人魔は<MarkdownWrapper>||[画中仙](/ja/people/characters/special813)です。[温夫人](/ja/people/characters/special402)の妹で、唐門の師姉と錦香宮の弟子に化けて両派を行き来していました。風雨山の変では温夫人の命を受けて、温夫人自身が魔頭に扮し、画中仙は魔頭に鎖でつながれた温夫人に化けました。この芝居で、錦香宮の者たちが武林の人々の包囲から逃れるのを助けています。||</MarkdownWrapper>
 
 <br>
 
