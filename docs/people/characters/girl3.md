@@ -53,6 +53,30 @@ aside: false
 			nameZh='（<ゝω·）☆'
 			nameEn='Kira'/>
 	</ChTab>
+	<ChTab title="得意">
+		<Ch 
+			src='/images/characters/girl_3/proud.webp' 
+			position='center'/>
+		<ChName
+			nameZh='得意'
+			nameEn='Smug'/>
+	</ChTab>
+	<ChTab title="陰笑">
+		<Ch 
+			src='/images/characters/girl_3/gloomy2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='陰笑'
+			nameEn='Sinister Smile'/>
+	</ChTab>
+	<ChTab title="幕後">
+		<Ch 
+			src='/images/characters/girl_3/backstage.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幕後'
+			nameEn='Mastermind'/>
+	</ChTab>
 	<ChTab title="汗顏">
 		<Ch 
 			src='/images/characters/girl_3/nervous1.webp' 
@@ -76,6 +100,14 @@ aside: false
 		<ChName
 			nameZh='驚嚇'
 			nameEn='Ah!'/>
+	</ChTab>
+	<ChTab title="懷疑">
+		<Ch 
+			src='/images/characters/girl_3/doubt.webp' 
+			position='center'/>
+		<ChName
+			nameZh='懷疑'
+			nameEn='Doubt'/>
 	</ChTab>
 	<ChTab title="生氣">
 		<Ch 
@@ -101,6 +133,22 @@ aside: false
 			nameZh='塊陶啊'
 			nameEn='Run!!'/>
 	</ChTab>
+	<ChTab title="飛踢">
+		<Ch 
+			src='/images/characters/girl_3/kick.webp' 
+			position='center'/>
+		<ChName
+			nameZh='飛踢'
+			nameEn='Flying Kick'/>
+	</ChTab>
+	<ChTab title="駕～阿活">
+		<Ch 
+			src='/images/characters/girl_3/special5.webp' 
+			position='center'/>
+		<ChName
+			nameZh='駕～阿活'
+			nameEn='Giddy-up!'/>
+	</ChTab>
 	<ChTab title="害羞">
 		<Ch 
 			src='/images/characters/girl_3/shy1.webp' 
@@ -125,6 +173,22 @@ aside: false
 			nameZh='害羞...?'
 			nameEn='Shy...?'/>
 	</ChTab>
+	<ChTab title="想入非非">
+		<Ch 
+			src='/images/characters/girl_3/special6.webp' 
+			position='center'/>
+		<ChName
+			nameZh='想入非非'
+			nameEn='Daydreaming'/>
+	</ChTab>
+	<ChTab title="流鼻血">
+		<Ch 
+			src='/images/characters/girl_3/norseblood.webp' 
+			position='center'/>
+		<ChName
+			nameZh='流鼻血'
+			nameEn='Nosebleed'/>
+	</ChTab>
 	<ChTab title="悲傷">
 		<Ch 
 			src='/images/characters/girl_3/sad1.webp' 
@@ -148,6 +212,94 @@ aside: false
 		<ChName
 			nameZh='蒙面'
 			nameEn='Masked'/>
+	</ChTab>
+	<ChTab title="蒙面(大笑)">
+		<Ch 
+			src='/images/characters/girl_3/thief_laugh2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='蒙面(大笑)'
+			nameEn='Masked (Laugh)'/>
+	</ChTab>
+	<ChTab title="人皮面具">
+		<Ch 
+			src='/images/characters/girl_3/scary.webp' 
+			position='center'/>
+		<ChName
+			nameZh='人皮面具'
+			nameEn='Skin Mask'/>
+	</ChTab>
+	<ChTab title="人皮面具(驚)">
+		<Ch 
+			src='/images/characters/girl_3/scary_shock.webp' 
+			position='center'/>
+		<ChName
+			nameZh='人皮面具(驚)'
+			nameEn='Skin Mask (Shocked)'/>
+	</ChTab>
+	<ChTab title="扮余公子">
+		<Ch 
+			src='/images/characters/girl_3/ranger1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='扮余公子'
+			nameEn='Disguised as Young Master Yu'/>
+	</ChTab>
+	<ChTab title="扮大師兄">
+		<Ch 
+			src='/images/characters/girl_3/brother1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='扮大師兄'
+			nameEn='Disguised as Senior Brother'/>
+	</ChTab>
+	<ChTab title="入魔">
+		<Ch 
+			src='/images/characters/girl_3/berserk_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='入魔'
+			nameEn='Berserk'/>
+	</ChTab>
+	<ChTab title="入魔(落淚)">
+		<Ch 
+			src='/images/characters/girl_3/berserk_half.webp' 
+			position='center'/>
+		<ChName
+			nameZh='入魔(落淚)'
+			nameEn='Berserk (Tears)'/>
+	</ChTab>
+	<ChTab title="入魔飛踢">
+		<Ch 
+			src='/images/characters/girl_3/berserk_kick.webp' 
+			position='center'/>
+		<ChName
+			nameZh='入魔飛踢'
+			nameEn='Berserk Kick'/>
+	</ChTab>
+	<ChTab title="被抓">
+		<Ch 
+			src='/images/characters/girl_3/berserk_caught.webp' 
+			position='center'/>
+		<ChName
+			nameZh='被抓'
+			nameEn='Captured'/>
+	</ChTab>
+	<ChTab title="幼年">
+		<Ch 
+			src='/images/characters/girl_3/child_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼年'
+			nameEn='Child'/>
+	</ChTab>
+	<ChTab title="幼年(笑)">
+		<Ch 
+			src='/images/characters/girl_3/child_laugh1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼年(笑)'
+			nameEn='Child (Smile)'/>
 	</ChTab>
 </ChTabs>
 
@@ -185,7 +337,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[火龍真君]] (師父)
+					[[火龍仙君]] (師父)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -323,6 +475,7 @@ aside: false
 -   將麵條蒸熟後油炸為麵乾，存放於竹筒、竹杖之中，煮水燒開即可食用。
 -   投靠唐門期間，把門人的嘴養刁了，連唐牛的餐點都相形失色。
 -   露宿破廟時光靠著就地取材的山蕈、鮮肉，臨場發揮做了道不遜於酒樓佳餚的野味雜炊。
+-   為[[夏侯蘭]]準備了放有醃梅子的飯糰、蘭花肚絲、醬竹筍，但已經沒有菊花茶了。
 
 ## 千面人魔
 
@@ -333,7 +486,8 @@ aside: false
 -   雖然被[[千燈樓]]指示殺不少人，但實際上沒殺，都暗中送到世外桃源去。
 -   根據<EndIcon no="11">結局 11</EndIcon>的對話，若無結緣，最後會成為千燈樓主。
 -   即便[[趙活]]老去，小梅仍舊是少女模樣。
--   <MarkdownWrapper>||[[畫中仙|唐仙兒]]謊稱自己是小梅遠房姑姑，但實際是滅門小梅家的真兇，出於愧疚而決定扮演家人，並對小梅照顧有加。||</MarkdownWrapper>
+-   <MarkdownWrapper>||[[畫中仙|唐仙兒]]謊稱自己是小梅遠房姑姑，但實際是滅門小梅家、將她擄至千燈樓的真兇，出於愧疚而決定扮演家人，並對小梅照顧有加。||</MarkdownWrapper>
+-   <MarkdownWrapper>||生母為極樂七仙的小妾。||</MarkdownWrapper>
 -   <MarkdownWrapper>||被[[申屠龍|極樂教主]]點名歷代最弱千面人魔，除了武功部分外，也包含任務成功率。||</MarkdownWrapper>
   
 ## <MarkdownWrapper>||屍心丹||</MarkdownWrapper>
@@ -353,7 +507,7 @@ aside: false
 ## 趙活
 
 -   在[[趙活]]於崆峒留學期間，主動接近他，時常找趙活跑步。
--   與[[趙活]]、[[瑞笙]]、[[南宮淺]]組成崆峒探險隊。
+-   嚮往與人結伴行走江湖，但受身份所限不能遠遊。故與[[趙活]]、[[瑞笙]]、[[南宮淺]]組成崆峒探險隊，自稱探勘隊長。
 -   起初接近[[趙活]]只是因為太寂寞，卻怕危害他人，因此想找一個被害死也不可惜的人陪她玩、陪她說話。
 -   ~~疑似~~重度病嬌。[^1]
 -   看上的從來不是[[趙活]]的身份，<MarkdownWrapper>||而是胴體。||</MarkdownWrapper>
