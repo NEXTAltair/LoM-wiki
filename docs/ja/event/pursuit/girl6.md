@@ -141,12 +141,7 @@ tags:
     <li>あらかじめ想い人を<Girl6Icon>郁竹</Girl6Icon>にしておく。</li>
     <li>金烏の騒動で📖「武徳を無視して袋叩きにする」を選んだ場合、連戦にすべて勝つ必要がある。</li>
     <li>金烏との決闘は初戦に勝つ必要がある。</li>
-    <li>
-        次の条件を満たして「郁城の頼み」を発生させる:<br>
-        1. <MarkdownWrapper>[臥雲崗イベント](/ja/event/simple/3-01-2-臥雲崗事件)</MarkdownWrapper>の後で金烏の死んだふりを見ている場合: 
-        <MarkdownWrapper>[条件2](#條件2)</MarkdownWrapper>を満たし、かつ<MarkdownWrapper>[大師兄の重傷](/ja/event/simple/3-01-3-大師兄重傷)</MarkdownWrapper>で大師兄の治療を諦めていない。<br>
-        2. 金烏の死んだふりを見ていない場合: <MarkdownWrapper>[条件2](#條件2)</MarkdownWrapper>を満たし、金烏の奇襲で必ず【🎲≧90 回避成功】を出す。
-    </li>
+    <li>金烏の奇襲が起きた場合は、【🎲≧90 回避成功】を出す必要がある。</li>
     <li>「郁城の頼み」が発生したら、📖「行かなくては」を選ぶ。</li>
   </td>
   <td></td>
@@ -155,7 +150,7 @@ tags:
 <tr>
   <td id = "條件6">6</td>
   <td>3年目5月上旬</td>
-  <td>崆峒争奪戦</td>
+  <td>金烏事変</td>
   <td>
     <li>
       崆峒の地に入るとき:<br>
