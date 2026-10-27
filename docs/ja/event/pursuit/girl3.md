@@ -29,7 +29,7 @@ tags:
 </tr>
 
 <tr>
-  <td id = "1">1</td>
+  <td id = "條件1">1</td>
   <td>2年目2月上旬</td>
   <td>
     <MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>
@@ -54,7 +54,7 @@ tags:
 </tr>
 
 <tr>
-  <td id = "2">2</td>
+  <td id = "條件2">2</td>
   <td>
     <li>2年目4月上旬から4月下旬まで</li>
     <li>または2年目5月下旬から6月下旬まで</li>
@@ -86,7 +86,7 @@ tags:
 </tr>
 
 <tr>
-  <td id = "3">3</td>
+  <td id = "條件3">3</td>
   <td>2年目8月上旬</td>
   <td><MarkdownWrapper>[南宮への急援](/ja/event/simple/2-08-1-馳援南宮)</MarkdownWrapper></td>
   <td>
@@ -103,7 +103,7 @@ tags:
 </tr>
 
 <tr>
-  <td id = "4">4</td>
+  <td id = "條件4">4</td>
   <td>2年目10月上旬</td>
   <td><MarkdownWrapper>[江陵決戦の前夜](/ja/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper></td>
   <td>
@@ -139,7 +139,7 @@ tags:
 </tr>
 
 <tr>
-  <td id = "5">5</td>
+  <td id = "條件5">5</td>
   <td>3年目5月上旬</td>
   <td>
     <li><MarkdownWrapper>[小師妹の比武招親 前半](/ja/event/simple/3-05-1-師妹招親前半)</MarkdownWrapper></li>
@@ -151,14 +151,19 @@ tags:
     <li>あらかじめ想い人を<Girl3Icon>虞小梅</Girl3Icon>にしておく。条件5と条件6の中で何度も判定される。</li>
     <li>金烏の騒動で📖「武徳を無視して袋叩きにする」を選んだ場合、連戦にすべて勝つ必要がある。</li>
     <li>金烏との決闘は初戦に勝つ必要がある。</li>
-    <li>金烏の奇襲が発生したら、必ず【🎲≧90 回避成功】を出す。</li>
+    <li>
+        次の条件を満たして「郁城の頼み」を発生させる:<br>
+        1. <MarkdownWrapper>[臥雲崗イベント](/ja/event/simple/3-01-2-臥雲崗事件)</MarkdownWrapper>の後で金烏の死んだふりを見ている場合: 
+        <MarkdownWrapper>[条件2](#條件2)</MarkdownWrapper>を満たし、かつ<MarkdownWrapper>[大師兄の重傷](/ja/event/simple/3-01-3-大師兄重傷)</MarkdownWrapper>で大師兄の治療を諦めていない。<br>
+        2. 金烏の死んだふりを見ていない場合: <MarkdownWrapper>[条件2](#條件2)</MarkdownWrapper>を満たし、金烏の奇襲で必ず【🎲≧90 回避成功】を出す。
+    </li>
     <li>「郁城の頼み」が発生したら、📖「行かなくては」を選ぶ。</li>
   </td>
   <td></td>
 </tr>
 
 <tr>
-  <td id = "6">6</td>
+  <td id = "條件6">6</td>
   <td>3年目5月上旬</td>
   <td>崆峒争奪戦</td>
   <td>
