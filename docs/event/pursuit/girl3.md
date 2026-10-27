@@ -29,7 +29,7 @@ tags:
 </tr>
 
 <tr>
-  <td id = "1">1</td>
+  <td id = "條件1">1</td>
   <td>第二年二月上旬</td>
   <td>
     <MarkdownWrapper>[留學討論](/event/simple/2-02-1-留學討論)</MarkdownWrapper>
@@ -54,7 +54,7 @@ tags:
 </tr>
 
 <tr>
-  <td id = "2">2</td>
+  <td id = "條件2">2</td>
   <td>
     <li>第二年四月上旬至四月下旬</li>
     <li>或第二年五月下旬至六月下旬</li>
@@ -62,31 +62,28 @@ tags:
   <td><MarkdownWrapper>[郁竹返家準備](/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper></td>
   <td>
     <li>
-        經由以下任一種方式，觸發本事件，<br>
-        且事件結果必須有🚩郁竹返家前置:
+        經由以下任一種方式，觸發本事件:
     </li>
     <li>
         1. 由<Girl6Icon>郁竹</Girl6Icon>觸發: <br>
         🚩造訪鐵拳巷次數≥4，且郁竹好感≥20。<br>
         時間範圍內，且行動次數≥2時，點選「鐵拳巷」指令觸發。<br>
-        事件中，郁竹請你扮演家丁，需選擇📖「好吧」。<br>
     </li>
     <li>
         2. 由<Girl3Icon>虞小梅</Girl3Icon>觸發: <br>
         🚩認識郁竹，且虞小梅好感≥20。<br>
         時間範圍內，且行動次數≥1時，點選門派修練指令，<br>
         且有隨機觸發「小梅跑步」，再選擇跟小梅跑步。<br>
-        事件中，小梅將余公子帶走後，需選擇📖「追上去看看」，且對決獲勝。<br>
     </li>
   </td>
   <td>
     <li>此事件建議觸發<Girl3Icon>虞小梅</Girl3Icon>版本。</li>
-    <li>實際的「郁竹返家」事件會在一旬後自動觸發。</li>
+    <li>實際的「郁竹返家」事件並非必要條件。</li>
   </td>
 </tr>
 
 <tr>
-  <td id = "3">3</td>
+  <td id = "條件3">3</td>
   <td>第二年八月上旬</td>
   <td><MarkdownWrapper>[馳援南宮](/event/simple/2-08-1-馳援南宮)</MarkdownWrapper></td>
   <td>
@@ -103,7 +100,7 @@ tags:
 </tr>
 
 <tr>
-  <td id = "4">4</td>
+  <td id = "條件4">4</td>
   <td>第二年十月上旬</td>
   <td><MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper></td>
   <td>
@@ -139,7 +136,7 @@ tags:
 </tr>
 
 <tr>
-  <td id = "5">5</td>
+  <td id = "條件5">5</td>
   <td>第三年五月上旬</td>
   <td>
     <li><MarkdownWrapper>[師妹招親前半](/event/simple/3-05-1-師妹招親前半)</MarkdownWrapper></li>
@@ -151,16 +148,16 @@ tags:
     <li>先確保心上人為<Girl3Icon>虞小梅</Girl3Icon>，條件5與條件6中有多次檢定。</li>
     <li>金烏鬧事若選擇📖「群而毆之」，連戰皆需勝利。</li>
     <li>對決金烏初戰需獲勝。</li>
-    <li>若觸發金烏偷襲，必須【🎲≧90 迴避成功】。</li>
+    <li>若觸發金烏偷襲，需【🎲≧90 迴避成功】。</li>
     <li>觸發「郁城的請求」後，選擇📖「我得去」。</li>
   </td>
   <td></td>
 </tr>
 
 <tr>
-  <td id = "6">6</td>
+  <td id = "條件6">6</td>
   <td>第三年五月上旬</td>
-  <td>崆峒爭奪戰</td>
+  <td>金烏事變</td>
   <td>
     <li>
       進入崆峒地界時:<br>
