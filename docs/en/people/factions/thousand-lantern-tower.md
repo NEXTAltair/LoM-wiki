@@ -78,7 +78,7 @@ The first generation Thousand-Faced Demon, Monk Wunian, the Formless Ancestor, s
 
 <br>
 
-The second generation Thousand-Faced Demon, ||Hua Zhongxian. Sister of Lady Wen, posing as a senior sister of the Tang Sect and a disciple of the Jinxiang Palace, playing both sides. During the Fengyu Mountain incident, under Lady Wen's orders, Lady Wen disguised herself as a demon head, while Hua Zhongxian pretended to be Lady Wen captured by the demon head, staging a performance to allow the palace residents to escape the siege of the martial arts community.|| (v3206 unpublished information, requires decryption)
+The second generation Thousand-Faced Demon, <MarkdownWrapper>||Hua Zhongxian. Sister of Lady Wen, posing as a senior sister of the Tang Sect and a disciple of the Jinxiang Palace, playing both sides. During the Fengyu Mountain incident, under Lady Wen's orders, Lady Wen disguised herself as a demon head, while Hua Zhongxian pretended to be Lady Wen captured by the demon head, staging a performance to allow the palace residents to escape the siege of the martial arts community.||</MarkdownWrapper>
 
 <br>
 
