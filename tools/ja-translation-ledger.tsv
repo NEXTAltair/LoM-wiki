@@ -38,7 +38,7 @@ event/detailed_description/2-08-5-青城療傷.md	REWROTE	f5c64ea8fbd7f93f2274c0
 event/detailed_description/3-08-1-四師兄遠遊經商.md	REWROTE	47a318cfa584d6b7c1eb9028af3964fcf286bcf0a0e9c16177e085d6fb74f454
 event/detailed_description/3-08-2-武林大會.md	REWROTE	cc60072071f69177f37727743f0bd29afa2d43935c3be906be0511fa92557f96
 event/detailed_description/3-10-2-客棧歸途.md	REWROTE	a29a07fb13155fbb5a2b4e7b440fa933a551118450cae03ae308b31cbbac4520
-event/detailed_description/3-12-1-眾人的決策.md	REWROTE	89ca0990b7b9399e18d0eaf4df28f653bb5c523f726fda3481a5b920a04e1c61
+event/detailed_description/3-12-1-眾人的決策.md	REWROTE	777b499729ad7950c85bdcd173a114351877b9b4dbbb653b5b4b03fe43c63b68
 event/detailed_description/4-01-2-唐門圍攻戰.md	REWROTE	8fdd2fda4586f197d462ba9e160093b2febb178030e4f9f0a2b162dc314736d4
 event/detailed_description/4-02-2-東西武林盟會戰.md	REWROTE	849be9666888a964944e57aeeb584f82a7458f1848c5d1f93903b9475a1ca32b
 event/detailed_description/4-02-2-飛俠歸來.md	REWROTE	b6ac01a59d83c3e82f80f348778cc2505c6e34763a9433643107174c2b00a17a
@@ -71,7 +71,7 @@ event/ends/end-31.md	REWROTE	20e0da7ffcb3510ea045d7bda6ebf97a1b0d4a6c1cdec417193
 event/ends/end-32.md	REWROTE	0204b8a9cf812e2179a05a382edc8786494c59563f4bd7205c0cc3745b22f98b
 event/ends/end-33.md	REWROTE	fe1e3aa6bf705c281f2e48e16dbc3afe0a9c807b4537a4389413b085a4e1eec1
 event/ends/end-34.md	REWROTE	2ab66b8b8021fc9b85cd07e77674f008efc64dc335187a6cc3123db165c39cdd
-event/ends/end-35.md	REWROTE	b9fd01c8e1bd5b15d42f48405be7b52a7df8c19e6a5159bbf79ab04089c62cfb
+event/ends/end-35.md	REWROTE	f0f4d93a56ee76b43f0f8e0978a2961241e475fd0494dff9d14514c6fcc0e6b0
 event/ends/end-36.md	REWROTE	d169b9de8ec2959b07776fdd584b1ca1f650cacb72fe51e398cc2ba99e6259d6
 event/ends/end-37.md	REWROTE	86beb56beb4572fe42e06f1bd8d858ccbcbe733fb339fec6bab45be18fc4cd4b
 event/ends/end-38.md	REWROTE	44f5d362dcce1ae32f25b84c589a0c8311b1f944226b957bde7bb40183c585b4
@@ -714,7 +714,7 @@ event/simple/0-0-0-四師兄閒聊.md	OK	8c33cff888d37d0def2971af026084f0d017c4d
 event/simple/3-11-1-Demo四師兄閒聊.md	OK	cfba3d376f260c4f94a43e4d3a5c6b555c26f3daf4f9ba3c2fd2315afb2506b6
 event/simple/3-12-1-告別唐門.md	OK	1e801b4a0f92711091e78864b292f6aa19957fe7817a22de1199c46ab2977459
 event/simple/3-12-1-武林盟對策.md	OK	8f6a35887a7c352542d233cfe9e99cabac54db8232d99b5de0e041742725bb74
-event/simple/3-12-1-集思廣益.md	OK	718af6399d6d8affe68d60d721648d34a2f56220edb6be6fe7f815f8f499f0a3
+event/simple/3-12-1-集思廣益.md	OK	1db7ec00e4faab3ea13f960d5f98d88facdd467323a19ec3fae91bf4f16415d7
 event/simple/3-12-2-出使崆峒人選.md	OK	393eb7778eb136fa558f9e5f189c8e84513a462af1086daeff99de36e4585c5c
 event/simple/3-12-2-四師兄出使.md	OK	30795067deb8895d3ff23be2515e435a464ab4ffb4810a65eee2af6d8780f2e9
 event/simple/3-12-2-李富貴紮營.md	OK	c80ace2d651cad7ebdc553a863c9f2be6ae6723023a5a4e51546f848563ddf59
@@ -729,7 +729,7 @@ system/hidden-params.md	OK	cbe86f9dc1c19b1196a7f5470b83b4f1e7ab861f4ce025a36dce2
 event/simple/3-12-3-出使青城人選.md	OK	577192d51efa6f60a2e75d1e50f10120a37f299029a851044b19f9215836de22
 event/simple/3-12-3-福韞出使峨嵋.md	OK	13637b22f9ee9ee43e1fb2a3898f3ee2a69fe5c6d96028c8c3e5cb3acedda846
 event/simple/4-01-1-出使峨嵋人選.md	OK	556176dae97dfeb96b1c671949fe25aff6043ec772d627b0e52de39926a9b57d
-event/simple/4-01-1-迎戰準備.md	OK	cfc3bbd9130aecc7faf5c21ff8d22b1a7875e9868c0341ec759a7f276683bf38
+event/simple/4-01-1-迎戰準備.md	OK	5c492cdf090bce3a04ce1c665cbb613534e773cf5faed9327536dbeef5b6e769
 system/pinball.md	REWROTE	0cfc5080221da4bd01941bb3591c6085e2fb2d7bb0e79270998bd03b1b171f91
 system/shop.md	REWROTE	6f7b425b59db99ed88a1ad1bf3313eae0d96efcf5096ea5fc45ed5ee8b37e0fc
 event/simple/2-03-1-鐵拳巷事件集.md	REWROTE	32fb139afdef5504c915707fbc0588196ec6070db55a3624df605e5f0d377fb9
