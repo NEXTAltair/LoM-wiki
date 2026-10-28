@@ -9,8 +9,10 @@
 //   TABLE      Markdown テーブルの見出し行と区切り行で列数が食い違っている箇所
 //   LABEL      リンクテキストがリンク先ページの title と食い違っている箇所
 //              (既存分は tools/ja-label-baseline.tsv に列挙して据え置き。新規のみ fail)
+//   POLITE     地の文の敬体の文末 (です・ます等) の数。ページごとの件数を
+//              tools/ja-polite-baseline.tsv に据え置き、増えたページがあれば fail
 //
-// 上位6つが 0、TABLE/LABEL が基準値以下で exit 0。
+// 上位6つが 0、TABLE/LABEL/POLITE が基準値以下で exit 0。
 //
 // LABEL の既存未修正分は baseline ファイルに1件ずつ列挙して据え置く。
 // 既存分を直したら --update-label-baseline で再生成して減らす (増やす再生成は禁止)。
@@ -535,6 +537,91 @@ function scanLinkLabels(file) {
 	return hits;
 }
 
+/**
+ * POLITE: 地の文の敬体の文末を数える。
+ *
+ * ja の地の文は常体で書く (規約は docs/ja/develop/clean-event-template.md の「文体」節)。
+ * 2026-10-28 時点で敬体と常体が混ざったページが 59 あり、大型更新時の加筆
+ * (陣営ページ等) でも敬体が混ざったので、新たに混ざるのを機械で止める。
+ *
+ * 数えないもの:
+ *   - other/ (公式告知・インタビューの訳。話し手の口調のまま)、develop/ (編集者向けの手引き)
+ *   - 「」『』 の中 (台詞・選択肢)、引用ブロック (> 行)、::: の注意書きボックス、
+ *     HTML コメント、コードブロック、frontmatter
+ *
+ * 既存分はページごとの件数で据え置く (system/ の説明文などはユーザー判断で敬体のまま残す)。
+ * 文単位のキーは本文の小さな編集で変わってしまうので使わない。代わりに同じページの中で
+ * 「1文直して1文足す」と ±0 ですり抜けられる。
+ */
+const POLITE_BASELINE = path.join(ROOT, "tools/ja-polite-baseline.tsv");
+const POLITE_EXEMPT_DIRS = ["other/", "develop/"];
+// くらます・覚ます・励ます等は「ます／ました」で終わる常体の動詞なので、語幹が直前にあるものは数えない
+const POLITE_END =
+	/(?:(?<!くら|[覚醒冷励済澄悩さす])(?:ます|ました)|です|でした|ません|ましょう|でしょう|ください)(?=[。！？]|\s*$)/g;
+
+function readPoliteBaseline() {
+	const m = new Map();
+	if (!fs.existsSync(POLITE_BASELINE)) return m;
+	for (const l of fs.readFileSync(POLITE_BASELINE, "utf8").split("\n")) {
+		const s = l.trim();
+		if (!s || s.startsWith("#")) continue;
+		const [file, n] = s.split("\t");
+		m.set(file, Number(n));
+	}
+	return m;
+}
+
+function scanPoliteEndings(file) {
+	const rel = path.relative(JA_DIR, file);
+	if (POLITE_EXEMPT_DIRS.some((d) => rel.startsWith(d))) return [];
+	const hits = [];
+	const lines = fs.readFileSync(file, "utf8").split("\n");
+	let inFence = false;
+	let inBox = false;
+	let inFront = lines[0] === "---";
+	let inComment = false;
+	lines.forEach((line, idx) => {
+		if (inFront) {
+			if (idx > 0 && line === "---") inFront = false;
+			return;
+		}
+		if (/^```/.test(line.trim())) {
+			inFence = !inFence;
+			return;
+		}
+		if (inFence) return;
+		if (/^:::\s*\S/.test(line.trim())) {
+			inBox = true;
+			return;
+		}
+		if (line.trim() === ":::") {
+			inBox = false;
+			return;
+		}
+		if (inBox || /^\s*>/.test(line)) return;
+		let s = line;
+		if (inComment) {
+			if (!s.includes("-->")) return;
+			s = s.slice(s.indexOf("-->") + 3);
+			inComment = false;
+		}
+		s = s.replace(/<!--[\s\S]*?-->/g, " ");
+		if (s.includes("<!--")) {
+			s = s.slice(0, s.indexOf("<!--"));
+			inComment = true;
+		}
+		s = s
+			.replace(/!?\[([^\]]*)\]\([^)]*\)/g, "$1")
+			.replace(/「[^「」]*」|『[^『』]*』/g, " ")
+			.replace(HTML_TAG, "\n");
+		for (const seg of s.split("\n")) {
+			const found = seg.match(POLITE_END);
+			if (found) hits.push({ file: rel, line: idx + 1, n: found.length, text: seg.trim() });
+		}
+	});
+	return hits;
+}
+
 function readLedger() {
 	const ledger = new Map();
 	if (!fs.existsSync(LEDGER)) return ledger;
@@ -607,8 +694,39 @@ function main() {
 		);
 		console.log(`LABEL baseline を再生成: ${labels.length}件`);
 	}
+	// POLITE: ページごとの件数を baseline と比べ、増えたページだけを fail にする
+	const politeHits = files.flatMap((f) => scanPoliteEndings(f));
+	const politeCount = new Map();
+	for (const h of politeHits) politeCount.set(h.file, (politeCount.get(h.file) || 0) + h.n);
+	const politeBase = readPoliteBaseline();
+	const politeOver = [...politeCount]
+		.filter(([f, n]) => n > (politeBase.get(f) || 0))
+		.map(([f, n]) => ({ file: f, n, base: politeBase.get(f) || 0 }));
+	if (process.argv.includes("--update-polite-baseline")) {
+		// LABEL と同じく、増えたページがある状態での再生成は増加分の隠蔽になるので拒否する
+		if (fs.existsSync(POLITE_BASELINE) && politeOver.length > 0) {
+			console.log(
+				`POLITE baseline 再生成を拒否: 件数が増えたページが ${politeOver.length} ある。先に常体へ直すこと。`,
+			);
+			process.exit(1);
+		}
+		const body = [...politeCount]
+			.sort(([a], [b]) => (a < b ? -1 : 1))
+			.map(([f, n]) => `${f}\t${n}`)
+			.join("\n");
+		fs.writeFileSync(
+			POLITE_BASELINE,
+			"# POLITE 検査の据え置き分 (ja のパス\t敬体の文末の数)。手編集せず\n" +
+				"# node tools/checkJaTranslation.js --update-polite-baseline で再生成する。\n" +
+				"# 減らす方向の再生成のみ可。増える再生成は新しく混ざった敬体の隠蔽なので禁止。\n" +
+				body + "\n",
+		);
+		console.log(`POLITE baseline を再生成: ${politeCount.size}ページ`);
+	}
+	const politeTotal = politeHits.reduce((a, h) => a + h.n, 0);
 	console.log(`TABLE: ${tables.length} (0 必須)`);
 	console.log(`LABEL: ${labels.length} (据え置き ${labels.length - newLabels.length} / 新規 ${newLabels.length})`);
+	console.log(`POLITE: ${politeTotal} (${politeCount.size}ページ / 増えたページ ${politeOver.length})`);
 
 	const show = (label, arr, fmt) => {
 		if (!arr.length) return;
@@ -637,6 +755,13 @@ function main() {
 		newLabels,
 		(x) => `${x.file}:${x.line} [${x.label}] → title は「${x.want}」`,
 	);
+	show("POLITE: 敬体の文末が据え置き件数より増えたページ (地の文は常体)", politeOver, (x) => {
+		const lines = politeHits
+			.filter((h) => h.file === x.file)
+			.map((h) => `      ${h.line}: ${h.text.slice(0, 60)}`)
+			.join("\n");
+		return `${x.file}: ${x.n} 件 (据え置き ${x.base})\n${lines}`;
+	});
 
 	const ok =
 		!missing.length &&
@@ -646,7 +771,8 @@ function main() {
 		!controls.length &&
 		!rawLinks.length &&
 		tables.length === 0 &&
-		newLabels.length === 0;
+		newLabels.length === 0 &&
+		politeOver.length === 0;
 	if (!ok) console.log("\n未達。上記を解消すること。");
 	process.exit(ok ? 0 : 1);
 }
