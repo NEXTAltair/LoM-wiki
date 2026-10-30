@@ -42,7 +42,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    先掌派人 (襟外甥女)
+                    先掌派人 (姨丈)
                 </ChTd>
             </ChTr>
         </ChTable>

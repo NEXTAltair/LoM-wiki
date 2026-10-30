@@ -42,7 +42,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    先代掌派人 (妻の姪)
+                    先代掌派人 (義理のおじ)
                 </ChTd>
             </ChTr>
         </ChTable>
