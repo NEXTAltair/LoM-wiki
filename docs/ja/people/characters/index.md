@@ -214,6 +214,10 @@ tags:
 	<td>崆峒派 - 飛天門</td>
 </tr>
 <tr>
+	<td><MarkdownWrapper>[孔鵲](/ja/people/characters/trainee431)</MarkdownWrapper></td>
+	<td>崆峒派 - 飛天門</td>
+</tr>
+<tr>
 	<td><MarkdownWrapper>[雷謙](/ja/people/characters/special804)</MarkdownWrapper></td>
 	<td>崆峒派 - 鉄拳門</td>
 </tr>
@@ -259,6 +263,10 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[鞠冬音](/ja/people/characters/trainee234)</MarkdownWrapper></td>
+	<td>崆峒派 - 玄功門</td>
+</tr>
+<tr>
+	<td><MarkdownWrapper>[黄佩華](/ja/people/characters/trainee235)</MarkdownWrapper></td>
 	<td>崆峒派 - 玄功門</td>
 </tr>
 <tr>

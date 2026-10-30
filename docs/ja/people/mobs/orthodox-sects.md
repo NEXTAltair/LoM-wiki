@@ -336,25 +336,19 @@ tags:
 
 ## 崆峒派
 
-名前のある弟子をクリックすると個別ページへ移る。名前のない弟子の出番はこの節の下にまとめてある。
+名前のある弟子をクリックすると個別ページへ移る。名前のない弟子の出番はこの節の下にまとめてある。四門の護法や孔鵲などの主要人物は[人物一覧](/ja/people/characters/)に載せている。
 
 **名前のある弟子**
 
 <div class="mob-index">
-    <a class="mob-card" href="../characters/trainee204.html"><img src="/images/characters/trainee204/normal.webp" alt="顔疆" loading="lazy"><span class="mob-name">顔疆</span></a>
     <a class="mob-card" href="../characters/trainee202.html"><img src="/images/mobs/kong-tong-sect/flying/trainee2_normal.webp" alt="許勝/胡離火/秋虎/夏嵐" loading="lazy"><span class="mob-name">許勝/胡離火/秋虎/夏嵐</span></a>
     <a class="mob-card" href="../characters/trainee203.html"><img src="/images/mobs/kong-tong-sect/flying/trainee3_normal.webp" alt="胡壱千" loading="lazy"><span class="mob-name">胡壱千</span></a>
     <a class="mob-card" href="../characters/trainee205.html"><img src="/images/mobs/kong-tong-sect/flying/trainee5_normal.webp" alt="阿金" loading="lazy"><span class="mob-name">阿金</span></a>
-    <a class="mob-card" href="../characters/trainee431.html"><img src="/images/mobs/kong-tong-sect/flying/trainee431_normal.webp" alt="孔鵲" loading="lazy"><span class="mob-name">孔鵲</span></a>
-    <a class="mob-card" href="../characters/trainee214.html"><img src="/images/characters/trainee214/normal.webp" alt="童大虫" loading="lazy"><span class="mob-name">童大虫</span></a>
     <a class="mob-card" href="../characters/trainee212.html"><img src="/images/mobs/kong-tong-sect/iron/trainee2_normal.webp" alt="黄某/梁老哥" loading="lazy"><span class="mob-name">黄某/梁老哥</span></a>
     <a class="mob-card" href="../characters/trainee241.html"><img src="/images/characters/trainee241/normal.webp" alt="翟老漢" loading="lazy"><span class="mob-name">翟老漢</span></a>
-    <a class="mob-card" href="../characters/trainee224.html"><img src="/images/characters/trainee224/normal.webp" alt="余麟" loading="lazy"><span class="mob-name">余麟</span></a>
     <a class="mob-card" href="../characters/trainee222.html"><img src="/images/mobs/kong-tong-sect/soul/trainee2_normal.webp" alt="郭某" loading="lazy"><span class="mob-name">郭某</span></a>
     <a class="mob-card" href="../characters/trainee223.html"><img src="/images/mobs/kong-tong-sect/soul/trainee3_normal.webp" alt="耿怔忡" loading="lazy"><span class="mob-name">耿怔忡</span></a>
     <a class="mob-card" href="../characters/trainee225.html"><img src="/images/mobs/kong-tong-sect/soul/trainee5_normal.webp" alt="王老五" loading="lazy"><span class="mob-name">王老五</span></a>
-    <a class="mob-card" href="../characters/trainee234.html"><img src="/images/characters/trainee234/normal.webp" alt="鞠冬音" loading="lazy"><span class="mob-name">鞠冬音</span></a>
-    <a class="mob-card" href="../characters/trainee235.html"><img src="/images/characters/trainee235/normal.webp" alt="黄佩華" loading="lazy"><span class="mob-name">黄佩華</span></a>
 </div>
 
 **名前のない弟子**
