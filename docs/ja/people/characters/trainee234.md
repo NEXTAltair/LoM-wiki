@@ -57,6 +57,6 @@ tags:
 -   [金烏上人](/ja/people/characters/special207)の所業を恥じており、[唐黙鈴](/ja/people/characters/girl0)の比武招親の日も命令で来ただけで、終始一言も発しなかった。乱戦の際も面従腹背で、動くふりをするだけ。彼女の払子に打たれた唐門弟子は一人として怪我をしておらず、点穴されただけだった。
 -   [金烏の騒動](/ja/event/simple/3-05-1-金烏鬧事)の袋叩きの後は、金烏を追う宿屋で最後の関門を守る。[唐黙鈴](/ja/people/characters/girl0)も一緒にいると、そのまま降参する。趙活が玄功門に籍を置いている場合は、状況によって通してくれる、魏菊の伝言を伝える、鉄琵琶功のために趙活と敵対する、のいずれかになる。詳しくは[金烏の騒動](/ja/event/simple/3-05-1-金烏鬧事)を参照。
 -   [金烏との決闘](/ja/event/simple/3-05-1-對決金烏)で金烏の不意打ちが失敗するか正体が暴かれると、先頭に立って金烏を非難し、崆峒の者たちを率いて唐門に詫びて去る。
--   <MarkdownWrapper>||崆峒争奪戦 ([金烏上人の死](/ja/people/characters/special207_death#金烏事變)) で敵の手に落ちる。拷問に耐えて屈しなかったが、金烏の烈陽錘で頭を壊されて正気を失い、数十年かけて練った内力も金烏に奪われて、最後には死ぬ。金烏はこの内力で功力を大きく伸ばし、[丹霞子](/ja/people/characters/special404)と渡り合えるほどになる。||</MarkdownWrapper>
+-   <MarkdownWrapper>||崆峒争奪戦 ([金烏上人の死](/ja/people/characters/special207_death#崆峒争奪戦)) で敵の手に落ちる。拷問に耐えて屈しなかったが、金烏の烈陽錘で頭を壊されて正気を失い、数十年かけて練った内力も金烏に奪われて、最後には死ぬ。金烏はこの内力で功力を大きく伸ばし、[丹霞子](/ja/people/characters/special404)と渡り合えるほどになる。||</MarkdownWrapper>
 -   <MarkdownWrapper>||彼女の死後、趙活が崆峒に別れを告げる場面で「あくまで引き受けない」を選ぶと、[魏菊](/ja/people/characters/girl7)はいつもの癖で「鞠師姉」にお茶を頼み、すぐに言い直して自分で淹れに行く。||</MarkdownWrapper>
 -   <MarkdownWrapper>||崆峒争奪戦が起きないルートでは生きていて、その後は[崆峒派との遭遇](/ja/event/simple/3-09-1-遭遇崆峒派)や[釈明の流言](/ja/event/simple/3-10-2-釋明造謠)で崆峒派とともに登場する。||</MarkdownWrapper>

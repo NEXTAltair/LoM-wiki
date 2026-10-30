@@ -235,7 +235,11 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[勾魂叟](/ja/people/characters/special806)</MarkdownWrapper></td>
-	<td>崆峒派 - 奪魄門<br>千灯楼</td>
+	<td>崆峒派 - 奪魄門</td>
+</tr>
+<tr>
+	<td><MarkdownWrapper>[姚不知名](/ja/people/characters/special216)</MarkdownWrapper></td>
+	<td>崆峒派 - 奪魄門</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[夏侯蘭](/ja/people/characters/girl5)</MarkdownWrapper></td>
