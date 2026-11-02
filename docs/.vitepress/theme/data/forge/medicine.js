@@ -193,7 +193,7 @@ Action Count -1
       },
       obtain: {
         root: "- 🚩[四師兄辭別](/event/detailed_description/3-08-1-四師兄遠遊經商)時，選擇「難辦的要求」，並擲骰【🎲≧70 土特產】，再選「神仙有靈丹」。[門人辭別-四師兄歸來](/event/simple/3-11-1-門人辭別#四師兄歸來)後，在男弟子房找[四師兄閒聊](/event/simple/0-0-0-四師兄閒聊)，選擇「以前托你打聽的事」獲得。",
-        ja: "- 🚩[四師兄、商いの長旅へ](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)の別れの時、「難しい要求」を選び、ダイスで【🎲≧70 さあ、地元の土産品だな】を出し、さらに「華山には仙人がいると聞いた、仙人は霊丹を持つ」を選ぶ。[門人の暇乞い-四師兄が帰る](/ja/event/simple/3-11-1-門人辭別#四師兄歸來)の後、男弟子房で[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)を行い、「前に頼んだ調べ事」で入手。",
+        ja: "- 🚩[四師兄、商いの長旅へ](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)の別れの時、「わざと難癖をつける」を選び、ダイスで【🎲≧70 さあ、地元の土産品だな】を出し、さらに「華山に仙人がいて、仙人は霊丹を持っているらしい」を選ぶ。[門人の暇乞い-四師兄が帰る](/ja/event/simple/3-11-1-門人辭別#四師兄歸來)の後、男弟子房で[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)を行い、「以前頼んでおいた件」で入手。",
         en: "- 🚩During [Fourth Senior Brother's Business Trip](/en/event/detailed_description/3-08-1-四師兄遠遊經商), choose \"A difficult request\", roll 【🎲≥70 Local Specialties】, then choose \"Immortals have elixirs\". After [Disciples' Farewell - Fourth Senior Brother Returns](/event/simple/3-11-1-門人辭別#四師兄歸來), chat with the Fourth Senior Brother in the male disciples' room ([Chatting with Fourth Senior Brother](/event/simple/0-0-0-四師兄閒聊)) and choose \"The thing I asked you to look into\" to obtain.",
       },
       note: { root: "- 剩餘行動≧2時才能用", ja: "残り行動回数≧2の時のみ使用可", en: "- Usable only with ≥ 2 actions remaining" },

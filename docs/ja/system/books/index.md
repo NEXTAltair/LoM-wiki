@@ -129,7 +129,7 @@ tags:
             2. 🚩<MarkdownWrapper>[葉雲舟を誘う](/ja/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>；
             3. 🚩<MarkdownWrapper>[葉雲舟が唐門代表として出戦](/ja/event/simple/3-10-2-點蒼逆徒#師徒對決)</MarkdownWrapper>。<br>
             • 3年目12月上旬に<MarkdownWrapper>[武林からの檄文](/ja/event/simple/3-12-1-武林檄文)</MarkdownWrapper>を受け取った後の
-            <MarkdownWrapper>[皆の知恵を集める](/ja/event/simple/3-12-1-集思廣益)</MarkdownWrapper>で、「葉雲舟に尋ねる」を選ぶと入手。
+            <MarkdownWrapper>[皆の知恵を集める](/ja/event/simple/3-12-1-集思廣益)</MarkdownWrapper>で、「葉雲舟を訪ねる」を選ぶと入手。
         </td>
         <td></td>
     </tr>
@@ -164,8 +164,8 @@ tags:
         <td>仏学LV1<br>または<br>儒学LV1<br>または<br>道学LV2</td>
         <td>
             以下の流れを参照:<br>
-            <li><MarkdownWrapper>[四師兄、商いの長旅へ](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>の別れの時、「あえて難題を突きつける」を選び、ダイスで【≧70 さあ、地元の土産品だな】を出し、さらに「華山には仙人がいると聞いた、仙人は霊丹を持つ」を選ぶ</li>
-            <li>3年目11月上旬に<MarkdownWrapper>[門人の暇乞い-四師兄が帰る](/ja/event/simple/3-11-1-門人辭別#四師兄歸來)</MarkdownWrapper>の後、男弟子房の<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>で「前に頼んだ調べ事」を選ぶ</li>
+            <li><MarkdownWrapper>[四師兄、商いの長旅へ](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>の別れの時、「わざと難癖をつける」を選び、ダイスで【≧70 さあ、地元の土産品だな】を出し、さらに「華山に仙人がいて、仙人は霊丹を持っているらしい」を選ぶ</li>
+            <li>3年目11月上旬に<MarkdownWrapper>[門人の暇乞い-四師兄が帰る](/ja/event/simple/3-11-1-門人辭別#四師兄歸來)</MarkdownWrapper>の後、男弟子房の<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>で「以前頼んでおいた件」を選ぶ</li>
             <li>銀両≥5000、唐惟元好感≥50で、「買う」を選ぶと入手</li>
         </td>
         <td></td>
@@ -206,8 +206,8 @@ tags:
         <td>内功40<br>拳掌40</td>
         <td>
             🚩<MarkdownWrapper>[掌門の手配](/ja/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>の救いようのないルート、
-            男弟子房の<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>で「前に頼んだ調べ事」を選ぶ。<br>
-            銀両2000を支払い、天命のダイスで【🎲＞40 失われた嵩山の秘笈】を出し、さらに「ではありがたく頂こう」を選ぶと入手。
+            男弟子房の<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>で「以前頼んでおいた件」を選ぶ。<br>
+            銀両2000を支払い、天命のダイスで【🎲＞40 失われた嵩山の秘笈】を出し、さらに「確かにそうだ、俺が貰っておこう。」を選ぶと入手。
         </td>
         <td></td>
     </tr>
@@ -242,7 +242,7 @@ tags:
         <td>学問20<br>拳掌20<br>刀剣15<br>黄酒を所持</td>
         <td>
             <li><MarkdownWrapper>🚩[家出](/ja/event/simple/2-06-1-離家出走)して宿屋に泊まり、その結果[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)の時に🚩龍淵と知り合う。</MarkdownWrapper></li>
-            <li><MarkdownWrapper>[龍湘との結縁](/ja/event/simple/3-12-3-龍湘結緣)イベントで、雑談「信義を守る」の後に入手（当該イベントの流れを参照）。</MarkdownWrapper></li>
+            <li><MarkdownWrapper>[龍湘との結縁](/ja/event/simple/3-12-3-龍湘結緣)イベントで、雑談「約束を守る」の後に入手（当該イベントの流れを参照）。</MarkdownWrapper></li>
         </td>
         <td></td>
     </tr>
@@ -277,7 +277,7 @@ tags:
         <td></td>
         <td>
             <li>🚩<MarkdownWrapper>[家出](/ja/event/simple/2-06-1-離家出走)</MarkdownWrapper>して宿屋に泊まる。</li>
-            <li><MarkdownWrapper>[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>の時、「準備はできた」を選び、さらに「唐門に長年いるのに、まだ外姓の弟子のままで、なんと哀れなことか」を選び、かつ龍淵好感≥4で入手。</li>
+            <li><MarkdownWrapper>[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>の時、「準備できた」を選び、さらに「僕は唐門に長年いて、いまだに外姓弟子の身の上なんです。なんと哀れなことでしょう。」を選び、かつ龍淵好感≥4で入手。</li>
         </td>
         <td></td>
     </tr>
@@ -308,7 +308,7 @@ tags:
         <td>
             <li>🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学する。</li>
             <li><MarkdownWrapper>[郁竹の帰郷](/ja/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>の<MarkdownWrapper>[小さな町での休息](/ja/event/simple/2-04-2-小鎮休憩#小鎮休憩)</MarkdownWrapper>で、「雑貨の露店がある」を選ぶ。</li>
-            <li>品性≧40かつ銀両≧1000で、ダイスで【🎲＜85 武功の秘籍】が出たあと👉「買う」を選ぶと、銀両3000で入手できる。</li>
+            <li>品性≧40かつ銀両≧1000で、ダイスで【🎲＜85 武功秘笈】が出たあと👉「買う」を選ぶと、銀両3000で入手できる。</li>
         </td>
         <td>3000</td>
     </tr>
@@ -554,7 +554,7 @@ tags:
         <td>内功12<br>体力10<br>雪山心法<br>陰陽中寄り2</td>
         <td>50</td>
         <td></td>
-        <td>崆峒派留学－夏侯蘭サブルートで樹上小屋に泊まる (夏侯蘭好感≧35、または「嫌だよ！」を選択) と与えられる</td>
+        <td>崆峒派留学－夏侯蘭サブルートで樹上小屋に泊まる (夏侯蘭好感≧35、または「嫌ですよ！」を選択) と与えられる</td>
         <td></td>
     </tr>
     <tr>
@@ -565,7 +565,7 @@ tags:
         <td>
             🚩虞小梅と結縁 (<MarkdownWrapper>[虞小梅結縁攻略](/ja/event/pursuit/girl3)</MarkdownWrapper>参照)。<MarkdownWrapper>[錦香宮見学](/ja/event/simple/3-09-3-參觀錦香宮)</MarkdownWrapper>で案内役が【🎲＜35 画中仙】。<br>
             <MarkdownWrapper>[錦香宮イベント集](/ja/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper>の自由行動で<MarkdownWrapper>[画中仙に挑戦](/ja/event/simple/3-09-3-挑戰畫中仙)</MarkdownWrapper>を選ぶ。<br>
-            画中仙に挑戦した後、玄燭心経を修める人に👉「自分が修める」を選ぶと入手。<br>
+            画中仙に挑戦した後、玄燭心経を修める人に👉「俺が修練する」を選ぶと入手。<br>
         </td>
         <td></td>
     </tr>

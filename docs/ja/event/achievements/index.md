@@ -82,7 +82,7 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`04`"><br><ruby><rb>人間道</rb><rt>にんげんどう</rt></ruby></AchievementIcon></td>
         <td>この<ruby>天下<rt>てんか</rt></ruby>で、世俗の偏見に敢えて戦いを挑むのは<ruby>唐門<rt>とうもん</rt></ruby>だけ。<br>だからこそ<ruby>温夫人<rt>おんふじん</rt></ruby>は、未来をあなたに託したのだ。</td>
         <td>
-            錦香宮での滞在の終盤、<MarkdownWrapper>[温夫人の付託](/ja/event/simple/3-10-2-溫夫人託付#託付宮人)</MarkdownWrapper>の際、温夫人の問答2問目で👉「支離滅裂だ」を選ばないこと。その上で錦香宮好感≥5を満たし、天命の擲骰で温夫人に引き止めさせる:<br>
+            錦香宮での滞在の終盤、<MarkdownWrapper>[温夫人の付託](/ja/event/simple/3-10-2-溫夫人託付#託付宮人)</MarkdownWrapper>の際、温夫人の問答2問目で👉「戯言だ」を選ばないこと。その上で錦香宮好感≥5を満たし、天命の擲骰で温夫人に引き止めさせる:<br>
             • 骰子🎲の上限50、道徳・性情で補正、処世は減算<br>
             • 錦香宮好感=5または6の場合: 【🎲≥80 少侠、お待ちを】が必要<br>
             • 錦香宮好感≥7の場合: 【🎲≥50 少侠、お待ちを】が必要<br>
@@ -128,7 +128,7 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`08`"><br>殴ってみろ (揍我)</AchievementIcon></td>
         <td><ruby>武林盟<rt>ぶりんめい</rt></ruby>主と<ruby>千面人魔<rt>せんめんじんま</rt></ruby>があなたの体に残した傷こそ、あなたの誉れの証だ。</td>
         <td>2年目に留学を選ばず宿屋に泊まり、<br>
-            千面人魔と龍淵のイベントで「俺はお前ら二人をぶっ潰す」を選んだ後に取得。</td>
+            千面人魔と龍淵のイベントで「この野郎ども、俺様がふたりまとめてぶちのめしてやる！」を選んだ後に取得。</td>
         <td></td>
         <td>~~君のような要求は、この世で見たことがない。~~</td>
     </tr>
@@ -158,7 +158,7 @@ tags:
         <td id="風雲史-No.11">11</td>
         <td><AchievementIcon :size="`medium`" :no="`11`"><br>分身</AchievementIcon></td>
         <td>あれほど引っ張りだこだったのだから、死んでも悔いはないだろう？</td>
-        <td><Girl8Icon>龍湘</Girl8Icon>と姉妹兄弟の関係で親密度4星、かつ<Girl3Icon>小梅</Girl3Icon>親密度2星以上で唐門加入後、弁舌≧40かつ体力＜60の時、唐布衣の帰路で「二人とも手放さない」を骰子で出す。</td>
+        <td><Girl8Icon>龍湘</Girl8Icon>と姉妹兄弟の関係で親密度4星、かつ<Girl3Icon>小梅</Girl3Icon>親密度2星以上で唐門加入後、弁舌≧40かつ体力＜60の時、唐布衣の帰路で「二人とも手を放さない」を骰子で出す。</td>
         <td></td>
         <td></td>
     </tr>
@@ -237,7 +237,7 @@ tags:
         <td id="風雲史-No.19">19</td>
         <td><AchievementIcon :size="`medium`" :no="`19`"><br>悪人は悪人が制す (惡人自有惡人磨)</AchievementIcon></td>
         <td>たかが<ruby>晁和<rt>ちょうか</rt></ruby>、恥知らずの能無しごときが、<br>どうして彼女より悪くなれようか？</td>
-        <td><MarkdownWrapper>[葉雲裳結縁攻略](/ja/event/pursuit/girl2)</MarkdownWrapper>で結縁し、<MarkdownWrapper>[葉雲舟を誘う](/ja/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>で武林大会に同行させる。会場を離れる際の<MarkdownWrapper>[各派の投票結果](/ja/event/simple/3-10-2-公審唐門#公審總結)</MarkdownWrapper>で唐門が武林の公敵となり、<MarkdownWrapper>[前に出て釈明する](/ja/event/simple/3-10-2-武林公敵#對策選擇)</MarkdownWrapper>ときに「葉雲裳に付き添ってもらう」を選ぶと取得。</td>
+        <td><MarkdownWrapper>[葉雲裳結縁攻略](/ja/event/pursuit/girl2)</MarkdownWrapper>で結縁し、<MarkdownWrapper>[葉雲舟を誘う](/ja/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>で武林大会に同行させる。会場を離れる際の<MarkdownWrapper>[各派の投票結果](/ja/event/simple/3-10-2-公審唐門#公審總結)</MarkdownWrapper>で唐門が武林の公敵となり、<MarkdownWrapper>[前に出て釈明する](/ja/event/simple/3-10-2-武林公敵#對策選擇)</MarkdownWrapper>ときに「葉雲裳を連れて行く」を選ぶと取得。</td>
         <td></td>
         <td>v1.0.5000.0版本以後に追加</td>
     </tr>

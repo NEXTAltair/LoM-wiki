@@ -174,7 +174,7 @@ tags:
         <td></td>
         <td>心相+30、体力-1、抗毒+1、料理+2</td>
         <td>休息で飲食を選択</td>
-        <td><MarkdownWrapper>[四師兄の青城訪問](/ja/event/simple/2-10-1-四師兄訪青城)で、贈り物を選び天運【≧80】江陵の特産 を引くと入手。</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[四師兄の青城訪問](/ja/event/simple/2-10-1-四師兄訪青城)で👉「もらう」を選び、天運【≧80】江陵の特産 を引くと入手。</MarkdownWrapper></td>
         <td></td>
     </tr>
     <tr>
@@ -287,7 +287,7 @@ tags:
         <td>イベント道具</td>
         <td>雲裳ルート限定</td>
         <td>
-            <MarkdownWrapper>[「雲裳と結ばれる」](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>の子イベント<MarkdownWrapper>[「谷底での生活」](/ja/event/simple/3-05-1-谷底生活)</MarkdownWrapper>にて、5日目に道具【🎲≥50 某人の黒歴史】を拾得する。<br>
+            <MarkdownWrapper>[「雲裳と結ばれる」](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>の子イベント<MarkdownWrapper>[「谷底での生活」](/ja/event/simple/3-05-1-谷底生活)</MarkdownWrapper>にて、5日目に道具【🎲≥50 誰かの黒歴史】を拾得する。<br>
         </td>
     </tr>
     <tr>
