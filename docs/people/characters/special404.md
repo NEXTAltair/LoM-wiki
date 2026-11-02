@@ -10,22 +10,70 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="初識">
+	<ChTab title="初識">
 		<ChMeet 
 			src='/images/characters/special404/normal.webp' 
-            nameTitle=''
+			nameTitle=''
 			nameMain='丹霞子'
 			desc='崆峒派·飛天門掌門火龍仙君座下的大弟子。<br>
 			亦是襄陽戰場聲名赫赫的「道法將軍」，百戰不殆，為宋國軍民仰仗，為金國兵馬忌憚。'
 			:animation=true
 		/>
-    </ChTab>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch
+			src='/images/characters/special404/laugh1.webp' 
+			position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑">
+		<Ch
+			src='/images/characters/special404/laugh2.webp' 
+			position='center'/>
+		<ChName nameZh='大笑' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch
+			src='/images/characters/special404/nervous1.webp' 
+			position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="驚慌">
+		<Ch
+			src='/images/characters/special404/nervous2.webp' 
+			position='center'/>
+		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch
+			src='/images/characters/special404/angry1.webp' 
+			position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="受傷">
+		<Ch
+			src='/images/characters/special404/hurt.webp' 
+			position='center'/>
+		<ChName nameZh='受傷' nameEn='Injured' position='right' />
+	</ChTab>
+	<ChTab title="施法">
+		<Ch
+			src='/images/characters/special404/cast.webp' 
+			position='center'/>
+		<ChName nameZh='施法' nameEn='Casting' position='right' />
+	</ChTab>
+	<ChTab title="負荊請罪">
+		<Ch
+			src='/images/characters/special404/special1.webp' 
+			position='center'/>
+		<ChName nameZh='負荊請罪' nameEn='Bearing Thorns' position='right' />
+	</ChTab>
 </ChTabs>
 
 <InfoList>
-    <Info title='角色資料' :open=true>
-        <table>
-            <ChTr>
+	<Info title='角色資料' :open=true>
+		<table>
+			<ChTr>
 				<ChTd isTitle=true>
 					性別
 				</ChTd>
@@ -64,8 +112,8 @@ aside: false
 					[[趙方]] (戰友)
 				</ChTd>
 			</ChTr>
-        </table>
-    </Info>
+		</table>
+	</Info>
 </InfoList>
 
 <br><br>
@@ -93,10 +141,10 @@ aside: false
 
 ## 事蹟
 
--   傻人有傻福，少年時誤闖神仙洞府，摔入西邊彈箏湖，失衝大半個月，又從東邊鑽羊洞冒出頭，不但沒死，還服下山川靈氣所聚之天然靈丹「萬年石乳」，從而功力大進，練就一身比[[火龍仙君|師父]]還高強的武功《風刀火劍》。
+-   傻人有傻福，少年時誤闖神仙洞府，摔入西邊彈箏湖，失蹤大半個月，又從東邊鑽羊洞冒出頭，不但沒死，還服下山川靈氣所聚之天然靈丹「萬年石乳」，從而功力大進，練就一身比[[火龍仙君|師父]]還高強的武功《風刀火劍》。
     -   前往崆峒的路上，好感≧30 時會把《風刀火劍》送給趙活，見[[風刀火劍]]。
 -   為累積功德而從軍。與[[孟珙]]同為[[趙方]]將軍座下猛將。名字不在軍部上，沒領過朝廷糧餉，卻深得軍中將士依賴。
--   既是金國大患，亦是可遇不可求之將才，金帥[[樸散安貞]]曾於酒後吐真言，說到丹霞子，言下深懷不為己有之嘆。
+-   既是金國大患，亦是可遇不可求之將才，金帥[[僕散安貞]]曾於酒後吐真言，說到丹霞子，言下深懷不為己有之嘆。
 -   曾在軍中開壇祈雨，然後真的下雨了。[^1]
 
 ## 火龍仙君
