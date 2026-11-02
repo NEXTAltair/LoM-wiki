@@ -165,7 +165,7 @@ tags:
         <td>
             以下の流れを参照:<br>
             <li><MarkdownWrapper>[四師兄、商いの長旅へ](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>の別れの時、「わざと難癖をつける」を選び、ダイスで【≧70 さあ、地元の土産品だな】を出し、さらに「華山に仙人がいて、仙人は霊丹を持っているらしい」を選ぶ</li>
-            <li>3年目11月上旬に<MarkdownWrapper>[門人の暇乞い-四師兄が帰る](/ja/event/simple/3-11-1-門人辭別#四師兄歸來)</MarkdownWrapper>の後、男弟子房の<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>で「以前頼んでおいた件」を選ぶ</li>
+            <li>3年目11月上旬に<MarkdownWrapper>[門人の暇乞い-四師兄が帰る](/ja/event/simple/3-11-1-門人辭別#四師兄歸來)</MarkdownWrapper>の後、男弟子室の<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>で「以前頼んでおいた件」を選ぶ</li>
             <li>銀両≥5000、唐惟元好感≥50で、「買う」を選ぶと入手</li>
         </td>
         <td></td>
@@ -206,7 +206,7 @@ tags:
         <td>内功40<br>拳掌40</td>
         <td>
             🚩<MarkdownWrapper>[掌門の手配](/ja/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>の救いようのないルート、
-            男弟子房の<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>で「以前頼んでおいた件」を選ぶ。<br>
+            男弟子室の<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>で「以前頼んでおいた件」を選ぶ。<br>
             銀両2000を支払い、天命のダイスで【🎲＞40 失われた嵩山の秘笈】を出し、さらに「確かにそうだ、俺が貰っておこう。」を選ぶと入手。
         </td>
         <td></td>
@@ -259,7 +259,7 @@ tags:
         <td>拳掌10<br>軽功6<br>借勢LV2<br>風雷神腳</td>
         <td>80</td>
         <td>形意拳LV1</td>
-        <td>囲城イベント－丐幇優勢で、宿屋へ撤退 (戦術LV≦2が必要) すると丐幇に遭遇、風神に助けられ、一千金で取得<br>二年崆峒派留学－夏侯蘭に弟子入りし、三年比武招親の時に後山で練功・墓参りする</td>
+        <td>囲城イベント－丐幇優勢で、宿屋へ撤退 (戦術LV≦2が必要) すると丐幇に遭遇、風神に助けられ、一千金で取得<br>二年崆峒派留学－夏侯蘭に弟子入りし、三年比武招親の時に裏山で練功・墓参りする</td>
         <td>1000</td>
     </tr>
     <tr>
@@ -267,7 +267,7 @@ tags:
         <td>軽功15<br>拳掌15<br>爆発10<br>難知如陰<br>形意拳LV1<br>戦術LV1</td>
         <td>50</td>
         <td>形意拳LV1</td>
-        <td>夏侯蘭に弟子入りし、先に『つよつよ蹴り』を取得、三年比武招親の時に後山で練功・墓参りする。</td>
+        <td>夏侯蘭に弟子入りし、先に『つよつよ蹴り』を取得、三年比武招親の時に裏山で練功・墓参りする。</td>
         <td></td>
     </tr>
     <tr>
@@ -329,7 +329,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`4020`">逍遥遊腿法</BookItemIcon></td>
+        <td><BookItemIcon :no="`4020`">逍遥遊足技</BookItemIcon></td>
         <td>軽功10<br>体力5<br>学問3<br>疾如風<br>品性+3</td>
         <td>50</td>
         <td>学問10</td>
@@ -831,7 +831,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8104`">唐門薬典</BookItemIcon></td>
-        <td>抗毒15<br>抗麻15<br>医術LV1</td>
+        <td>対毒15<br>対麻痺15<br>医術LV1</td>
         <td>50</td>
         <td>学問20 (LV5)</td>
         <td>囲城イベント後帰宅し、<MarkdownWrapper>[唐錚](/ja/people/characters/brother2)</MarkdownWrapper>に付いて行くと唐錚が贈る (唐錚好感3.5★)<br>二年十一月上旬－唐惟元から購入 ($1200)</td>
@@ -847,7 +847,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8106`">太平聖恵方</BookItemIcon></td>
-        <td>抗毒15<br>抗麻15<br>医術LV1</td>
+        <td>対毒15<br>対麻痺15<br>医術LV1</td>
         <td>50</td>
         <td>学問20</td>
         <td>喧嘩仲裁イベント－寝て参加しないを選び、唐錚に炉の番として残されると与えられる</td>
@@ -855,7 +855,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8107`">難経</BookItemIcon></td>
-        <td>学問10<br>抗毒8<br>抗麻8<br>医術LV1</td>
+        <td>学問10<br>対毒8<br>対麻痺8<br>医術LV1</td>
         <td>50</td>
         <td>学問25</td>
         <td>葉家兄妹を受け入れた後、唐芳が戻り、荷物拾いダイスで【五成】が出ると入手</td>

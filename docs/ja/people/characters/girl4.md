@@ -216,13 +216,13 @@ aside: false
 ## 南宮深
 
 -   [南宮深](/ja/people/characters/special102)との婚約は南宮の老太爺が一手に決めた。二人とも幼い時から心が通じていた。相応に相性がいい。さらに一緒に耕陽読書斎に学びに行き、[魏菊](/ja/people/characters/girl7)と同窓になった。
--   [南宮深](/ja/people/characters/special102)との冷戦期間中、南宮深と[南宮浅](/ja/people/characters/special103)が蒙面人に襲撃されたと聞き、意地を張ることなく慌てて駆けつけた。多くの慰めの言葉を用意していたはずが、つい出た言葉は不平と教訓ばかりだった。
+-   [南宮深](/ja/people/characters/special102)との冷戦期間中、南宮深と[南宮浅](/ja/people/characters/special103)が覆面の者に襲撃されたと聞き、意地を張ることなく慌てて駆けつけた。多くの慰めの言葉を用意していたはずが、つい出た言葉は不平と教訓ばかりだった。
 -   江陵の戦後、[南宮深](/ja/people/characters/special102)に婚約を破棄された。武林大会の時、[南宮深](/ja/people/characters/special102)は既に後悔していたが、上官螢の心はすでに決まっていた。将来どこに行こうとも、二度と南宮世家には戻るまいと思っていた。
 -   肩甲を支持している。肩甲を持つことは非常に立派だと認め、自家の縫い手まで説得したいと思った。高級な衣服を作る客人ほど豪華な肩甲をあつらえさせる。
 
 ## 螢魔
 
--   v1.0.5000.0版本更新後、[唐黙鈴](/ja/people/characters/girl0.md)・[葉雲裳](/ja/people/characters/girl2.md)と共に下山するシナリオ([山を下りての遠出](/ja/event/simple/1-09-2-下山郊遊))が追加され、幼児好きというイメージが定着した。
+-   v1.0.5000.0更新後、[唐黙鈴](/ja/people/characters/girl0.md)・[葉雲裳](/ja/people/characters/girl2.md)と共に下山するシナリオ([山を下りての遠出](/ja/event/simple/1-09-2-下山郊遊))が追加され、幼児好きというイメージが定着した。
 -   [唐錚](/ja/people/characters/brother2.md)は彼女の心が不正直だと思い警戒している。しかし彼女が狙っているのは岳王の宝蔵や唐門の技術ではなく、[唐黙鈴](/ja/people/characters/girl0.md)・[葉雲裳](/ja/people/characters/girl2.md)本人である。
 -   最も好むのは小さくて精巧な物事だ。[唐黙鈴](/ja/people/characters/girl0.md)・[葉雲裳](/ja/people/characters/girl2.md)を見ると堪えられない。その場で連れ去りたいほどだ。彼女たちに姓を改めて上官を名乗らせ、自分の妹として認めさせたい。そうなれば、堂々と左に抱き右に抱いて、毎日脚に抱きついてほおずりをさせ、色鮮やかな衣装を買い与えて毎日着替えさせ、自分の鑑賞用にできるのだ。~~もう可愛い~~
 -   [葉雲裳](/ja/people/characters/girl2.md)に針治療を施す[唐芳](/ja/people/characters/special832)に敵意を示す。

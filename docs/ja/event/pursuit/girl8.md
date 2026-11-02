@@ -51,7 +51,7 @@ tags:
     <li><MarkdownWrapper>[龍湘の悩み事](/ja/event/simple/3-11-2-龍湘心事)</MarkdownWrapper></li>
 </td>
 <td>• あらかじめ想い人を<Girl8Icon>龍湘</Girl8Icon>にしておく。
-    <br>• 後山で薪運びを選ぶと、ランダムで龍湘の剣稽古 (<MarkdownWrapper>[養成コマンド](/ja/system/training/)</MarkdownWrapper>参照) が発生する(条件2を満たしている必要がある)。📖「俺が教えてやる、剣で」を選ぶ。
+    <br>• 裏山で薪運びを選ぶと、ランダムで龍湘の剣稽古 (<MarkdownWrapper>[養成コマンド](/ja/system/training/)</MarkdownWrapper>参照) が発生する(条件2を満たしている必要がある)。📖「俺が教えてやる、剣で」を選ぶ。
     <br>• 勝敗に関係なく、条件1を満たしていれば<MarkdownWrapper>[龍湘の悩み事](/ja/event/simple/3-11-2-龍湘心事)</MarkdownWrapper>イベントに進み、📜雑談を選べるようになる。
     <br>• 雑談で📜「出会い」と📜「錦香宮」を終えたあと、📜「龍湘の悩み」(想い人が龍湘である必要がある)を選び、続けて次のどれかを満たす:
     <br>1. 品性が中庸以上なら、🎲天命が発動するので【≧60】「言う」を出す。
@@ -65,7 +65,7 @@ tags:
 <td>3年目12月上旬 (残り行動1回)</td>
 <td><MarkdownWrapper>[武林盟への対策](/ja/event/simple/3-12-1-武林盟對策)</MarkdownWrapper></td>
 <td>決断の結果が唐門解散(退隠ルート)になってはいけない。</td>
-<td>• 唐門を解散し(<MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>参照)、かつ条件2を満たしている場合、後山に行くと次のようになる:
+<td>• 唐門を解散し(<MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>参照)、かつ条件2を満たしている場合、裏山に行くと次のようになる:
     <br>1. 他にも結縁している相手がいて想い人が<Girl8Icon>龍湘</Girl8Icon>の場合、📖「湘姉さん、俺について来ないか？（想いを告げる）」を選び、🗡️決闘に勝ったあと📖「行かせるものか」を選ぶと、<MarkdownWrapper>[汗青書24：海辺に立つ人](/ja/event/ends/end-24)</MarkdownWrapper>に進み、結縁できなくなる。
     <br>2. それ以外の場合、龍湘との三年の約束イベントが発生し、結縁できなくなる。</td>
 </tr>
@@ -106,7 +106,7 @@ tags:
     <br>• または4年目2月中旬(西武林盟成立)</td>
 <td><MarkdownWrapper>[伴侶との約束](/ja/event/simple/4-01-2-伴侶之約)</MarkdownWrapper></td>
 <td>
-    • 後山に行くと龍湘とのデートイベントが発生する。<br>
+    • 裏山に行くと龍湘とのデートイベントが発生する。<br>
     • 他に結縁している相手がいる場合は<MarkdownWrapper>[修羅場](/ja/event/simple/4-01-2-修羅場)</MarkdownWrapper>イベントに置き換わり、任意の場所を選ぶと発生する。
 </td>
 <td>このイベントを起こさなかった場合、残り行動回数2の時点で<MarkdownWrapper>[約束を破る](/ja/event/simple/4-01-2-伴侶之約#失約)</MarkdownWrapper>イベントが自動発生する。</td>

@@ -91,7 +91,7 @@ tags:
 
 -   [唐錚](/ja/people/characters/brother2) (二師兄) の機嫌をとるやり方さえ思いつけば、[趙活](/ja/people/characters/player)を使って鶏やウサギを捕まえさせる。
 -   趙活が修行しているのを見ると、彼を殴って気を晴らしたくなる。
--   女弟子房の薪担ぎ事件の中で、明らかにその事件に参加していなかったのに、女弟子の中に混ざって一緒に[趙活](/ja/people/characters/player)を打つ。[^2]
+-   女弟子室の薪担ぎ事件の中で、明らかにその事件に参加していなかったのに、女弟子の中に混ざって一緒に[趙活](/ja/people/characters/player)を打つ。[^2]
 -   もし[趙活](/ja/people/characters/player)が錦香宮で[温夫人](/ja/people/characters/special402)を怒らせば、本相を現わして一撃で趙活を殺す。
 
 ## 虞小梅

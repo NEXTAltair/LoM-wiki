@@ -14,7 +14,7 @@ tags:
 
 <br>
 
-陳序。[龍湘](/ja/people/characters/girl8)の破廟事件で会える。[錦香宮](/ja/people/factions/jin-xiang-palace)の費娘子とは昔からの付き合いがあり、さらに[全真教](/ja/people/factions/quan-zhen-sect)の道長の妻をそそのかし、さらには金国の『養龍苑』から来た売国奴です。[龍湘](/ja/people/characters/girl8)に遭い、手指を斬られ、石灰粉を灑いて眼を潰そうとしたが、一剣で刺殺される。
+陳序。[龍湘](/ja/people/characters/girl8)の廃寺イベントで会える。[錦香宮](/ja/people/factions/jin-xiang-palace)の費娘子とは昔からの付き合いがあり、さらに[全真教](/ja/people/factions/quan-zhen-sect)の道長の妻をそそのかし、さらには金国の『養龍苑』から来た売国奴です。[龍湘](/ja/people/characters/girl8)に遭い、手指を斬られ、石灰粉を灑いて眼を潰そうとしたが、一剣で刺殺される。
 
 <br>
 

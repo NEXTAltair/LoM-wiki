@@ -91,7 +91,7 @@ tags:
 <img src="/images/mobs/nan-gong-family/oldman_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>小師妹出嫁<br>「鉄鞭」南宮偉</td>
+        <td>小師妹の輿入れ<br>「鉄鞭」南宮偉</td>
         <td>南宮深の仲人を務め、唐陞の友人である。</td>
     </tr>
     <tr>

@@ -92,7 +92,7 @@ tags:
 ## 秘笈
 
 -   [全真剣法](/ja/system/books/book_7002)
--   [逍遥遊腿法](/ja/system/books/book_4020)
+-   [逍遥遊足技](/ja/system/books/book_4020)
 -   [龍吟功](/ja/system/books/book_7005)
 -   [全真天遁剣法](/ja/system/books/book_2401)
 

@@ -94,7 +94,7 @@ tags:
 <td>• 伝授を受け入れるか抵抗に失敗すると、<Girl5Icon>夏侯蘭</Girl5Icon>は死去し、スキル<MarkdownWrapper>[玄黄納心綱](/ja/system/skill)</MarkdownWrapper>(ストーリーの記念品で、効果なし)を獲得する。
     <br>• 酒の種類で展開が変わる。優先順位は次のとおり:
     <br>1. <MarkdownWrapper>[菊花酒](/ja/event/simple/3-07-2-雪山之約)</MarkdownWrapper>: 第三香を倒したあと、🎲【≧70】「見逃す」、続けて🎲【≧60】「何もない」を出す。
-    <br>2. <MarkdownWrapper>[猿酒](/ja/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>: <MarkdownWrapper>[帰路での襲撃](/ja/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>で唐布衣が危篤のときに📖「あんたが隠して飲ませなかった猿酒」を選び、同年3月上旬に後山で入手する。
+    <br>2. <MarkdownWrapper>[猿酒](/ja/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>: <MarkdownWrapper>[帰路での襲撃](/ja/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>で唐布衣が危篤のときに📖「あんたが隠して飲ませなかった猿酒」を選び、同年3月上旬に裏山で入手する。
     <br>3. その他の酒。
     <br>• 🗡️夏侯蘭との決闘に負けると、<MarkdownWrapper>[生死簿74：花との合葬](/ja/event/badends/badend-74)</MarkdownWrapper>に進む。</td>
 </tr>
@@ -159,7 +159,7 @@ tags:
 <td>3年目12月上旬 (残り行動1回)</td>
 <td><MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>(退隠ルート)</td>
 <td>
-    • 修練場と男弟子房の展開が分岐する。<br>
+    • 修練場と男弟子室の展開が分岐する。<br>
     • <MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が夏侯蘭と共に雪山へ登るバージョンに変わる。<br>
     • 道徳≧60なら<MarkdownWrapper>[汗青書31：伝説の人](/ja/event/ends/end-31)</MarkdownWrapper>に進める。
 </td>

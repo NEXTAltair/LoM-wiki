@@ -103,7 +103,7 @@ tags:
 <br><br>
 三妻四妾は礼教が許しても、錦香宮は許さない。人の心を踏みにじる輩は、みな惜花令に名を残すことになる。
 <br><br>
-[龍湘](/ja/people/characters/girl8)の名簿を例にとれば、破廟事件の陳序公子、そして[唐門](/ja/people/factions/tang-men)の[飛侠](/ja/people/characters/brother1)が載っている。
+[龍湘](/ja/people/characters/girl8)の名簿を例にとれば、廃寺イベントの陳序公子、そして[唐門](/ja/people/factions/tang-men)の[飛侠](/ja/people/characters/brother1)が載っている。
 
 ## 風雨山の変
 

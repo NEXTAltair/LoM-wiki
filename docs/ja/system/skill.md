@@ -24,7 +24,7 @@ tags:
         <td>-</td>
         <td>顔が少し良く見える。武学「混元童子炁」の前提条件</td>
         <td>
-            <li>1年目4月上旬－男弟子房の鏡のイベント</li>
+            <li>1年目4月上旬－男弟子室の鏡のイベント</li>
             <li><MarkdownWrapper>[心変わりの夢](/ja/event/simple/1-06-1-變心夢)</MarkdownWrapper>で、まだ知り合っていない相手を選ぶ条件</li>
         </td>
     </tr>
@@ -299,7 +299,7 @@ tags:
         <td id = "疾如風">疾如風</td>
         <td>-</td>
         <td>戦術LVに基づいて軽功を上昇（毎級+2 or 2%）</td>
-        <td><MarkdownWrapper>[《逍遥遊腿法》](/ja/system/books/book_4020)</MarkdownWrapper><br><MarkdownWrapper>[《流星剣譜》](/ja/system/books/book_2001)</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[《逍遥遊足技》](/ja/system/books/book_4020)</MarkdownWrapper><br><MarkdownWrapper>[《流星剣譜》](/ja/system/books/book_2001)</MarkdownWrapper></td>
     </tr>
     <tr>
         <td id = "徐如林">徐如林</td>

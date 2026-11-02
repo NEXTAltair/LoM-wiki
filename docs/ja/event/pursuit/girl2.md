@@ -135,7 +135,7 @@ tags:
     <br>• 異種真気(幻境の対戦相手)との戦闘にはすべて勝つ必要がある。勝てば結縁の場面に進む。
     <br>• このイベントを終えて道具<MarkdownWrapper>[【葉雲裳の櫛】](/ja/people/characters/girl2.html#結縁信物)</MarkdownWrapper>を入手すると、結縁が完了する。
 </td>
-<td>• <Girl2Icon>葉雲裳</Girl2Icon>好感を稼ぎたい場合は、後山での修練で焼き魚イベントを狙うとよい。
+<td>• <Girl2Icon>葉雲裳</Girl2Icon>好感を稼ぎたい場合は、裏山での修練で焼き魚イベントを狙うとよい。
     <br>• 剣聖の伝承の条件: 内力比べで🎲【<99】「やや劣勢」を出し、かつ<MarkdownWrapper>[谷底での生活](/ja/event/simple/3-05-1-谷底生活)</MarkdownWrapper>で雑談📜「葉雲裳の武芸」を選ぶこと。
     <br>• スキル<MarkdownWrapper>[南宮護心訣](/ja/system/skill)</MarkdownWrapper>レベル3を持っている場合、幻境の南宮遠との戦闘に勝つと、新スキル<MarkdownWrapper>[偕老の誓い](/ja/system/skill)</MarkdownWrapper>に置き換わる。
     <br>• 結縁の過程で、スキル<MarkdownWrapper>[九転輪廻](/ja/system/skill)</MarkdownWrapper>を獲得する。
@@ -226,7 +226,7 @@ tags:
 <td>3年目12月上旬 (残り行動1回)</td>
 <td><MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>(退隠ルート)</td>
 <td>
-    • 女弟子房・男弟子房・煉丹房の展開が変化する。<br>
+    • 女弟子室・男弟子室・煉丹房の展開が変化する。<br>
     • <MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が<Girl2Icon>葉雲裳</Girl2Icon>バージョンになる。
 </td>
 <td></td>
@@ -259,7 +259,7 @@ tags:
 </td>
 <td><MarkdownWrapper>[伴侶との約束](/ja/event/simple/4-01-2-伴侶之約)</MarkdownWrapper></td>
 <td>
-    • 女弟子房に行くと<Girl2Icon>葉雲裳</Girl2Icon>と自作の紙札遊戯で遊ぶイベントが発生する。<br>
+    • 女弟子室に行くと<Girl2Icon>葉雲裳</Girl2Icon>と自作の紙札遊戯で遊ぶイベントが発生する。<br>
     • 他に結縁している相手がいる場合は<MarkdownWrapper>[修羅場](/ja/event/simple/4-01-2-修羅場)</MarkdownWrapper>イベントに置き換わり、任意の場所を選ぶと発生する。
 </td>
 <td>このイベントを起こさなかった場合、残り行動回数2の時点で<MarkdownWrapper>[約束を破る](/ja/event/simple/4-01-2-伴侶之約#失約)</MarkdownWrapper>イベントが自動発生する。</td>
