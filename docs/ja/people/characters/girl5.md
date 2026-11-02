@@ -307,7 +307,7 @@ aside: false
 
 <SpecialItemIcon :size="`medium`" :needLink="false" :no="1002" />
 
-夏侯蘭の髪帯
+夏侯蘭の髪紐
 
 <br>
 

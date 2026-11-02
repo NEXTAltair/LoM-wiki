@@ -1,5 +1,5 @@
 ---
-title: 生死簿60：誤殺（誤殺される）
+title: 生死簿60：誤殺
 description: 生死簿60：誤殺
 aside: true
 outline: [2, 3]

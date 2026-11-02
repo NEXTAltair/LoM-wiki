@@ -1617,7 +1617,7 @@ tags:
             -
         </td>
         <td>
-            1. <MarkdownWrapper>[武林大会へ向かう](/ja/event/simple/3-09-1-前往武林大會)</MarkdownWrapper>の道中後半にランダムで<MarkdownWrapper>[全真教との遭遇](/ja/event/simple/3-09-1-遭遇全真教)</MarkdownWrapper>が発生し、🚩「宋悲が武林大会に同行」(<MarkdownWrapper>[官兵との遭遇](/ja/event/simple/3-09-1-遭遇官兵)</MarkdownWrapper>参照)が無く門派規模<3のときに現れる選択肢で「唐門を舐めるか。ぶん殴ってやる！」を選び、全真長老との決闘に敗北する<br>
+            1. <MarkdownWrapper>[武林大会へ向かう](/ja/event/simple/3-09-1-前往武林大會)</MarkdownWrapper>の道中後半にランダムで<MarkdownWrapper>[全真教との遭遇](/ja/event/simple/3-09-1-遭遇全真教)</MarkdownWrapper>が発生し、🚩「宋悲が武林大会に同行」(<MarkdownWrapper>[官兵との遭遇](/ja/event/simple/3-09-1-遭遇官兵)</MarkdownWrapper>参照)が無く門派規模<3のときに現れる選択肢で「唐門を舐めるか。ぶん殴ってやる！」を選び、全真派長老との決闘に敗北する<br>
             2. 青城ルートで「上清宮-道士下山」を選ぶと決闘イベントに遭遇することがあり、敗北すれば発生
         </td>
         <td>

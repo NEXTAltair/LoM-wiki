@@ -396,7 +396,7 @@ tags:
 -   肉まん妖怪 by 鳥熊
 -   ~~星座はペガサス座。燃やせ小宇宙 (コスモ)!~~[^6]
 -   破棄済みの謎のダンス。[リンク](https://www.facebook.com/watch/?mibextid=oFDknk&v=1481577332312805&rdid=g1lRgORuhzdrbpQu) [リンク](https://www.facebook.com/watch/?mibextid=oFDknk&v=1134896317435222&rdid=wGNDPFXDQ4Ny0hIM)
--   留学しないルートでは[掌門](/ja/people/characters/master)が唐門伝承の小剣をくれる。~~この剣は龍陽読書斎の文中によく登場する~~
+-   留学しないルートでは[掌門](/ja/people/characters/master)が唐門伝承短剣をくれる。~~この剣は龍陽読書斎の文中によく登場する~~
 -   落書き同然の書画が[耕陽読書斎](/ja/people/factions/geng-yang-study)に杜甫の筆かもしれないと目され、研究のために買い取られた。
 -   年嵩の外姓弟子は[唐門](/ja/people/factions/tang-men)を出るよう勧められるため、趙活は老けて見られないよう、定期的に髭を剃っている。[^1]
 -   炒め物のとき時々気が触れたように胡椒粉を大量に入れるが、実は特に胡椒粉が好きなわけではない。[^1]

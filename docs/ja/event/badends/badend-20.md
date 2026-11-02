@@ -1,6 +1,6 @@
 ---
-title: 生死簿20：爆体死 (爆體而亡)
-description: 生死簿20：爆体死
+title: 生死簿20：破裂死 (爆體而亡)
+description: 生死簿20：破裂死
 aside: true
 outline: [2, 3]
 sidebar: true

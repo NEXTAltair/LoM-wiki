@@ -256,14 +256,14 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`4002`">つよつよ蹴り</BookItemIcon></td>
-        <td>拳掌10<br>軽功6<br>借勢LV2<br>風雷神腳</td>
+        <td>拳掌10<br>軽功6<br>借勢LV2<br>風雷神脚</td>
         <td>80</td>
         <td>形意拳LV1</td>
         <td>囲城イベント－丐幇優勢で、宿屋へ撤退 (戦術LV≦2が必要) すると丐幇に遭遇、風神に助けられ、一千金で取得<br>二年崆峒派留学－夏侯蘭に弟子入りし、三年比武招親の時に裏山で練功・墓参りする</td>
         <td>1000</td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`4003`">蛇兔鷹猿搏</BookItemIcon></td>
+        <td><BookItemIcon :no="`4003`">蛇兎鷹猿搏</BookItemIcon></td>
         <td>軽功15<br>拳掌15<br>爆発10<br>難知如陰<br>形意拳LV1<br>戦術LV1</td>
         <td>50</td>
         <td>形意拳LV1</td>
@@ -290,7 +290,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`4006`">雷神腳</BookItemIcon></td>
+        <td><BookItemIcon :no="`4006`">雷神脚</BookItemIcon></td>
         <td>拳掌15<br>軽功10<br>形意拳LV2<br>神雷1</td>
         <td>80</td>
         <td>形意拳LV1</td>
@@ -329,7 +329,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`4020`">逍遥遊足技</BookItemIcon></td>
+        <td><BookItemIcon :no="`4020`">逍遥遊腿法</BookItemIcon></td>
         <td>軽功10<br>体力5<br>学問3<br>疾如風<br>品性+3</td>
         <td>50</td>
         <td>学問10</td>
@@ -361,8 +361,8 @@ tags:
         <td>1200</td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`6003`">仙鶴迷蹤拳</BookItemIcon></td>
-        <td>軽功7<br>拳掌7<br>爆発3<br>形意拳LV1<br>仙鶴迷蹤步</td>
+        <td><BookItemIcon :no="`6003`">仙鶴迷踪拳</BookItemIcon></td>
+        <td>軽功7<br>拳掌7<br>爆発3<br>形意拳LV1<br>仙鶴迷踪步</td>
         <td>50</td>
         <td></td>
         <td>二年崆峒派留学－飛天門<MarkdownWrapper>[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)2勝 ([虞小梅](/ja/people/characters/girl3)好感≧20) または3勝 ([虞小梅](/ja/people/characters/girl3)好感＜20)</MarkdownWrapper>の報酬<br>三年比武招親－崆峒派留学飛天門、<MarkdownWrapper>[金烏上人](/ja/people/characters/special207)に勝利、[顔疆](/ja/people/characters/trainee204)死亡</MarkdownWrapper>時に贈られる</td>
@@ -441,8 +441,8 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`6015`">手写しの仙鶴迷蹤拳</BookItemIcon></td>
-        <td>拳掌7<br>爆発3<br>軽功7<br>形意拳LV1<br>仙鶴迷蹤歩</td>
+        <td><BookItemIcon :no="`6015`">手写しの仙鶴迷踪拳</BookItemIcon></td>
+        <td>拳掌7<br>爆発3<br>軽功7<br>形意拳LV1<br>仙鶴迷踪歩</td>
         <td>50</td>
         <td></td>
         <td>2年目崆峒派留学－<MarkdownWrapper>[鶴崖の小梅との共舞](/ja/event/simple/2-03-3-鶴崖事件集#小梅共舞)</MarkdownWrapper> (🚩「火閃電との手合わせ」≥4・<MarkdownWrapper>[虞小梅](/ja/people/characters/girl3)好感≥20</MarkdownWrapper>・2年目4月上旬〜7月中旬)</td>
@@ -862,11 +862,11 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`8108`">摺紙集</BookItemIcon></td>
+        <td><BookItemIcon :no="`8108`">折紙集</BookItemIcon></td>
         <td>形意拳1<br>性情-2</td>
         <td>20</td>
         <td></td>
-        <td>留学せず、荒れ寺ルートで唐門に通報し、講経堂のダイス【摺紙集】で入手</td>
+        <td>留学せず、荒れ寺ルートで唐門に通報し、講経堂のダイス【折紙集】で入手</td>
         <td></td>
     </tr>
     <tr>

@@ -5242,7 +5242,7 @@ text: '葉雲裳好感+',
 		<td>
             🆚戦：イノシシが発生:<br>
             <br>
-            敗北: <MarkdownWrapper>[生死簿72：豚に殺される](/ja/event/badends/badend-72)</MarkdownWrapper><br>
+            敗北: <MarkdownWrapper>[生死簿72：猪突死](/ja/event/badends/badend-72)</MarkdownWrapper><br>
             <br>
             勝利: 選択肢が発生:<br>
             👉 売り払う！: 銀両+1000<br>
@@ -6119,14 +6119,14 @@ text: '葉雲裳好感+',
             本イベントの発生回数(今回を含む)を判定:<br>
             • 1回: 特殊効果なし<br>
             • 2回: 葉雲裳好感+1<br>
-            • 3回: 心相+20、シナリオが発生、🚩「葉雲裳が琴を習う」を設定<br>
+            • 3回: 心相+20、シナリオが発生、🚩「葉雲裳が琴を学ぶ」を設定<br>
         </td>
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 30</td>
 		<td>
             • 🚩「葉雲裳が武林大会に同行」<br>
-            • 🚩「葉雲裳が琴を習う」なし<br>
+            • 🚩「葉雲裳が琴を学ぶ」なし<br>
         </td>
 		<td>-</td>
 	</tr>

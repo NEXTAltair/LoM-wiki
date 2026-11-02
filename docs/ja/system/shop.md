@@ -85,7 +85,7 @@ tags:
 
 | 秘笈 | 定価 |
 |---|---|
-| [逍遥遊足技](/ja/system/books/book_4020) | 1800 |
+| [逍遥遊腿法](/ja/system/books/book_4020) | 1800 |
 | [点蒼剣譜](/ja/system/books/book_2300) | 3000 |
 
 ### 2年目3月〜7月

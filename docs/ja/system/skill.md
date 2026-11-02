@@ -50,7 +50,7 @@ tags:
         <td id = "形意拳">形意拳</td>
         <td>-</td>
         <td>武学習得条件</td>
-        <td><MarkdownWrapper>[《蛇形拳》](/ja/system/books/book_4008)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《白猿通臂拳》](/ja/system/books/book_6006)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《仙鶴迷蹤拳》](/ja/system/books/book_6003)</MarkdownWrapper> LV10<br><MarkdownWrapper>[《蛇兔鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper>LV10<br><MarkdownWrapper>[《雷神腳》](/ja/system/books/book_4006)</MarkdownWrapper>LV5 、LV10</td>
+        <td><MarkdownWrapper>[《蛇形拳》](/ja/system/books/book_4008)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《白猿通臂拳》](/ja/system/books/book_6006)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《仙鶴迷踪拳》](/ja/system/books/book_6003)</MarkdownWrapper> LV10<br><MarkdownWrapper>[《蛇兎鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper>LV10<br><MarkdownWrapper>[《雷神脚》](/ja/system/books/book_4006)</MarkdownWrapper>LV5 、LV10</td>
     </tr>
     <tr>
         <td id = "勇者">勇者</td>
@@ -293,13 +293,13 @@ tags:
             <li>レベルに応じて、戦術系技能の効果が上がる。</li>
             <li>シナリオに影響する: 戦術5未満だと西武林盟を自分で組めない、など。</li>
         </td>
-        <td><MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>+5<br><MarkdownWrapper>[《楊家練兵操》](/ja/system/books/book_7004)</MarkdownWrapper>+1<br><MarkdownWrapper>[《歴戦血書》](/ja/system/books/book_4010)</MarkdownWrapper>+1<br><MarkdownWrapper>[《南宮武備論》](/ja/system/books/book_8010)</MarkdownWrapper>+1<br><MarkdownWrapper>[《蛇兔鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper>+1<br><MarkdownWrapper>[《雪球教戦守則》](/ja/system/books/book_8003)</MarkdownWrapper>+1</td>
+        <td><MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>+5<br><MarkdownWrapper>[《楊家練兵操》](/ja/system/books/book_7004)</MarkdownWrapper>+1<br><MarkdownWrapper>[《歴戦血書》](/ja/system/books/book_4010)</MarkdownWrapper>+1<br><MarkdownWrapper>[《南宮武備論》](/ja/system/books/book_8010)</MarkdownWrapper>+1<br><MarkdownWrapper>[《蛇兎鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper>+1<br><MarkdownWrapper>[《雪球教戦守則》](/ja/system/books/book_8003)</MarkdownWrapper>+1</td>
     </tr>
     <tr>
         <td id = "疾如風">疾如風</td>
         <td>-</td>
         <td>戦術LVに基づいて軽功を上昇（毎級+2 or 2%）</td>
-        <td><MarkdownWrapper>[《逍遥遊足技》](/ja/system/books/book_4020)</MarkdownWrapper><br><MarkdownWrapper>[《流星剣譜》](/ja/system/books/book_2001)</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[《逍遥遊腿法》](/ja/system/books/book_4020)</MarkdownWrapper><br><MarkdownWrapper>[《流星剣譜》](/ja/system/books/book_2001)</MarkdownWrapper></td>
     </tr>
     <tr>
         <td id = "徐如林">徐如林</td>
@@ -323,7 +323,7 @@ tags:
         <td id = "難知如陰">難知如陰</td>
         <td>-</td>
         <td>戦術LVに基づいて弁舌を上昇（毎級+2%）</td>
-        <td><MarkdownWrapper>[《歴戦血書》](/ja/system/books/book_4010)</MarkdownWrapper><br><MarkdownWrapper>[《蛇兔鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[《歴戦血書》](/ja/system/books/book_4010)</MarkdownWrapper><br><MarkdownWrapper>[《蛇兎鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper></td>
     </tr>
     <tr>
         <td id = "戰術誘導">戦術誘導</td>

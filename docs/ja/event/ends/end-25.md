@@ -57,7 +57,7 @@ tags:
 2. 想い人が<Girl0Icon>唐黙鈴</Girl0Icon>で、<Girl0Icon>唐黙鈴</Girl0Icon>の好感度≧50の場合、<Girl0Icon>唐黙鈴</Girl0Icon>が同行して下山。
 3. 🗡️[金烏上人](/ja/people/characters/special207)との決闘に勝利(<Girl0Icon>唐黙鈴</Girl0Icon>が同行して下山している場合、敗戦で二次の挑戦機会はない)。
 4. **🎲天命：あなたの考えは......**(上限99、➕加値：<Girl0Icon>唐黙鈴</Girl0Icon>好感度、性情、処世、➖減値：他の唐門成員好感度)：**🧾【>=50】小師妹は俺のもの！**を獲得。
-5. <Girl0Icon>唐黙鈴</Girl0Icon>の好感度≧60で、<span style='color: #FF1493;'><Girl0Icon>唐黙鈴</Girl0Icon>と婚約</span>、【小師妹の香囊】を獲得。
+5. <Girl0Icon>唐黙鈴</Girl0Icon>の好感度≧60で、<span style='color: #FF1493;'><Girl0Icon>唐黙鈴</Girl0Icon>と婚約</span>、【小師妹の香り袋】を獲得。
 :::
    
 ## 分岐と変化
