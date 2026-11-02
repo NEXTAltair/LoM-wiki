@@ -83,7 +83,7 @@ tags:
 <br><br>
 [南宮横](/ja/people/characters/special104)南宮老人家主が百歳を迎えた時、青城鄒掌門もまた一枚を寿礼として贈った。もしこの時[唐門](/ja/people/factions/tang-men)の礼物が《万寿回春丹》を選べば、上記の薬効と、双丹の薬力相衝之事が言及される。
 
-## 趙逵叛逃
+## 趙逵の離反
 
 かつての[旧魔教との頂上決戦](/ja/event/stories/決戰極樂教)の最終局面、正邪それぞれ三名ずつの絶世の高手が出て、生死を決し英雄を論じた。青城[鄒博](/ja/people/characters/special201)掌門の師弟[趙逵](/ja/people/characters/special403)は、[極楽左使](/ja/people/characters/special213)と対戦して敗れ、重傷を負った。左使はそのまま姿をくらました。
 <br><br>
