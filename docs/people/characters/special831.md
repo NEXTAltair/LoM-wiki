@@ -34,12 +34,12 @@ tags:
 					[[瑞笙]] (郎君)
 				</ChTd>
 			</ChTr>
-    			<ChTr>
+			<ChTr>
 				<ChTd position='center'>
 					[[趙方]] (外祖父)
 				</ChTd>
-            </ChTr>
-    			<ChTr>
+			</ChTr>
+			<ChTr>
 				<ChTd position='center'>
 					孟珙 (四哥)
 				</ChTd>
@@ -51,6 +51,38 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special831/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special831/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="驚慌">
+		<Ch src='/images/characters/special831/nervous2.webp' position='center'/>
+		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="害羞">
+		<Ch src='/images/characters/special831/shy.webp' position='center'/>
+		<ChName nameZh='害羞' nameEn='Shy' position='right' />
+	</ChTab>
+	<ChTab title="不悅">
+		<Ch src='/images/characters/special831/angry1.webp' position='center'/>
+		<ChName nameZh='不悅' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special831/angry2.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="哭泣">
+		<Ch src='/images/characters/special831/sad.webp' position='center'/>
+		<ChName nameZh='哭泣' nameEn='Cry' position='right' />
+	</ChTab>
+	<ChTab title="喝醉">
+		<Ch src='/images/characters/special831/drunk.webp' position='center'/>
+		<ChName nameZh='喝醉' nameEn='Drunk' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
@@ -58,7 +90,7 @@ tags:
 
 ## 家人
 
--  荊鄂都統制兼知棗陽軍孟政宗的女兒；襄陽守將、京湖制置使兼知襄陽府[[趙方]]將軍的外孫女。
+-  荊鄂都統制兼知棗陽軍孟宗政（遊戲劇本多作「孟政宗」）的女兒；襄陽守將、京湖制置使兼知襄陽府[[趙方]]將軍的外孫女。
 -  自小離家在臨安成長，但家人皆在邊疆。直到她成年獲允離京之前，每年家書，都讀得提心吊膽，唯恐又再聽見家人殉國的死訊。
 -  棗陽縣主頭銜是生母親自提槍上陣，在棗陽戰中捨身搏來，後因外祖父和父親請旨推恩及女，才破格冠到她的頭上。
 -  家人為她著想，孟仙謠亦心繫邊疆，處心積慮，無非是想聚集強者，護家國周全，因此欲阻止崆峒派召走[[丹霞子]]。
@@ -69,14 +101,37 @@ tags:
 
 -  [[瑞笙]]力挫金國養龍苑高手，護她周全。她極力網羅，只道無人不愛財，用了不恰當的態度與方式誘勸，造成誤解，對此相當遺憾。
 -  起初以為孤雲山派是[[瑞笙]]信口捏造搪塞她的流派。
--  疑似本屬意[[瑞笙]]作為護衛，被拒絕後才聽從父親安排，由[[丁承烈]]擔任護衛。
+-  本屬意[[瑞笙]]作為護衛，被拒絕後才聽從父親安排，由[[丁承烈]]擔任護衛。
 -  [[瑞笙]]的紅顏知己們雖然針鋒相對，但最討厭的都是孟仙謠。[^1]
+
+## 襄陽行
+
+江陵決戰前夜，[[趙活]]陪[[虞小梅]]到襄陽找[[丹霞子]]的劇情。觸發條件見[虞小梅結緣攻略](/event/pursuit/girl3)，流程見[[丁承烈]]的[小梅襄陽行](/people/characters/special214#小梅襄陽行)。
+
+-  當晚疑心兩人來歷，要他們交出飛天掌門召回丹霞子的諭令，命護衛[[丁承烈]]動手。決鬥第 4 回合或護衛血量≤60% 時，以幫手身分加入。
+-  被四哥孟珙喝止，只得斟酒賠罪，接兩人到別第住下。
+-  翌日席間與兩人互相提問：她問崆峒四姝、打聽[[瑞笙]]，反問第二次後宴席就結束。
+-  丹霞子負傷被送回時，載小梅趕往校場。
+
+### 孟仙謠好感
+
+襄陽行中有一個不顯示在畫面上的孟仙謠好感，只在襄陽行增加。
+
+-  增加:
+    -  席間先問過「道法將軍的去向」，再選「交給小梅」: +2
+    -  席間「提問：襄陽防線」，道德≥40: +1
+    -  席間她第二次反問時，持有《江湖快報》5 期以上: +1
+    -  襄陽自由行動「鬧市閒遊」遇到縣主出行（隨機，可重複）: +1
+    -  丹霞子被刺、在校場外等候時「孟仙謠的耐心」轉盤成功（好感=2 約 14%、≥3 為 30%，其他一定失敗）: +1，孟珙好感也+1
+-  影響:
+    -  ≥3: [郁城的請求](/event/simple/3-05-1-對決金烏)時丹霞子好感再+10。
+    -  [武林大會](/event/detailed_description/3-08-2-武林大會)「拜會孤雲山」再遇時的反應與打賭（≥1 才會打賭）。
 
 ## 備註
 
 -   自認性格惡劣，直到與[[虞小梅]]相識，才知道天外有天。
 -   被[[虞小梅|小梅]]暱稱為謠謠。
--   曾受教於[[魏菊]]，並經魏菊引薦致耕陽書齋。對魏才女推崇備至，尊為夫子，惱恨崆峒派帶走她。
+-   曾受教於[[魏菊]]，並經魏菊引薦至耕陽書齋。對魏才女推崇備至，尊為夫子，惱恨崆峒派帶走她。
 -   曾短暫擔任耕陽書齋總編一職。
 -   在原始森林已捨棄的早期的規劃中，[[瑞笙]]的後宮在還沒與瑞笙成親前，都可能與[[趙活]]邂逅。如果去崆峒留學並獲得[[魏菊]]的宋詞選集手抄本，後續遇到縣主孟仙謠時，她會因此對趙活客客氣氣。[^2]
 -   以貌取人，覺得正常人不會長那麼醜，特別派人查了[[趙活]]身世。

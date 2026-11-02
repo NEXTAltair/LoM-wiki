@@ -7,6 +7,7 @@ outline: [2, 3]
 tags:
     - 江湖眾生相
 ---
+# {{ $frontmatter.title }}
 
 ## 飛石幫
 
@@ -64,21 +65,10 @@ tags:
 
 - 這位不確定是否為火炎山，看衣服一樣所以分類到此。
 
-<img src="/images/mobs/mount-fire-palace/blacksmith3_normal.webp" style="width:200px;" />
-<table>
-    <tr>
-        <td>小竹陪同<br>前往武林大會<br>「來新子」</td>
-        <td>向趙活&小竹道歉，關於鐵氏兄弟惹過的麻煩，並贈送鐵劍令賠罪。</td>
-    </tr>
-    <tr>
-        <td>武林大會<br>「來新子」</td>
-        <td>本在青城，被鐵冠道長逐出師門。<br>當年方震天用一兩銀子要他打一把單刀，明明只提供刻名字服務卻要求鑲金雕些有的沒的。來新子不賣了，方震天卻偷了刀，還到處說來新子壞話。<br>上場並不是為了角逐武林盟主，就是為了趁機扁方震天。</td>
-    </tr>
-</table>
-
 ## 泥教
 ### 泥教採藥弟子
 
+<img src="/images/mobs/mud-school/herb_gatherer_group1.webp" style="width:310px;" />
 <table>
     <tr>
         <td>大師兄重傷</td>
@@ -106,6 +96,8 @@ tags:
 
 ### 地獄道
 #### 鬼卒
+
+<img src="/images/mobs/mud-school/ghost1_normal.webp" style="width:200px;" />
 <table>
     <tr>
         <td>逃離青城</td>
@@ -119,7 +111,24 @@ tags:
 
 #### 牛頭馬面
 
-<img src="/images/mobs/mud-school/cow_horse_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="牛頭馬面">
+        <Ch src='/images/mobs/mud-school/cow_horse_normal.webp' position='center'/>
+        <ChName nameZh='牛頭馬面' nameEn='Niu Tou Ma Mian' position='right' />
+    </ChTab>
+    <ChTab title="牛頭">
+        <Ch src='/images/mobs/mud-school/cow_man_normal.webp' position='center'/>
+        <ChName nameZh='牛頭' nameEn='Niu Tou' position='right' />
+    </ChTab>
+    <ChTab title="馬面">
+        <Ch src='/images/mobs/mud-school/horse_man_normal.webp' position='center'/>
+        <ChName nameZh='馬面' nameEn='Ma Mian' position='right' />
+    </ChTab>
+    <ChTab title="馬面(汗)">
+        <Ch src='/images/mobs/mud-school/horse_man_nervous1.webp' position='center'/>
+        <ChName nameZh='馬面(汗)' nameEn='Ma Mian (Sweat)' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>逃離青城<br>「牛頭馬面」</td>
