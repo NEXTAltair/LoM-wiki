@@ -15,7 +15,7 @@ tags:
 <img src="/images/mobs/artists/badguy1_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>大師兄玩耍</td>
+        <td>大師兄の遊び</td>
         <td>唐布衣を恐れてわざわざ道を変えて強盗を働いたが、結局唐布衣と趙活に行く手を塞がれた。</td>
     </tr>
     <tr>
@@ -31,7 +31,7 @@ tags:
 <img src="/images/mobs/artists/badguy2_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>大師兄玩耍</td>
+        <td>大師兄の遊び</td>
         <td>唐布衣を恐れてわざわざ道を変えて強盗を働いたが、結局唐布衣と趙活に行く手を塞がれた。</td>
     </tr>
     <tr>

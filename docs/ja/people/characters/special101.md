@@ -47,7 +47,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[南宮橫](/ja/people/characters/special104) (父親)
+					[南宮横](/ja/people/characters/special104) (父親)
 				</ChTd>
 			</ChTr>
 			<ChTr>

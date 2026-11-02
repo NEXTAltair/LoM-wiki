@@ -533,5 +533,5 @@ aside: false
 
 [^1]: Facebook - [オリジナル鳥熊2023/4/1](https://www.facebook.com/obbstudio/posts/pfbid0VNvvCPjbVhaF58qbcrBF42j6oFCzFvQnxb4vbqRqBHYDRnWzwoGc6KSk6L81qTsEl)
 [^2]: Facebook - [オリジナル鳥熊2023/6/21](https://www.facebook.com/obbstudio/posts/pfbid0QyGcVBYJ2F1qEhXJhYcpsanrkXZQ9Dh3Q3QCRf35gguX39k6chvps8LcAXGAUgxTl)
-[^3]: PTT C 洽 - [\[活俠\] 奇怪的小知識](https://www.ptt.cc/bbs/C_Chat/M.1734956470.A.A0C.html)
+[^3]: PTT C 洽 - [\[活俠\] 奇妙な小知識](https://www.ptt.cc/bbs/C_Chat/M.1734956470.A.A0C.html)
 [^4]: バハムート - [【情報】鳥熊問答集](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=2998&bpage=1&ltype=)

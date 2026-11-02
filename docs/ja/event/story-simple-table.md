@@ -128,7 +128,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[晁和の入門](/ja/event/simple/1-08-3-晁和入門)<br>
-				[晁和搞鬼イベント集](/ja/event/simple/1-08-3-晁和搞鬼事件集)<br>
+				[晁和の悪だくみイベント集](/ja/event/simple/1-08-3-晁和搞鬼事件集)<br>
 				[丐幇と嵩山の喧嘩](/ja/event/simple/1-08-3-丐幫與嵩山打架)<br>
 				[唐錚の診断](/ja/event/simple/1-08-3-唐錚診斷)<br>
 				</MarkdownWrapper>

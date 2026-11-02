@@ -84,5 +84,5 @@ tags:
 -   盛雪は外見の障壁を克服できず、[趙活](/ja/people/characters/player)の相手キャラにはなれない。[^3]
 
 [^1]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
-[^2]: PTT C 洽－[\[活俠\] 龍湘与奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^2]: PTT C 洽－[\[活俠\] 龍湘与奇妙な小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
 [^3]: Facebook - [原始鳥熊2024/10/5](https://www.facebook.com/obbstudio/posts/pfbid0G6Ee3sVMWaUAUGgKWGBMoTofnzDGRLEeDZRUhCCYtVxcUhF3k8aBXwNkhiCZNs5Xl)

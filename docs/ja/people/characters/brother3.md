@@ -158,7 +158,7 @@ aside: false
 -   [大師兄](/ja/people/characters/brother1.md)が下山するたびに、いつか嫁を連れて帰ってくるのではないかと気が気でない。
 -   [葉雲裳](/ja/people/characters/girl2.md)から「お爺ちゃん」と呼ばれている。
 
-[^1]: PTT C 洽 - [\[活俠\] 龍湘与奇怪的小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
+[^1]: PTT C 洽 - [\[活俠\] 龍湘与奇妙な小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
 [^2]: バハムート - [RE:【情報】鳥熊問答集（既に11/2第二波+プライベートで更新済み）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^3]: Facebook - [オリジナル鳥熊2023/3/24](https://www.facebook.com/photo.php?fbid=227827013104015&set=p.227827013104015&type=3)
 [^4]: Facebook - [オリジナル鳥熊2022/6/10](https://www.facebook.com/obbstudio/posts/pfbid02MXCJHSKuyf2njkZ3BT2Qtmx1HD6sjDJdWLx8sbmbKQ5BbiHLwQEjoDcGFo9CRqBQl)

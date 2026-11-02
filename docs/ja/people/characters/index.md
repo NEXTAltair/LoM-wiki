@@ -318,7 +318,7 @@ tags:
 	<td>火炎山剣閣</td>
 </tr>
 <tr>
-	<td><MarkdownWrapper>[南宮橫](/ja/people/characters/special104)</MarkdownWrapper></td>
+	<td><MarkdownWrapper>[南宮横](/ja/people/characters/special104)</MarkdownWrapper></td>
 	<td>南宮世家</td>
 </tr>
 <tr>

@@ -174,7 +174,7 @@ aside: false
 -   かつて何度も[趙活](/ja/people/characters/player)に忘形篇の暗唱を抜き打ちで確かめ、黒衣の者を装って裏山で指南した。
 -   飛燕流星翎を掌握できなかったため、やむを得ず《九転輪迴大法》を修練し、走火入魔に陥り、内力は進むどころか退いてしまった。全力を出すと抑制できず、過ぎて人を殺し、同時に自分も内傷を負わせてしまった。[^1]
 -   かつて[唐門](/ja/people/factions/tang-men)の秘笈を勝手に改造し、唐門の弟子が暗器を投げる時に人家の銭袋を狙わせた。その為、団戦ではその場に落ちた銭が拾える。
--   [夏侯蘭](/ja/people/characters/girl5)江湖第一美人と逢いたくて、三度[崆峒派](/ja/people/factions/kong-tong-sect)に闖入し、自ら《登雲踏》を創作した。後に[夏侯蘭](/ja/people/characters/girl5)がこの技を雪山派の《梅梢望月步》と融合させ、秘笈[登雲踏・望月](/ja/system/books/book_6008)として撰述した。
+-   [夏侯蘭](/ja/people/characters/girl5)江湖第一美人と逢いたくて、三度[崆峒派](/ja/people/factions/kong-tong-sect)に闖入し、自ら《登雲踏》を創作した。後に[夏侯蘭](/ja/people/characters/girl5)がこの技を雪山派の《梅梢望月歩》と融合させ、秘笈[登雲踏・望月](/ja/system/books/book_6008)として撰述した。
 -   飛侠であるが、自ら軽功は天下前十に入らないと考えている。逆に[唐黙鈴](/ja/people/characters/girl0)小師妹の軽功は天下前五に入ると考えている。
 -   使う金銭鏢は本物の銭である。初めては節約を旨とする唐家の祖訓に対抗するためだったが、後に反逆的でなくなっても、既に習慣になってしまった。銭好きな[唐惟元](/ja/people/characters/brother4)四師兄に対抗する時は蹴って使う。
 -   唐門の武功は人を攻めるのに奇想天外で、正面対決では利がない。
@@ -227,7 +227,7 @@ aside: false
 -   大師兄が山賊から銭を奪った後は、わざと活路を与え、彼らが体力を回復してから、また打ち掠める。後期に蜀中が是非之地と化すると、緑林好漢はこれを避けることを厭わない。[^2]
 -   かつて[唐錚](/ja/people/characters/brother2)二師兄と一緒に小師姑の唐芬（[唐芳](/ja/people/characters/special832)の姉）に片恋していた。大師兄と[趙活](/ja/people/characters/player)がこの段を語る時、二師兄の反応は大きく、突然暴怒して[唐黙鈴](/ja/people/characters/girl0)小師妹を脅かした。
 -   [唐錚](/ja/people/characters/brother2)二師兄と一緒に成長し、交情は最も古い。かつて関係が非常に親密な時期があり、月試筆試の時、[唐錚](/ja/people/characters/brother2)二師兄は大師兄に自分の答案を写させてくれた。[唐錚](/ja/people/characters/brother2)二師兄の態度が厳しくなったのは、少年大師兄が修行成就して家を出て江湖をさすらい始めた時からのことである。[^5]
--   大師兄の外号は、当時飛賊をしていた時に、良人[南宮橫](/ja/people/characters/special104)南宮老太爺が彼の汚名を洗い流す為に改字した物である。[^4]
+-   大師兄の外号は、当時飛賊をしていた時に、良人[南宮横](/ja/people/characters/special104)南宮老太爺が彼の汚名を洗い流す為に改字した物である。[^4]
 -   大師兄の海捕令資料夾周辺の文案：[出典](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
     > 案犯 飛賊唐布衣<br>
     > 夜入人家行窃汙損<br>

@@ -1352,7 +1352,7 @@ text: '葉雲裳好感+',
 		<td>晁和の偽のおごり</td>
 		<td>13</td>
 		<td>-9</td>
-		<td><MarkdownWrapper>[晁和搞鬼イベント集](/ja/event/simple/1-08-3-晁和搞鬼事件集)</MarkdownWrapper>イベントが発生</td>
+		<td><MarkdownWrapper>[晁和の悪だくみイベント集](/ja/event/simple/1-08-3-晁和搞鬼事件集)</MarkdownWrapper>イベントが発生</td>
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 50</td>

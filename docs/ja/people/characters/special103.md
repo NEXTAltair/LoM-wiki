@@ -36,7 +36,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[南宮橫](/ja/people/characters/special104) (祖父)
+					[南宮横](/ja/people/characters/special104) (祖父)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -90,7 +90,7 @@ aside: false
 -   五、六歳の頃に母に連れられて家門に入り、認祖帰宗して間もなく母が世を去った。
 -   肩甲は着せてもらえず、[南宮遠](/ja/people/characters/special101)も庇わず、飯はいつも冷や飯。家伝の武功でさえ、家の老僕が教えたもの。
 -   南宮家の家丁たちは彼をいじめ、荷物運びまでさせる。南宮家の長輩もこれらの行いを黙認している。
--   [南宮橫](/ja/people/characters/special104)はまだ彼の面倒を見てくれる方だった。
+-   [南宮横](/ja/people/characters/special104)はまだ彼の面倒を見てくれる方だった。
 -   家丁の南宮己は南宮浅の世話係を命じられたのが不満で、日頃の冷嘲熱諷にとどまらず、陰では二公子の陰口を絶やさず、家中の南宮浅への蔑みをいっそう深めた。
 -   肩甲がない。
 

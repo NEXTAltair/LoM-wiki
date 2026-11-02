@@ -396,7 +396,7 @@ borderless: false
 [^6]: PTT C 洽 - [Re: \[活俠\] 錦香宮相関小知識](https://www.ptt.cc/bbs/C_Chat/M.1725531255.A.803.html)
 [^7]: [問答集2024年9月#_2024-09-24](/ja/other/qna/202409)
 [^8]: [問答集2024年10月#_2024-10-08](/ja/other/qna/202410)
-[^9]: PTT C 洽－[\[活俠\] 龍湘小知識二則](https://www.ptt.cc/bbs/C_Chat/M.1728751231.A.9F7.html)
+[^9]: PTT C 洽－[\[活俠\] 龍湘の小知識二則](https://www.ptt.cc/bbs/C_Chat/M.1728751231.A.9F7.html)
 [^10]: 巴哈姆特－[【情報】龍湘の体型についての答え+鳥熊への私信のやり取り](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
 [^11]: PTT C 洽－[\[活俠\] 龍湘+綜合小知識数則](https://www.ptt.cc/bbs/C_Chat/M.1728840738.A.3D7.html)
 [^12]: PTT C 洽－[\[活俠\]龍湘と奇妙な雑学 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
@@ -411,7 +411,7 @@ borderless: false
 [^22]: [問答集2024年11月#_2024-11-04](/ja/other/qna/202411)
 [^23]: [問答集2024年11月#_2024-11-06](/ja/other/qna/202411)
 [^24]: Facebook－[原始鳥熊2025/8/5](https://www.facebook.com/share/v/15t9qW9isi/)
-[^25]: PTT C 洽－[\[活俠\] 奇怪的小知識](https://www.ptt.cc/bbs/C_Chat/M.1734956470.A.C8A.html)
+[^25]: PTT C 洽－[\[活俠\] 奇妙な小知識](https://www.ptt.cc/bbs/C_Chat/M.1734956470.A.C8A.html)
 [^26]: 遊戯角落－[専訪原始鳥熊（3）假趙活是真的—你我身辺可能都有一個晁和](https://game.udn.com/game/story/122090/8118486)
 [^27]: 人類学学報－[郑州地区汉唐宋成年居民的身高研究](https://www.anthropol.ac.cn/CN/abstract/abstract1746.shtml)
 [^28]: [専訪鳥熊鼠虫 129題訪談](/ja/other/qna/interview-129)の第5篇

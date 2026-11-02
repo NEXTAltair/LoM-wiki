@@ -139,7 +139,7 @@ aside: false
 
 -   現実の瑞杏は平和を追い求めるが、[温夫人](/ja/people/characters/special402)が唱える「長い時間をかけて平和を成し遂げる」という理念とは異なる。<br>瑞杏はむしろ、戦争によって平和を作ることを主張する。長く続く痛みを短い痛みに置き換え、勢力が拮抗することによる長期的な死傷を避けるという考えである。
     > 「ありますとも。すべての音を消し去ること、それが近道です。」
--   そのため瑞杏は、平和派の最大の推進者である[南宮橫](/ja/people/characters/special104)と内々に会い、自らの情勢予測を示したうえで、戦争による平和の到来を早めるべく[南宮橫](/ja/people/characters/special104)に自害を勧めた。
+-   そのため瑞杏は、平和派の最大の推進者である[南宮横](/ja/people/characters/special104)と内々に会い、自らの情勢予測を示したうえで、戦争による平和の到来を早めるべく[南宮横](/ja/people/characters/special104)に自害を勧めた。
 -   [唐門](/ja/people/factions/tang-men)が武力統一の妨げとなるのを防ぐため、朝廷が握る武林盟に唐門の殲滅を指示し、[瑞笙](/ja/people/characters/special999)を武林盟主に推した。
     -   [瑞笙](/ja/people/characters/special999)は、杏花仙には逆らえないと率直に語っている。抗っても無駄なため、良心に背いて唐門を討つしかない。
 -   [唐門](/ja/people/factions/tang-men)が滅べば、西夏は武力で大宋を統一でき、瑞杏の平和の願いが成就する。
@@ -208,7 +208,7 @@ aside: false
     -   [趙活](/ja/people/characters/player)の想い人が強制的に瑞杏に変わる。
 -   山賊の牛魔王・牛長寿：巫山県の役所へ行き太鼓を打つこと。
     -   自首であると同時に陳情でもある。[唐布衣](/ja/people/characters/brother1)を呼び寄せ、[譚覇刀](/ja/people/characters/special801)の一件を調べさせるための手である。
--   [盛雪](/ja/people/characters/other12)：錦嚢を彼 ([南宮橫](/ja/people/characters/special104)) に見せること。
+-   [盛雪](/ja/people/characters/other12)：錦嚢を彼 ([南宮横](/ja/people/characters/special104)) に見せること。
 -   [温夫人](/ja/people/characters/special402)
 -   [龍淵](/ja/people/characters/special2)：宿屋へ行って千面人魔を訪ね、錦嚢を渡すこと。
 -   第三代千面人魔・楊玄奇：(妻を) 錦香宮へさらうこと。

@@ -102,7 +102,7 @@ aside: false
 
 -   体格の基礎の健全さについては[唐布衣](/ja/people/characters/brother1) (大師兄) さえも及ばないほどだが、それなのに江湖で敗北を喫することが多く、戦績は唐布衣より遠く及ばないのは、[唐布衣](/ja/people/characters/brother1) (大師兄) は性質上ずる賢く、戦っても益がなく、確実な勝利が見込めない相手とは挑発しないから。反対に解無塵は武を尊び、好戦的であり、名声を大切にしており、江湖を行き来する時に成名した侠士に出会うたびに、往々にして指南を請い、難しい相手に突き当たることは避けられない。[唐布衣](/ja/people/characters/brother1) (大師兄) は彼が劣っている原因は武功ではなく別の所にあると言っている。
 -   [上官世家](/ja/people/factions/shang-guan-family) が朝廷の使者を招いた宴の日、[白鮫幇](/ja/people/factions/white-shark-gang) (餓鬼道) が民生を脅かしているのに出くわし、[上官螢](/ja/people/characters/girl4)の面前で威勢を見せようと[劉顎](/ja/people/characters/special1)を止めて伏誅するよう求めた。ところが[劉顎](/ja/people/characters/special1)は通行人の配剣をさっと奪うと、『犯剣』で打ちのめし、解無塵はどんな本領も使えないまま、悔しさのあまり血を吐いて敗北した。『風雷神腿』の名前を『[つよつよ蹴り](/ja/system/books/book_4002)』に改名させられ、泣いて[峨嵋派](/ja/people/factions/emei-sect)の山へ帰り、暫くは足を踏み出さなかった。
--   江陵囲城の時、[王二壮](/ja/people/characters/special401)と対戦し、再度敗北した後、退隐したいと大声で叫んでいたが、王帮主に軽功と脚法が共に一流の境地にあるが、ただ打坐修心に欠けていると評価された。
+-   江陵囲城の時、[王二壮](/ja/people/characters/special401)と対戦し、再度敗北した後、退隐したいと大声で叫んでいたが、王幇主に軽功と脚法が共に一流の境地にあるが、ただ打坐修心に欠けていると評価された。
 -   西武林で点蒼双尊の行く手を阻もうとしたが、力を尽くしても、かろうじて命からがらだった。その後、[向無憂](/ja/people/characters/special408)に合撃脚法を作ることを提案したが、果断に却下された。
 
 ## 備考
@@ -113,5 +113,5 @@ aside: false
 -   [唐嬌嬌](/ja/people/characters/big_trainee_girl_1)が西武林の代わりに峨嵋を説得し、一路峨嵋大殿を打ち上がった時、解無塵は[向無憂](/ja/people/characters/special408) (向掌門) を前に押し出して、自分は遠くに隠れていた。
 
 [^1]: Facebook－[原始鳥熊2024/3/11](https://www.facebook.com/share/p/58kEU18EfQ6w3VJC/)
-[^2]: PTT C 洽－[\[活俠\] 龍湘与奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^2]: PTT C 洽－[\[活俠\] 龍湘与奇妙な小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
 [^3]: PTT C 洽－[\[活俠\] 秘笈：つよつよ蹴り](https://www.pttweb.cc/bbs/C_Chat/M.1719310727.A.748)
