@@ -4,14 +4,14 @@ import { defineConfig } from "vitepress";
 import { InlineLinkPreviewElementTransform } from "@nolebase/vitepress-plugin-inline-link-preview/markdown-it";
 // 歷史貢獻
 import {
-	GitChangelog,
+	GitChangelog as NolebaseGitChangelog,
 	GitChangelogMarkdownSection,
 } from "@nolebase/vitepress-plugin-git-changelog/vite";
+import { GitChangelog } from "./gitChangelog.mjs";
 // CJK 強調記法 (「**強調**を選択」等、全角約物の直後に閉じ ** が来る場合の CommonMark 非対応を修正)
 import cjkFriendly from "markdown-it-cjk-friendly";
 // 註腳
 import footnote from "markdown-it-footnote";
-import { withMermaid } from "vitepress-plugin-mermaid";
 
 const baseUrl = "/LoM-wiki/";
 
@@ -54,7 +54,6 @@ const baseConfig = {
 					{ text: "隱藏參數列表", link: "/system/hidden-params" },
 					{ text: "對戰指南", link: "/system/engagement/battle-ui" },
 					{ text: "鍛冶場、煉丹房開發路線圖", link: "/system/forge-roadmap" },
-					{ text: "開發項目列表", link: "/system/develop-list" },
 					{ text: "道具列表", link: "/system/items" },
 					{ text: "養成指令", link: "/system/training" },
 					{ text: "原聲帶", link: "/system/soundtrack" },
@@ -106,6 +105,10 @@ const baseConfig = {
 							{
 								text: "汗青書(結局) 圖片產生器",
 								link: "/other/image-generator/end",
+							},
+							{
+								text: "生死簿(驟死結局) 圖片產生器",
+								link: "/other/image-generator/badend",
 							},
 						],
 					},
@@ -503,6 +506,10 @@ const baseConfig = {
 										text: "汗青书(结局) 图片生成器",
 										link: "/zh-hans/other/image-generator/end",
 									},
+									{
+										text: "生死簿(骤死结局) 图片生成器",
+										link: "/zh-hans/other/image-generator/badend",
+									},
 								],
 							},
 							{ text: "唐门图书馆(google sheet)", link: "/zh-hans/other/lom-sheet" },
@@ -770,6 +777,10 @@ const baseConfig = {
 										text: "Historical Book (Ending) Image Generator",
 										link: "/en/other/image-generator/end",
 									},
+									{
+										text: "Book of Life and Death (Badend) Image Generator",
+										link: "/en/other/image-generator/badend",
+									},
 								],
 							},
 							{ text: "唐門圖書館(google sheet)", link: "/en/other/lom-sheet" },
@@ -971,7 +982,6 @@ const baseConfig = {
 								text: "鍛冶場・煉丹房 開発ロードマップ",
 								link: "/ja/system/forge-roadmap",
 							},
-							{ text: "開発項目一覧", link: "/ja/system/develop-list" },
 							{ text: "道具一覧", link: "/ja/system/items" },
 							{ text: "養成コマンド", link: "/ja/system/training" },
 							{ text: "サウンドトラック", link: "/ja/system/soundtrack" },
@@ -1035,6 +1045,10 @@ const baseConfig = {
 									{
 										text: "汗青書 (エンディング) 画像ジェネレーター",
 										link: "/ja/other/image-generator/end",
+									},
+									{
+										text: "生死簿 (バッドエンド) 画像ジェネレーター",
+										link: "/ja/other/image-generator/badend",
 									},
 								],
 							},
@@ -1321,8 +1335,16 @@ const baseConfig = {
 	},
 	vite: {
 		plugins: [
+			// dev 沿用原插件 (開到哪頁才抓哪頁); build 改用一次抓完的版本, 見 gitChangelog.mjs
+			{
+				...NolebaseGitChangelog({ repoURL: () => "https://github.com/Mr-Smilin/LoM-wiki" }),
+				apply: "serve",
+			},
 			GitChangelog({
-				repoURL: () => "https://github.com/Mr-Smilin/LoM-wiki",
+				repoURL: "https://github.com/Mr-Smilin/LoM-wiki",
+				// 只抓站內文檔; docs/zh-hans 為生成物、不在 Git 中, 明確排除
+				srcDir: "docs",
+				exclude: ["docs/zh-hans/"],
 			}),
 			GitChangelogMarkdownSection(),
 		],
@@ -1391,14 +1413,4 @@ const baseConfig = {
 	],
 };
 
-// Mermaid
-export default withMermaid({
-	...baseConfig,
-	// Mermaid 特定配置
-	mermaid: {
-		theme: "dark",
-	},
-	mermaidPlugin: {
-		class: "mermaid mermaid-m",
-	},
-});
+export default defineConfig(baseConfig);
