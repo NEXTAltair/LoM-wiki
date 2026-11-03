@@ -21,6 +21,15 @@ aside: false
 			:animation=true
 		/>
 	</ChTab>
+	<ChTab title="探險隊">
+		<ChMeet
+			src='/images/characters/girl_3/normal.webp'
+			nameTitle='飛天嫡傳女弟子'
+			nameMain='虞小梅'
+			desc='飛天嫡傳女弟子，今日起就任崆峒探險隊的探勘隊長。<br>嚮往與人結伴行走江湖，但受身份所限不能遠遊，扮個家家過乾癮也好。'
+			:animation=true
+		/>
+	</ChTab>
 	<ChTab title="微笑">
 		<Ch 
 			src='/images/characters/girl_3/laugh1.webp' 
@@ -124,6 +133,14 @@ aside: false
 		<ChName
 			nameZh='很生氣'
 			nameEn='Very Angry'/>
+	</ChTab>
+	<ChTab title="很生氣(舊)">
+		<Ch 
+			src='/images/characters/girl_3/old_angry2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='很生氣(舊)'
+			nameEn='Very Angry (Old)'/>
 	</ChTab>
 	<ChTab title="殺掉">
 		<Ch 
