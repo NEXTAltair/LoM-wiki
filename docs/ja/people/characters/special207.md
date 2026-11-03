@@ -58,9 +58,9 @@ tags:
 		<Ch src='/images/characters/special207/laugh.webp' position='center'/>
 		<ChName nameZh='微笑' nameEn='Smile' position='right' />
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch src='/images/characters/special207/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 	<ChTab title="狼狽">
 		<Ch src='/images/characters/special207/nervous2.webp' position='center'/>
@@ -85,7 +85,7 @@ tags:
 </ChTabs>
 <br>
 
-[千灯楼](/ja/people/factions/thousand-lantern-tower)の五柱香で、楼主に次ぐ教頭。まだ[崆峒派](/ja/people/factions/kong-tong-sect)掌派人に服従する前は、悪行三昧で外号は「九命豹子」。<br>邪を改めた振りをして空門に隠れたが、実は千灯楼の命令を受けて崆峒に潜伏しており、別に重大な計略がある。<br>[火龍仙君](/ja/people/characters/special204)からの信頼厚く、平輩の礼をもって接されており、他に変わったことでもない限り次の掌派人候補。
+[千灯楼](/ja/people/factions/thousand-lantern-tower)の五柱香で、楼主に次ぐ教頭。[崆峒派](/ja/people/factions/kong-tong-sect)掌派人に調伏される前は悪行三昧で、異名は「九命豹子」。<br>改心したふりをして仏門に入ったが、実は千灯楼の命を受けて崆峒に潜伏しており、別に重大な企みがある。<br>[火龍仙君](/ja/people/characters/special204)からの信頼厚く、同輩の礼をもって遇されており、波乱さえなければ次期掌派人の最有力候補である。
 <br>
 
 [虞小梅](/ja/people/characters/girl3)に殺人の技を叩き込んだ者。小梅に最も恨まれている人物である。
@@ -102,9 +102,9 @@ tags:
 
 -   独門の武功「烈陽錘」、別名「奪魂杵」は[極楽教](/ja/people/factions/elysium-school)の邪術由来。
 -   奪魂杵の一部テキストでは喪魂杵と書かれており、別名かもしれない。
--   秘訣いわく：一たび打てば胎光くらく、二たび打てば奭靊散じ、三たび打てば幽精渙る。
--   隠された勁が含まれており、打撃後は真気が脳門に竄入し、打たれた者は一日中ぼんやりして、夢うつつのような状態になり、言いなりの廃人と化してしまう。
-    -   奪魄門の武学にとってはまさに天敵である。奪魄掌門の[姚不知名](/ja/people/characters/special216)がこれへの対応法を求めて、精鋭を連れて山洞に密閉。[趙活](/ja/people/characters/player)が[崆峒派](/ja/people/factions/kong-tong-sect)に入学した時点で、既に半年の長きに及んでいた。
+-   秘訣いわく：一叩きで胎光が陰り、二叩きで奭霊が散じ、三叩きで幽精が渙ける。
+-   暗勁が含まれており、打撃後は真気が脳天に侵入し、打たれた者は一日中ぼんやりと夢うつつのような状態になり、言いなりの廃人と化してしまう。
+    -   奪魄門の武学にとってはまさに天敵である。奪魄掌門の[姚不知名](/ja/people/characters/special216)はこれへの対抗策を求めて精鋭を連れて山洞に閉関しており、[趙活](/ja/people/characters/player)が[崆峒派](/ja/people/factions/kong-tong-sect)に留学した時点で、既に半年の長きに及んでいた。
 
 ## 皮衣
 
@@ -144,9 +144,9 @@ tags:
 
 ## 関連イベント
 
--   若し[趙活](/ja/people/characters/player)と[唐布衣](/ja/people/characters/brother1)が共に臥雲崗に向かえば、彼は[虞小梅](/ja/people/characters/girl3)と共に帰路で待ち伏せして襲撃する。
--   [唐黙鈴](/ja/people/characters/girl0)の結婚式で崆峒派を率いて乱入し、唐黙鈴の名声を傷つけ、唐門の評判を破壊することを企図。
--   <Girl3Icon>梅</Girl3Icon><Girl6Icon>竹</Girl6Icon>のシナリオ線では、[鞠冬音](/ja/people/characters/trainee234)の鉄琵琶功を奪い、手段を選ばず崆峒掌派人の座を争う。
+-   もし[趙活](/ja/people/characters/player)と[唐布衣](/ja/people/characters/brother1)が共に臥雲崗に向かえば、[虞小梅](/ja/people/characters/girl3)と共に帰路で待ち伏せして襲撃する。
+-   [唐黙鈴](/ja/people/characters/girl0)の結婚式で崆峒派を率いて乱入し、唐黙鈴の名声を傷つけ、唐門の評判を地に落とそうと企む。
+-   <Girl3Icon>梅</Girl3Icon>・<Girl6Icon>竹</Girl6Icon>ルートでは、[鞠冬音](/ja/people/characters/trainee234)の鉄琵琶功を奪い、手段を選ばず崆峒掌派人の座を争う。
 -   彼が掌派人になれば、崆峒派は風雨山で唐門を支持しない。
 
 ## 金烏上人の死
@@ -160,7 +160,7 @@ tags:
 -   金烏は印象が鮮明で、描きやすく、弱い悪役で、殺されて当然という要素がそろっているため、各地域のコミュニティで二次創作が非常に多く、人気は一部のイケメンキャラを上回るほど。
     -   絵師たちが多くの作品を生み出しており、その中でも金烏の妊娠イラストと「金烏上人危機一発」は、制作チームも印象深いと語っている。
         -   2026年のエイプリルフールに、制作チームは「金烏上人危機一発」のからくり玩具の発売計画を発表した。[^2]
-            -   この計画は半分が本当で、プログラマの鳥ボスが提案したが、却下された。[^3]
+            -   この案は半分本当で、プログラム担当の鳥が提案したが、却下された。[^3]
 
 [^1]: バハムート - [【雑談】雲裳の体重と葉兄の幼少期（鳥熊プライベート訊息問答）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=3082&bpage=1&ltype=)
 [^2]: FaceBook - [「金烏上人危機一発」堂々登場！](https://www.facebook.com/share/p/19S71vm7zG/)

@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="南宮横">
 		<Ch src='/images/characters/special104/normal.webp' position='right'/>
-		<ChName nameZh='南宮橫' nameEn='Nan Gong Heng' position='right' />
+		<ChName nameZh='南宮横' nameEn='Nan Gong Heng' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -54,9 +54,9 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch src='/images/characters/special104/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>

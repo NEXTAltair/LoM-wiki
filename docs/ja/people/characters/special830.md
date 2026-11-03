@@ -55,9 +55,9 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch src='/images/characters/special830/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 	<ChTab title="狼狽">
 		<Ch src='/images/characters/special830/nervous2.webp' position='center'/>
@@ -92,7 +92,7 @@ tags:
 
 ## 医術
 
--   [唐芳](/ja/people/characters/special832)いわく、毒と薬では[唐門](/ja/people/factions/tang-men)がやや勝るが、針にかけては天下広しといえども梁家の《無常鍼》が第一。
+-   [唐芳](/ja/people/characters/special832)いわく、毒と薬では[唐門](/ja/people/factions/tang-men)がやや勝るが、針にかけては天下広しといえども梁家の《無常針》が第一。
     -   [葉雲裳](/ja/people/characters/girl2)の病を癒せるのは、[唐錚](/ja/people/characters/brother2)を除けば、起死回生の手段を持つ彼女だけである。
 
 ## 人間関係
@@ -117,9 +117,9 @@ tags:
 
 -   兄の嫁に求める条件:
 
-> 「わたしのことを甘やかしてくれる義姉さんがほしいの。あんまり賢いのがダメで、見た目に騙されるような人じゃないといけないの。それから、お尻は大きすぎるのもだめなの。」
+> 「お兄ちゃん、わたしのことを甘やかしてくれる義姉さんがほしいわ。義姉さんは賢すぎちゃダメで、見た目に騙されるような人じゃないと。それから、お尻は大きすぎないこと。」
 
--   脚本担当の鳥熊によれば、梁有詩のお尻の大きさは普通。[^1] 知力を除けば、梁有詩は確かに兄嫁の条件にすべて合う。
+-   シナリオ担当の熊によれば、梁有詩のお尻の大きさは普通。[^1] 知力を除けば、梁有詩は確かに兄嫁の条件にすべて当てはまる。
 -   雲裳が存命の西武林勝利エンディングでは、梁有詩を兄嫁にしてしまうつもりだと言い切り、梁有詩を赤面させる。
 
 ### 葉雲舟

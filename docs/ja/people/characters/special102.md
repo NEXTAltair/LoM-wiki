@@ -9,7 +9,7 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="初識">
+	<ChTab title="初対面">
 		<ChMeet
 			src='/images/characters/special102/normal.webp'
 			nameTitle=''
@@ -26,9 +26,9 @@ aside: false
 		<Ch src='/images/characters/special102/laugh2.webp' position='center'/>
 		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch src='/images/characters/special102/nervious1.webp' position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 	<ChTab title="不機嫌">
 		<Ch src='/images/characters/special102/angry1.webp' position='center'/>
@@ -58,9 +58,9 @@ aside: false
 		<Ch src='/images/characters/special102/special2.webp' position='center'/>
 		<ChName nameZh='鳳凰宝衣' nameEn='Phoenix Armor' position='right' />
 	</ChTab>
-	<ChTab title="鳳凰宝衣(汗顔)">
+	<ChTab title="鳳凰宝衣(冷や汗)">
 		<Ch src='/images/characters/special102/special_nervous1.webp' position='center'/>
-		<ChName nameZh='鳳凰宝衣(汗顔)' nameEn='Phoenix Armor (Sweat)' position='right' />
+		<ChName nameZh='鳳凰宝衣(冷や汗)' nameEn='Phoenix Armor (Sweat)' position='right' />
 	</ChTab>
 	<ChTab title="鳳凰宝衣(不機嫌)">
 		<Ch src='/images/characters/special102/special_angry1.webp' position='center'/>

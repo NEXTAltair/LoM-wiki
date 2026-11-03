@@ -148,7 +148,7 @@ export default {
       },
       obtain: {
         root: "- 🚩[無可救藥線](/event/simple/1-06-1-掌門的安排)，月會選擇投靠魔教、不是空穴來風、我認識劉顎，即可獲得。離開無可救藥線後消失。",
-        ja: "- 🚩「救いようのないルート」([掌門の手配](/ja/event/simple/1-06-1-掌門的安排)) で、月例会で「いっそ本当に魔教に寝返る」「六魔の悪名がこれほど高いのには、それなりの理由があるはずだ。」「実は俺、あの劉顎を知ってます。」を選べば入手。救いようのないルートを離れると消失。",
+        ja: "- 🚩「救いようのないルート」([掌門の手配](/ja/event/simple/1-06-1-掌門的安排)) の月例会で「いっそ本当に魔教に寝返る」「六魔の悪名がこれほど高いのには、それなりの理由があるはずだ。」「実は俺、あの劉顎を知ってます。」を選べば入手。救いようのないルートを離れると消失。",
         en: "- 🚩[Hopeless route](/en/event/simple/1-06-1-掌門的安排): at the monthly meeting choose \"Join the Demonic Cult\", \"It's not baseless\" and \"I know Liu E\". Lost after leaving the Hopeless route.",
       },
       note: "",

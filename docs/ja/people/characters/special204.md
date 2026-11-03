@@ -56,9 +56,9 @@ tags:
 		<Ch src='/images/characters/special204/laugh1.webp' position='center'/>
 		<ChName nameZh='微笑' nameEn='Smile' position='right' />
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch src='/images/characters/special204/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 	<ChTab title="びっくり">
 		<Ch src='/images/characters/special204/nervous2.webp' position='center'/>

@@ -49,9 +49,9 @@ tags:
 		<Ch src='/images/characters/special811/laugh.webp' position='center'/>
 		<ChName nameZh='微笑' nameEn='Smile' position='right' />
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch src='/images/characters/special811/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 	<ChTab title="びっくり">
 		<Ch src='/images/characters/special811/nervous2.webp' position='center'/>
@@ -73,9 +73,9 @@ tags:
 		<Ch src='/images/characters/special811/scar_normal.webp' position='center'/>
 		<ChName nameZh='傷跡' nameEn='Scarred' position='right' />
 	</ChTab>
-	<ChTab title="傷跡(汗顔)">
+	<ChTab title="傷跡(冷や汗)">
 		<Ch src='/images/characters/special811/scar_nervous1.webp' position='center'/>
-		<ChName nameZh='傷跡(汗顔)' nameEn='Scarred (Sweat)' position='right' />
+		<ChName nameZh='傷跡(冷や汗)' nameEn='Scarred (Sweat)' position='right' />
 	</ChTab>
 	<ChTab title="傷跡(不機嫌)">
 		<Ch src='/images/characters/special811/scar_angry1.webp' position='center'/>
@@ -97,8 +97,8 @@ tags:
 
 -   v1.0.3200 以降に加入可能。それ以前は内乱事件のシナリオのみ。
 -   ~~屋根侠~~。自身の優れた軽功を見せびらかしたいのか、屋根に上って大声で叫ぶことが何より好きである。
--   加入後、[唐布衣](/ja/people/characters/brother1) (大師兄) と共に下山する場合、武林大会で唐門のために弁を立て、[飛石幇](/ja/people/factions/flying-stone-gang)と和解する。このとき顔には傷跡がある。本人の話では、大師兄と臥雲崗へ向かう途中で悪人の待ち伏せに遭って重傷を負い、大師兄が手を貸して救ってくれたという。傷跡のある立ち絵はこの場面にしか出てこない。
--   続けて、[唐嬌嬌](/ja/people/characters/big_trainee_girl_1)が唐門に加入していれば、彼女の励ましもあり~~軽功が弱くて振り払えないこともあり~~二人は両思いになり、[唐陞](/ja/people/characters/brother3) (三師兄) に結婚を許可してくださるよう願う。
+-   唐門に加入後、趙活が[唐布衣](/ja/people/characters/brother1) (大師兄) と共に下山していた場合、武林大会で唐門のために口添えし、[飛石幇](/ja/people/factions/flying-stone-gang)と和解する。このとき顔には傷跡がある。本人の話では、大師兄と臥雲崗へ向かう途中で悪人の待ち伏せに遭って重傷を負い、大師兄が手を貸して救ってくれたという。傷跡のある立ち絵はこの場面にしか出てこない。
+-   続けて、[唐嬌嬌](/ja/people/characters/big_trainee_girl_1)が唐門に加入していれば、彼女の励ましもあり~~軽功が未熟で振り切れないこともあり~~二人は両思いになり、[唐陞](/ja/people/characters/brother3) (三師兄) に結婚の許しを請う。
 -   蜀中唐門に加入しなかった場合、妬心が生じ、敬意が恨みに変わる。ある奇遇を経て、西武林大戦の日に唐門に戻り、大院を護衛する[唐陞](/ja/people/characters/brother3) (三師兄) が対戦する高手の一人となる。
 -   資質と天賦において[唐布衣](/ja/people/characters/brother1) (大師兄) と大きな違いはなく、師父[唐守鴻](/ja/people/characters/special812)に千載難逢の良苗と称される。雷神腿密笈を全編軽々と暗記し、また多くの仏経も暗誦することができる。
 -   料理をしたことがない。[^1]

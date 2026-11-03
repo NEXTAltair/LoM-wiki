@@ -10,7 +10,7 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="初識">
+	<ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/girl_2/normal.webp' 
 			nameTitle='点蒼明珠'
@@ -375,7 +375,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					<MarkdownWrapper>|| [段智秀](/ja/people/characters/special833) (仇人)||</MarkdownWrapper>
+					<MarkdownWrapper>|| [段智秀](/ja/people/characters/special833) (仇敵)||</MarkdownWrapper>
 				</ChTd>
 			</ChTr>
 			<ChTr>

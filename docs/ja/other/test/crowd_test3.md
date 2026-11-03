@@ -15,7 +15,7 @@ tags:
         <td>
             <img src="/images/mobs/tang-men/male/trainee9_normal.webp" style="width:200px;" />
         </td>
-        <td>後山蒙面人</td>
+        <td>裏山蒙面人</td>
         <td>趙活より経歴が浅い。普段から威張り散らし、善人をいじめて悪人を恐れる。<br>趙活が団練に参加しているのを見ると、意地悪をしかける。</td>
     </tr>
 </table>

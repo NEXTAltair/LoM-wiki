@@ -12,9 +12,9 @@ aside: false
 	<ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/special999/normal.webp' 
-            nameTitle='縞衣剣少'
+            nameTitle='縞衣の剣客'
 			nameMain='瑞笙'
-			desc='世に出たばかりながら、近ごろ名声を上げつつある若き剣客。<br>眉目秀麗にして瀟洒、磊落たる君子。物腰は温文爾雅、胸には万丈の豪情を秘め、剣を仗して侠を行い、恩讐に快をなす。肝心なところで必ず現れる男。'
+			desc='世に出たばかりだが、近頃名声が高まっている若き剣客。<br>眉目秀麗で、裏表のない高潔な<ruby>君子<rt>くんし</rt></ruby>、物腰は柔らかく知的だが、その内には熱き情熱を宿している。剣を手に悪を断ち、恩仇を晴らす。肝心な時に現れる奴。'
 			:animation=true
 		/>
 	</ChTab>
@@ -30,11 +30,11 @@ aside: false
 			position='center'/>
 		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch
 			src='/images/characters/special999/nervous1.webp' 
 			position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 	<ChTab title="狼狽">
 		<Ch
@@ -127,7 +127,7 @@ aside: false
 					称号
 				</ChTd>
 				<ChTd>
-					縞衣剣少
+					縞衣の剣客
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -316,6 +316,6 @@ aside: false
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_23.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_23.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
     </div>
 </div>

@@ -16,7 +16,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="温夫人">
 		<Ch src='/images/characters/special402/normal.webp' position='right'/>
-		<ChName nameZh='溫夫人' nameEn='Lady Wen' position='right' />
+		<ChName nameZh='温夫人' nameEn='Lady Wen' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -31,7 +31,7 @@ tags:
 					年齢
 				</ChTd>
 				<ChTd>
-					四十多歳
+					四十代
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -54,7 +54,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[画中仙](/ja/people/characters/special813) (妹妹)
+					[画中仙](/ja/people/characters/special813) (妹)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -107,9 +107,9 @@ tags:
 		<Ch src='/images/characters/special402/close_eye_laugh.webp' position='center'/>
 		<ChName nameZh='にっこり' nameEn='Close Eyes Smile' position='right' />
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch src='/images/characters/special402/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 	<ChTab title="不機嫌">
 		<Ch src='/images/characters/special402/angry1.webp' position='center'/>

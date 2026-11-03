@@ -35,12 +35,12 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[荊紅](/ja/people/characters/special824) (同伴)
+					[荊紅](/ja/people/characters/special824) (仲間)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[丁承烈](/ja/people/characters/special214) (同伴)
+					[丁承烈](/ja/people/characters/special214) (仲間)
 				</ChTd>
 			</ChTr>
 			<ChTr>

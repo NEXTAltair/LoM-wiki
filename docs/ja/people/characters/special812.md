@@ -58,9 +58,9 @@ tags:
 		<Ch src='/images/characters/special812/old_normal.webp' position='center'/>
 		<ChName nameZh='旧版立ち絵' nameEn='Old Portrait' position='right' />
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch src='/images/characters/special812/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 	<ChTab title="怒り">
 		<Ch src='/images/characters/special812/angry1.webp' position='center'/>
@@ -70,9 +70,9 @@ tags:
 		<Ch src='/images/characters/special812/hurt.webp' position='center'/>
 		<ChName nameZh='負傷' nameEn='Injured' position='right' />
 	</ChTab>
-	<ChTab title="負傷(汗顔)">
+	<ChTab title="負傷(冷や汗)">
 		<Ch src='/images/characters/special812/hurt_nervous.webp' position='center'/>
-		<ChName nameZh='負傷(汗顔)' nameEn='Injured (Sweat)' position='right' />
+		<ChName nameZh='負傷(冷や汗)' nameEn='Injured (Sweat)' position='right' />
 	</ChTab>
 	<ChTab title="負傷(不機嫌)">
 		<Ch src='/images/characters/special812/hurt_angry.webp' position='center'/>

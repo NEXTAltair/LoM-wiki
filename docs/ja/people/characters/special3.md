@@ -9,7 +9,7 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="初識">
+	<ChTab title="初対面">
 		<ChMeet
 			src='/images/characters/special3/normal.webp'
 			nameTitle='蒼松剣客'
@@ -22,9 +22,9 @@ aside: false
 		<Ch src='/images/characters/special3/laugh1.webp' position='center'/>
 		<ChName nameZh='微笑' nameEn='Smile' position='right' />
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch src='/images/characters/special3/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 	<ChTab title="狼狽">
 		<Ch src='/images/characters/special3/nervous2.webp' position='center'/>
@@ -110,7 +110,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[段智秀](/ja/people/characters/special833) (仇人)
+					[段智秀](/ja/people/characters/special833) (仇敵)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -240,7 +240,7 @@ aside: false
     > 犯人同罪<br>
     > 成都府衙
 
-    訳：案犯 点蒼の剣鬼・葉雲舟。仇を求めて凶行に及んだ極悪人。この榜を剥がしてこの者を捕らえ、成都府衙に届け出た者には賞金白銀千両を与える。匿って知りながら届け出ない者は犯人と同罪とする。成都府衙
+    訳：お尋ね者 点蒼の剣鬼・葉雲舟。仇討ちと称して凶行に及んだ極悪人。この高札を剥がして本人を捕らえ、成都府衙に突き出した者には賞金白銀千両を与える。匿ったり、事情を知りながら届け出なかったりした者は犯人と同罪とする。成都府衙
 
 ## 備考
 
@@ -249,7 +249,7 @@ aside: false
     > 熊がこれを解説していわく：<br>
     > 原因は多い。まず彼の個性が非常に謹慎で真摯であり、柔軟性を知らない。次に宋朝の医書や医学理論は時代の検証を経ていない。多くの説は実は信じるべきではない。全部信じる者は死ぬ。<br>
     > [趙活](/ja/people/characters/player)から習ったのも医術ではなくて、草薬の識別の基本常識及び一部の入門毒術や薬理に近い。<br>
-    > だから師匠もなく本の通りにやっているだけの葉雲舟が、うっかり人を治療で悪くしてしまうのも無理はないでしょう？[^6]
+    > だから師匠もおらず書物頼みで治療している葉雲舟が、うっかり治療で人を損なってしまうのも無理からぬことではないか。[^6]
 -   [唐仙児](/ja/people/characters/special813)に痛く罵られて、容貌は優れているが人心を買うことを知らず、また実務には従事しない役立たずだと言われ、あまりに苦しい。
 
 [^1]: 巴哈姆特－[【情報】龍湘の体型についての答え+鳥熊への私信のやり取り](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)

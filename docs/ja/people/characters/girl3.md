@@ -12,7 +12,7 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="初識">
+	<ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/girl_3/normal.webp' 
 			nameTitle='飛天嫡伝女弟子'
@@ -86,12 +86,12 @@ aside: false
 			nameZh='黒幕'
 			nameEn='Mastermind'/>
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch 
 			src='/images/characters/girl_3/nervous1.webp' 
 			position='center'/>
 		<ChName
-			nameZh='汗顔'
+			nameZh='冷や汗'
 			nameEn='Ah'/>
 	</ChTab>
 	<ChTab title="まずい">
@@ -352,7 +352,7 @@ aside: false
 					称号
 				</ChTd>
 				<ChTd>
-					飛天嫡伝女弟子<br>飛天の悪党<br>老当家<br>~~楼梯侠~~
+					飛天嫡伝女弟子<br>飛天の悪党<br>老当家<br>~~階段侠~~
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -397,7 +397,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[火閃電](/ja/people/characters/firebird1.md) (寵物)
+					[火閃電](/ja/people/characters/firebird1.md) (ペット)
 				</ChTd>
 			</ChTr>
             <ChTr>
@@ -517,12 +517,12 @@ aside: false
 -   考案したお菓子は村の人々に大好評。
 -   平涼特級料理大会で三連覇しており、老当家と呼ばれている。
     -   料理大会の優勝は審査員の娘を誘拐して脅して得たものだと自称しているが、小梅は癖で嘘をつくため、[趙活](/ja/people/characters/player)はその話をあまり信じていない。
-    -   わざと自分の名声を利用して、屋台が作った軽食を奪い取り、その売れ行きを刺激する。
+    -   自分の名声を逆手に取り、屋台の軽食をわざと強奪してみせることで客足を煽り、店を繁盛させる。
 -   腐りかけたものでも見違えるような料理にできる。盛り付けと味付けを変えて、[趙活](/ja/people/characters/player)に傷んだ菜っ葉を気づかれずに食べさせた。
 -   石灰が水に触れると熱を出す性質を使い、唐門で薬膳火鍋の出前を始めた。
 -   麺を蒸してから油で揚げて乾麺にし、竹筒や竹の杖の中にしまっておく。湯を沸かして煮ればすぐ食べられる。
 -   唐門に身を寄せていた間に門人たちの舌を肥えさせてしまい、料理人である唐牛の料理さえ見劣りするようになった。
--   破廟で野宿したときは、その場で採れた山のきのこと新鮮な肉だけで、酒楼の料理にも負けない野趣あふれる雑炊を即興で作った。
+-   廃寺で野宿したときは、その場で採れた山のきのこと新鮮な肉だけで、酒楼の料理にも負けない野趣あふれる雑炊を即興で作った。
 
 ### 料理の例
 
@@ -538,8 +538,8 @@ aside: false
 -   <MarkdownWrapper>||本当は五代目の千面人魔だが、[千灯楼](/ja/people/factions/thousand-lantern-tower)は除名された四代目の千面人魔を認めていないため、小梅が繰り上がって四代目になった。||</MarkdownWrapper>
 -   走るのが好きな理由は、一つにはストレスを発散するため、もう一つには崆峒の地形を下見して暗殺行動に役立てるためである。[^4]
 -   崆峒が攻撃を受けた時に混乱に乗じて逃げ出し、醜い女の阿花に変装して唐門に身を寄せた。[趙活](/ja/people/characters/player)の不誠実さを手掛かりに、[画中仙](/ja/people/characters/special813)（唐仙児）と互いに様子を探り合った。最後にようやく本当の姿を明かす。
--   [千灯楼](/ja/people/factions/thousand-lantern-tower)の指示で多くの人を殺すべきだったが、実際には殺さず、すべて暗中で世外桃源に送っていた。
--   <EndIcon no="11">結局11</EndIcon>の会話によれば、もし縁がなければ、最後には千灯楼の主となるだろう。
+-   [千灯楼](/ja/people/factions/thousand-lantern-tower)の命で多くの人間を始末するはずだったが、実際には殺さず、ひそかに世外桃源へと逃がしていた。
+-   <EndIcon no="11">エンディング11</EndIcon>の会話によると、結縁しなかった場合、最終的には千灯楼の主となる。
 -   [趙活](/ja/people/characters/player)が年をとっても、小梅は相変わらず少女のような姿である。
 -   <MarkdownWrapper>||[画中仙](/ja/people/characters/special813)（唐仙児）は小梅の遠縁の叔母だと偽っているが、実は小梅の一家を滅ぼし、小梅を千灯楼へさらった張本人である。その負い目から家族を演じることにし、小梅の面倒をよく見ている。||</MarkdownWrapper>
 -   <MarkdownWrapper>||実の母は極楽七仙の妾だった。||</MarkdownWrapper>
@@ -562,7 +562,7 @@ aside: false
 
 ### 夏侯蘭
 
--   [夏侯蘭](/ja/people/characters/girl5)を非常に怖がっていて、蘭姐姐と呼ぶ。一方、相手は彼女を「小瘋子 (おチビの狂人)」と呼ぶ。
+-   [夏侯蘭](/ja/people/characters/girl5)を非常に恐れており、「蘭姉さん」と呼ぶ。一方、夏侯蘭からは「小瘋子（チビ狂人）」と呼ばれている。
 -   [夏侯蘭](/ja/people/characters/girl5)のために弁当を用意した。梅干し入りのおにぎり、ガツの和え物、筍の醤油漬けで、菊花茶と合わせると味は絶品だが、菊花茶はもう切らしていた。
     -   弁当の献立は旧崆峒四姝を踏まえたもので、欠けている菊花茶は前崆峒掌派人の娘[呼延菊](/ja/people/characters/special822)を指す。
         -   [夏侯蘭](/ja/people/characters/girl5)は小梅にずっと恨みを抱いており、いつも小梅の弁当をわざと無視する。この献立には[夏侯蘭](/ja/people/characters/girl5)をわざと怒らせる狙いがある。

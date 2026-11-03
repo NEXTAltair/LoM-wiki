@@ -9,7 +9,7 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="初識">
+    <ChTab title="初対面">
         <ChMeet 
 			src='/images/characters/master/normal.webp' 
 			nameTitle='唐門の掌門'
@@ -24,11 +24,11 @@ aside: false
             position='center'/>
         <ChName nameZh='微笑' nameEn='Smile' position='right' />
     </ChTab>
-    <ChTab title="汗顔">
+    <ChTab title="冷や汗">
         <Ch
             src='/images/characters/master/nervous1.webp' 
             position='center'/>
-        <ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
     </ChTab>
     <ChTab title="不機嫌">
         <Ch
@@ -84,7 +84,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [唐鹿](/ja/people/characters/other10) (妻子)
+                    [唐鹿](/ja/people/characters/other10) (妻)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -157,21 +157,21 @@ aside: false
 
 ## 事蹟
 
--   かつては群雄を圧倒するほどの絶頂の高手。耕陽読書斎に中原十大侠客の一人に列挙されたことがある。[^3]
--   若き日はゴロツキのような風貌だった可能性がある。[^2]
--   武功の戦績は枚挙にいとまがない。正義とも邪道ともつかぬ生き方で朝廷にも盾突く。ただし税金は期限通り納める。敵対勢力がなければ、唐門は魔教と見なされるだろう。[^4]
--   少年時代に江湖で起こした乱は、多くは[南宮横](/ja/people/characters/special104)の名前で、大事を小事に、小事を無に変えてもらった。[南宮横](/ja/people/characters/special104)の逝去を聞いた時は、家族の年長者を失ったように悲嘆した。
--   若き日、曾て[唐鹿](/ja/people/characters/other10)師娘に不作法を働いた貴公子を千里の彼方まで追い詰めた。相手は遠く嵩山派福建分院に避け、住持[釈明](/ja/people/characters/special826)の庇護を求めた。彼は外で百回以上扉を叩き、やっと南宮、上官両家の家主が来て勧めるまで、むっとして帰った。このため[釈明](/ja/people/characters/special826)は心魔を患うことになった。
+-   かつては群雄を圧倒した絶頂の達人で、耕陽読書斎によって中原十大侠客の一人に数えられたこともある。[^3]
+-   若い頃はならず者のような風貌だったという。[^2]
+-   武勇伝は枚挙にいとまがない。正邪の枠にとらわれぬ生き方で朝廷にも楯突くが、年貢だけは期日通りに納める。もし他に共通の敵がいなければ、唐門こそ魔教扱いされていたことだろう。[^4]
+-   若い頃に江湖で起こした揉め事の多くは、[南宮横](/ja/people/characters/special104)の顔で大事を小事に、小事を無かったことへと丸く収めてもらった。[南宮横](/ja/people/characters/special104)の訃報に接した際は、一族の長老を失ったかのように深く嘆き悲しんだ。
+-   若き日、師娘の[唐鹿](/ja/people/characters/other10)に無礼を働いた貴公子を千里の果てまで追い詰めたことがある。相手は遠く嵩山派福建分院へ逃げ込み、住持の[釈明](/ja/people/characters/special826)に庇護を求めた。掌門は門外で百回以上も山門を叩き続け、南宮・上官両家の当主が駆けつけてなだめてようやく、忌々しげに引き揚げた。この一件で[釈明](/ja/people/characters/special826)は心魔を抱えることになった。
 -   当時、武林盟主[龍淵](/ja/people/characters/special2)に「唐門が心を通わせられぬのを許されよ。それは私が強情で御しがたい性分だからではない。唐門の魂の灯は、いにしえより今に至るまで絶えることなく受け継がれてきたゆえなのだ」と言い放った。武林盟に加わり足並みを揃えることを固辞したのである。しかし[極楽教](/ja/people/factions/elysium-school)が兵を出すと、[嵩山派](/ja/people/factions/mount-song-sect)の高僧と共に真っ先に最前線へ突撃した。
--   飛燕流星翎で極楽七仙の一人[袁乘風](/ja/people/characters/other11)の兵器、指を斬り、その一足で峨嵋金頂から蹴り落とした。
+-   飛燕流星翎で極楽七仙の一人[袁乘風](/ja/people/characters/other11)の得物と指を斬り飛ばし、そのまま一蹴りで峨嵋金頂から蹴り落とした。
 -   ずいぶん前、十歳にも満たない[唐布衣](/ja/people/characters/brother1)と[唐錚](/ja/people/characters/brother2)を連れて、臨安の清波門の外で刑場を襲い、逆賊・呉曦の首と引き換えに死刑囚の房陞([唐陞](/ja/people/characters/brother3))の命を救った。数百の歩軍司と皇城司の宮中の高手も誰一人阻めず、三人は無人の野を行くように自由に出入りした。その足で休む間もなく西蜀の戦場へ駆けつけ、極楽七仙に痛撃を浴びせた。
 
 ## 備考
 
--   病で腸胃が悪く、清淡な食事が必要。米粥を常食する。
--   ~~病に臥した後、BUGのため米粥で目覚め、好感度が上がる~~
--   二十年前の獄舎奪取ストーリーは白髪だが、ただ若年版立絵が未準備だっただけ。[^1]
--   [唐布衣](/ja/people/characters/brother1)の奔放さと[唐錚](/ja/people/characters/brother2)の傲慢さはともに掌門の昔の姿に従っている。しかし病気以来、性情に大きな変化があり、徐々に平易な人柄へと変わった。
+-   病で胃腸が弱っており、あっさりした食事しか摂れず、白粥を常食としている。
+-   ~~病に伏した後、バグのせいで白粥を差し入れると目を覚まして好感度が上がったことがある~~
+-   二十年前の刑場破りの回想でも白髪姿だが、単に若かりし頃の立ち絵が用意されていなかっただけである。[^1]
+-   [唐布衣](/ja/people/characters/brother1)の奔放さも[唐錚](/ja/people/characters/brother2)の傲岸さも、ともに若き日の掌門の気質を受け継いだものである。しかし病に倒れてからは気性が大きく丸くなり、穏やかな人柄へと変わっていった。
 -   朝廷の腐敗と民を害することを憤るが、忠義の臣や親孝行な人々をこの上なく敬う。正邪の別なく生きる男だが、仏門の人には礼を尽くし尊敬している。
 
 [^1]: PTT C 洽－[\[活俠\] 龍湘と奇怪な小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)

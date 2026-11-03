@@ -9,7 +9,7 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="初識">
+    <ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/brother3/normal.webp' 
             nameTitle='三師兄'
@@ -24,11 +24,11 @@ aside: false
             position='center'/>
         <ChName nameZh='微笑' nameEn='Smile' position='right' />
     </ChTab>
-    <ChTab title="汗顔">
+    <ChTab title="冷や汗">
         <Ch
             src='/images/characters/brother3/nervous1.webp' 
             position='center'/>
-        <ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
     </ChTab>
     <ChTab title="びっくり">
         <Ch

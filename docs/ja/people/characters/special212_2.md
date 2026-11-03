@@ -86,7 +86,7 @@ tags:
 
 ### 葉雲裳ルート
 
-青城留学中、[鉄冠道人](/ja/people/characters/special212)に化身して[葉雲裳](/ja/people/characters/girl2)の体に九泉丹の気があることを発見し、彼女を人丹として[教主](/ja/people/characters/special405)に献上する目論見で、[唐黙鈴](/ja/people/characters/girl0)の招親の日に出撃。[趙活](/ja/people/characters/player)と[段智秀](/ja/people/characters/special833)に阻止され、[唐門](/ja/people/factions/tang-men)の谷底に落下。谷底で十日、生きたまま動かずにいたが、[趙活](/ja/people/characters/player)と葉雲裳の仲睦まじさに感じ入り、世の中にも本物の真心はあるものだと言い放った。
+青城留学中、[鉄冠道人](/ja/people/characters/special212)に化身して[葉雲裳](/ja/people/characters/girl2)の体内に九泉丹の気があることを見抜き、彼女を人丹として[教主](/ja/people/characters/special405)に献上しようと[唐黙鈴](/ja/people/characters/girl0)の招親の日に襲撃。[趙活](/ja/people/characters/player)と[段智秀](/ja/people/characters/special833)に阻まれ、[唐門](/ja/people/factions/tang-men)の谷底に落下した。谷底で十日間、生きていながら手を出さず、[趙活](/ja/people/characters/player)と葉雲裳の仲睦まじいやり取りを見守っては、人の世にも真の情があるものだとしみじみ語った。
 <br><br>
 醜い顔なのに努力を怠らない趙活がひどく気に食わない。趙活に自分の生きる意味を否定されたと考え、不倶戴天の仇と見なした。西武林の戦いで姿を現し、趙活を殺そうとする。最後に[趙活](/ja/people/characters/player)、[鄒博](/ja/people/characters/special201)、[趙逵](/ja/people/characters/special403)三人の合力に敗れた。
 

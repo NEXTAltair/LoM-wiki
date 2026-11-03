@@ -36,7 +36,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[唐布衣](/ja/people/characters/brother1) (助け手)
+					[唐布衣](/ja/people/characters/brother1) (恩人)
 				</ChTd>
 			</ChTr>
 		</ChTable>

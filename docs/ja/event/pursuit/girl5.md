@@ -61,7 +61,7 @@ tags:
 <tr>
 <td>4</td>
 <td>3年目5月下旬</td>
-<td><MarkdownWrapper>[樹上小屋を建造する](/ja/event/simple/3-05-3-建造樹上小屋)</MarkdownWrapper></td>
+<td><MarkdownWrapper>[樹上小屋を建造する](/ja/event/simple/3-05-3-建造樹屋)</MarkdownWrapper></td>
 <td><Girl5Icon>夏侯蘭</Girl5Icon>好感≧40で、このイベントを発生・完了できる。</td>
 <td>イベント中の選択肢は結縁に関係ない。</td>
 </tr>
@@ -95,7 +95,7 @@ tags:
     <br>• 酒の種類で展開が変わる。優先順位は次のとおり:
     <br>1. <MarkdownWrapper>[菊花酒](/ja/event/simple/3-07-2-雪山之約)</MarkdownWrapper>: 第三香を倒したあと、🎲【≧70】「見逃す」、続けて🎲【≧60】「何もない」を出す。
     <br>2. <MarkdownWrapper>[猿酒](/ja/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>: <MarkdownWrapper>[帰路での襲撃](/ja/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>で唐布衣が危篤のときに📖「あんたが隠して飲ませなかった猿酒」を選び、同年3月上旬に裏山で入手する。
-    <br>3. その他の酒 (第三香を「無情に殺す」を選び、かつ道徳＜40のときは、黄酒×3が見つかる)。
+    <br>3. その他の酒 (第三香を倒したあと、🎲【＜70】「容赦なく殺す」になり、かつ道徳＜40のときは、黄酒×3が見つかる)。
     <br>• 🗡️夏侯蘭との決闘に負けると、<MarkdownWrapper>[生死簿74：花との合葬](/ja/event/badends/badend-74)</MarkdownWrapper>に進む。</td>
 </tr>
 

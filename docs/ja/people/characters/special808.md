@@ -9,7 +9,7 @@ aside: false
 # 風神 {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="初識">
+	<ChTab title="初対面">
 		<ChMeet
 			src='/images/characters/special808/normal.webp'
 			nameTitle=''
@@ -22,9 +22,9 @@ aside: false
 		<Ch src='/images/characters/special808/laugh1.webp' position='center'/>
 		<ChName nameZh='微笑' nameEn='Smile' position='right' />
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch src='/images/characters/special808/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 	<ChTab title="狼狽">
 		<Ch src='/images/characters/special808/nervous2.webp' position='center'/>
@@ -72,7 +72,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[唐嬌嬌](/ja/people/characters/big_trainee_girl_1) 狄傲 (同門)
+					[唐嬌嬌](/ja/people/characters/big_trainee_girl_1) (同門)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -87,7 +87,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[劉顎](/ja/people/characters/special1) (因果関係)
+					[劉顎](/ja/people/characters/special1) (悪縁)
 				</ChTd>
 			</ChTr>
 		</table>
@@ -147,5 +147,5 @@ aside: false
 -   [唐嬌嬌](/ja/people/characters/big_trainee_girl_1)が西武林の代わりに峨嵋を説得し、一路峨嵋大殿を打ち上がった時、解無塵は[向無憂](/ja/people/characters/special408) (向掌門) を前に押し出して、自分は遠くに隠れていた。
 
 [^1]: Facebook－[原始鳥熊2024/3/11](https://www.facebook.com/share/p/58kEU18EfQ6w3VJC/)
-[^2]: PTT C 洽－[\[活俠\] 龍湘与奇妙な小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^2]: PTT C 洽－[\[活俠\] 龍湘と奇妙な小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
 [^3]: PTT C 洽－[\[活俠\] 秘笈：つよつよ蹴り](https://www.pttweb.cc/bbs/C_Chat/M.1719310727.A.748)

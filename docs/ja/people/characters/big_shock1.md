@@ -42,9 +42,9 @@ tags:
             </ChTr>
         </ChTable>
     </ChTab>
-    <ChTab title="汗顔">
+    <ChTab title="冷や汗">
         <Ch src='/images/characters/big_shock1/nervous1.webp' position='center'/>
-        <ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
     </ChTab>
     <ChTab title="唐大鯨">
         <Ch src='/images/characters/big_shock1/tang_normal.webp' position='center'/>
@@ -54,9 +54,9 @@ tags:
         <Ch src='/images/characters/big_shock1/tang_laugh1.webp' position='center'/>
         <ChName nameZh='唐大鯨(微笑)' nameEn='Tang Da Jing (Smile)' position='right' />
     </ChTab>
-    <ChTab title="唐大鯨(汗顔)">
+    <ChTab title="唐大鯨(冷や汗)">
         <Ch src='/images/characters/big_shock1/tang_nervous1.webp' position='center'/>
-        <ChName nameZh='唐大鯨(汗顔)' nameEn='Tang Da Jing (Sweating)' position='right' />
+        <ChName nameZh='唐大鯨(冷や汗)' nameEn='Tang Da Jing (Sweating)' position='right' />
     </ChTab>
     <ChTab title="唐大鯨(緊張)">
         <Ch src='/images/characters/big_shock1/tang_nervous2.webp' position='center'/>
@@ -72,10 +72,10 @@ tags:
     </ChTab>
 </ChTabs>
 
-> 「草魚一匹で二百文、一度も値下げしたことがない。なのに家々で高いだの、ぼったくりだの言われる。」
+> 「草魚一匹二百文で、値段を吹っかけたこともありません。なのにどの家も高いと文句を言って、私が金をぼったくってると言うんです。」
 
-もともと[滄幇](/ja/people/factions/cang-gang)の人間で、性情が暴戻だった。岷江から船で蜀中に来たが、米が湿気を帯びて赤くなったことで同伴者と争い船を下りた。その後、何匹かの魚を捕まえて売ったが、[滄幇](/ja/people/factions/cang-gang)でだけ見かけるような高い値段をつけていた。[福韞](/ja/people/characters/special206)に叱責されるところを[趙活](/ja/people/characters/player)に目撃された。
+もともと[滄幇](/ja/people/factions/cang-gang)の人間で、気性が荒く凶暴だった。岷江から船で蜀中に来たが、米が湿気を帯びて赤くなったことで仲間と揉めて船を下りた。その後、魚を何匹か捕まえて売ったが、[滄幇](/ja/people/factions/cang-gang)でしか通用しないような法外な高値をつけていたため、[福韞](/ja/people/characters/special206)に咎められるところを[趙活](/ja/people/characters/player)に目撃された。
 <br><br>
-選択肢によっては、[唐門](/ja/people/factions/tang-men)に入門して名前を唐大鯨に改め、[趙活](/ja/people/characters/player)を小弟と認め、戦役で出場することもある。
+選択肢によっては、[唐門](/ja/people/factions/tang-men)に入門して名を唐大鯨と改め、[趙活](/ja/people/characters/player)の弟分となって戦役にも参戦する。
 <br><br>
 [葉雲裳](/ja/people/characters/girl2)が非常に怖く、何か食べ物があるとすぐに奪われてしまう。「姑奶奶」と呼ぶ声も絶えず、ひどくいじめられているのが目に見える。

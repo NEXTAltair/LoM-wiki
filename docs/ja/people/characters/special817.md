@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="趙拡">
 		<Ch src='/images/characters/special817/normal.webp' position='right'/>
-		<ChName nameZh='趙擴' nameEn='Zhao Kuo' position='right' />
+		<ChName nameZh='趙拡' nameEn='Zhao Kuo' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -49,9 +49,9 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch src='/images/characters/special817/nervous.webp' position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>

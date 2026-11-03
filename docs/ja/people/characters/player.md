@@ -12,7 +12,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="初識">
+    <ChTab title="初対面">
         <ChMeet
             src='/images/characters/player/normal.webp'
             nameTitle='唐門の雑魚'
@@ -147,11 +147,11 @@ tags:
             position='center'/>
         <ChName nameZh='刀舐め' nameEn='Lick Knife' position='right' />
     </ChTab>
-    <ChTab title="頭を振る">
+    <ChTab title="首を振る">
         <Ch
             src='/images/characters/player/oraora.webp' 
             position='center'/>
-        <ChName nameZh='頭を振る' nameEn='Shaken' position='right' />
+        <ChName nameZh='首を振る' nameEn='Shaken' position='right' />
     </ChTab>
     <ChTab title="無悔">
         <Ch
@@ -388,7 +388,7 @@ tags:
         </table>
     </Info>
 </InfoList>
-- 特別な感謝：崆峒探検隊の結成当初、<Girl3Icon>虞小梅</Girl3Icon>が阿活の初識紹介文を用意してくれた。
+- 特別な感謝：崆峒探検隊の結成当初、<Girl3Icon>虞小梅</Girl3Icon>が阿活の初対面紹介文を用意してくれた。
 
 > 「俺の顔は実に見るも無残。天はどうしてこうも俺を憎むのか?」
 
@@ -413,7 +413,7 @@ tags:
 -   [葉雲裳](/ja/people/characters/girl2)による顔の評価：魚の目、獣面獣心、豚の妖怪。
 -   女幽霊 ([夏侯蘭](/ja/people/characters/girl5)) は趙活を見て、同類だと思った。
 -   地獄道 ([趙逵](/ja/people/characters/special403)) は趙活を見て、本物の鬼卒だと思った。
--   [青城派](/ja/people/factions/qing-cheng-sect)は全員、調伏できない妖怪を見たと思った。
+-   [青城派](/ja/people/factions/qing-cheng-sect)は全員、手に負えない妖怪に出くわしたと思った。
 -   [唐黙鈴](/ja/people/characters/girl0)は幼い頃から趙活に育てられたため、美意識が歪められ、趙活を醜いと思わない。
 -   [虞小梅](/ja/people/characters/girl3)を、醜い顔を好む性癖に目覚めさせてしまった。
 
@@ -432,7 +432,7 @@ tags:
 
 -   唐門の盛世から凋落まで十数年を過ごし、外姓弟子がみな去ってしまったのに彼だけが残り、なお入室を許されない。
 -   もとは山腹の唐門外堡で便所に最も近い部屋に住んでいたが、門派の規模縮小が深刻で外堡が売り払われたため、大院に住めるようになった。
--   唯一の外姓弟子である上に顔のこともあり、他の弟子たちにあれこれとこき使われる。掃除、炊事、柴担ぎと何でもこなす、まるきり下男の姿である。
+-   唯一の外姓弟子である上に顔のこともあり、他の弟子たちにあれこれとこき使われる。掃除、炊事、柴担ぎと何でもこなす、さながら下男同然の扱いである。
 -   [師娘](/ja/people/characters/other10)に頼まれ、[唐黙鈴](/ja/people/characters/girl0)を幼い頃からずっと世話してきた。唐黙鈴が迷子になるたび、いつも最初に見つけるのは彼である。
     -   間柄は親密とまでは言えないが、師兄妹の枠を少しはみ出しており、それゆえ他の弟子たちにたびたび妬まれる。もっともある意味自業自得でもある。誰が趙活に、窓の外に隠れてこっそり彼女を「見守れ」と言ったのか。
 -   外姓でなければ、輩分の上では五番目の師兄に相当したはずである。
@@ -477,7 +477,7 @@ tags:
 -   [唐門](/ja/people/factions/tang-men)の外姓弟子として内門武功の修習は許されないが、他者への弟子入りは制限されていない。
 -   [唐布衣](/ja/people/characters/brother1)は昔、半年にわたる閉関でひたすら思索を重ね、武学の至理「無形之型」を編み出したが、唐門武功の先入観から逃れられず、自らの身では実践できなかった。幸いにも趙活という、先入観のかけらもなく、内功が地道で体格の均整がとれた大器晩成の器があったからこそ、体現するに至った。
 -   暗器総綱の《忘形篇》はすっかり頭に入っているのに、門規により外姓弟子への指南は許されず、武功はいまだに雑魚のまま。
-    -   [黒衣人](/ja/people/characters/brother1)の手ほどきを受けてようやく開眼し、各派の武功をあちこちかじって、ごった煮に練り上げてやっと一戦できる腕前になった。
+    -   [黒衣人](/ja/people/characters/brother1)の手ほどきを受けてようやく開眼し、各派の武功を手当たり次第にかじって自己流に練り上げ、ようやく一戦交えられる腕前になった。
     -   その学びの雑多さには、丐幇幇主[王二壮](/ja/people/characters/special401)すら感嘆を禁じ得なかった。
 -   [唐惟元](/ja/people/characters/brother4)は[唐布衣](/ja/people/characters/brother1)と一緒に趙活の稽古を覗き見たことがある。趙活が一つの招式を何度も何度も繰り返し、それらしくなったところで会得した気になっているのを見た。
     -   招数は一つも身につかなかったが、招意は知らぬ間に身体へ溶け込んでいた。
@@ -492,7 +492,7 @@ tags:
 ## 山歌
 
 趙活の山歌、別名は唐黙鈴の歌。趙活が[唐黙鈴](/ja/people/characters/girl0)の幼い頃、窓の下で歌った歌で、唐黙鈴は特に気に入っていた。<br>
-ただし趙活の喉はひどい音痴で、唐黙鈴以外が聴けば鬼哭神号、音波功と間違われるほどである。
+ただし趙活はひどい音痴で、唐黙鈴以外が聴けば鬼哭啾々の怪音か音波功と聞き違えるほどである。
 <br><br>
 熊が一曲献唱したそうだが、世界平和のために鳥に強制削除されたという。実に惜しい。
 
@@ -550,21 +550,21 @@ tags:
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_04.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_04.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
     </div>
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_05.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_05.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
     </div>
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_06.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_06.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
     </div>
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_07.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_07.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
     </div>
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_19.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_19.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
     </div>
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_18.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_18.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
     </div>
 </div>

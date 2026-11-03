@@ -67,14 +67,14 @@ tags:
     <tr>
         <td id = "南宮護心訣">南宮護心訣</td>
         <td>1~3</td>
-        <td>致命的な攻撃を防ぐことができます（血量が0になるとき、10点の血量を回復）。等級に応じて気力を20～40回復します。
-            <br><MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>に内功を伝えて救うときの条件は、<MarkdownWrapper>[飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來#唐門に待機)</MarkdownWrapper>を参照してください。</td>
+        <td>致命傷を防ぐことができる（HPが0になる際、HPを10回復）。レベルに応じて気力を20～40回復する。
+            <br><MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>に内功を伝えて救う条件は、<MarkdownWrapper>[飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來#唐門に待機)</MarkdownWrapper>を参照。</td>
         <td><MarkdownWrapper>[《南宮心法》](/ja/system/books/book_7012)</MarkdownWrapper></td>
     </tr>    
     <tr>
         <td id = "偕老誓">偕老の誓い</td>
         <td>-</td>
-        <td>致命的な攻撃を防ぎ、気力を回復できます。</td>
+        <td>致命傷を防ぎ、気力を回復できる。</td>
         <td><MarkdownWrapper>[「雲裳と結ばれる」](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>の子イベント<MarkdownWrapper>[「九転の療傷」](/ja/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>にて、南宮護心訣LV3を持ち、かつ幻境の南宮遠に勝利した場合。</td>
     </tr>
     <tr>
@@ -94,7 +94,7 @@ tags:
         <td>-</td>
         <td>相手にされていない(龍湘は待機状態)</td>
         <td>なし。外堡の誣告イベント中の龍湘の状態。
-<br>龍湘があなたの攻撃を受けたり怒った後、この技能は消えます</td>
+<br>龍湘が攻撃を受けるか怒った後、この技能は解除される</td>
     </tr>
     <tr>
         <td id = "玄黃納心綱">玄黄納心綱</td>
@@ -202,7 +202,7 @@ tags:
         <td id = "暗箭傷人">暗矢傷人</td>
         <td>-</td>
         <td>決闘開始時に暗器を発射してダメージを与え、【怒り】を引き起こす確率がある</td>
-        <td>以下のNPCがこの能力を持つことが知られている：東西武林盟大院保衛戦中の千面人魔店小二。</td>
+        <td>以下のNPCがこの能力を持つことが知られている：東西武林盟の大院防衛戦に登場する千面人魔（給仕）。</td>
     </tr>
     <tr>
         <td id = "金錢鏢">金銭鏢</td>
@@ -327,7 +327,7 @@ tags:
     <tr>
         <td id = "侵掠如火">侵掠如火</td>
         <td>-</td>
-        <td>戦術LVに基づいて攻撃を上昇（毎級+0.02増傷）</td>
+        <td>戦術LVに応じて攻撃力を上昇（1レベルごとに与ダメージ+2%）</td>
         <td><MarkdownWrapper>[《楊家練兵操》](/ja/system/books/book_7004)</MarkdownWrapper></td>
     </tr>
     <tr>
@@ -396,7 +396,7 @@ tags:
     <tr>
         <td id = "九轉輪迴">九転輪廻</td>
         <td>-</td>
-        <td>致命的な攻撃をブロックして、血を完全に回復できます</td>
+        <td>致命傷を防ぎ、HPを全回復する</td>
         <td><MarkdownWrapper>[「雲裳と結ばれる」](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>の子イベント<MarkdownWrapper>[「九転の療傷」](/ja/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>にて、葉雲裳と結縁した後に獲得する。
 </td>
     </tr>

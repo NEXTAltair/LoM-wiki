@@ -64,9 +64,9 @@ tags:
 		<Ch src='/images/characters/trainee204/old_normal.webp' position='center'/>
 		<ChName nameZh='旧版立ち絵' nameEn='Old Portrait' position='right' />
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch src='/images/characters/trainee204/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 	<ChTab title="不機嫌">
 		<Ch src='/images/characters/trainee204/angry1.webp' position='center'/>

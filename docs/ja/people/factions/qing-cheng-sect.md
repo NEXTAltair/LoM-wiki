@@ -98,10 +98,10 @@ tags:
 - [虎嘯功](/ja/system/books/book_7016)
 - [陰陽奪](/ja/system/books/book_7018)
 
-## 画廊
+## ギャラリー
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_03.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_03.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
     </div>
 </div>

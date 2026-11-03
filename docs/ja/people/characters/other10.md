@@ -107,14 +107,14 @@ tags:
 
 ### 趙活
 
-- 崖から身を投げる前に、娘の[唐黙鈴](/ja/people/characters/girl0)を他の女弟子や息子の[唐錚](/ja/people/characters/brother2)ではなく[趙活](/ja/people/characters/player)に託した。外姓の小弟子を絶大に信頼している。<br>~~師娘が婿を指名したのだから、「監守自盗」とは言えまい。~~
+- 崖から身を投げる前に、娘の[唐黙鈴](/ja/people/characters/girl0)を他の女弟子や息子の[唐錚](/ja/people/characters/brother2)ではなく[趙活](/ja/people/characters/player)に託した。外姓の小弟子に絶大な信頼を寄せていたのである。<br>~~師娘が自ら婿を指名したのだから、「見張り役が自ら盗みを働いた」とは言えまい。~~
     - 他の唐門の女弟子の話によると、小師妹の[唐黙鈴](/ja/people/characters/girl0)が幼い頃は唐門の交戦期で、掌門の[唐中翎](/ja/people/characters/master)・[唐布衣](/ja/people/characters/brother1)・[唐錚](/ja/people/characters/brother2)はみな外で戦っており、<br>[趙活](/ja/people/characters/player)は数少ない頼れる人選となった。<br>~~唐門のお嬢様の乳母が醜男だという話は、こうして広まった。~~
 
 ### 唐錚
 
 - [唐錚](/ja/people/characters/brother2)は実の息子でありながら、以前に[李元棄](/ja/people/characters/special213)に[千灯楼](/ja/people/factions/thousand-lantern-tower)へ残されており、物語では唐鹿と[唐錚](/ja/people/characters/brother2)のやり取りはほとんど語られない。
 - [唐錚](/ja/people/characters/brother2)の身につけている玉佩は、唐鹿から受け継いだもの。[^4]
-- 父親違いの妹の[唐黙鈴](/ja/people/characters/girl0)をとても可愛がり、たとえ怒りに燃えていても、ぽんぽんとなでればおさまる。
+- 唐錚は異父妹の[唐黙鈴](/ja/people/characters/girl0)をとても可愛がっており、たとえ怒りに燃えていても、唐黙鈴にぽんぽんと撫でられれば怒りが収まる。
 
 ### 上官隼
 

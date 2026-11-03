@@ -63,9 +63,9 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
-	<ChTab title="余自詠(汗顔)">
+	<ChTab title="余自詠(冷や汗)">
 		<Ch src='/images/mobs/artists/young_master2_nervous.webp' position='center'/>
-		<ChName nameZh='余自詠(汗顔)' nameEn='Yu Ziyong (Sweating)' position='right' />
+		<ChName nameZh='余自詠(冷や汗)' nameEn='Yu Ziyong (Sweating)' position='right' />
 	</ChTab>
 	<ChTab title="余自詠(重傷)">
 		<Ch src='/images/mobs/artists/young_master2_hurt.webp' position='center'/>
@@ -73,7 +73,7 @@ tags:
 	</ChTab>
 	<ChTab title="成渓">
 		<Ch src='/images/mobs/artists/young_master1_normal.webp' position='right'/>
-		<ChName nameZh='成溪' nameEn='Cheng Xi' position='right' />
+		<ChName nameZh='成渓' nameEn='Cheng Xi' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -98,7 +98,7 @@ tags:
 </ChTabs>
 <br><br>
 
-花城四少は[南宮深](/ja/people/characters/special102)と三〜五人の友人の総称で、花柳街の常連である。<br>[南宮深](/ja/people/characters/special102)本人を除く四人は、陳序、余自詠、成渓、公子秀。
+花城四少は[南宮深](/ja/people/characters/special102)と数人の悪友の総称で、花街柳巷の常連である。<br>[南宮深](/ja/people/characters/special102)本人を除く四人は、陳序、余自詠、成渓、公子秀。
 
 <br>
 
@@ -126,9 +126,9 @@ tags:
 
 ## 評価
 
--   [南宮深](/ja/people/characters/special102): 花城四少は五人？四大天王も五人じゃないか。
+-   [南宮深](/ja/people/characters/special102): 花城四少が五人？四天王が五人いるのは常識じゃないか。
     -   この設定に対する公式の回答。[^1]
 -   [上官螢](/ja/people/characters/girl4): 花城四少は全員、家財と容姿に頼り、金を浪費して良家の女性を弄ぶ下作な奴ら。
-    -   [福韞](/ja/people/characters/special206): 南宮缺徳。
+    -   [福韞](/ja/people/characters/special206): 南宮欠徳。
 
 [^1]: 鳥熊FB留言。[リンク](https://www.facebook.com/obbstudio/posts/pfbid0GCevPs4TPNcRvzECS7Dmeeoqg7pvCkADmnqpmgvKHqvx8appLT7bo7npe7VXobKgl?comment_id=851651397097128&reply_comment_id=898386008890732&__cft__[0]=AZVA6WGkHOH-J0f0gY0o-KffUH80JdVab5IH6EYFw14031XZp_WGFi71llZNTjEFXRZnvUTtL2onKpCHqjwLk1Tzz5w961_OqaAyXM6cDxLUkjYe53wMW5pIqkzxyilPTFanCOOp_3r1Yp5idIVXlHXBNFlMqMxEivsSy8tj8dVC5w&__tn__=R]-R)

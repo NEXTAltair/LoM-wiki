@@ -13,7 +13,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="初識">
+	<ChTab title="初対面">
 		<ChMeet
 			src='/images/characters/special805/special.webp'
 			nameTitle=''
@@ -22,13 +22,13 @@ tags:
 			:animation=true
 		/>
 	</ChTab>
-	<ChTab title="出来玩！">
+	<ChTab title="あーそーぼ！">
 		<Ch src='/images/characters/special805/special2.webp' position='center'/>
-		<ChName nameZh='阿鶴俠' nameEn='A He Xia' />
+		<ChName nameZh='阿鶴侠' nameEn='A He Xia' />
 	</ChTab>
 	<ChTab title="逃げて、小竹">
 		<Ch src='/images/characters/special805/hand.webp' position='center'/>
-		<ChName nameZh='阿鶴俠' nameEn='A He Xia' />
+		<ChName nameZh='阿鶴侠' nameEn='A He Xia' />
 	</ChTab>
 </ChTabs>
 <br>
@@ -49,7 +49,7 @@ tags:
 					称号
 				</ChTd>
 				<ChTd>
-					阿鶴侠<br>~~楼梯侠~~
+					阿鶴侠<br>~~階段侠~~
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -59,19 +59,19 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[虞小梅](/ja/people/characters/girl3) (本體)
+					[虞小梅](/ja/people/characters/girl3) (本体)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[火閃電](/ja/people/characters/firebird1) (朋友)
+					[火閃電](/ja/people/characters/firebird1) (友人)
 				</ChTd>
 			</ChTr>
 		</table>
 	</Info>
 </InfoList>
 
->「階段は、復讐を望むすべての哀れな人にとって、最も誠実な共謀者である。」
+> 「階段は、復讐を望む哀れな全ての人間にとって、最も無私な共犯者なのよ。」
 
 崆峒派飛天門に出没する鶴手先輩。実は山上で千年修行した霊鶴で、転落死後に還魂して小梅の右手に宿っている。小梅に友達を紹介するのが好きで、人々を崆峒山の名勝地へ案内する。
 <br><br>

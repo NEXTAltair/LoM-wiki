@@ -736,7 +736,7 @@ tags:
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[樹上小屋を建造する](/ja/event/simple/3-05-3-建造樹上小屋)<br>
+				[樹上小屋を建造する](/ja/event/simple/3-05-3-建造樹屋)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>

@@ -11,7 +11,7 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="初識">
+	<ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/girl_6/normal.webp' 
 			nameTitle='裂骨魔'
@@ -25,16 +25,16 @@ aside: false
 			src='/images/characters/girl_6/special2.webp' 
 			nameTitle='裂骨魔'
 			nameMain='郁竹'
-			desc='今日ではめったに見ることができない。郁竹が娘らしい格好をした姿。<br>これは大切に保管し、箱の底に収納されている、唯一褪せていない色鮮やかな衣装。<br>お正月でさえ捨てるのが惜しい。手袋を着けているのは、両手が全て硬い胼胝と傷跡に覆われており、人に見られるのが嫌だからである。'
+			desc='今ではめったに見られない、郁竹が娘らしい装いをした姿。<br>葛籠の底に大切にしまわれていた、唯一色褪せていない鮮やかな晴れ着で、正月や節句でさえもったいなくて袖を通せずにいた一着である。<br>手袋をはめているのは、両手が硬いタコと傷跡だらけなのを人に見られたくないため。'
 			:animation=true
 		/>
 	</ChTab>
-	<ChTab title="目細">
+	<ChTab title="細目">
 		<Ch 
 			src='/images/characters/girl_6/angry1.webp' 
 			position='center'/>
 		<ChName
-			nameZh='目細'
+			nameZh='細目'
 			nameEn='Squint'/>
 	</ChTab>
 	<ChTab title="怒り">
@@ -537,7 +537,7 @@ aside: false
 
 ### 劣等感
 
--   幼い頃に捨てられたせいか、内心の劣等感が強く、とりわけ恋人に捨てられることと、自分の魅力に自信がないことを恐れている。
+-   幼い頃に捨てられたせいか劣等感が強く、自分の魅力に自信が持てないため、とりわけ恋人に捨てられることを恐れている。
     -   自分の力が強すぎることに引け目を感じている。かつては少女らしい憧れを抱いていた時期もあったが、今ではもう諦めている。[^7]
     -   おしゃれをするには、よほどの決心が必要なタイプである。[^7]
 -   自分で複雑な機関を設計できるほど聡明なのに、いつも自分は馬鹿だと言う。
@@ -568,7 +568,7 @@ aside: false
     -   <MarkdownWrapper>||逃げた小竹は連れ戻されると、門派への裏切りとして鎮魂獄に入れられ、七日間水も食事も絶たれたうえ、裸で吊るされて天に捧げられ、禿鷹の餌にされた。命がつながったのは霊薬のおかげらしい。<br>最後は鄧夷が、小竹が盗み食いしたのは自分の霊薬だと申し出て、彼女を大鉄舗に引き取った。||</MarkdownWrapper>
     -   小竹は背が伸びないのは小梅のせいだとずっと恨んでいる。小梅は獄中で、二つの薬とは関係なく生まれつき脚が短いだけだと言い返した。
 -   [夏侯蘭](/ja/people/characters/girl5)によれば、その怪力は半分が生まれつきのもので、半分は鉄拳門の秘薬によるものだという。夏侯蘭ほどの武功をもってしても真っ向から受け止めることはできず、もし勁を流さずにまともに受けてしまえば必ず死ぬとのこと。
--   おにぎりも握れるが、握力が強すぎておにぎりがどろどろのペースト状になってしまい、食感は餅のようで、なんとも幻惑的である。[趙活](/ja/people/characters/player)は美味しいと思っている。~~なぜか二次創作では脇おにぎりに歪曲されている~~
+-   おにぎりも握れるが、握力が強すぎて米粒が潰れてペースト状になり、餅のようななんとも摩訶不思議な食感になる。[趙活](/ja/people/characters/player)は美味しいと評している。~~なぜか二次創作では脇おにぎりネタにされている~~
     -   小竹流秘伝ちまき包み術：ちまきを弾丸ほどの大きさに圧縮する。[リンク](https://www.facebook.com/photo/?fbid=278679134685469&set=a.165167019370015)
 -   子供の頃、前掌門の誕生日祝いにマッサージ券を贈ったが、その後現掌門の[雷謙](/ja/people/characters/special804)に譲られ、二人とも使う勇気がなかった。[趙活](/ja/people/characters/player)が段考で優勝した際に、そのまま彼に贈られた。
 -   善意からとはいえ、うっかり[趙活](/ja/people/characters/player)の肋骨を折ってしまうことがあるかもしれない。[^7] <MarkdownWrapper>||抱擁でさえ殺傷力がある。||</MarkdownWrapper>
@@ -627,14 +627,14 @@ aside: false
 #### 虎の戦衣「老虎大王」
 
 -   <MarkdownWrapper>||武林盟の宣戦期間、[趙活](/ja/people/characters/player)が小竹の専用兵器の開発を求めると、小竹は鉄剣令を手に、[火炎山剣閣](/ja/people/factions/mount-fire-palace)の全員とともに専用装備の虎の戦衣「老虎大王」を作る。||</MarkdownWrapper>
-    -   <MarkdownWrapper>||マント、胸甲、虎頭の盾、巨大な金属の腕甲二つで構成され、腕甲の覆う面積は塔の代わりに盾として使えるほど広い。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||マント、胸甲、虎頭の盾、巨大な金属製の腕甲一対で構成され、腕甲は大盾（タワーシールド）として使えるほど面積が広い。||</MarkdownWrapper>
     -   <MarkdownWrapper>||虎の戦衣の外殻は造形を施した木製の鎧で、内側は金属の鎧である。[趙活](/ja/people/characters/player)は試着して、重すぎて小竹にしか扱えないと言った。||</MarkdownWrapper>
     -   <MarkdownWrapper>||~~鳳凰の戦衣を着た[南宮深](/ja/people/characters/special102)でさえ、これを見て「何だそのとんでもない代物は！」と叫んだ。~~||</MarkdownWrapper>
     -   <MarkdownWrapper>||虎の戦衣に付属する斬馬剣は、実は火炎山剣閣の飾りで、剣閣は抜けたら小竹にあげると言い放った。~~この鍛冶師たちは、裂骨魔の噂をまるで知らないらしい。~~||</MarkdownWrapper>
         -   <MarkdownWrapper>||斬馬剣は目測で長さ約2メートル。巨大な攻撃範囲と重い斬撃で、千軍を楽々と薙ぎ払える。||</MarkdownWrapper>
 -   <MarkdownWrapper>||決闘：虎の戦衣はどんなダメージにも耐えられるが、耐久度には限りがあり、耐久度が尽きると撤退する。||</MarkdownWrapper>
     -   <MarkdownWrapper>||巨大な腕甲の機関には火箭飛拳が仕込まれており、撤退の際に撃ち出される。||</MarkdownWrapper>
--   <MarkdownWrapper>||戦役：小竹は虎の戦衣を着て自ら戦場に飛び込み、システムのクローズアップののち、斬馬剣を投げて敵軍を全員一撃で倒す。||</MarkdownWrapper>
+-   <MarkdownWrapper>||戦役：小竹は虎の戦衣をまとって自ら戦場に飛び込み、専用のカットイン演出ののち、斬馬剣を投げつけて敵軍を一撃で薙ぎ払う。||</MarkdownWrapper>
 -   <MarkdownWrapper>||[趙活](/ja/people/characters/player)の評価：||</MarkdownWrapper>
     > <MarkdownWrapper>||見てくれ、まるで竹飛将軍のようだ。千軍を薙ぎ払い、万夫不当！威風堂々、向かうところ敵なしだ！||</MarkdownWrapper>
 -   <MarkdownWrapper>||小竹の評価：||</MarkdownWrapper>
@@ -695,14 +695,14 @@ aside: false
 
 ### 眉山と唐門
 
--   <MarkdownWrapper>||壮士飛爪の一件のあと、作品の出来が見事だったため、[唐錚](/ja/people/characters/brother2)（二師兄）に密かに心に刻まれた。||</MarkdownWrapper>
+-   <MarkdownWrapper>||壮士飛爪の一件のあと、その見事な出来栄えから[唐錚](/ja/people/characters/brother2)（二師兄）に密かに一目置かれるようになった。||</MarkdownWrapper>
 -   <MarkdownWrapper>||小竹の容姿と職人としての腕前のおかげで、唐門に入ってすぐ男女の弟子たちから熱烈に歓迎された。||</MarkdownWrapper>
 -   <MarkdownWrapper>||[趙活](/ja/people/characters/player)は小竹を留学弟子として唐門に留学させるよう推挙したが、[唐中翎](/ja/people/characters/master)（唐掌門）は推薦状がなければ留学できないと言い、趙活と[唐惟元](/ja/people/characters/brother4)（四師兄）に推薦状を書き足させた。||</MarkdownWrapper>
     -   <MarkdownWrapper>||小竹の身分は留学弟子なのに、掌門によって大院の女弟子の部屋に住まわされた。||</MarkdownWrapper>
 -   <MarkdownWrapper>||小竹の作品は大変な人気で、強欲な[唐惟元](/ja/people/characters/brother4)（四師兄）でさえ、販売の手伝いをする際には、自ら小竹に六割を取らせた。||</MarkdownWrapper>
 -   <MarkdownWrapper>||[唐惟元](/ja/people/characters/brother4)（四師兄）に、崆峒から過去の持ち物を取り戻す必要があるかと尋ねられた時、まったく無いと答え、強欲な四師兄を唖然とさせた。||</MarkdownWrapper>
 -   <MarkdownWrapper>||小竹は唐門に留学していた間も外堡の近所の人々に深く慕われ、息子の嫁に小竹をもらいたいと考える婦人までいた。||</MarkdownWrapper>
--   <MarkdownWrapper>||唐門の師姉が妻に教える習い事の授業に、強い興味と意欲を示す。||</MarkdownWrapper>
+-   <MarkdownWrapper>||唐門の師姉が開く花嫁修業の講義に、強い興味と意欲を示す。||</MarkdownWrapper>
 -   <MarkdownWrapper>||内緒で[飛石幇](/ja/people/factions/flying-stone-gang)で力仕事をしており、働きぶりが優秀なため名誉メンバーと称えられ、[石夫人](/ja/people/characters/special815)に給金を上乗せされた。||</MarkdownWrapper>
 
 ### 小梅
@@ -747,7 +747,7 @@ aside: false
 -   <MarkdownWrapper>||妹の[郁宝花](/ja/people/mobs/other#郁宝花)は父の言葉を信じ、姉は何不自由ない暮らしをしていながら、家族が貧しい村で苦しむのを冷たく放っておいていると思い込み、深く恨んでいた。||</MarkdownWrapper>
     -   <MarkdownWrapper>||のちに真相を知ると、その恨みは後ろめたさに変わった。||</MarkdownWrapper>
     -   <MarkdownWrapper>||それでも宝花は悪いのは父だと決めつけ、姉妹の仲を修復しようとはしなかった。母の代わりに家への手紙を代筆したときも、小竹が帰ってくるとはまるで期待していなかったが、小竹は帰ってきた。||</MarkdownWrapper>
--   <MarkdownWrapper>||弟の[郁城](/ja/people/mobs/other#郁城) (弟)は江湖に憧れており、姉が当代きっての名匠だとは知らない。小竹が心を込めて用意したおもちゃには見向きもせず、武器をせがむ。||</MarkdownWrapper>
+-   <MarkdownWrapper>||弟の[郁城](/ja/people/mobs/other#郁城)は江湖に憧れており、姉が当代きっての名匠だとは知らない。小竹が心を込めて用意したおもちゃには見向きもせず、武器をせがむ。||</MarkdownWrapper>
     -   <MarkdownWrapper>||小竹は郁城がけがをするのを恐れ、武器を渡そうとしない。||</MarkdownWrapper>
 -   <MarkdownWrapper>||小竹は獄中で妹と弟と仲直りし、唐門へ行って婚約者である義兄[趙活](/ja/people/characters/player)の庇護を求めるよう導いた。||</MarkdownWrapper>
 

@@ -9,7 +9,7 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="初識">
+	<ChTab title="初対面">
 		<ChMeet
 			src='/images/characters/special401/normal.webp'
 			nameTitle=''
@@ -26,9 +26,9 @@ aside: false
 		<Ch src='/images/characters/special401/laugh2.webp' position='center'/>
 		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch src='/images/characters/special401/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 	<ChTab title="気まずい">
 		<Ch src='/images/characters/special401/nervous3.webp' position='center'/>
@@ -147,7 +147,7 @@ aside: false
 -   少年時代に[南宮遠](/ja/people/characters/special101)と摯友だった。二人は紅篷王と曾文を手本にして、互いに支え助けて、危機にある者を救い、国家を匡正しようと約束した。
 -   少年時代に[南宮遠](/ja/people/characters/special101)と誰が[蘇迎香](/ja/people/characters/special402)の笑顔を得られるか賭けた。負けた者が相手に乗られるという賭けだ。迎香は[南宮遠](/ja/people/characters/special101)に偏愛し、毎回、彼が[南宮遠](/ja/people/characters/special101)を背中に乗せることになった。
 -   友人の幸せのために遠く他郷へ去った。ところが[南宮遠](/ja/people/characters/special101)は[温夫人](/ja/people/characters/special402)に背いてしまったのだ。彼は悔しくてたまらなかった。二十年もの間、[南宮遠](/ja/people/characters/special101)に会わなかった。
--   二十年後。定遠郎の王某は、ついに少年時代に[友人](/ja/people/characters/special101)に誓った豪語を果たした：「いつか必ず、千軍万馬をお前の下に集めて、お前の命令に従わせてやる。お前の曾祖々父、武林盟主南宮智のようにな。お前も武功を磨いて、俺以上に強くなってくれ。俺たちが大人になったら……。」
+-   二十年遅れはしたが、定遠郎の王某は、ついに少年の頃に[友人](/ja/people/characters/special101)に誓った豪語を果たした：「いつの日か、俺は千軍万馬をお前の麾下に集め、お前の号令に従わせる、お前の曾曾曾祖父、武林盟主南宮智のようにな。お前は武功をよく練り、俺より強くならなきゃいけないぞ！ 俺たちが大人になったら……。」
 
 ## 備考
 

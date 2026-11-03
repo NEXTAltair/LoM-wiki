@@ -21,7 +21,7 @@ aside: false
 		<ChMeet 
 			src='/images/characters/girl_2/special2.webp' 
 			nameMain='葉雲啾'
-			desc='葉家の次男。点蒼派第一の怪異な技法。葉雲裳が悪事を働いた後に、責任を転嫁するために用いられる第二の身分である。'
+			desc='葉家序列第二、<ruby>点蒼<rt>てんそう</rt></ruby>派随一の怪剣使い。<br><ruby>葉雲裳<rt>よううんしょう</rt></ruby>が悪さをした後、責任を転嫁するために使う第二の身分である。'
 			:animation=true
 		/>
 	</ChTab>
@@ -84,7 +84,7 @@ aside: false
 
 > 「我こそは葉雲舟の弟にして葉雲裳の兄、葉家の次男、点蒼一の怪賤手、葉雲啾だ！」
 
-葉家三兄妹の次男。点蒼派の緑の衣を身にまとっている。背丈は低い。[唐黙鈴](/ja/people/characters/girl0.md)の婚宴で、[南宮深](/ja/people/characters/special102)・[解無塵](/ja/people/characters/special808)二人の高手が場に出て勝敗を決する際に、剣を抜いて乱入し、[唐門](/ja/people/factions/tang-men)の婿になろうと声高に主張する。
+葉家三兄妹の次男。点蒼派の緑の道服を身にまとった小柄な剣士。[唐黙鈴](/ja/people/characters/girl0.md)の比武招親で、[南宮深](/ja/people/characters/special102)と[解無塵](/ja/people/characters/special808)の二人の達人が進み出て勝負を決しようとしたところに剣を抜いて乱入し、[唐門](/ja/people/factions/tang-men)の婿になると高らかに名乗りを上げる。
 
 <br><br>
 

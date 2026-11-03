@@ -11,13 +11,12 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="初識">
+    <ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/special405/normal.webp' 
             nameTitle=''
 			nameMain='申屠龍'
-			desc='<ruby>青城<rt>せいじょう</rt></ruby>「<ruby>逸塵道子<rt>いつじんどうし</rt></ruby>」<ruby>申屠龍<rt>しんとりゅう</rt></ruby><br>青城派の修真道士。年は若いながら輩分が高く、青城前任掌門の直弟子。<br>
-			顔立ちは清潔で爽やか、柔和で優雅、道法を修めない時は山中で遊ぶことが多く、武人の世界の事柄にはあまり関心を持たず、人と争うことは極めて稀だが、青城派の月試だけは武功を現す。そのためか、名声はひっそりと伝わっている。'
+			desc='<ruby>青城<rt>せいじょう</rt></ruby>「<ruby>逸塵道子<rt>いつじんどうし</rt></ruby>」<ruby>申屠龍<rt>しんとりゅう</rt></ruby><br><ruby>青城<rt>せいじょう</rt></ruby>派の修真道士、年は若いが位は高く、<ruby>青城<rt>せいじょう</rt></ruby>前任掌門の閉門弟子である。<br>顔立ちは清らかで美しく、温和で儒雅、道法を修めていない時は山中をのんびりと遊んでおり、<ruby>江湖<rt>こうこ</rt></ruby>の事にはあまり関わらず、人と争うことも極めて少なく、<ruby>青城<rt>せいじょう</rt></ruby>派の定期試験でのみその武芸を披露するが、それでも名声は密かに広まっている。'
 			:animation=true
 		/>
     </ChTab>
@@ -27,11 +26,11 @@ aside: false
 			position='center'/>
 		<ChName nameZh='微笑' nameEn='Smile' position='right' />
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch
 			src='/images/characters/special405/nervous1.webp' 
 			position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 	<ChTab title="気まずい">
 		<Ch

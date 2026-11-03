@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="南渓">
 		<Ch src='/images/characters/special829/normal.webp' position='right'/>
-		<ChName nameZh='南溪' nameEn='Nan Xi' position='right' />
+		<ChName nameZh='南渓' nameEn='Nan Xi' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -60,9 +60,9 @@ tags:
 		<Ch src='/images/characters/special829/laugh1.webp' position='center'/>
 		<ChName nameZh='微笑' nameEn='Smile' position='right' />
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch src='/images/characters/special829/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 	<ChTab title="狼狽">
 		<Ch src='/images/characters/special829/nervous2.webp' position='center'/>

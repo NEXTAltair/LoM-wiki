@@ -9,7 +9,7 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="初識">
+    <ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/special206/normal.webp' 
             nameTitle=''
@@ -22,9 +22,9 @@ aside: false
 		<Ch src='/images/characters/special206/laugh1.webp' position='center'/>
 		<ChName nameZh='微笑' nameEn='Smile' position='right' />
 	</ChTab>
-	<ChTab title="汗顔">
+	<ChTab title="冷や汗">
 		<Ch src='/images/characters/special206/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 	<ChTab title="狼狽">
 		<Ch src='/images/characters/special206/nervous2.webp' position='center'/>
@@ -134,4 +134,4 @@ aside: false
 -   嵩山寺で料理をする。[^1]
 -   方丈の座は必ず手に入れるつもりでいる。武林大会が終わると、誓いを立てて十年近く続けてきた雲遊にも区切りを付け、寺に戻って仏法の修行に励む予定である。
 
-[^1]: PTT C 洽－[\[活俠\] 龍湘与奇妙な小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^1]: PTT C 洽－[\[活俠\] 龍湘と奇妙な小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
