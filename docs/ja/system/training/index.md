@@ -4140,7 +4140,7 @@ text: '葉雲裳好感+',
             以下は一度きりの優先イベントとその発生条件:<br>
             • 「飛侠の武功」(<MarkdownWrapper>[奪魄森林イベント集](/ja/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>): 「昔の仲間」を発生済み<br>
             • <MarkdownWrapper>[心を集中させるのを手伝う](/ja/event/simple/2-04-1-助你收心)</MarkdownWrapper>: 「なぜ覗いているのか」を発生済み (<MarkdownWrapper>[奪魄森林イベント集](/ja/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>)<br>
-            • 「樹屋の修繕」(<MarkdownWrapper>[奪魄森林イベント集](/ja/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>): 夏侯蘭好感≥20<br>
+            • 「樹上小屋の修繕」(<MarkdownWrapper>[奪魄森林イベント集](/ja/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>): 夏侯蘭好感≥20<br>
             • 「鉄傘の秘密」(<MarkdownWrapper>[奪魄森林イベント集](/ja/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>): 夏侯蘭好感≥20<br>
             • 「蘭の字の由来」(<MarkdownWrapper>[奪魄森林イベント集](/ja/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>): 夏侯蘭好感≥15<br>
             • 「雪山派滅亡の始末」(<MarkdownWrapper>[奪魄森林イベント集](/ja/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>): 夏侯蘭好感≥30、かつ🚩「雪山の始末を話せる」(<MarkdownWrapper>[心を集中させるのを手伝う](/ja/event/simple/2-04-1-助你收心)</MarkdownWrapper>)<br>
@@ -6030,15 +6030,15 @@ text: '葉雲裳好感+',
             • 体力+1、🚩「雪山で家を建てた回数」+1<br>
             <br>
             🚩「雪山で家を建てた回数」を判定:<br>
-            • 回数=1: 会話差分。唐門に<MarkdownWrapper>[樹屋を建造する](/ja/event/simple/3-05-3-建造樹屋)</MarkdownWrapper>の高級樹屋があれば、夏侯蘭好感+1<br>
-            • 回数=2: 🚩「雪山の樹屋レベル」=1 に設定、夏侯蘭好感+2<br>
-            • 回数=4: 🚩「雪山の樹屋レベル」=2 に設定、夏侯蘭好感+3<br>
-            • 回数=7: 🚩「雪山の樹屋レベル」=3 に設定、夏侯蘭好感+5、会話差分<br>
+            • 回数=1: 会話差分。唐門に<MarkdownWrapper>[樹上小屋を建造する](/ja/event/simple/3-05-3-建造樹上小屋)</MarkdownWrapper>の「高級な木の家」があれば、夏侯蘭好感+1<br>
+            • 回数=2: 🚩「雪山の樹上小屋レベル」=1 に設定、夏侯蘭好感+2<br>
+            • 回数=4: 🚩「雪山の樹上小屋レベル」=2 に設定、夏侯蘭好感+3<br>
+            • 回数=7: 🚩「雪山の樹上小屋レベル」=3 に設定、夏侯蘭好感+5、会話差分<br>
         </td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
-		<td>🚩「雪山の樹屋レベル」＜3</td>
+		<td>🚩「雪山の樹上小屋レベル」＜3</td>
 		<td>
             1周目の場合、雪山は<br>
             行動回数が6回しかなく、建て終わらない<br>
@@ -6051,7 +6051,7 @@ text: '葉雲裳好感+',
 		<td>-</td>
 		<td>-</td>
 		<td>
-            心相＜30: 心相+30、🚩「雪山の樹屋レベル」を判定:<br>
+            心相＜30: 心相+30、🚩「雪山の樹上小屋レベル」を判定:<br>
             • レベル=2: 心相+10<br>
             • レベル=3: 心相+20<br>
             <br>

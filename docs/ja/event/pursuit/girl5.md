@@ -61,7 +61,7 @@ tags:
 <tr>
 <td>4</td>
 <td>3年目5月下旬</td>
-<td><MarkdownWrapper>[樹屋を建造する](/ja/event/simple/3-05-3-建造樹屋)</MarkdownWrapper></td>
+<td><MarkdownWrapper>[樹上小屋を建造する](/ja/event/simple/3-05-3-建造樹上小屋)</MarkdownWrapper></td>
 <td><Girl5Icon>夏侯蘭</Girl5Icon>好感≧40で、このイベントを発生・完了できる。</td>
 <td>イベント中の選択肢は結縁に関係ない。</td>
 </tr>
