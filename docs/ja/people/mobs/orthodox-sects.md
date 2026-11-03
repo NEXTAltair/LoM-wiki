@@ -275,9 +275,9 @@ tags:
         <Ch src='/images/mobs/qing-cheng-sect/daoshi1_laugh.webp' position='center'/>
         <ChName nameZh='微笑' nameEn='Smile' position='right' />
     </ChTab>
-    <ChTab title="汗顔">
+    <ChTab title="冷や汗">
         <Ch src='/images/mobs/qing-cheng-sect/daoshi1_nervous.webp' position='center'/>
-        <ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
     </ChTab>
 </ChTabs>
 <table>
@@ -298,9 +298,9 @@ tags:
         <Ch src='/images/mobs/qing-cheng-sect/daoshi2_laugh.webp' position='center'/>
         <ChName nameZh='微笑' nameEn='Smile' position='right' />
     </ChTab>
-    <ChTab title="汗顔">
+    <ChTab title="冷や汗">
         <Ch src='/images/mobs/qing-cheng-sect/daoshi2_nervous.webp' position='center'/>
-        <ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
     </ChTab>
 </ChTabs>
 <table>

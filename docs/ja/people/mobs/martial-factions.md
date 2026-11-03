@@ -124,9 +124,9 @@ tags:
         <Ch src='/images/mobs/mud-school/horse_man_normal.webp' position='center'/>
         <ChName nameZh='馬頭' nameEn='Ma Mian' position='right' />
     </ChTab>
-    <ChTab title="馬頭(汗顔)">
+    <ChTab title="馬頭(冷や汗)">
         <Ch src='/images/mobs/mud-school/horse_man_nervous1.webp' position='center'/>
-        <ChName nameZh='馬頭(汗顔)' nameEn='Ma Mian (Sweat)' position='right' />
+        <ChName nameZh='馬頭(冷や汗)' nameEn='Ma Mian (Sweat)' position='right' />
     </ChTab>
 </ChTabs>
 <table>
