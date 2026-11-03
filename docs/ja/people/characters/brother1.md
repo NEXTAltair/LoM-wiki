@@ -324,7 +324,7 @@ aside: false
     -   子供の頃、かくれんぼをしても[唐錚](/ja/people/characters/brother2)に見つけられてしまったと自称する。
     -   子供の頃、講経堂の本に落書きしたが、[唐錚](/ja/people/characters/brother2)と署名してしまった。だが[唐中翎](/ja/people/characters/master)掌門には騙されなかった。
 -   [唐錚](/ja/people/characters/brother2)二師兄からは、跳ね回って猿のようだと言われている。
-    -   ~~唐門猴侠は制作チームも認めるところ。[^9]~~
+    -   ~~唐門の猿であることは、制作チームまで認めている。[^9]~~
 -   大師兄と[唐錚](/ja/people/characters/brother2)二師兄は実は性格が正反対で、罵られるのが好きな大師兄は、二師兄とも漫才コンビを組みたいと思っている。
 -   かつて[唐錚](/ja/people/characters/brother2)二師兄と一緒に小師姑に片恋していた。それは[唐芳](/ja/people/characters/special832)の姉の唐芬である。
     -   大師兄が[趙活](/ja/people/characters/player)とこの話をした時、二師兄は反応が大きく、突然暴怒して[唐黙鈴](/ja/people/characters/girl0)小師妹を脅かした。
