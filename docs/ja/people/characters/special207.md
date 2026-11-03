@@ -57,7 +57,7 @@ tags:
 </ChTabs>
 <br>
 
-[千灯楼](/ja/people/factions/thousand-lantern-tower)五炷香。楼主に次ぐ教頭。まだ[崆峒派](/ja/people/factions/kong-tong-sect)掌派人に服従する前は、悪行三昧で外号は「九命豹子」。邪を改めた振りをして空門に隠れたが、実は千灯楼の命令を受けて潜伏しており、重大な計略あり。[火龍仙君](/ja/people/characters/special204)からの信頼厚く、平輩の礼をもって接されており、他に変わったことでもない限り次の掌派人候補。
+[千灯楼](/ja/people/factions/thousand-lantern-tower)の五柱香で、楼主に次ぐ教頭。まだ[崆峒派](/ja/people/factions/kong-tong-sect)掌派人に服従する前は、悪行三昧で外号は「九命豹子」。邪を改めた振りをして空門に隠れたが、実は千灯楼の命令を受けて潜伏しており、重大な計略あり。[火龍仙君](/ja/people/characters/special204)からの信頼厚く、平輩の礼をもって接されており、他に変わったことでもない限り次の掌派人候補。
 
 <br>
 
@@ -65,7 +65,7 @@ tags:
 
 <br>
 
-[虞小梅](/ja/people/characters/girl3)の殺人技巧を鍛え込んだ者。小梅に最も恨まれている人物である。
+[虞小梅](/ja/people/characters/girl3)に殺人の技を叩き込んだ者。小梅に最も恨まれている人物である。
 
 <br>
 

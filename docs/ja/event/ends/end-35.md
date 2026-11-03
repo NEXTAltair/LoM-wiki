@@ -86,7 +86,7 @@ tags:
         + **🧾【＜30】唐門は大勢が去った**または**🧾【＜65】戦況は熾烈**：
           + <Girl5Icon>夏侯蘭</Girl5Icon>または<Girl8Icon>龍湘</Girl8Icon>と結縁：🆚決闘：[南宮深](/ja/people/characters/special102)決闘、敗戦後に[飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)を満たさず且つ[南宮深](/ja/people/characters/special102)好感度＜20の場合、エンディング進入。
           + 上記の条件を満たさない場合：**🎲天命：あなたの相手は……**(上限99、➕加値：[南宮深](/ja/people/characters/special102)好感度、➖減値：<Girl4Icon>上官螢</Girl4Icon>好感度)：
-            1. **🧾【＜70】南宮深（鳳凰肩甲）**
+            1. **🧾【＜70】南宮深（鳳凰の肩甲）**
             2. 🆚決闘：[南宮深](/ja/people/characters/special102)、敗戦後に[飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)を満たさず且つ[南宮深](/ja/people/characters/special102)好感度＜20の場合、エンディング進入。
         + **🧾【≧65】間に合った**：⚔️戦役、完全に打ちのめされて且つ[南宮深](/ja/people/characters/special102)好感度＜20を満たす場合、エンディング進入。
 

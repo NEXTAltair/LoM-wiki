@@ -168,7 +168,7 @@ aside: false
 -   上記に続いて、彼は返すだろう。彼は様々な形式で返済を企図している。[^4]
 -   版本v1.0.5000.8で、彼は本当に返金した！特に更新記録に一項を列挙した！[リンク](https://store.steampowered.com/news/app/1859910/view/501710062213923123?l=tchinese)
 -   外堡に住む時には外堡の守衛を務めて家賃に埋め合わせている。[^2]
--   葉雲舟海捕令資料夾周辺文案：[出典](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
+-   葉雲舟の手配書クリアファイル (グッズ) の文面：[出典](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
     > 案犯 点蒼剣鬼葉雲舟<br>
     > 尋仇行兇窮凶極悪<br>
     > 如揭此榜拿得此人<br>
@@ -177,6 +177,8 @@ aside: false
     > 隠匿知情不報者依<br>
     > 犯人同罪<br>
     > 成都府衙
+
+    訳：案犯 点蒼の剣鬼・葉雲舟。仇を求めて凶行に及んだ極悪人。この榜を剥がしてこの者を捕らえ、成都府衙に届け出た者には賞金白銀千両を与える。匿って知りながら届け出ない者は犯人と同罪とする。成都府衙
 
 ## 備考
 

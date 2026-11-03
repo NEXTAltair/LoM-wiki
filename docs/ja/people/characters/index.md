@@ -135,7 +135,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[王二壮](/ja/people/characters/special401)</MarkdownWrapper></td>
-	<td>丐幇<br>泥教 - 畜牲道</td>
+	<td>丐幇<br>泥教 - 畜生道</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[李富貴](/ja/people/characters/special809)</MarkdownWrapper></td>

@@ -88,7 +88,7 @@ aside: false
 -   勝敗を競うために、かつて官兵を率いて水賊の寨を占領している[唐布衣](/ja/people/characters/brother1)と十日間の大戦を展開したが、後に[向無憂](/ja/people/characters/special408) (掌門) に厳しく殴られて山に帰って反省するよう命じられ、武林では「綿陽泊事件」と称される。
 -   かつて[唐布衣](/ja/people/characters/brother1)、[夏侯蘭](/ja/people/characters/girl5)、および二人の関外で羊飼いをしている侠侶の計五人で同行し、江湖を遍歴した。
 -   [唐布衣](/ja/people/characters/brother1)と一緒に青楼に行ったことはないが、誘拐されて勘定を払わされたことはある。[^1]
--   [唐布衣](/ja/people/characters/brother1)との勝負は、解無塵が二十九勝、三十敗、四十七平手。しかし比べるのは必ずしも武ではなく、[唐布衣](/ja/people/characters/brother1)は誰の酒量がいいかを比べさせようと持ちかけ、すぐに誰が気前よく払うかを加えて比べ、こうして酒代を払わずに済ませる。[^1]
+-   [唐布衣](/ja/people/characters/brother1)との勝負は、解無塵が二十九勝、三十敗、四十七引き分け。しかし比べるのは必ずしも武ではなく、[唐布衣](/ja/people/characters/brother1)は誰の酒量がいいかを比べさせようと持ちかけ、すぐに誰が気前よく払うかを加えて比べ、こうして酒代を払わずに済ませる。[^1]
 -   [唐黙鈴](/ja/people/characters/girl0) (小師妹) の比武招親に参加したが、娶ろうとしたのではなく、[唐布衣](/ja/people/characters/brother1) (大師兄) の婚約者を守るためで、[唐布衣](/ja/people/characters/brother1)の女性に手を出すわけにはいかなかった。[唐陞](/ja/people/characters/brother3) (三師兄) は最初彼のような侠士が求婚に来たことを喜んでいたが、一晩の長談の後に小師妹を任せるのをやめることにした。
 
 ## 峨嵋の恥

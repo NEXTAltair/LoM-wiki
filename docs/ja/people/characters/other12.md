@@ -77,7 +77,7 @@ tags:
 
 -   出場場面は[辛儒](/ja/people/characters/special802)と同じく少ない脇役だが、立ち絵が美しく、プレイヤー間でも意外と人気がある(?)
 -   平江府出身。話し方は柔らかで優しい。
--   ゲーム内の会話名は錦香弟子。鳥熊は変更予定なし。[^1]
+-   ゲーム内の会話名は錦香宮弟子 (原文は錦香弟子)。鳥熊は変更予定なし。[^1]
 -   幼い頃から家庭料理を作るのが得意。[^2]
 -   [龍湘](/ja/people/characters/girl8)と一緒に攻守合一の双人絹法、剣法を習得し、[温夫人](/ja/people/characters/special402)の護法になれる。
 -   師妹[龍湘](/ja/people/characters/girl8)と[唐布衣](/ja/people/characters/brother1)の関係に嫉妬。[趙活](/ja/people/characters/player)が龍湘を追うのを助けるつもり。

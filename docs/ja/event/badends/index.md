@@ -1949,7 +1949,7 @@ tags:
             南宮浅好感≧40で、武林大会の<MarkdownWrapper>[南宮家への哀悼](/ja/event/simple/3-10-2-戰後閒聊#致哀南宮)</MarkdownWrapper>の際に<MarkdownWrapper>[南宮浅を追う](/ja/event/simple/3-10-2-追南宮淺)</MarkdownWrapper>を選び、南宮浅との対決に敗北する
         </td>
         <td>
-            これを…一物剋一物と言うのか？
+            これが…一物が一物を制すってやつか？
         </td>
     </tr>
 </Btable>

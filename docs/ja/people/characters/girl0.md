@@ -166,7 +166,7 @@ aside: false
                     称号
                 </ChTd>
                 <ChTd>
-                    小師妹<br>狂暴小綿羊
+                    小師妹<br>狂暴な仔羊
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -365,7 +365,7 @@ aside: false
 -   生まれつき小動物の属性を持ち、さらに[唐門](/ja/people/factions/tang-men)が貧困で食事が悪かった。黄金の成長期を逃してしまい、再び背が伸びるのは非常に難しい。
 -   食べ飽きるという概念がない。普段は甘いものを食べる機会も少ない。一度食べられるようになれば、絶えず口に詰め込み、寝るまで続く。もし誰も管理せずにずっと食べさせたら、いずれ3倍大きい人になるかもしれない。[^1]
 -   第一年で[趙活](/ja/people/characters/player)が倒れた時、[三師兄](/ja/people/characters/brother3.md)は小師妹はもう<ruby>及笄<rt>きゅうけい</rt></ruby>（数え15歳を迎えた成人の証に髪を結い上げる儀礼）を済ませた花のような乙女になったと言った。それで15歳と推測される。
--   滅門ルートで[夏霊犀](/ja/people/characters/special825)に小綿羊と呼ばれ、西武林ルートで[四師兄](/ja/people/characters/brother4.md)が全身の血だらけの服を見て「狂暴小綿羊」と呼ぶ。[葉雲裳](/ja/people/characters/girl2.md)も「羊は黙鈴。私はイタチ」と言った。
+-   滅門ルートで[夏霊犀](/ja/people/characters/special825)に小綿羊と呼ばれ、西武林ルートで[四師兄](/ja/people/characters/brother4.md)が全身の血だらけの服を見て「狂暴な仔羊」と呼ぶ。[葉雲裳](/ja/people/characters/girl2.md)も「羊は黙鈴。私はイタチ」と言った。
 -   寒冷を恐れている。[^3]
 -   絵を描くのが下手。[劉顎](/ja/people/characters/special1)に笑われて、彫刻して壁画にして、古代遺跡と偽ろうとする。
 -   歌唱は大きく外れる。小師妹は羞恥心が強く、人前ではあまり歌わない。また嘲笑されるのを恐れる。だから[趙活](/ja/people/characters/player)が独占している。[^4][^5]

@@ -195,12 +195,12 @@ tags:
     </tr>
 </table>
 
-### 何大媽
+### 何おばさん
 
 <img src="/images/mobs/folks/oldwoman_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>贈薬事件<br>「何大媽」</td>
+        <td>贈薬事件<br>「何おばさん」</td>
         <td>葉雲舟の薬乞いを見物していた村人。趙活に事情を説明してくれる。</td>
     </tr>
     <tr>

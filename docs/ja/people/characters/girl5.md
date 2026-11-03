@@ -15,7 +15,7 @@ aside: false
 	<ChTab title="初識">
 		<ChMeet 
 			src='/images/characters/girl_5/normal.webp' 
-			nameTitle='奪魂幽蘭'
+			nameTitle='奪魄幽蘭'
 			nameMain='夏侯蘭'
 			desc='<ruby>崆峒<rt>こうどう</rt></ruby>派・<ruby>奪魄門<rt>だっぱくもん</rt></ruby>の<ruby>掌門<rt>しょうもん</rt></ruby>の<ruby>嫡伝<rt>ちゃくでん</rt></ruby>女弟子、<ruby>江湖<rt>こうこ</rt></ruby>では<ruby>奪魄幽蘭<rt>だっぱくゆうらん</rt></ruby>と呼ばれている。悪名高き女怪で、手口は冷酷かつ残虐。陽の当たらない奪魄の森に身を寄せており、生者は近づくべからず。'
 			:animation=true
@@ -324,8 +324,8 @@ aside: false
 -   第三年一月、大師兄について下山した時（[臥雲崗見物](/ja/event/simple/3-01-3-圍觀臥雲崗)）、通行人は「彼女は江湖を渡り歩いて名を上げてからもう十年近くになる。少なく見積もっても二十五、六歳にはなるだろう」と言う。
 -   3年目の小師妹の比武招親で、夏侯蘭に師事していなければ、[解無塵](/ja/people/characters/special808)は「彼女は二十六、七歳だ。もう中年女性ですよ」と言う。
 -   第三年雪山行。本来は七年の約定であったが、夏侯蘭が[趙活](/ja/people/characters/player)に全ての武功を伝授するため、一年早く現れた。
--   夏侯蘭：「師が当時、ちょうど情竇初開の頃で……身の潔白を証明するため、旅から戻ってほどなく、師は第三師兄と夫妻となったのです。」
-    -   v1.0.5000 ではこの台詞は「師が当時、ちょうど二八年華の時分で」だった。現在は「情竇初開」に変わったため、年齢を推算し直した。
+-   夏侯蘭：「師はあの頃、初めて恋に目覚めたばかりで……身の潔白を証明するため、旅から戻ってほどなく、師は第三師兄と夫妻となったのです。」
+    -   v1.0.5000 ではこの台詞の原文は「二八年華」(数えで十六) だった。現在は「情竇初開」(初めて恋に目覚める年頃) に変わったため、年齢を推算し直した。
 -   <MarkdownWrapper>||[葉雲舟](/ja/people/characters/special3)は、妹が[李元棄](/ja/people/characters/special213)から渡された九泉丹を飲んでから今まで「わずか十年」だと言う。李元棄は大師兄、夏侯蘭ら五人の旅の最後に死んだので、旅はおよそ十年前だと分かる。||</MarkdownWrapper>
 -   以上を総合すると、第三年でおよそ25～27歳。
 
@@ -346,7 +346,7 @@ aside: false
 -   [南宮深](/ja/people/characters/special102)のことを三下だと思っているが、南宮老太爺のことは敬重の対象と見ており、[唐中翎](/ja/people/characters/master.md)も甚だ尊敬している。
 -   かつて長沙雨花亭で難に遭ったが、[唐布衣](/ja/people/characters/brother1.md)が手を貸して救った。
 -   夏侯蘭は以前、[小梅](/ja/people/characters/girl3.md)・[小竹](/ja/people/characters/girl6)によく物語を聞かせていた。ある時、二人を奪魄森林に連れて行き、怪談を話したところ、小竹は大いに驚き、樹を一本折ってしまった。そのとき夏侯蘭も極度の恐怖を感じた。
--   [唐門](/ja/people/factions/tang-men)の樹屋を「雪山派唐門分部」と呼ぶ。
+-   [唐門](/ja/people/factions/tang-men)の樹屋を「雪山派唐門支部」と呼ぶ。
 
 ## 結縁
 
@@ -380,7 +380,7 @@ aside: false
     -   結びの語りでは、夏侯蘭は「雪山派中興の祖」と讃えられ、雪山派は武林七大門派の一つとして、唐門と姻戚を結び、錦香宮と親しく、崆峒と互角で、上官と肩を並べたとされる
     -   この動画と同じ場面の台本は、2026年10月の大型更新でゲームのデータに収録されたが、ゲーム内で見る経路は無い
     -   表情タブの〈目細〉と〈幼少期〉の立ち絵三枚は、この動画にしか登場しない
--   夏侯蘭海捕令資料フォルダ周辺商品文案：[ソース](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
+-   夏侯蘭の手配書クリアファイル (グッズ) の文面：[ソース](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
     > 案犯 奪魄幽蘭
     > 心狠手辣殺人如麻
     > 如揭此榜拿得此人
@@ -389,6 +389,8 @@ aside: false
     > 匿知情不報者依犯
     > 人同罪
     > 涼州府衙
+
+    訳：案犯 奪魄幽蘭。冷酷非道で数え切れぬほど人を殺めた。この榜を剥がしてこの者を捕らえ、涼州府衙に届け出た者には賞金白銀千両を与える。匿って知りながら届け出ない者は犯人と同罪とする。涼州府衙
 
 [^1]: PTT C 洽 - [\[活俠\] 龍湘と奇怪な小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
 [^2]: バハムート - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
