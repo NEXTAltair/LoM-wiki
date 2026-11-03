@@ -9,10 +9,41 @@ aside: false
 # 風神 {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="解無塵">
-		<Ch src='/images/characters/special808/normal.webp' position='right'/>
-		<ChName nameZh='解無塵' nameEn='Xie Wu Chen' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special808/normal.webp'
+			nameTitle=''
+			nameMain='解無塵'
+			desc='<ruby>峨嵋<rt>がび</rt></ruby>派当代の名高き若き達人、人呼んで「<ruby>風神<rt>ふうじん</rt></ruby>」。<br><ruby>唐門<rt>とうもん</rt></ruby>の<ruby>飛俠<rt>ひきょう</rt></ruby>・<ruby>唐布衣<rt>とうふい</rt></ruby>と<ruby>江湖<rt>こうこ</rt></ruby>に並び称される<ruby>峨嵋<rt>がび</rt></ruby>の達人で、脚法を得意とする。<br>あなたの<ruby>大師兄<rt>だいしけい</rt></ruby>を生涯の宿敵と称し、非常に煩わしく、会えば喧嘩を売るが、共に<ruby>江湖<rt>こうこ</rt></ruby>を遊歴した美談もある。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special808/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顔">
+		<Ch src='/images/characters/special808/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special808/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="気まずい">
+		<Ch src='/images/characters/special808/nervous3.webp' position='center'/>
+		<ChName nameZh='気まずい' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special808/angry1.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='キャラクター情報' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -59,14 +90,17 @@ aside: false
 					[劉顎](/ja/people/characters/special1) (因果関係)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 峨嵋派当代の著名な若き高手で、「風神」と呼ばれる。
 唐門の飛侠[唐布衣](/ja/people/characters/brother1)と江湖で並び称される峨嵋の高手であり、脚法を得意とする。
 自分を唐布衣の生涯の宿敵と自認しており、非常にうるさい存在で、会えば必ず喧嘩をふっかけ、また江湖を遍歴して結伴で遊んだという美談もある。
+
+<div style="clear:both;"></div>
 
 ## 列伝
 

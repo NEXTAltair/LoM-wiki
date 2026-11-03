@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="聴海生">
 		<Ch src='/images/characters/special203/normal.webp' position='right'/>
-		<ChName nameZh='聽海生' nameEn='Ting Hai Sheng' position='right' />
+		<ChName nameZh='聴海生' nameEn='Ting Hai Sheng' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -48,6 +48,10 @@ tags:
 				</ChTd>
 			</ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="負傷">
+		<Ch src='/images/characters/special203/hurt.webp' position='center'/>
+		<ChName nameZh='負傷' nameEn='Injured' position='right' />
 	</ChTab>
 </ChTabs>
 <br>

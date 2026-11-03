@@ -13,10 +13,29 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="阿鶴侠">
-		<Ch src='/images/characters/special805/special.webp' position='right'/>
-		<ChName nameZh='阿鶴俠' nameEn='A He Xia' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special805/special.webp'
+			nameTitle=''
+			nameMain='？？？'
+			desc='誰かの手。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="出来玩！">
+		<Ch src='/images/characters/special805/special2.webp' position='center'/>
+		<ChName nameZh='阿鶴俠' nameEn='A He Xia' />
+	</ChTab>
+	<ChTab title="逃げて、小竹">
+		<Ch src='/images/characters/special805/hand.webp' position='center'/>
+		<ChName nameZh='阿鶴俠' nameEn='A He Xia' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='キャラクター情報' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -48,23 +67,17 @@ tags:
 					[火閃電](/ja/people/characters/firebird1) (朋友)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-	<ChTab title="出来玩！">
-		<Ch src='/images/characters/special805/special2.webp' position='center'/>
-		<ChName nameZh='阿鶴俠' nameEn='A He Xia' />
-	</ChTab>
-	<ChTab title="逃げて、小竹">
-		<Ch src='/images/characters/special805/hand.webp' position='center'/>
-		<ChName nameZh='阿鶴俠' nameEn='A He Xia' />
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
 
 >「階段は、復讐を望むすべての哀れな人にとって、最も誠実な共謀者である。」
 
 崆峒派飛天門に出没する鶴手先輩。実は山上で千年修行した霊鶴で、転落死後に還魂して小梅の右手に宿っている。小梅に友達を紹介するのが好きで、人々を崆峒山の名勝地へ案内する。
 <br><br>
 [趙活](/ja/people/characters/player)の悲劇的な話を聞いて、好んで人をいじめる師兄を階段から突き落とすことを勧めた。階段は兵器のようなもので、善悪の分別はない。善い事をするか悪い事をするかを決めるのは、階段の上に立つ人間だ。
+
+<div style="clear:both;"></div>
 
 ## 備考
 

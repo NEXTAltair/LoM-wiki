@@ -43,6 +43,12 @@ tags:
             </ChTr>
         </ChTable>
     </ChTab>
+    <ChTab title="怒り">
+        <Ch
+            src='/images/characters/aunt2/normal_2_angry.webp' 
+            position='center'/>
+        <ChName nameZh='怒り' nameEn='Angry' position='right' />
+    </ChTab>
 </ChTabs>
 
 > 「区区たる外姓弟子が、身分をわきまえず、我が乾児子に手を上げようとは？」

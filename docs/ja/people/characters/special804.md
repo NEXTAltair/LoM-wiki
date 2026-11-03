@@ -37,6 +37,22 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="大笑い">
+		<Ch src='/images/characters/special804/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="汗顔">
+		<Ch src='/images/characters/special804/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="酔い">
+		<Ch src='/images/characters/special804/drunk.webp' position='center'/>
+		<ChName nameZh='酔い' nameEn='Drunk' position='right' />
+	</ChTab>
+	<ChTab title="若い頃">
+		<Ch src='/images/characters/special804/young.webp' position='center'/>
+		<ChName nameZh='若い頃' nameEn='Young' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 

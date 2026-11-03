@@ -27,6 +27,14 @@ aside: false
 			nameZh='ぷくぷく'
 			nameEn='Pout'/>
 	</ChTab>
+	<ChTab title="怒り">
+		<Ch 
+			src='/images/characters/girl_2/angry2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='怒り'
+			nameEn='Angry'/>
+	</ChTab>
 	<ChTab title="瞼閉じ">
 		<Ch 
 			src='/images/characters/girl_2/close_eye.webp' 
@@ -34,6 +42,22 @@ aside: false
 		<ChName
 			nameZh='瞼閉じ'
 			nameEn='Close Eye'/>
+	</ChTab>
+	<ChTab title="にっこり">
+		<Ch 
+			src='/images/characters/girl_2/close_eye_laugh.webp' 
+			position='center'/>
+		<ChName
+			nameZh='にっこり'
+			nameEn='Close Eye Smile'/>
+	</ChTab>
+	<ChTab title="目を閉じる(吐血)">
+		<Ch 
+			src='/images/characters/girl_2/close_eye_blood.webp' 
+			position='center'/>
+		<ChName
+			nameZh='目を閉じる(吐血)'
+			nameEn='Close Eye (Blood)'/>
 	</ChTab>
 	<ChTab title="思い煩い">
 		<Ch 
@@ -67,6 +91,14 @@ aside: false
 			nameZh='悪戯'
 			nameEn='Naughty'/>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch 
+			src='/images/characters/girl_2/laugh1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='微笑'
+			nameEn='Gentle Smile'/>
+	</ChTab>
 	<ChTab title="嬉しい">
 		<Ch 
 			src='/images/characters/girl_2/laugh2.webp' 
@@ -90,6 +122,14 @@ aside: false
 		<ChName
 			nameZh='鼻血'
 			nameEn='Norseblood'/>
+	</ChTab>
+	<ChTab title="緊張">
+		<Ch 
+			src='/images/characters/girl_2/nervous1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='緊張'
+			nameEn='Nervous'/>
 	</ChTab>
 	<ChTab title="びっくり">
 		<Ch 
@@ -147,6 +187,22 @@ aside: false
 			nameZh='泣き笑い'
 			nameEn='Cry Laugh'/>
 	</ChTab>
+	<ChTab title="涙">
+		<Ch 
+			src='/images/characters/girl_2/cry1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='涙'
+			nameEn='Tears'/>
+	</ChTab>
+	<ChTab title="涙ぐむ">
+		<Ch 
+			src='/images/characters/girl_2/cry2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='涙ぐむ'
+			nameEn='Teary'/>
+	</ChTab>
 	<ChTab title="真面目">
 		<Ch 
 			src='/images/characters/girl_2/serious.webp' 
@@ -171,6 +227,30 @@ aside: false
 			nameZh='病気'
 			nameEn='Sick'/>
 	</ChTab>
+	<ChTab title="病気(目を閉じる)">
+		<Ch 
+			src='/images/characters/girl_2/sick_close_eye.webp' 
+			position='center'/>
+		<ChName
+			nameZh='病気(目を閉じる)'
+			nameEn='Sick (Close Eye)'/>
+	</ChTab>
+	<ChTab title="病気(吐血)">
+		<Ch 
+			src='/images/characters/girl_2/sick_hurt.webp' 
+			position='center'/>
+		<ChName
+			nameZh='病気(吐血)'
+			nameEn='Sick (Blood)'/>
+	</ChTab>
+	<ChTab title="病気(涙)">
+		<Ch 
+			src='/images/characters/girl_2/sick_cry.webp' 
+			position='center'/>
+		<ChName
+			nameZh='病気(涙)'
+			nameEn='Sick (Tears)'/>
+	</ChTab>
 	<ChTab title="無実">
 		<Ch 
 			src='/images/characters/girl_2/special1.webp' 
@@ -184,8 +264,16 @@ aside: false
 			src='/images/characters/girl_2/stick.webp' 
 			position='center'/>
 		<ChName
-			nameZh='聽雲棒'
+			nameZh='聴雲棒'
 			nameEn='Stick'/>
+	</ChTab>
+	<ChTab title="葉雲啾">
+		<Ch 
+			src='/images/characters/girl_2/special2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='葉雲啾'
+			nameEn='Ye Yunjiu'/>
 	</ChTab>
 	<ChTab title="疲労">
 		<Ch 
@@ -202,6 +290,22 @@ aside: false
 		<ChName
 			nameZh='幼少期'
 			nameEn='Childhood'/>
+	</ChTab>
+	<ChTab title="幼少期(びっくり)">
+		<Ch 
+			src='/images/characters/girl_2/childhood_nervous2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼少期(びっくり)'
+			nameEn='Childhood (Fright)'/>
+	</ChTab>
+	<ChTab title="幼少期(棒)">
+		<Ch 
+			src='/images/characters/girl_2/childhood_stick.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼少期(棒)'
+			nameEn='Childhood (Stick)'/>
 	</ChTab>
 </ChTabs>
 <br>

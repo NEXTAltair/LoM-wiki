@@ -33,6 +33,30 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/hero2/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顔">
+		<Ch src='/images/characters/hero2/nervous.webp' position='center'/>
+		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="緊張">
+		<Ch src='/images/characters/hero2/nervous2.webp' position='center'/>
+		<ChName nameZh='緊張' nameEn='Nervous' position='right' />
+	</ChTab>
+	<ChTab title="不機嫌">
+		<Ch src='/images/characters/hero2/angry1.webp' position='center'/>
+		<ChName nameZh='不機嫌' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/hero2/angry2.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="照れ">
+		<Ch src='/images/characters/hero2/shy.webp' position='center'/>
+		<ChName nameZh='照れ' nameEn='Shy' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 

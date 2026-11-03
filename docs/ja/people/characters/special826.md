@@ -46,6 +46,22 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special826/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顔">
+		<Ch src='/images/characters/special826/nervous.webp' position='center'/>
+		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special826/nervous3.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special826/angry.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
 </ChTabs>
 
 > 「老衲がどうして偽りなど申せましょう。邪祟は確かにおるのです。心より魔が生じ、唐施主を駆り立てて数多の殺業を造らせておる。あの声々の梵音は、みな施主の心中の魔障を祓わんがためのものですぞ。」

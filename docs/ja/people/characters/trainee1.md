@@ -46,7 +46,7 @@ tags:
     </ChTab>
     <ChTab title="唐与黥">
         <Ch src='/images/mobs/tang-men/male/trainee1_normal.webp' position='right'/>
-        <ChName nameZh='唐與黥' nameEn='Tang Yuqing' position='right' />
+        <ChName nameZh='唐与黥' nameEn='Tang Yuqing' position='right' />
         <ChTable>
             <ChTr>
                 <ChTd isTitle=true>

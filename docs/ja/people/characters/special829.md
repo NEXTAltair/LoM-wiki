@@ -56,6 +56,30 @@ tags:
             </ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special829/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顔">
+		<Ch src='/images/characters/special829/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special829/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="照れ">
+		<Ch src='/images/characters/special829/shy.webp' position='center'/>
+		<ChName nameZh='照れ' nameEn='Shy' position='right' />
+	</ChTab>
+	<ChTab title="技を放つ">
+		<Ch src='/images/characters/special829/angry3.webp' position='center'/>
+		<ChName nameZh='技を放つ' nameEn='Ready to Strike' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special829/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 

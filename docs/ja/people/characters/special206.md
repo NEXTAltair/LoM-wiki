@@ -18,6 +18,30 @@ aside: false
 			:animation=true
 		/>
     </ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special206/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顔">
+		<Ch src='/images/characters/special206/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special206/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special206/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+	<ChTab title="読経">
+		<Ch src='/images/characters/special206/special1.webp' position='center'/>
+		<ChName nameZh='読経' nameEn='Chanting' position='right' />
+	</ChTab>
+	<ChTab title="金塗り">
+		<Ch src='/images/characters/special206/golden.webp' position='center'/>
+		<ChName nameZh='金塗り' nameEn='Gilded' position='right' />
+	</ChTab>
 </ChTabs>
 
 <InfoList>

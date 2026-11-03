@@ -24,12 +24,20 @@ aside: false
 			:animation=true
 		/>
 	</ChTab>
-	<ChTab title="不悅">
+	<ChTab title="旧版立ち絵">
+		<Ch 
+			src='/images/characters/girl_7/old_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='旧版立ち絵'
+			nameEn='Old Portrait'/>
+	</ChTab>
+	<ChTab title="不機嫌">
 		<Ch 
 			src='/images/characters/girl_7/angry1.webp' 
 			position='center'/>
 		<ChName
-			nameZh='不悅'
+			nameZh='不機嫌'
 			nameEn='Displeased'/>
 	</ChTab>
 	<ChTab title="瞼閉じ">

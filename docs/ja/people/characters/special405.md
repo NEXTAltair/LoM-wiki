@@ -16,15 +16,45 @@ aside: false
 			src='/images/characters/special405/normal.webp' 
             nameTitle=''
 			nameMain='申屠龍'
-			desc='青城派の修真道士。年は若いながら輩分が高く、青城前任掌門の直弟子。<br>
+			desc='<ruby>青城<rt>せいじょう</rt></ruby>「<ruby>逸塵道子<rt>いつじんどうし</rt></ruby>」<ruby>申屠龍<rt>しんとりゅう</rt></ruby><br>青城派の修真道士。年は若いながら輩分が高く、青城前任掌門の直弟子。<br>
 			顔立ちは清潔で爽やか、柔和で優雅、道法を修めない時は山中で遊ぶことが多く、武人の世界の事柄にはあまり関心を持たず、人と争うことは極めて稀だが、青城派の月試だけは武功を現す。そのためか、名声はひっそりと伝わっている。'
 			:animation=true
 		/>
     </ChTab>
+	<ChTab title="微笑">
+		<Ch
+			src='/images/characters/special405/laugh.webp' 
+			position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顔">
+		<Ch
+			src='/images/characters/special405/nervous1.webp' 
+			position='center'/>
+		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="気まずい">
+		<Ch
+			src='/images/characters/special405/nervous3.webp' 
+			position='center'/>
+		<ChName nameZh='気まずい' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="邪気">
+		<Ch
+			src='/images/characters/special405/angry2.webp' 
+			position='center'/>
+		<ChName nameZh='邪気' nameEn='Malevolent' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch
+			src='/images/characters/special405/hurt.webp' 
+			position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
 </ChTabs>
 
 <InfoList>
-    <Info title='角色資料' :open=true>
+    <Info title='キャラクター情報' :open=true>
         <table>
             <ChTr>
 				<ChTd isTitle=true>

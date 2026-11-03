@@ -18,6 +18,96 @@ aside: false
 			:animation=true
 		/>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch
+			src='/images/characters/special999/laugh.webp' 
+			position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑い">
+		<Ch
+			src='/images/characters/special999/laugh2.webp' 
+			position='center'/>
+		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="汗顔">
+		<Ch
+			src='/images/characters/special999/nervous1.webp' 
+			position='center'/>
+		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch
+			src='/images/characters/special999/nervous2.webp' 
+			position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="気まずい">
+		<Ch
+			src='/images/characters/special999/nervous3.webp' 
+			position='center'/>
+		<ChName nameZh='気まずい' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="疑い">
+		<Ch
+			src='/images/characters/special999/doubt.webp' 
+			position='center'/>
+		<ChName nameZh='疑い' nameEn='Doubt' position='right' />
+	</ChTab>
+	<ChTab title="不機嫌">
+		<Ch
+			src='/images/characters/special999/angry1.webp' 
+			position='center'/>
+		<ChName nameZh='不機嫌' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch
+			src='/images/characters/special999/angry2.webp' 
+			position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="目を閉じる">
+		<Ch
+			src='/images/characters/special999/close_eye.webp' 
+			position='center'/>
+		<ChName nameZh='目を閉じる' nameEn='Close Eyes' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch
+			src='/images/characters/special999/hurt2.webp' 
+			position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+	<ChTab title="重傷(目を閉じる)">
+		<Ch
+			src='/images/characters/special999/hurt_close_eye.webp' 
+			position='center'/>
+		<ChName nameZh='重傷(目を閉じる)' nameEn='Severely Injured (Close Eyes)' position='right' />
+	</ChTab>
+	<ChTab title="あざだらけ">
+		<Ch
+			src='/images/characters/special999/hurt3.webp' 
+			position='center'/>
+		<ChName nameZh='あざだらけ' nameEn='Black and Blue' position='right' />
+	</ChTab>
+	<ChTab title="血まみれ">
+		<Ch
+			src='/images/characters/special999/blood.webp' 
+			position='center'/>
+		<ChName nameZh='血まみれ' nameEn='Bloodied' position='right' />
+	</ChTab>
+	<ChTab title="血まみれ(目を閉じる)">
+		<Ch
+			src='/images/characters/special999/close_eye_blood.webp' 
+			position='center'/>
+		<ChName nameZh='血まみれ(目を閉じる)' nameEn='Bloodied (Close Eyes)' position='right' />
+	</ChTab>
+	<ChTab title="マント">
+		<Ch
+			src='/images/characters/special999/special1.webp' 
+			position='center'/>
+		<ChName nameZh='マント' nameEn='Hooded Cloak' position='right' />
+	</ChTab>
 </ChTabs>
 <br>
 

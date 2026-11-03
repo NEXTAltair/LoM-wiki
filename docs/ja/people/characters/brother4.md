@@ -18,6 +18,36 @@ aside: false
 			:animation=true
 		/>
     </ChTab>
+    <ChTab title="微笑">
+        <Ch
+            src='/images/characters/brother4/laugh1.webp' 
+            position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="汗顔">
+        <Ch
+            src='/images/characters/brother4/nervous1.webp' 
+            position='center'/>
+        <ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="怒り">
+        <Ch
+            src='/images/characters/brother4/angry1.webp' 
+            position='center'/>
+        <ChName nameZh='怒り' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="黒い笑み">
+        <Ch
+            src='/images/characters/brother4/gloomy2.webp' 
+            position='center'/>
+        <ChName nameZh='黒い笑み' nameEn='Sinister Smile' position='right' />
+    </ChTab>
+    <ChTab title="重傷">
+        <Ch
+            src='/images/characters/brother4/hurt.webp' 
+            position='center'/>
+        <ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+    </ChTab>
 </ChTabs>
 <br>
 

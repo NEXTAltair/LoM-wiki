@@ -9,10 +9,41 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="李富貴">
-		<Ch src='/images/characters/special809/normal.webp' position='right'/>
-		<ChName nameZh='李富貴' nameEn='Li Fu Gui' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special809/normal.webp'
+			nameTitle=''
+			nameMain='李富貴'
+			desc='<ruby>丐幇<rt>かいほう</rt></ruby>の新星、乞食なのに富貴と名付けられた。<br><ruby>丐幇<rt>かいほう</rt></ruby>旧派の長老・<ruby>千金叟<rt>せんきんそう</rt></ruby>の遺児であり、<ruby>丐幇<rt>かいほう</rt></ruby>新派の指導者兼幇主・<ruby>王二壮<rt>おうじそう</rt></ruby>の義子でもある。<br>話すと吃音だが、実は人は愚かではない。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special809/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑い">
+		<Ch src='/images/characters/special809/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special809/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special809/angry1.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="泣き">
+		<Ch src='/images/characters/special809/sad.webp' position='center'/>
+		<ChName nameZh='泣き' nameEn='Cry' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='キャラクター情報' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -41,9 +72,9 @@ aside: false
 					[樊嘯天](/ja/people/characters/special4) (同門)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
 
 > 「武林盟のあの連中は、俺たちが町から...え...え、え...～え ── チッ！」
 
@@ -56,6 +87,8 @@ aside: false
 <br>
 
 言葉が吃音気味だが、実は人は愚かではない。
+
+<div style="clear:both;"></div>
 
 ## 列伝
 

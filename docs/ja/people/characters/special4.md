@@ -9,10 +9,45 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="樊嘯天">
-		<Ch src='/images/characters/special4/normal.webp' position='right'/>
-		<ChName nameZh='樊嘯天' nameEn='Fan Xiao Tian' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special4/normal.webp'
+			nameTitle='狂犬'
+			nameMain='樊嘯天'
+			desc='<ruby>丐幇<rt>かいほう</rt></ruby>出身の<ruby>江湖<rt>こうこ</rt></ruby>新鋭。<br>「狂犬」と呼ばれ、小柄な体躯を侮るなかれ。戦いとなれば命懸け、外部の者が恐れるのみならず、<ruby>丐幇<rt>かいほう</rt></ruby>内でもこの狂気の若者に軽々しく手を出す者はいない。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="大笑い">
+		<Ch src='/images/characters/special4/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="汗顔">
+		<Ch src='/images/characters/special4/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special4/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special4/angry1.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="泣き">
+		<Ch src='/images/characters/special4/sad.webp' position='center'/>
+		<ChName nameZh='泣き' nameEn='Cry' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special4/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='キャラクター情報' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -49,9 +84,10 @@ aside: false
 					[阿叔](/ja/people/characters/other17) (照料者)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 [丐幇](/ja/people/factions/beggar-gang)から出た江湖の後起新秀。大義分舵で犬の管理をしている。
@@ -59,6 +95,8 @@ aside: false
 <br>
 
 世間では「狂犬」と呼ばれている。背は低いとはいえ、戦い始めたら必死になり、外部の人間だけでなく丐幇の者たちも軽々しくこの狂児に逆らおうとはしない。
+
+<div style="clear:both;"></div>
 
 ## 列伝
 

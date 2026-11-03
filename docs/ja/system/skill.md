@@ -38,19 +38,19 @@ tags:
         <td id = "佛學">仏学</td>
         <td>-</td>
         <td>武学習得条件</td>
-        <td><MarkdownWrapper>[《羅漢拳譜》](/ja/system/books/book_6001)</MarkdownWrapper>LV5</td>
+        <td><MarkdownWrapper>[《羅漢拳譜》](/ja/system/books/book_6001)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《太祖長拳》](/ja/system/books/book_3001)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《金剛腿》](/ja/system/books/book_4001)</MarkdownWrapper>LV10<br><MarkdownWrapper>[《金鐘罩》](/ja/system/books/book_1030)</MarkdownWrapper>LV10</td>
     </tr>
     <tr>
         <td id = "道學">道学</td>
         <td>-</td>
         <td>武学習得条件</td>
-        <td><MarkdownWrapper>[《全真剣法》](/ja/system/books/book_7002)</MarkdownWrapper>LV5、LV10</td>
+        <td><MarkdownWrapper>[《全真剣法》](/ja/system/books/book_7002)</MarkdownWrapper>LV5、LV10<br><MarkdownWrapper>[《手写しの全真剣法》](/ja/system/books/book_7019)</MarkdownWrapper>LV5、LV10<br><MarkdownWrapper>[《龍吟功》](/ja/system/books/book_7005)</MarkdownWrapper>LV10<br><MarkdownWrapper>[《虎嘯功》](/ja/system/books/book_7016)</MarkdownWrapper>LV10<br><MarkdownWrapper>[《清峰三十六路》](/ja/system/books/book_4009)</MarkdownWrapper>LV10</td>
     </tr>
     <tr>
         <td id = "形意拳">形意拳</td>
         <td>-</td>
         <td>武学習得条件</td>
-        <td><MarkdownWrapper>[《蛇形拳》](/ja/system/books/book_4008)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《白猿通臂拳》](/ja/system/books/book_6006)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《仙鶴迷踪拳》](/ja/system/books/book_6003)</MarkdownWrapper> LV10<br><MarkdownWrapper>[《蛇兎鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper>LV10<br><MarkdownWrapper>[《雷神脚》](/ja/system/books/book_4006)</MarkdownWrapper>LV5 、LV10</td>
+        <td><MarkdownWrapper>[《蛇形拳》](/ja/system/books/book_4008)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《白猿通臂拳》](/ja/system/books/book_6006)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《仙鶴迷踪拳》](/ja/system/books/book_6003)</MarkdownWrapper> LV10<br><MarkdownWrapper>[《手写しの仙鶴迷踪拳》](/ja/system/books/book_6015)</MarkdownWrapper>LV10<br><MarkdownWrapper>[《蛇兎鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper>LV10<br><MarkdownWrapper>[《雷神脚》](/ja/system/books/book_4006)</MarkdownWrapper>LV5 、LV10</td>
     </tr>
     <tr>
         <td id = "勇者">勇者</td>
@@ -246,7 +246,24 @@ tags:
         <td id = "思想戰">思想戦</td>
         <td>1~5?</td>
         <td>決闘開始時、LVに相当するコンボ数を持ち、LVx5の気を獲得</td>
-        <td><MarkdownWrapper>[《唐門暗器総綱》](/ja/system/books/book_1000)</MarkdownWrapper>LV4<br><MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《雪球教戦守則》](/ja/system/books/book_8003)</MarkdownWrapper>LV5</td>
+        <td><MarkdownWrapper>[《唐門暗器総綱》](/ja/system/books/book_1000)</MarkdownWrapper>LV4<br><MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《雪球教戦守則》](/ja/system/books/book_8003)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《破金策》](/ja/system/books/book_8002)</MarkdownWrapper>LV5</td>
+    </tr>
+    <tr>
+        <td id = "読勢">読勢</td>
+        <td>1~3?</td>
+        <td>決闘時、臨陣に応じて受け流しの確率が上がる</td>
+        <td>
+            <li>
+                🚩「崆峒に留学」(<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>参照)と、
+                🚩「飛天門に入門」(<MarkdownWrapper>[崆峒派への留学](/ja/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>参照)が立っている。<br>
+                🚩<MarkdownWrapper>[鶴崖を開放](/ja/event/simple/2-03-3-鶴崖事件集#解放条件)</MarkdownWrapper>したあと、
+                <MarkdownWrapper>[火閃電に教えを請う](/ja/event/simple/2-03-3-向火閃電討教)</MarkdownWrapper>を続けて
+                🚩「火閃電に教えを請う」≥4にする。<br>
+                <Girl3Icon>虞小梅</Girl3Icon>好感≥20で、2年目4月上旬〜7月中旬に鶴崖へ行き、
+                <MarkdownWrapper>[小梅との共舞](/ja/event/simple/2-04-1-小梅共舞)</MarkdownWrapper>が発生する。<br>
+                そのうえで、このイベントの終盤に軽功≥40かつ全武学点数≥200を満たすと、読勢のレベルが+3される。
+            </li>
+        </td>
     </tr>
     <tr>
         <td id = "劍界">剣界</td>
@@ -293,7 +310,7 @@ tags:
             <li>レベルに応じて、戦術系技能の効果が上がる。</li>
             <li>シナリオに影響する: 戦術5未満だと西武林盟を自分で組めない、など。</li>
         </td>
-        <td><MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>+5<br><MarkdownWrapper>[《楊家練兵操》](/ja/system/books/book_7004)</MarkdownWrapper>+1<br><MarkdownWrapper>[《歴戦血書》](/ja/system/books/book_4010)</MarkdownWrapper>+1<br><MarkdownWrapper>[《南宮武備論》](/ja/system/books/book_8010)</MarkdownWrapper>+1<br><MarkdownWrapper>[《蛇兎鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper>+1<br><MarkdownWrapper>[《雪球教戦守則》](/ja/system/books/book_8003)</MarkdownWrapper>+1</td>
+        <td><MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>+5<br><MarkdownWrapper>[《楊家練兵操》](/ja/system/books/book_7004)</MarkdownWrapper>+1<br><MarkdownWrapper>[《歴戦血書》](/ja/system/books/book_4010)</MarkdownWrapper>+1<br><MarkdownWrapper>[《南宮武備論》](/ja/system/books/book_8010)</MarkdownWrapper>+1<br><MarkdownWrapper>[《蛇兎鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper>+1<br><MarkdownWrapper>[《雪球教戦守則》](/ja/system/books/book_8003)</MarkdownWrapper>+1<br><MarkdownWrapper>[《点蒼棒法》](/ja/system/books/book_2303)</MarkdownWrapper>+1<br><MarkdownWrapper>[《八門鎖金刀》](/ja/system/books/book_2008)</MarkdownWrapper>+1<br><MarkdownWrapper>[《破金策》](/ja/system/books/book_8002)</MarkdownWrapper>+2</td>
     </tr>
     <tr>
         <td id = "疾如風">疾如風</td>
@@ -323,7 +340,7 @@ tags:
         <td id = "難知如陰">難知如陰</td>
         <td>-</td>
         <td>戦術LVに基づいて弁舌を上昇（毎級+2%）</td>
-        <td><MarkdownWrapper>[《歴戦血書》](/ja/system/books/book_4010)</MarkdownWrapper><br><MarkdownWrapper>[《蛇兎鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[《歴戦血書》](/ja/system/books/book_4010)</MarkdownWrapper><br><MarkdownWrapper>[《蛇兎鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper><br><MarkdownWrapper>[《点蒼棒法》](/ja/system/books/book_2303)</MarkdownWrapper></td>
     </tr>
     <tr>
         <td id = "戰術誘導">戦術誘導</td>
@@ -338,7 +355,7 @@ tags:
         <td id = "全真體操">全真体操</td>
         <td>1~5</td>
         <td>体力に基づいて内功を上昇</td>
-        <td>秘笈<MarkdownWrapper>[《全真剣法》](/ja/system/books/book_7002)</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[《全真剣法》](/ja/system/books/book_7002)</MarkdownWrapper><br><MarkdownWrapper>[《手写しの全真剣法》](/ja/system/books/book_7019)</MarkdownWrapper></td>
     </tr>
     <tr>
         <td id = "鉄布衫">鉄布衫</td>

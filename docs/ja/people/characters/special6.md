@@ -10,10 +10,21 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="万里鵬程">
-		<Ch src='/images/characters/special6/normal.webp' position='right'/>
-		<ChName nameZh='萬里鵬程' nameEn='Wan Li Peng Cheng' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special6/normal.webp'
+			nameTitle='鷹人'
+			nameMain='万里鵬程'
+			desc='鷹の羽で作った破れ蓑を纏った精悍な老人。<br>風貌は怪異だが、その武芸の道筋は博大精深、気度は非凡で、明らかに名家の風格を持つ。しかしなぜこの年齢になっても<ruby>無名<rt>むめい</rt></ruby>なのかは分からない。'
+			:animation=true
+		/>
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='キャラクター情報' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -55,14 +66,17 @@ aside: false
 					[福韞](/ja/people/characters/special206) (師姪孫)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 鷹の羽根で編んだぼろぼろの蓑衣をまとった、精悍な老人。
 <br><br>
 外見は奇妙だが、武功の道は広大で深く、気度は非凡で、名家の風格が見える。ただし、この年になっても、なぜか江湖では名が知られていない。
+
+<div style="clear:both;"></div>
 
 ## 列伝
 

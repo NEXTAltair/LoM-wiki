@@ -11,6 +11,24 @@ tags:
 
 # {{ $frontmatter.title }}
 
+<ChTabs position="bottom">
+	<ChTab title="成吉思汗">
+		<Ch src='/images/characters/special210/normal.webp' position='right'/>
+		<ChName nameZh='成吉思汗' nameEn='Genghis Khan' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
+
 史実上、大蒙古国第一代皇帝・元太祖（1162年5月31日～1227年8月25日）。
 <br><br>
 デモでは大漠への行について言及があり、彼は[趙活](/ja/people/characters/player)、[瑞杏](/ja/people/characters/girl1)、[丘真人](/ja/people/characters/special209)を大幕に召し入れて、長生不死の法を知りたいとした。[丘真人](/ja/people/characters/special209)は一言で殺生を止めさせ、大汗に干戈を休んで功徳を養うべきだと勧めた。[瑞杏](/ja/people/characters/girl1)は大汗に天命に順応して、生涯のうちに思い切って行動すべきと勧めた。[趙活](/ja/people/characters/player)は心が痛み、大王ももうすぐ死ぬから戦い尽くせないかもしれないと言った。最終的に[趙活](/ja/people/characters/player)が[瑞杏](/ja/people/characters/girl1)に対して野心を抱いているのを成吉思汗に見られて、指名手配される。

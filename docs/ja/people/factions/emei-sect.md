@@ -89,6 +89,7 @@ tags:
 -   [雷神脚](/ja/system/books/book_4006)
 -   [蛇形拳](/ja/system/books/book_4008)
 -   [白猿通臂拳](/ja/system/books/book_6006)
+-   [酔拳](/ja/system/books/book_6014)
 
 ## 備考
 

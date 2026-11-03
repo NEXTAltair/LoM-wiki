@@ -22,46 +22,182 @@ borderless: false
 	<ChTab title="鶏腿を食べる">
 		<Ch 
 			src='/images/characters/girl_8/girl8_drumstick.webp' 
-			position='right'/>
+			position='center'/>
 		<ChName
-			nameZh='吃雞腿'
+			nameZh='鶏腿を食べる'
 			nameEn='Eat Drumstick'/>
 	</ChTab>
 	<ChTab title="鶏腿剣">
 		<Ch 
 			src='/images/characters/girl_8/drumstick_sword.webp' 
-			position='right'/>
+			position='center'/>
 		<ChName
-			nameZh='雞腿劍'
+			nameZh='鶏腿剣'
 			nameEn='Drumstick Sword'/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch 
+			src='/images/characters/girl_8/laugh1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='微笑'
+			nameEn='Smile'/>
 	</ChTab>
 	<ChTab title="大笑">
 		<Ch src='/images/characters/girl_8/laugh2.webp'
-			position='right'/>
+			position='center'/>
 		<ChName 
 			nameZh='大笑'
 			nameEn='Laugh heartily'/>
 	</ChTab>
+	<ChTab title="緊張">
+		<Ch 
+			src='/images/characters/girl_8/nervous1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='緊張'
+			nameEn='Nervous'/>
+	</ChTab>
+	<ChTab title="びっくり">
+		<Ch 
+			src='/images/characters/girl_8/nervous2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='びっくり'
+			nameEn='Startled'/>
+	</ChTab>
+	<ChTab title="気まずい">
+		<Ch 
+			src='/images/characters/girl_8/nervous3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='気まずい'
+			nameEn='Awkward'/>
+	</ChTab>
+	<ChTab title="不機嫌">
+		<Ch 
+			src='/images/characters/girl_8/angry1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='不機嫌'
+			nameEn='Displeased'/>
+	</ChTab>
+	<ChTab title="照れ">
+		<Ch 
+			src='/images/characters/girl_8/shy.webp' 
+			position='center'/>
+		<ChName
+			nameZh='照れ'
+			nameEn='Shy'/>
+	</ChTab>
+	<ChTab title="照れ(湯気)">
+		<Ch 
+			src='/images/characters/girl_8/shy2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='照れ(湯気)'
+			nameEn='Flustered'/>
+	</ChTab>
+	<ChTab title="目を閉じる">
+		<Ch 
+			src='/images/characters/girl_8/close_eyes.webp' 
+			position='center'/>
+		<ChName
+			nameZh='目を閉じる'
+			nameEn='Eyes Closed'/>
+	</ChTab>
+	<ChTab title="疑い">
+		<Ch 
+			src='/images/characters/girl_8/doubt.webp' 
+			position='center'/>
+		<ChName
+			nameZh='疑い'
+			nameEn='Doubt'/>
+	</ChTab>
+	<ChTab title="後ろめたい">
+		<Ch 
+			src='/images/characters/girl_8/diffident.webp' 
+			position='center'/>
+		<ChName
+			nameZh='後ろめたい'
+			nameEn='Sheepish'/>
+	</ChTab>
+	<ChTab title="大泣き">
+		<Ch 
+			src='/images/characters/girl_8/sad.webp' 
+			position='center'/>
+		<ChName
+			nameZh='大泣き'
+			nameEn='Wailing'/>
+	</ChTab>
+	<ChTab title="泣き">
+		<Ch 
+			src='/images/characters/girl_8/sad2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='泣き'
+			nameEn='Teary'/>
+	</ChTab>
+	<ChTab title="抜剣">
+		<Ch 
+			src='/images/characters/girl_8/sword.webp' 
+			position='center'/>
+		<ChName
+			nameZh='抜剣'
+			nameEn='Sword Drawn'/>
+	</ChTab>
 	<ChTab title="戦闘">
 		<Ch src='/images/characters/girl_8/angry3.webp'
-			position='right'/>
+			position='center'/>
 		<ChName 
-			nameZh='戰鬥'
+			nameZh='戦闘'
 			nameEn='Fight'/>
 	</ChTab>
 	<ChTab title="覚醒">
 		<Ch src='/images/characters/girl_8/angry4.webp'
-			position='right'/>
+			position='center'/>
 		<ChName 
 			nameZh='覺醒'
 			nameEn='Awakening'/>
 	</ChTab>
+	<ChTab title="負傷">
+		<Ch 
+			src='/images/characters/girl_8/hurt.webp' 
+			position='center'/>
+		<ChName
+			nameZh='負傷'
+			nameEn='Injured'/>
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch 
+			src='/images/characters/girl_8/hurt2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='重傷'
+			nameEn='Severely Injured'/>
+	</ChTab>
 	<ChTab title="宮装">
 		<Ch src='/images/characters/girl_8/dress_shy.webp'
-			position='right'/>
+			position='center'/>
 		<ChName
 			nameZh='宮裝'
 			nameEn='Dress'/>
+	</ChTab>
+	<ChTab title="宮装(平常)">
+		<Ch 
+			src='/images/characters/girl_8/dress_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='宮装(平常)'
+			nameEn='Dress (Normal)'/>
+	</ChTab>
+	<ChTab title="宮装(赤面)">
+		<Ch 
+			src='/images/characters/girl_8/dress_shy2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='宮装(赤面)'
+			nameEn='Dress (Blush)'/>
 	</ChTab>
 </ChTabs>
 

@@ -67,6 +67,42 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="汗顔">
+		<Ch src='/images/characters/special833/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special833/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="気まずい">
+		<Ch src='/images/characters/special833/nervous3.webp' position='center'/>
+		<ChName nameZh='気まずい' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special833/angry2.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="陰鬱">
+		<Ch src='/images/characters/special833/gloomy.webp' position='center'/>
+		<ChName nameZh='陰鬱' nameEn='Gloomy' position='right' />
+	</ChTab>
+	<ChTab title="怨念">
+		<Ch src='/images/characters/special833/gloomy2.webp' position='center'/>
+		<ChName nameZh='怨念' nameEn='Grudge' position='right' />
+	</ChTab>
+	<ChTab title="泣き">
+		<Ch src='/images/characters/special833/cry.webp' position='center'/>
+		<ChName nameZh='泣き' nameEn='Cry' position='right' />
+	</ChTab>
+	<ChTab title="絶望">
+		<Ch src='/images/characters/special833/hopeless.webp' position='center'/>
+		<ChName nameZh='絶望' nameEn='Despair' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special833/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
 </ChTabs>
 <br>
 

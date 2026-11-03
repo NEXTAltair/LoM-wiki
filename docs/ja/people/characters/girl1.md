@@ -89,6 +89,38 @@ aside: false
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch 
+			src='/images/characters/girl_1/laugh1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='微笑'
+			nameEn='Smile'/>
+	</ChTab>
+	<ChTab title="大笑い">
+		<Ch 
+			src='/images/characters/girl_1/laugh2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='大笑い'
+			nameEn='Laugh'/>
+	</ChTab>
+	<ChTab title="陰鬱">
+		<Ch 
+			src='/images/characters/girl_1/gloomy.webp' 
+			position='center'/>
+		<ChName
+			nameZh='陰鬱'
+			nameEn='Gloomy'/>
+	</ChTab>
+	<ChTab title="人間至悪">
+		<Ch 
+			src='/images/characters/girl_1/special.webp' 
+			position='center'/>
+		<ChName
+			nameZh='人間至悪'
+			nameEn='Supreme Evil'/>
+	</ChTab>
 </ChTabs>
 
 > 「それがどうしたの？人をやめればいいだけ。わたしが人間至悪だったとして、何か問題でも？」
@@ -251,9 +283,10 @@ aside: false
 
 ## 備考
 
--   サウンドトラックの曲「帳中夢守人」は、夢の瑞杏のテーマ曲と思われる。
+-   サウンドトラックの曲「帳中夢守人」は、【杏花仙、唯一無二の気まぐれ】で使われているのがこの曲だが、ゲーム内の瑞杏のシナリオでは使われていない。
     -   作曲者の幽火は、「帳中夢守人」は鳥熊から夢の中の優しい雰囲気を作ってほしいと求められたと述べている。[^3]
-    -   【杏花仙、唯一無二の気まぐれ】で使われている曲がまさに「帳中夢守人」である。
+    -   ゲーム内では[葉雲裳](/ja/people/characters/girl2)との結縁の場面([九転の療傷](/ja/event/simple/3-05-1-九轉療傷)の最後のパート)でのみ流れる。
+-   サウンドトラックの曲「方外執棋手」は、ゲーム内では瑞杏が[温夫人](/ja/people/characters/special402)と対局する場面([温夫人の付託](/ja/event/simple/3-10-2-溫夫人託付#幕後棋手))でのみ流れる。
 -   【杏花仙、唯一無二の気まぐれ】は正史のシナリオと認定されたため、夢の瑞杏の能力は直接裏付けられた。[^2]
 -   [温夫人](/ja/people/characters/special402)が[錦香宮](/ja/people/factions/jin-xiang-palace)で口にした「杏花仙に願をかけて借りた十年」から逆算すると、瑞杏は21歳と思われる。
 

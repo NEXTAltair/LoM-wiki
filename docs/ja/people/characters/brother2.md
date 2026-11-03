@@ -18,6 +18,72 @@ aside: false
 			:animation=true
 		/>
     </ChTab>
+    <ChTab title="微笑">
+        <Ch
+            src='/images/characters/brother2/laugh1.webp' 
+            position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="大笑い">
+        <Ch
+            src='/images/characters/brother2/laugh2.webp' 
+            position='center'/>
+        <ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+    </ChTab>
+    <ChTab title="汗顔">
+        <Ch
+            src='/images/characters/brother2/nervous1.webp' 
+            position='center'/>
+        <ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="狼狽">
+        <Ch
+            src='/images/characters/brother2/nervous2.webp' 
+            position='center'/>
+        <ChName nameZh='狼狽' nameEn='Panic' position='right' />
+    </ChTab>
+    <ChTab title="不機嫌">
+        <Ch
+            src='/images/characters/brother2/angry1.webp' 
+            position='center'/>
+        <ChName nameZh='不機嫌' nameEn='Displeased' position='right' />
+    </ChTab>
+    <ChTab title="怒り">
+        <Ch
+            src='/images/characters/brother2/angry2.webp' 
+            position='center'/>
+        <ChName nameZh='怒り' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="陰鬱">
+        <Ch
+            src='/images/characters/brother2/gloomy1.webp' 
+            position='center'/>
+        <ChName nameZh='陰鬱' nameEn='Gloomy' position='right' />
+    </ChTab>
+    <ChTab title="黒い笑み">
+        <Ch
+            src='/images/characters/brother2/gloomy2.webp' 
+            position='center'/>
+        <ChName nameZh='黒い笑み' nameEn='Sinister Smile' position='right' />
+    </ChTab>
+    <ChTab title="目を閉じる">
+        <Ch
+            src='/images/characters/brother2/close_eye.webp' 
+            position='center'/>
+        <ChName nameZh='目を閉じる' nameEn='Close Eyes' position='right' />
+    </ChTab>
+    <ChTab title="目を閉じる(汗顔)">
+        <Ch
+            src='/images/characters/brother2/close_eye_nervous.webp' 
+            position='center'/>
+        <ChName nameZh='目を閉じる(汗顔)' nameEn='Close Eyes (Sweat)' position='right' />
+    </ChTab>
+    <ChTab title="負傷">
+        <Ch
+            src='/images/characters/brother2/hurt.webp' 
+            position='center'/>
+        <ChName nameZh='負傷' nameEn='Injured' position='right' />
+    </ChTab>
 </ChTabs>
 <br>
 

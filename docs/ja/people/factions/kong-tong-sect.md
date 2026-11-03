@@ -576,8 +576,10 @@ tags:
 
 -   [飛天腳](/ja/system/books/book_6002)
 -   [仙鶴迷踪拳](/ja/system/books/book_6003)
+-   [跣足神通](/ja/system/books/book_6011)
 -   [烈火禅](/ja/system/books/book_7003)
 -   [焚心火印](/ja/system/books/book_7009)
+-   [風刀火剣](/ja/system/books/book_2402)
 -   [無影爪](/ja/system/books/book_6004)
 -   [鉄臂神拳](/ja/system/books/book_6005)
 -   [奪魄幽霊爪](/ja/system/books/book_6007)

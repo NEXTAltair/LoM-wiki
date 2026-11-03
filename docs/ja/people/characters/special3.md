@@ -9,10 +9,69 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="葉雲舟">
-		<Ch src='/images/characters/special3/normal.webp' position='right'/>
-		<ChName nameZh='葉雲舟' nameEn='Ye Yun Zhou' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special3/normal.webp'
+			nameTitle='蒼松剣客'
+			nameMain='葉雲舟'
+			desc='<ruby>点蒼<rt>てんそう</rt></ruby>派の服を纏った若き剣客。<br>どこかでこの名を聞いた気がするが、思い出せない。なぜ笠で顔を隠すのか分からないが、その容貌は端正で、盗賊には見えない。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special3/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顔">
+		<Ch src='/images/characters/special3/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special3/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="気まずい">
+		<Ch src='/images/characters/special3/nervous3.webp' position='center'/>
+		<ChName nameZh='気まずい' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="不機嫌">
+		<Ch src='/images/characters/special3/angry1.webp' position='center'/>
+		<ChName nameZh='不機嫌' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special3/angry2.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="泣き">
+		<Ch src='/images/characters/special3/sad1.webp' position='center'/>
+		<ChName nameZh='泣き' nameEn='Cry' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special3/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+	<ChTab title="やつれ">
+		<Ch src='/images/characters/special3/drawn.webp' position='center'/>
+		<ChName nameZh='やつれ' nameEn='Haggard' position='right' />
+	</ChTab>
+	<ChTab title="剣鬼">
+		<Ch src='/images/characters/special3/crazy.webp' position='center'/>
+		<ChName nameZh='剣鬼' nameEn='Sword Fiend' position='right' />
+	</ChTab>
+	<ChTab title="笠">
+		<Ch src='/images/characters/special3/special1.webp' position='center'/>
+		<ChName nameZh='笠' nameEn='Bamboo Hat' position='right' />
+	</ChTab>
+	<ChTab title="褐衣">
+		<Ch src='/images/characters/special3/brown_normal-2.webp' position='center'/>
+		<ChName nameZh='褐衣' nameEn='Brown Robe' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='キャラクター情報' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -59,9 +118,10 @@ aside: false
 					[李元棄](/ja/people/characters/special213) (叔父)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 [点蒼派](/ja/people/factions/dian-cang-sect)第一快剣手。今日武林で最も名声高い若き侠客の一人。近年江湖快報に載ることが多い。
@@ -78,6 +138,8 @@ aside: false
 
 妹への溺愛は並々ならず。懲らしめるべき時も手を緩めず。
 <br clear="all">
+
+<div style="clear:both;"></div>
 
 ## 列伝
 

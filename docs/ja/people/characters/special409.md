@@ -50,6 +50,10 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="負傷">
+		<Ch src='/images/characters/special409/hurt.webp' position='center'/>
+		<ChName nameZh='負傷' nameEn='Injured' position='right' />
+	</ChTab>
 </ChTabs>
 
 <br>
@@ -66,7 +70,7 @@ tags:
 
 <br>
 
-現在のバージョン(v1.0.5000)では完全に出番がなく、販売PVに短く登場しているだけです。[リンク](https://youtu.be/O3To9yxYRvU?si=2T8AYhgTGattE-Sh&t=56)。
+台詞はなく、<EndIcon no="61">汗青書61：崆峒掌派人</EndIcon>のエンディングのナレーションに重傷の姿で登場するだけ。販売PVにも短く登場している：[リンク](https://youtu.be/O3To9yxYRvU?si=2T8AYhgTGattE-Sh&t=56)。
 
 ## 備考
 

@@ -23,12 +23,12 @@ aside: false
 			:animation=true
 		/>
 	</ChTab>
-	<ChTab title="不悅">
+	<ChTab title="不機嫌">
 		<Ch 
 			src='/images/characters/girl_4/angry.webp' 
 			position='center'/>
 		<ChName
-			nameZh='不悅'
+			nameZh='不機嫌'
 			nameEn='Displeased'/>
 	</ChTab>
 	<ChTab title="激怒">
@@ -36,7 +36,7 @@ aside: false
 			src='/images/characters/girl_4/angry2.webp' 
 			position='center'/>
 		<ChName
-			nameZh='生氣'
+			nameZh='激怒'
 			nameEn='Angry'/>
 	</ChTab>
 	<ChTab title="瞑目">
@@ -44,7 +44,7 @@ aside: false
 			src='/images/characters/girl_4/close_eyes.webp' 
 			position='center'/>
 		<ChName
-			nameZh='閉眼'
+			nameZh='瞑目'
 			nameEn='Close Eyes'/>
 	</ChTab>
 	<ChTab title="泣き顔">
@@ -52,8 +52,16 @@ aside: false
 			src='/images/characters/girl_4/cry.webp' 
 			position='center'/>
 		<ChName
-			nameZh='哭泣'
+			nameZh='泣き顔'
 			nameEn='Cry'/>
+	</ChTab>
+	<ChTab title="目を閉じる(涙)">
+		<Ch 
+			src='/images/characters/girl_4/close_eyes_cry.webp' 
+			position='center'/>
+		<ChName
+			nameZh='目を閉じる(涙)'
+			nameEn='Close Eyes (Tears)'/>
 	</ChTab>
 	<ChTab title="耐える">
 		<Ch 
@@ -103,12 +111,20 @@ aside: false
 			nameZh='緊張'
 			nameEn='Nervous'/>
 	</ChTab>
+	<ChTab title="気まずい">
+		<Ch 
+			src='/images/characters/girl_4/nervous3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='気まずい'
+			nameEn='Awkward'/>
+	</ChTab>
 	<ChTab title="羞恥">
 		<Ch 
 			src='/images/characters/girl_4/shy.webp' 
 			position='center'/>
 		<ChName
-			nameZh='害羞'
+			nameZh='羞恥'
 			nameEn='Shy'/>
 	</ChTab>
 </ChTabs>

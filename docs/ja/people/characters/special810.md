@@ -13,7 +13,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="楽屏">
 		<Ch src='/images/characters/special810/normal.webp' position='right'/>
-		<ChName nameZh='樂屏' nameEn='Yue Ping' position='right' />
+		<ChName nameZh='楽屏' nameEn='Yue Ping' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -39,6 +39,10 @@ tags:
 				</ChTd>
 			</ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special810/laugh.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>

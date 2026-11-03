@@ -97,3 +97,4 @@ tags:
 - もし[趙活](/ja/people/characters/player)が瀝泉短剣を手にすれば、怒り狂って「いい度胸だ」と大声で罵る。
 - [杏花林](/ja/people/factions/apricot-forest)と何らかの関係がある疑いがある。
 - 無相が奪魄門で成り代わっていたのは閉関中の姚掌門（[姚不知名](/ja/people/characters/special216)）であり、[勾魂叟](/ja/people/characters/special806)ではない。[勾魂叟](/ja/people/characters/special806)は代掌門に過ぎない。
+- 第四代千面人魔を認めておらず、本人の前でその名を口にすることすら禁忌となっている。

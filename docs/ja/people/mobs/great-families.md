@@ -78,7 +78,32 @@ tags:
 
 ### 南宮己
 
-<img src="/images/mobs/nan-gong-family/trainee4_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="南宮己">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_normal.webp' position='center'/>
+        <ChName nameZh='南宮己' nameEn='Nan Gong Ji' position='right' />
+    </ChTab>
+    <ChTab title="怒り">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_angry1.webp' position='center'/>
+        <ChName nameZh='怒り' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="燃える">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_fire.webp' position='center'/>
+        <ChName nameZh='燃える' nameEn='On Fire' position='right' />
+    </ChTab>
+    <ChTab title="燃える(怒り)">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_fire_angry.webp' position='center'/>
+        <ChName nameZh='燃える(怒り)' nameEn='On Fire (Angry)' position='right' />
+    </ChTab>
+    <ChTab title="家着">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_home.webp' position='center'/>
+        <ChName nameZh='家着' nameEn='At Home' position='right' />
+    </ChTab>
+    <ChTab title="きらきら">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_special1.webp' position='center'/>
+        <ChName nameZh='きらきら' nameEn='Sparkling' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>廃寺ルート<br>「南宮己」</td>
@@ -88,7 +113,16 @@ tags:
 
 ### 南宮偉
 
-<img src="/images/mobs/nan-gong-family/oldman_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="南宮偉">
+        <Ch src='/images/mobs/nan-gong-family/oldman_normal.webp' position='center'/>
+        <ChName nameZh='南宮偉' nameEn='Nan Gong Wei' position='right' />
+    </ChTab>
+    <ChTab title="汗顔">
+        <Ch src='/images/mobs/nan-gong-family/oldman_nervous1.webp' position='center'/>
+        <ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>小師妹の輿入れ<br>「鉄鞭」南宮偉</td>

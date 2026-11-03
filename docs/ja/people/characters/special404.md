@@ -20,10 +20,58 @@ aside: false
 			:animation=true
 		/>
     </ChTab>
+	<ChTab title="微笑">
+		<Ch
+			src='/images/characters/special404/laugh1.webp' 
+			position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑い">
+		<Ch
+			src='/images/characters/special404/laugh2.webp' 
+			position='center'/>
+		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="汗顔">
+		<Ch
+			src='/images/characters/special404/nervous1.webp' 
+			position='center'/>
+		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch
+			src='/images/characters/special404/nervous2.webp' 
+			position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch
+			src='/images/characters/special404/angry1.webp' 
+			position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="負傷">
+		<Ch
+			src='/images/characters/special404/hurt.webp' 
+			position='center'/>
+		<ChName nameZh='負傷' nameEn='Injured' position='right' />
+	</ChTab>
+	<ChTab title="術を放つ">
+		<Ch
+			src='/images/characters/special404/cast.webp' 
+			position='center'/>
+		<ChName nameZh='術を放つ' nameEn='Casting' position='right' />
+	</ChTab>
+	<ChTab title="負荊請罪">
+		<Ch
+			src='/images/characters/special404/special1.webp' 
+			position='center'/>
+		<ChName nameZh='負荊請罪' nameEn='Bearing Thorns' position='right' />
+	</ChTab>
 </ChTabs>
 
 <InfoList>
-    <Info title='角色資料' :open=true>
+    <Info title='キャラクター情報' :open=true>
         <table>
             <ChTr>
 				<ChTd isTitle=true>

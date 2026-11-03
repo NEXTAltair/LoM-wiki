@@ -39,30 +39,54 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[上官螢](/ja/people/characters/girl4) (女兒)
+					[上官螢](/ja/people/characters/girl4) (娘)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[温夫人](/ja/people/characters/special402) (舊友)
+					[温夫人](/ja/people/characters/special402) (旧友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[温無畏](/ja/people/characters/other13) (舊友)
+					[温無畏](/ja/people/characters/other13) (旧友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[王二壮](/ja/people/characters/special401) (舊友)
+					[王二壮](/ja/people/characters/special401) (旧友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[南宮遠](/ja/people/characters/special101) (舊友)
+					[南宮遠](/ja/people/characters/special101) (旧友)
 				</ChTd>
 			</ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special407/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="淡い笑み">
+		<Ch src='/images/characters/special407/laugh3.webp' position='center'/>
+		<ChName nameZh='淡い笑み' nameEn='Faint Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顔">
+		<Ch src='/images/characters/special407/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="不機嫌">
+		<Ch src='/images/characters/special407/angry1.webp' position='center'/>
+		<ChName nameZh='不機嫌' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special407/angry2.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="黒い笑み">
+		<Ch src='/images/characters/special407/gloomy2.webp' position='center'/>
+		<ChName nameZh='黒い笑み' nameEn='Sinister Smile' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>

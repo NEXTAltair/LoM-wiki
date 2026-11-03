@@ -50,6 +50,14 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special823/nervous.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="黒い笑み">
+		<Ch src='/images/characters/special823/gloomy2.webp' position='center'/>
+		<ChName nameZh='黒い笑み' nameEn='Sinister Smile' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 

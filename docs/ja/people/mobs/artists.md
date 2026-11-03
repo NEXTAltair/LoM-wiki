@@ -210,7 +210,16 @@ tags:
 
 ## 公子侠
 
-<img src="/images/mobs/artists/young_master1_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="公子侠">
+        <Ch src='/images/mobs/artists/young_master1_normal.webp' position='center'/>
+        <ChName nameZh='公子侠' nameEn='Gong Zi Xia' position='right' />
+    </ChTab>
+    <ChTab title="負傷">
+        <Ch src='/images/mobs/artists/young_master1_hurt.webp' position='center'/>
+        <ChName nameZh='負傷' nameEn='Injured' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>龍湘の廃寺イベント<br>「陳序」</td>
@@ -236,7 +245,16 @@ tags:
 
 ## 廃寺ルート
 
-<img src="/images/mobs/quan-zhen-sect/trainee10_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="丁侃">
+        <Ch src='/images/mobs/quan-zhen-sect/trainee10_normal.webp' position='center'/>
+        <ChName nameZh='丁侃' nameEn='Ding Kan' position='right' />
+    </ChTab>
+    <ChTab title="負傷">
+        <Ch src='/images/mobs/quan-zhen-sect/trainee10_hurt.webp' position='center'/>
+        <ChName nameZh='負傷' nameEn='Injured' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>廃寺ルート<br>「白蛇」丁侃</td>
@@ -244,7 +262,16 @@ tags:
     </tr>
 </table>
 
-<img src="/images/mobs/emei-sect/trainee10_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="頼裕廷">
+        <Ch src='/images/mobs/emei-sect/trainee10_normal.webp' position='center'/>
+        <ChName nameZh='頼裕廷' nameEn='Lai Yu Ting' position='right' />
+    </ChTab>
+    <ChTab title="負傷">
+        <Ch src='/images/mobs/emei-sect/trainee10_hurt.webp' position='center'/>
+        <ChName nameZh='負傷' nameEn='Injured' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>廃寺ルート<br>「豺狼」頼裕廷</td>
@@ -252,7 +279,16 @@ tags:
     </tr>
 </table>
 
-<img src="/images/mobs/mount-song-sect/trainee10_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="曹建軍">
+        <Ch src='/images/mobs/mount-song-sect/trainee10_normal.webp' position='center'/>
+        <ChName nameZh='曹建軍' nameEn='Cao Jian Jun' position='right' />
+    </ChTab>
+    <ChTab title="負傷">
+        <Ch src='/images/mobs/mount-song-sect/trainee10_hurt.webp' position='center'/>
+        <ChName nameZh='負傷' nameEn='Injured' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>廃寺ルート<br>「虯髯猪」曹建軍</td>
@@ -260,7 +296,16 @@ tags:
     </tr>
 </table>
 
-<img src="/images/mobs/kong-tong-sect/iron/trainee10_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="全勝利">
+        <Ch src='/images/mobs/kong-tong-sect/iron/trainee10_normal.webp' position='center'/>
+        <ChName nameZh='全勝利' nameEn='Quan Sheng Li' position='right' />
+    </ChTab>
+    <ChTab title="負傷">
+        <Ch src='/images/mobs/kong-tong-sect/iron/trainee10_hurt.webp' position='center'/>
+        <ChName nameZh='負傷' nameEn='Injured' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>廃寺ルート<br>「大鸚哥」全勝利</td>

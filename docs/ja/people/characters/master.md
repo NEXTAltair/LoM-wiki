@@ -18,6 +18,42 @@ aside: false
 			:animation=true
 		/>
     </ChTab>
+    <ChTab title="微笑">
+        <Ch
+            src='/images/characters/master/laugh1.webp' 
+            position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="汗顔">
+        <Ch
+            src='/images/characters/master/nervous1.webp' 
+            position='center'/>
+        <ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="不機嫌">
+        <Ch
+            src='/images/characters/master/angry1.webp' 
+            position='center'/>
+        <ChName nameZh='不機嫌' nameEn='Displeased' position='right' />
+    </ChTab>
+    <ChTab title="激怒">
+        <Ch
+            src='/images/characters/master/angry2.webp' 
+            position='center'/>
+        <ChName nameZh='激怒' nameEn='Furious' position='right' />
+    </ChTab>
+    <ChTab title="悲しみ">
+        <Ch
+            src='/images/characters/master/sad1.webp' 
+            position='center'/>
+        <ChName nameZh='悲しみ' nameEn='Sad' position='right' />
+    </ChTab>
+    <ChTab title="重傷">
+        <Ch
+            src='/images/characters/master/hurt.webp' 
+            position='center'/>
+        <ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+    </ChTab>
 </ChTabs>
 <br>
 
@@ -128,6 +164,7 @@ aside: false
 -   若き日、曾て[唐鹿](/ja/people/characters/other10)師娘に不作法を働いた貴公子を千里の彼方まで追い詰めた。相手は遠く嵩山派福建分院に避け、住持[釈明](/ja/people/characters/special826)の庇護を求めた。彼は外で百回以上扉を叩き、やっと南宮、上官両家の家主が来て勧めるまで、むっとして帰った。このため[釈明](/ja/people/characters/special826)は心魔を患うことになった。
 -   当時、武林盟主[龍淵](/ja/people/characters/special2)に「唐門が心を通わせられぬのを許されよ。それは私が強情で御しがたい性分だからではない。唐門の魂の灯は、いにしえより今に至るまで絶えることなく受け継がれてきたゆえなのだ」と言い放った。武林盟に加わり足並みを揃えることを固辞したのである。しかし[極楽教](/ja/people/factions/elysium-school)が兵を出すと、[嵩山派](/ja/people/factions/mount-song-sect)の高僧と共に真っ先に最前線へ突撃した。
 -   飛燕流星翎で極楽七仙の一人[袁乘風](/ja/people/characters/other11)の兵器、指を斬り、その一足で峨嵋金頂から蹴り落とした。
+-   ずいぶん前、十歳にも満たない[唐布衣](/ja/people/characters/brother1)と[唐錚](/ja/people/characters/brother2)を連れて、臨安の清波門の外で刑場を襲い、逆賊・呉曦の首と引き換えに死刑囚の房陞([唐陞](/ja/people/characters/brother3))の命を救った。数百の歩軍司と皇城司の宮中の高手も誰一人阻めず、三人は無人の野を行くように自由に出入りした。その足で休む間もなく西蜀の戦場へ駆けつけ、極楽七仙に痛撃を浴びせた。
 
 ## 備考
 

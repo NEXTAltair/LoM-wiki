@@ -282,7 +282,7 @@ tags:
 </tr>
 
 <tr>
-    <td rowspan = 2 style="text-align: center">四</td>
+    <td rowspan = 3 style="text-align: center">四</td>
     <td style="text-align: center">上</td>
     <td style="text-align: center">
         <MarkdownWrapper>
@@ -309,15 +309,20 @@ tags:
     </td>
     <td colspan = 3 style="text-align: center">-</td>
 </tr>
+<tr>
+    <td style="text-align: center">下</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+			[謎の人物からの送金](/ja/event/simple/2-04-3-神秘人送錢)<br>
+        </MarkdownWrapper>
+    </td>
+    <td colspan = 3 style="text-align: center">-</td>
+</tr>
 
 <tr>
     <td rowspan = 2 style="text-align: center">五</td>
     <td style="text-align: center">上</td>
-    <td style="text-align: center">
-        <MarkdownWrapper>
-            謎の人物からの送金<br>
-        </MarkdownWrapper>
-    </td>
+    <td style="text-align: center">-</td>
     <td colspan = 3 style="text-align: center">
         <MarkdownWrapper>
             [複数の人が弟子入りする](/ja/event/simple/2-05-1-多人拜師)<br>
@@ -332,6 +337,7 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
 			[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)<br>
+            [神兵帖シリーズイベント](/ja/event/simple/2-05-3-神兵帖系列事件)<br>
         </MarkdownWrapper>
     </td>
     <td colspan = 3 style="text-align: center">-</td>
@@ -632,22 +638,11 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[臥雲崗イベント](/ja/event/simple/3-01-2-臥雲崗事件)<br>
-				[臥雲崗の留守番](/ja/event/simple/3-01-2-臥雲崗留守)<br>
-                兵器の点検<br>
-                同門の手伝い<br>
-                剣閣の来訪<br>
-				[臥雲崗へ向かう](/ja/event/simple/3-01-2-前往臥雲崗)<br>
+                [臥雲崗下山ルート](/ja/event/simple/3-01-2-臥雲崗下山線)<br>
+				[臥雲崗留守ルート](/ja/event/simple/3-01-2-臥雲崗留守線)<br>
 				</MarkdownWrapper>
 			</td>
-			<td>
-				<MarkdownWrapper>
-				[臥雲崗見物](/ja/event/simple/3-01-3-圍觀臥雲崗)<br>
-				[帰路での襲撃](/ja/event/simple/3-01-3-回程遇刺)<br>
-				[大師兄の重傷](/ja/event/simple/3-01-3-大師兄重傷)<br>
-				[裏山埋葬](/ja/event/simple/3-01-3-後山安葬)<br>
-				[丹薬解毒](/ja/event/simple/3-01-3-煉丹解毒)<br>
-				</MarkdownWrapper>
-			</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>二月</td>

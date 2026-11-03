@@ -56,6 +56,14 @@ tags:
             </ChTr>
         </ChTable>
     </ChTab>
+    <ChTab title="恍惚">
+        <Ch src='/images/characters/lingnan_trainee/trainee3_special1.webp' position='center'/>
+        <ChName nameZh='恍惚' nameEn='Ecstasy' position='right' />
+    </ChTab>
+    <ChTab title="負傷">
+        <Ch src='/images/characters/lingnan_trainee/trainee3_hurt.webp' position='center'/>
+        <ChName nameZh='負傷' nameEn='Injured' position='right' />
+    </ChTab>
 </ChTabs>
 
 > 「おお……おおお……成功した……誹謗に成功した。気持ちいい……!著名な蒼松剣客も、我が一張りの口で軽々と操られてしまい、我は責任も負わない。これが言葉の力だ!」

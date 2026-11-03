@@ -9,10 +9,57 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="南宮浅">
-		<Ch src='/images/characters/special103/normal.webp' position='right'/>
-		<ChName nameZh='南宮淺' nameEn='Nan Gong Qian' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special103/normal.webp'
+			nameTitle=''
+			nameMain='南宮浅'
+			desc='<ruby>南宮<rt>なんきゅう</rt></ruby>家の<ruby>庶子<rt>しょし</rt></ruby>。<br>彼の誕生は誰も望まぬものであり、その母親は<ruby>南宮遠<rt>なんきゅうえん</rt></ruby>に深く憎まれていた。<br>それに伴い<ruby>南宮浅<rt>なんきゅうせん</rt></ruby>も人に疎まれ、二公子でありながら、家での待遇は家来や下人にも劣る。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special103/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑い">
+		<Ch src='/images/characters/special103/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="汗顔">
+		<Ch src='/images/characters/special103/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special103/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="気まずい">
+		<Ch src='/images/characters/special103/nervous3.webp' position='center'/>
+		<ChName nameZh='気まずい' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special103/angry1.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="泣き">
+		<Ch src='/images/characters/special103/cry.webp' position='center'/>
+		<ChName nameZh='泣き' nameEn='Cry' position='right' />
+	</ChTab>
+	<ChTab title="落胆">
+		<Ch src='/images/characters/special103/cry2.webp' position='center'/>
+		<ChName nameZh='落胆' nameEn='Dejected' position='right' />
+	</ChTab>
+	<ChTab title="闇堕ち">
+		<Ch src='/images/characters/special103/special.webp' position='center'/>
+		<ChName nameZh='闇堕ち' nameEn='Darkened' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='キャラクター情報' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -49,14 +96,17 @@ aside: false
 					[南宮深](/ja/people/characters/special102) (兄)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 南宮世家の庶子。  
 その誕生は誰からも望まれたものではなく、母親は[南宮遠](/ja/people/characters/special101)に深く憎まれていた。  
 そのあおりで南宮浅も冷遇され、二公子でありながら、家での待遇は下男下女にすら及ばない。
+
+<div style="clear:both;"></div>
 
 ## 列伝
 

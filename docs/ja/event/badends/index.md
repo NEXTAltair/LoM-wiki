@@ -2596,8 +2596,35 @@ tags:
           <li>
             その後の<MarkdownWrapper>[鎮魂獄での拘留](/ja/event/simple/2-03-3-鎮魂獄羈押)</MarkdownWrapper>で、
             <MarkdownWrapper>[小梅の着替え](/ja/event/simple/2-03-3-鎮魂獄羈押#小梅更衣)</MarkdownWrapper>まで進んだとき、
+            道徳＜40、かつ性情≥60で、<br>
             👉「おとなしく俺にも見せろ！」を選び、ダイスで【🎲≥50 少し見えた】が出る。
           </li>
+        </td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.107">
+            <BadendIcon :no="107">生死簿 No.107</BadendIcon>
+        </td>
+        <td>
+            鳥に殺される (被鳥殺死)
+        </td>
+        <td>
+            あなたは千古で最初の、そして唯一の被害者だ。
+        </td>
+        <td>-</td>
+        <td>
+            <li>
+                🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学し、
+                🚩<MarkdownWrapper>[崆峒派への留学](/ja/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>で飛天門に入門。
+            </li>
+            <li>
+                <MarkdownWrapper>[鶴崖イベント集](/ja/event/simple/2-03-3-鶴崖事件集#解放条件)</MarkdownWrapper>の🚩「鶴崖を開放」後、
+                鶴崖のコマンドを選び、特殊イベントが発生しなかった。
+            </li>
+            <li>
+                <MarkdownWrapper>[火閃電に教えを請う](/ja/event/simple/2-03-3-向火閃電討教)</MarkdownWrapper>が発生したあと、決闘に敗北する。
+            </li>
         </td>
         <td>-</td>
     </tr>
@@ -2659,7 +2686,9 @@ tags:
             想うは公子の往時、小竹は嫁いだばかり、雄姿英発。<br>
             鉄鎚とマフラー、談笑のうちに、趙活は灰燼と消えた。
         </td>
-        <td>-</td>
+        <td>蘇軾「念奴嬌・赤壁懐古」:<br>
+            遥かに想う公瑾の当年、小喬初めて嫁し、雄姿英発。<br>
+            羽扇綸巾、談笑の処、強虜は灰飛煙滅す。</td>
         <td>
             <li>🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学する。</li>
             <li><Girl3Icon>虞小梅</Girl3Icon>ルートで<MarkdownWrapper>[郁竹の帰郷準備](/ja/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper>が発生する。</li>
@@ -2670,6 +2699,240 @@ tags:
                 続いて発生する🆚「戦：余公子」に勝利し、さらに🆚「戦：郁竹」に敗北する。
             </li>
         </td>
+        <td>-</td>
+    </tr>
+</Btable>
+
+## 生死簿 No.111 - 生死簿 No.120
+
+<Btable>
+    <tr>
+        <td>
+            エンディング番号
+        </td>
+        <td>
+            エンディング名
+        </td>
+        <td>
+            エンディング説明文
+        </td>
+        <td>
+            ネタバレ
+        </td>
+        <td>
+            達成条件
+        </td>
+        <td>
+            備考
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.111">
+            <BadendIcon :no="111">生死簿 No.111</BadendIcon>
+        </td>
+        <td>
+            試し斬りの犠牲者 (試劍的犧牲品)
+        </td>
+        <td>
+            良い剣は人を斬って血を吸わせて初めて刃が開く、と信じ込む狂人がいる。<br>
+            かくして通りすがりの不運なあなたは、命を犠牲にした。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.112">
+            <BadendIcon :no="112">生死簿 No.112</BadendIcon>
+        </td>
+        <td>
+            小梅の謀殺 (小梅的謀殺)
+        </td>
+        <td>
+            今日の小梅は悪い小梅だ。<br>
+            悪人は悪事を働いても眉一つ動かさない。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.113">
+            <BadendIcon :no="113">生死簿 No.113</BadendIcon>
+        </td>
+        <td>
+            国のために命を捧ぐ (為國捐軀)
+        </td>
+        <td>
+            しかし大宋の官家はあなたに感謝せず、<br>
+            誰もあなたを覚えていない。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.114">
+            <BadendIcon :no="114">生死簿 No.114</BadendIcon>
+        </td>
+        <td>
+            新必殺技の生贄 (新絕招的祭品)
+        </td>
+        <td>
+            新しい必殺技が世に出るたびに、取るに足りない雑魚が何人か斬られ、<br>
+            その技の凄さが示される。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.115">
+            <BadendIcon :no="115">生死簿 No.115</BadendIcon>
+        </td>
+        <td>
+            急死 (暴斃)
+        </td>
+        <td>
+            相手は肋骨が折れ、この戦いは負けだと思っていた。<br>
+            だがあなたは相手よりさらに無能で、その場で突然死した。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.116">
+            <BadendIcon :no="116">生死簿 No.116</BadendIcon>
+        </td>
+        <td>
+            猿も木から落ちる (人有失足)
+        </td>
+        <td>
+            金烏上人に勝ったあなたが、道端の山賊の手にかかって命を落とした。<br>
+            あの山賊たちはこれで江湖の伝説となり、<br>
+            それぞれ何人もの妻を娶って家名を揚げた。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.117">
+            <BadendIcon :no="117">生死簿 No.117</BadendIcon>
+        </td>
+        <td>
+            玄功門の変 (玄功門之變)
+        </td>
+        <td>
+            あなたは「玄功門の変」と呼ばれる崆峒の武装クーデター事件で命を落とし、<br>
+            数え切れない無名の犠牲者の一人となった。<br>
+            あなたの想い人は、あなたが彼女のために来たことを最後まで知らなかった。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.118">
+            <BadendIcon :no="118">生死簿 No.118</BadendIcon>
+        </td>
+        <td>
+            鞭打たれて死ぬ (鞭死)
+        </td>
+        <td>
+            荊紅はあなたを倒し、灯をともして初めて、<br>
+            斬り合っていた相手が夏侯蘭ではなく、<br>
+            あなたのような醜い代物だったと気づいた。<br>
+            激怒した彼女は、あなたの死体を鞭打ち、どろどろの血肉の塊に変わるまでやめなかった。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.119">
+            <BadendIcon :no="119">生死簿 No.119</BadendIcon>
+        </td>
+        <td>
+            最後の藁 (稻草)
+        </td>
+        <td>
+            あなたは崆峒山で魂を散らし、首は唐門への見せしめに送り返された。<br>
+            新旧の恨みが重なって師兄弟たちは理性を失い、<br>
+            崆峒に攻め上って共倒れとなり、眉山へ戻る道中で<br>
+            千灯楼に挟み撃ちされ、道半ばで全滅した。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.120">
+            <BadendIcon :no="120">生死簿 No.120</BadendIcon>
+        </td>
+        <td>
+            探検隊全滅 (探險隊全滅)
+        </td>
+        <td>
+            冒険とは、胸の高鳴りや血のたぎりだけではなく、危険も伴うものだ。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+</Btable>
+
+## 生死簿 No.121 - 生死簿 No.122
+
+<Btable>
+    <tr>
+        <td>
+            エンディング番号
+        </td>
+        <td>
+            エンディング名
+        </td>
+        <td>
+            エンディング説明文
+        </td>
+        <td>
+            ネタバレ
+        </td>
+        <td>
+            達成条件
+        </td>
+        <td>
+            備考
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.121">
+            <BadendIcon :no="121">生死簿 No.121</BadendIcon>
+        </td>
+        <td>
+            壁に激突して死ぬ (撞牆死)
+        </td>
+        <td>
+            あなたは壁にはまり込み、剥がしても取れなくなった。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.122">
+            <BadendIcon :no="122">生死簿 No.122</BadendIcon>
+        </td>
+        <td>
+            餓死
+        </td>
+        <td>
+            秘境に落ちた者のすべてに、生きて脱出する機会があるわけではない。<br>
+            たとえばあなたには、その運がなかった。
+        </td>
+        <td>-</td>
+        <td>-</td>
         <td>-</td>
     </tr>
 </Btable>

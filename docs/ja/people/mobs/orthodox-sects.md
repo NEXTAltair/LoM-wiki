@@ -122,7 +122,16 @@ tags:
 
 ### 好男人/葉辰B
 
-<img src="/images/mobs/qing-cheng-sect/trainee1_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="好男人/葉辰B">
+        <Ch src='/images/mobs/qing-cheng-sect/trainee1_normal.webp' position='center'/>
+        <ChName nameZh='好男人/葉辰B' nameEn='Hao Nan Ren / Ye Chen B' position='right' />
+    </ChTab>
+    <ChTab title="結印">
+        <Ch src='/images/mobs/qing-cheng-sect/trainee1_special1.webp' position='center'/>
+        <ChName nameZh='結印' nameEn='Hand Seal' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>南宮寿宴</td>
@@ -140,7 +149,16 @@ tags:
 
 ### 秋蝉子/梳雲
 
-<img src="/images/mobs/qing-cheng-sect/trainee2_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="秋蝉子/梳雲">
+        <Ch src='/images/mobs/qing-cheng-sect/trainee2_normal.webp' position='center'/>
+        <ChName nameZh='秋蝉子/梳雲' nameEn='Qiu Chan Zi / Shu Yun' position='right' />
+    </ChTab>
+    <ChTab title="技を受ける">
+        <Ch src='/images/mobs/qing-cheng-sect/trainee2_special1.webp' position='center'/>
+        <ChName nameZh='技を受ける' nameEn='Caught' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>練武場の乱闘</td>
@@ -248,7 +266,20 @@ tags:
 
 ### 懐素道人
 
-<img src="/images/mobs/qing-cheng-sect/daoshi1_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="懐素道人">
+        <Ch src='/images/mobs/qing-cheng-sect/daoshi1_normal.webp' position='center'/>
+        <ChName nameZh='懐素道人' nameEn='Huai Su Dao Ren' position='right' />
+    </ChTab>
+    <ChTab title="微笑">
+        <Ch src='/images/mobs/qing-cheng-sect/daoshi1_laugh.webp' position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="汗顔">
+        <Ch src='/images/mobs/qing-cheng-sect/daoshi1_nervous.webp' position='center'/>
+        <ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>青城留学<br>「懐素道人」</td>
@@ -258,7 +289,20 @@ tags:
 
 ### 不平道人
 
-<img src="/images/mobs/qing-cheng-sect/daoshi2_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="不平道人">
+        <Ch src='/images/mobs/qing-cheng-sect/daoshi2_normal.webp' position='center'/>
+        <ChName nameZh='不平道人' nameEn='Bu Ping Dao Ren' position='right' />
+    </ChTab>
+    <ChTab title="微笑">
+        <Ch src='/images/mobs/qing-cheng-sect/daoshi2_laugh.webp' position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="汗顔">
+        <Ch src='/images/mobs/qing-cheng-sect/daoshi2_nervous.webp' position='center'/>
+        <ChName nameZh='汗顔' nameEn='Sweating' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>青城留学<br>「不平道人」</td>
@@ -296,7 +340,16 @@ tags:
 
 ### 葉辰C
 
-<img src="/images/mobs/dian-cang-sect/trainee1_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="葉辰C">
+        <Ch src='/images/mobs/dian-cang-sect/trainee1_normal.webp' position='center'/>
+        <ChName nameZh='葉辰C' nameEn='Ye Chen C' position='right' />
+    </ChTab>
+    <ChTab title="負傷">
+        <Ch src='/images/mobs/dian-cang-sect/trainee1_hurt.webp' position='center'/>
+        <ChName nameZh='負傷' nameEn='Injured' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>南宮寿宴</td>
@@ -322,7 +375,16 @@ tags:
 
 ### 盧笛
 
-<img src="/images/mobs/dian-cang-sect/trainee3_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="盧笛">
+        <Ch src='/images/mobs/dian-cang-sect/trainee3_normal.webp' position='center'/>
+        <ChName nameZh='盧笛' nameEn='Lu Di' position='right' />
+    </ChTab>
+    <ChTab title="負傷">
+        <Ch src='/images/mobs/dian-cang-sect/trainee3_hurt.webp' position='center'/>
+        <ChName nameZh='負傷' nameEn='Injured' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>江陵救援<br>「盧笛」</td>

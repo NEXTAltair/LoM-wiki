@@ -9,7 +9,15 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="初識">
+	<ChTab title="葉雲舟？">
+		<ChMeet
+			src='/images/characters/girl_2/special2.webp'
+			nameMain='葉雲舟(?)'
+			desc='<ruby>点蒼<rt>てんそう</rt></ruby>派随一の<ruby>快剣<rt>かいけん</rt></ruby>使い、<ruby>蒼松剣客<rt>そうしょうけんかく</rt></ruby>……?'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="葉雲啾">
 		<ChMeet 
 			src='/images/characters/girl_2/special2.webp' 
 			nameMain='葉雲啾'
