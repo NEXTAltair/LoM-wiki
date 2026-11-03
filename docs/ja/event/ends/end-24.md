@@ -30,7 +30,7 @@ tags:
 
 1. 第三年十月中旬の武林大会で、<Girl8Icon>龍湘</Girl8Icon>好感≧30。[錦香宮の真相](/ja/event/simple/3-10-2-錦香真相#龍湘求助)で錦香宮が暴露された後、龍湘が助けを求めてきた時に**📖「周囲の冷たい視線を気にせず龍湘を受け入れる」**を選択すると、<Girl8Icon>龍湘</Girl8Icon>が唐門に加入。
 2. 第三年十二月上旬の最後の行動前に、西武林盟を成立させられない (条件は[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)を参照) 場合、[武林盟への対策](/ja/event/simple/3-12-1-武林盟對策)イベントに進む。
-3. 敵と隠居について投票を実施：[唐惟元](/ja/people/characters/brother4)が帰還した場合、[唐惟元](/ja/people/characters/brother4)の投票が追加される。唐黙鈴と婚約した場合、<Girl0Icon>唐黙鈴</Girl0Icon>の投票が追加される。
+3. 徹底抗戦か江湖引退かの投票を実施：[唐惟元](/ja/people/characters/brother4)が帰還した場合、[唐惟元](/ja/people/characters/brother4)の投票が追加される。唐黙鈴と婚約した場合、<Girl0Icon>唐黙鈴</Girl0Icon>の投票が追加される。
    + 主人公の決断：
      + **📜議題「決定：ぶちのめしてやる」**：決戦＋１票。
      + **📜議題「決定：江湖を去り隠遁する」**：江湖から引退＋１票。

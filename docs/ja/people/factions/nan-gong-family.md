@@ -53,11 +53,11 @@ tags:
 
 南宮世家は江陵府に位置し、「武林の心」と呼ばれ、江湖の調停役である。処世は最も公平公正で、大同を宿願とする。武林世家であり書香門第でもあり、武状元を輩出したこともあれば、武林盟主も出した。交友が広く、いかなる江湖の風波に見舞われようとも、数百年の長きにわたり不朽のまま聳え立つ。武林中で南宮の大名を知らぬ者なし。南宮世家に逆らえば、同時に八割の武林人を敵に回すと言われている。
 <br><br>
-一族の者は皆、肩甲と披風で身を飾り、威風凛々としている。これは彼らの誇り、独立した存在であることの証だ。歩くだけで人に刺さるほど。さらに腰帯に月牙型の尖刺を付ける者もあり、狂気の沙汰である。
+一族の者は皆、肩甲と披風で身を飾り、威風凛々としている。これは彼らの誇りであり、一人前である証だ。歩くだけで人に刺さるほど。さらに腰帯に月牙型の尖刺を付ける者もあり、狂気の沙汰である。
 <br><br>
 南宮家学は悠久綿長の防御戦略で知られており、[南宮風流扇](/ja/system/books/book_8008)は攻防一体、儒風深く、傲らず、気を落とさず、謙虚にして調和を成す。家伝の内功は護心を根本とし、玄関に意識を留め、思念を鎮める。「虚懐若谷、万物斉一」の境地を旨とするという。伝え聞くところでは、太上家主の[南宮横](/ja/people/characters/special104)は百歳にしてなお頭脳明晰、理路整然としており、これは[南宮心法](/ja/system/books/book_7012)の効能だという。
 <br><br>
-[唐門](/ja/people/factions/tang-men)とは世交で友好関係にある。[南宮遠](/ja/people/characters/special101)と[温夫人](/ja/people/characters/special402)の一段の往事により、[錦香宮](/ja/people/factions/jin-xiang-palace)との関係は相容れぬものとなっている。
+[唐門](/ja/people/factions/tang-men)とは世交で友好関係にある。[南宮遠](/ja/people/characters/special101)と[温夫人](/ja/people/characters/special402)の過去の因縁により、[錦香宮](/ja/people/factions/jin-xiang-palace)との関係は相容れぬものとなっている。
 <br clear="all">
 
 ## 家業と一族
@@ -98,9 +98,9 @@ tags:
 
 [南宮遠](/ja/people/characters/special101)はかつて[上官隼](/ja/people/characters/special407)の魔掌から、江湖一の美人である楽伎[温夫人](/ja/people/characters/special402)を救い、美人の心を獲得した。しかし南宮遠はその感情を拒絶し、重傷の友人[温無畏](/ja/people/characters/other13)に譲った。
 <br><br>
-[温無畏](/ja/people/characters/other13)の死後、南宮遠は自責の念に駆られ、贈り物を携えて[錦香宮](/ja/people/factions/jin-xiang-palace)を訪れた。鏡を取り戻すことを望まず、ただ償いたいだけだった。温夫人は惑乱の薬と琴の音で彼の心を乱し、彼を醜女と一夜の関係を持たせ、[南宮浅](/ja/people/characters/special103)が生まれた。数年後、その女は浅を連れて家に押し掛けたが、南宮遠はこれを好しとしなかった。
+[温無畏](/ja/people/characters/other13)の死後、南宮遠は自責の念に駆られ、贈り物を携えて[錦香宮](/ja/people/factions/jin-xiang-palace)に温夫人を訪ねた。よりを戻すつもりはなく、ただ償いたかった。温夫人は迷薬と琴の音で彼の心を乱し、醜女と一夜を共にさせた。こうして[南宮浅](/ja/people/characters/special103)が生まれた。数年後、その女が浅を連れて南宮家に入ったが、南宮遠は母子を疎んじた。
 <br><br>
-南宮遠は一日たりとも後悔しない時がなく、その時の言葉が本意でなかったと後悔している。だが温夫人の旧恨は消えず、二十年間[南宮世家](/ja/people/factions/nan-gong-family)と[錦香宮](/ja/people/factions/jin-xiang-palace)は不和である。
+南宮遠は、あのとき本心でもない言葉を口にしたことを、一日たりとも悔やまなかった日はない。だが温夫人の旧恨は消えず、二十年間[南宮世家](/ja/people/factions/nan-gong-family)と[錦香宮](/ja/people/factions/jin-xiang-palace)は不和である。
 
 ### 南宮深
 

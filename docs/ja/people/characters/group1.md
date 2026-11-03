@@ -10,11 +10,11 @@ tags:
 
 # {{ $frontmatter.title }}
 
-花城四少は[南宮深](/ja/people/characters/special102)と三〜五人の友人の総称で、花柳街の常連です。[南宮深](/ja/people/characters/special102)本人を除いて、それぞれ陳序、余自詠、成渓、公子秀です。
+花城四少は[南宮深](/ja/people/characters/special102)と三〜五人の友人の総称で、花柳街の常連である。[南宮深](/ja/people/characters/special102)本人を除く四人は、陳序、余自詠、成渓、公子秀。
 
 <br>
 
-陳序。[龍湘](/ja/people/characters/girl8)の廃寺イベントで会える。[錦香宮](/ja/people/factions/jin-xiang-palace)の費娘子とは昔からの付き合いがあり、さらに[全真教](/ja/people/factions/quan-zhen-sect)の道長の妻をそそのかし、さらには金国の『養龍苑』から来た売国奴です。[龍湘](/ja/people/characters/girl8)に遭い、手指を斬られ、石灰粉を灑いて眼を潰そうとしたが、一剣で刺殺される。
+陳序。[龍湘](/ja/people/characters/girl8)の廃寺イベントで会える。[錦香宮](/ja/people/factions/jin-xiang-palace)の費娘子と明らかに旧知の仲で、[全真教](/ja/people/factions/quan-zhen-sect)の道長の妻をたぶらかし、そのうえ金国の『養龍苑』出身の売国奴でもある。[龍湘](/ja/people/characters/girl8)に出くわして指を斬り落とされ、石灰粉を撒いて目を潰そうとしたが、一剣で刺し殺される。
 
 <br>
 

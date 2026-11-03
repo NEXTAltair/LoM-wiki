@@ -46,7 +46,7 @@ tags:
         <td>狄傲が女でも容赦しないので怯えていたが、趙活が標的になってようやく安心した。</td>
     </tr>
     <tr>
-        <td>廃廟ルート</td>
+        <td>廃寺ルート</td>
         <td>賊が唐門を夜襲した晩に女弟子室を見張っており、ノックせずに押し入ると殴り殺される。</td>
     </tr>
 </table>
@@ -56,7 +56,7 @@ tags:
 <img src="/images/mobs/tang-men/female/traineegirl2_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>廃廟ルート</td>
+        <td>廃寺ルート</td>
         <td>賊が唐門を夜襲した晩に女弟子室を見張っており、ノックせずに押し入ると殴り殺される。</td>
     </tr>
     <tr>
@@ -90,7 +90,7 @@ tags:
 <img src="/images/mobs/tang-men/female/traineegirl10_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>廃廟ルート</td>
+        <td>廃寺ルート</td>
         <td>賊が唐門を夜襲した晩に厨房を見張っていたが、それに乗じてつまみ食いをし、美味しいものを食べ尽くして侵入者のせいにしようとした。趙活に見つかると、趙活を共犯に仕立てる。<br>梁から落ちて侵入者を圧死させ、血を見て少し慌てたが、後で自分の血ではないと気づいた。</td>
     </tr>
 </table>
@@ -127,7 +127,7 @@ tags:
     </tr>
     <tr>
         <td>最後の段階試験</td>
-        <td>趙活が試験官を務めた時、指導において優れた水準を発揮し、師弟妹たちは感服し、恋心さえ芽生えた。</td>
+        <td>趙活が試験官を務めたときに見事な指導ぶりを見せたので、師弟・師妹たちはすっかり感服し、恋心を抱く者まで出た。</td>
     </tr>
     <tr>
         <td>裏山告白事件</td>
@@ -165,7 +165,7 @@ tags:
 <img src="/images/mobs/tang-men/female/traineegirl9_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>廃廟ルート</td>
+        <td>廃寺ルート</td>
         <td>賊が唐門を夜襲した晩に女弟子室を見張っており、ノックせずに押し入ると殴り殺される。</td>
     </tr>
     <tr>

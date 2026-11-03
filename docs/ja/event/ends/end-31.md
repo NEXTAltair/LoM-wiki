@@ -35,7 +35,7 @@ tags:
 
 ### 二、門人解散
 1. 第三年十二月上旬の最後の行動前に、西武林盟を成立させられない (条件は[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)を参照) 場合、[武林盟への対策](/ja/event/simple/3-12-1-武林盟對策)イベントに進む。
-2. 敵と隠居について投票を実施：[唐惟元](/ja/people/characters/brother4)が帰還した場合、[唐惟元](/ja/people/characters/brother4)の投票が追加される。
+2. 徹底抗戦か江湖引退かの投票を実施：[唐惟元](/ja/people/characters/brother4)が帰還した場合、[唐惟元](/ja/people/characters/brother4)の投票が追加される。
    + 主人公の決断：
      + **📜議題「決定：ぶちのめしてやる」**：決戦＋１票。
      + **📜議題「決定：江湖を去り隠遁する」**：江湖から引退＋１票。

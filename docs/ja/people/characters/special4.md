@@ -105,12 +105,12 @@ aside: false
 -   [阿叔](/ja/people/characters/other17)の関係で、[丐幇](/ja/people/factions/beggar-gang)旧派の打手として飼われ、表面的には従順だが、それでも彼女は老犬阿花への仇を報いたいと思っている。
 -   分舵主、[幇主](/ja/people/characters/special401)、および[龍大叔](/ja/people/characters/special2)にわずかながら武功を教わった。
 -   多くの犬を飼うようになり、飼料費を補うために[李富貴](/ja/people/characters/special809)と一緒に[飛石幇](/ja/people/factions/flying-stone-gang)でバイトして稼いだ。
--   救いようのないルートで、舵主は彼女が[唐門](/ja/people/factions/tang-men)のために総舵で暴れることを恐れて、虚の官職を作って『弼狗温』と名づけた。主に[丐幇](/ja/people/factions/beggar-gang)の各分舵を訪れて野良犬保護施設を開設し、これからは犬肉を食べるべきではないと宣導しており、彼女は大いに張り切っている。
+-   救いようのないルートで、舵主は彼女が[唐門](/ja/people/factions/tang-men)のために総舵で暴れることを恐れて、名ばかりの役職を作って『弼狗温』と名付けた。もっぱら[丐幇](/ja/people/factions/beggar-gang)の各分舵を回って野良犬の保護施設を開き、今後は犬肉を食べないよう説いて回る役目で、本人は大いに張り切っている。
 
 ## 雪山派
 
 -   もし[趙活](/ja/people/characters/player)が[夏侯蘭](/ja/people/characters/girl5)を師とすれば、狂犬を[雪山派](/ja/people/factions/mount-snow-sect)に入門させるチャンスがある。これが唯一、狂犬が女だと知ることができるルートだ。
--   雪山行の前に、[夏侯蘭](/ja/people/characters/girl5)は[李富貴](/ja/people/characters/special809)が彼女に特別な世話をしており、身の回りに一群の犬がいたが、すべて連れていくわけにはいかず、招かなかった。
+-   雪山行の前に、[夏侯蘭](/ja/people/characters/girl5)は、[李富貴](/ja/people/characters/special809)が彼女を格別に気にかけていることと、彼女の周りにいる大勢の犬を全部は連れて行けないことを考えて、彼女を誘わなかった。
 -   公式の「想い人のための色紙を送る」投票活動の雪山派後日談ビデオに、雪山派師妹の身分で出場し、[趙活](/ja/people/characters/player)と戯れている。[^1]
 
 ## 備考

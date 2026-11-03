@@ -17,10 +17,10 @@ tags:
 
 <img width="720" src="/images/badends/badend14.webp">
 
-## 条件と流程
+## 条件と流れ
 
 <b>条件：</b>崆峒派に留学<br>
-<b>流程：</b><br>
+<b>流れ：</b><br>
 
 ### １、舞台で殴り殺される
 

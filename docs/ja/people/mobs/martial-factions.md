@@ -15,7 +15,7 @@ tags:
 <img src="/images/mobs/beggar-gang/beggar1_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>葉兄妹の登山<br>「花二爺」</td>
+        <td>葉氏兄妹の唐門入り<br>「花二爺」</td>
         <td>宿屋で趙活に状況を説明してくれる乞食。<br>丐幇との好感度が高いと、青菜の奪い合いの喧嘩で顔なじみになっており、大義分舵の花姓の人物で、幇主の指示を受けて密かに場を仕切っていると分かる。</td>
     </tr>
     <tr>
