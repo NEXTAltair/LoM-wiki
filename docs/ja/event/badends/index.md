@@ -2738,7 +2738,14 @@ tags:
             かくして通りすがりの不運なあなたは、命を犠牲にした。
         </td>
         <td>-</td>
-        <td>-</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学</li>
+            <li>🚩鉄拳巷を訪れた回数≥4</li>
+            <li><Girl6Icon>郁竹</Girl6Icon>好感≥20</li>
+            <li>🚩神兵帖の進行度=0 (<MarkdownWrapper>[神兵帖シリーズイベント](/ja/event/simple/2-05-3-神兵帖系列事件)</MarkdownWrapper>を参照)</li>
+            <li>2年目5月下旬から6月中旬に「鉄拳巷」コマンドを選び、<MarkdownWrapper>[「神兵会の招待状」](/ja/event/simple/2-05-3-神兵會請帖)</MarkdownWrapper>イベントが発生する</li>
+            <li>イベント中の対決 🆚「鍛冶屋と戦う」で敗北する</li>
+        </td>
         <td>-</td>
     </tr>
     <tr>
