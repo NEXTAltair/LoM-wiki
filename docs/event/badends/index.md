@@ -906,7 +906,7 @@ tags:
                 <Girl3Icon>虞小梅</Girl3Icon>好感≥30，
                 第二年七月中旬自動觸發<MarkdownWrapper>[「惡霸虞小梅」](/event/simple/2-07-2-惡霸虞小梅)</MarkdownWrapper>。<br>
                 事件中<MarkdownWrapper>[「翟老漢登場」](/event/simple/2-07-2-惡霸虞小梅#翟老漢登場)</MarkdownWrapper>後，
-                選擇👉「我要打他」，且擲骰到【🎲≥50 平常小梅】，觸發對決後落敗。
+                擲骰到【🎲≥50 平常小梅】，觸發對決後落敗。
             </li>
             <li>第三年一月上旬，與大師兄下山，回城的時候與鐵匠決鬥戰敗。（需要<Girl3Icon>小梅</Girl3Icon>沒有加入唐門)</li>
         </td>
