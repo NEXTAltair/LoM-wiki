@@ -57,12 +57,12 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    <MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper> (甥弟子)
+                    <MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper> (師甥)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    <MarkdownWrapper>[唐錚](/ja/people/characters/brother2)</MarkdownWrapper> (甥弟子、弟子)
+                    <MarkdownWrapper>[唐錚](/ja/people/characters/brother2)</MarkdownWrapper> (師甥、弟子)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -81,7 +81,7 @@ tags:
 ## 開発
 - [八仙指](/ja/system/books/book_6012)：
   - 必要条件：医術LV3
-  - 唐芬が青城《八仙剣法》の五行学説に基づき、五毒をもってこれに替え、唐門の医・毒二術を隠含させて創成した独門武功。
+  - 唐芬が青城派の《八仙剣法》の五行説をもとに五毒へ置き換え、唐門の医術・毒術を織り込んで編み出した独自の武功。
 - 中薬蜜餞：
   - [唐芳](/ja/people/characters/special832)の姉が考案した甘味。川貝母・枇杷葉・甘草・白芍・蜂蜜・桔梗・三陰虫草膠で漬けた蜜餞である。
   - 熱を冷まし出血を止める効能があり、喉の痛みや咳の治療によく使われるうえ、とても美味しい。子供をなだめる切り札で、二師兄は幼い頃にこれで虫歯になった。
@@ -97,13 +97,13 @@ tags:
 ## 医術と毒術
 - [唐芳](/ja/people/characters/special832)の話によれば、[唐門](/ja/people/factions/tang-men)の医術の継承は次のとおり。
     - [唐鹿](/ja/people/characters/other10)⮕唐芬⮕[唐錚](/ja/people/characters/brother2)⮕[唐芳](/ja/people/characters/special832)
-- [八仙指](/ja/system/books/book_6012)を創成しており、唐門の医・毒二術に通じていた。
+- [八仙指](/ja/system/books/book_6012)を編み出しており、唐門の医術・毒術に通じていた。
 - [唐錚](/ja/people/characters/brother2)に医術を教えた。
 
 ## 人間関係
 
 ### 唐布衣
- - [唐布衣](/ja/people/characters/brother1)は[趙活](/ja/people/characters/player)に、自分と[唐錚](/ja/people/characters/brother2)がかつて本門の美しい小師姑に想いを寄せていたと話す。名前を言いかけたところで[唐錚](/ja/people/characters/brother2)が激怒して遮り、[唐黙鈴](/ja/people/characters/girl0)を驚かせた。[唐芳](/ja/people/characters/special832)は姉の唐芬を「小師姑」と呼んでいる。
+ - [唐布衣](/ja/people/characters/brother1)は[趙活](/ja/people/characters/player)に、自分と[唐錚](/ja/people/characters/brother2)がかつて唐門の美しい小師姑に想いを寄せていたと話す。名前を言いかけたところで[唐錚](/ja/people/characters/brother2)が激怒して遮り、[唐黙鈴](/ja/people/characters/girl0)を驚かせた。[唐芳](/ja/people/characters/special832)は姉の唐芬を「小師姑」と呼んでいる。
     - [唐錚](/ja/people/characters/brother2)と[唐布衣](/ja/people/characters/brother1)は仲が良かったが、[唐布衣](/ja/people/characters/brother1)が反抗的になってからは、二人はそれほど親しくなくなった。
 
 ### 唐錚

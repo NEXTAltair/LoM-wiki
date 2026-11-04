@@ -896,10 +896,10 @@ tags:
             <li>
                 🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学し、
                 🚩<MarkdownWrapper>[崆峒派への留学](/ja/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>で飛天門に入門。<br>
-                <Girl3Icon>虞小梅</Girl3Icon>好感≥30 で、
-                2年目7月中旬に<MarkdownWrapper>[「横暴な虞小梅」](/ja/event/simple/2-07-2-惡霸虞小梅)</MarkdownWrapper>が自動で発動する。<br>
-                イベント中の<MarkdownWrapper>[「翟老漢の登場」](/ja/event/simple/2-07-2-惡霸虞小梅#翟老漢登場)</MarkdownWrapper>のあと、
-                👉「殴ってやる」を選び、ダイスが【🎲≥50 いつもの小梅】になると決闘になり、それに敗北する。
+                🚩<MarkdownWrapper>[鶴が外出する](/ja/event/simple/2-03-2-鶴手出遊)</MarkdownWrapper>で<Girl3Icon>虞小梅</Girl3Icon>と知り合い、好感≥30 で
+                2年目7月中旬に<MarkdownWrapper>[「横暴な虞小梅」](/ja/event/simple/2-07-2-惡霸虞小梅)</MarkdownWrapper>が自動発動する。<br>
+                イベント中の<MarkdownWrapper>[「翟老漢の登場」](/ja/event/simple/2-07-2-惡霸虞小梅#翟老漢登場)</MarkdownWrapper>で
+                【🎲≥50 「証拠はあるが、やっぱり殴って吐かせる」いつもの小梅】を引き、続く決闘で敗北する。
             </li>
             <li>3年目1月上旬に唐布衣と下山し、街へ戻る途中で鍛冶屋との決闘に敗北する（<Girl3Icon>小梅</Girl3Icon>が唐門に加わっていないことが必要）</li>
         </td>
@@ -2775,7 +2775,7 @@ tags:
             <li>その旬のうちに自分から鉄拳巷へ行って<MarkdownWrapper>[「郁竹の悩み」](/ja/event/simple/2-05-3-郁竹的煩惱)</MarkdownWrapper>を発生させない</li>
             <li>
                 翌旬の行動回数≤2 のときに<MarkdownWrapper>[「崆峒の神雷剣」](/ja/event/simple/2-06-1-崆峒神雷劍)</MarkdownWrapper>が自動で発動し、<br>
-                イベント中のダイスが【🎲＜30 わっ!!】になる
+                イベント中のダイスで【🎲＜30 「わっ！！」】を引く
             </li>
         </td>
         <td>
