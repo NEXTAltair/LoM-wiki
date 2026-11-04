@@ -900,7 +900,15 @@ tags:
             -
         </td>
         <td>
-            第三年一月上旬，與大師兄下山，回城的時候與鐵匠決鬥戰敗。（需要<Girl3Icon>小梅</Girl3Icon>沒有加入唐門）
+            <li>
+                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>
+                且🚩<MarkdownWrapper>[入飛天門](/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>，<br>
+                <Girl3Icon>虞小梅</Girl3Icon>好感≥30，
+                第二年七月中旬自動觸發<MarkdownWrapper>[「惡霸虞小梅」](/event/simple/2-07-2-惡霸虞小梅)</MarkdownWrapper>。<br>
+                事件中<MarkdownWrapper>[「翟老漢登場」](/event/simple/2-07-2-惡霸虞小梅#翟老漢登場)</MarkdownWrapper>後，
+                選擇👉「我要打他」，且擲骰到【🎲≥50 平常小梅】，觸發對決後落敗。
+            </li>
+            <li>第三年一月上旬，與大師兄下山，回城的時候與鐵匠決鬥戰敗。（需要<Girl3Icon>小梅</Girl3Icon>沒有加入唐門)</li>
         </td>
         <td>
             -
@@ -2782,8 +2790,24 @@ tags:
             壞人做壞事根本不皺一下眉頭。
         </td>
         <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper></li>
+            <li>🚩<MarkdownWrapper>[神兵帖進度=1](/event/simple/2-05-3-神兵會請帖)</MarkdownWrapper></li>
+            <li>達成🚩被郁竹無視次數(見備註)≥2</li>
+            <li>一旬內未主動前往鐵拳巷觸發<MarkdownWrapper>[「郁竹的煩惱」](/event/simple/2-05-3-郁竹的煩惱)</MarkdownWrapper></li>
+            <li>
+                下一旬行動次數≤2時，自動觸發<MarkdownWrapper>[「崆峒神雷劍」](/event/simple/2-06-1-崆峒神雷劍)</MarkdownWrapper>，<br>
+                事件中擲骰到【🎲＜30 哇】
+            </li>
+        </td>
+        <td>
+            <li>
+                🚩被郁竹無視次數:<br>
+                在觸發🚩<MarkdownWrapper>[「郁竹想打造神兵」](/event/simple/2-05-3-神兵會請帖#神兵會請帖)</MarkdownWrapper>後，<br>
+                <MarkdownWrapper>[「鐵拳巷打鐵」](/system/training/)</MarkdownWrapper>指令新增的<br>
+                「郁竹鍛劍」事件中可增加。
+            </li>
+        </td>
     </tr>
     <tr>
         <td id="生死簿-No.113">
