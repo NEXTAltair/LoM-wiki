@@ -607,6 +607,7 @@ aside: false
         -   <MarkdownWrapper>||しかし小竹の杞憂だったようで、この槌は大多数の人には持ち上げることすらできず、盗むなど論外である。||</MarkdownWrapper>
 -   これまでで最も強力な武器は虎戦車と火箭飛拳。未実装の内容にはさらに凶悪な武器もある。[^3]
     -   <MarkdownWrapper>||江陵包囲戦の間、密かに機関虎戦車を造り、戦いに投入した。||</MarkdownWrapper>
+        -   <MarkdownWrapper>||虎戦車の着想は、第二次世界大戦でドイツが使った戦車ティーガー（中国語では虎式坦克）から来ているのかもしれない。||</MarkdownWrapper>
         -   <MarkdownWrapper>||虎戦車は火を噴き、自動で前進する。文字どおりの自走砲である。||</MarkdownWrapper>
         -   <MarkdownWrapper>||虎戦車を開発していた場合、武林盟との戦いでは強化版の二号機を開発する。||</MarkdownWrapper>
 -   小梅の[玉霄神匕](/ja/system/forge-roadmap#玉霄神匕)は、小竹が作って贈ったものである。
