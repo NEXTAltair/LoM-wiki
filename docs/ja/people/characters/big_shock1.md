@@ -76,9 +76,9 @@ tags:
 
 もともと[滄幇](/ja/people/factions/cang-gang)の人間で、気性が荒く凶暴だった。岷江から船で蜀中に来たが、米が湿気を帯びて赤くなったことで仲間と揉めて船を下りた。その後、魚を何匹か捕まえて売ったが、[滄幇](/ja/people/factions/cang-gang)でしか通用しないような法外な高値をつけていたため、[福韞](/ja/people/characters/special206)に咎められるところを[趙活](/ja/people/characters/player)に目撃された。
 <br><br>
-選択肢によっては、[唐門](/ja/people/factions/tang-men)に入門して名を唐大鯨と改めたり、[趙活](/ja/people/characters/player)を舎弟と認めたりし、戦役にも参戦する。
+選択肢によっては、[唐門](/ja/people/factions/tang-men)に入門して名を唐大鯨と改め、[趙活](/ja/people/characters/player)の弟分となって戦役にも参戦する。
 <br><br>
-[葉雲裳](/ja/people/characters/girl2)をひどく恐れており、何か食べ物があるとすぐに奪われてしまう。口を開けば「お嬢様」と頭が上がらず、散々しごかれている様子がうかがえる。
+[葉雲裳](/ja/people/characters/girl2)をひどく恐れており、何か食べ物があるとすぐに奪われてしまう。口を開けば「お嬢様」と頭が上がらず、散々な目に遭わされている様子がうかがえる。
 
 ## 性格と特質
 

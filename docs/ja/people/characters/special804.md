@@ -64,7 +64,7 @@ tags:
 
 -   [郁竹](/ja/people/characters/girl6)がかつて前掌門に贈った肩叩き券を持っている。
 -   がさつで豪快な男だが、人柄は実直で、[郁竹](/ja/people/characters/girl6)をとても可愛がっている。小竹は崆峒にいればいずれ短気な前掌門に殴り殺されると思い、小竹が逃げ帰ろうとしたときには見て見ぬふりをした。
--   [郁竹](/ja/people/characters/girl6)の家族には、小竹は江陵包囲戦で戦死したと嘘をつき、[郁父](/ja/people/characters/special838)に銀三十両を渡して小竹の命を買い取った。さらに江陵にいる地護法・[童大虫](/ja/people/characters/trainee214)に手紙を書き、戦死という嘘の辻褄を合わせるため「一人殺してくれ」と託して小竹を鉄拳門から破門させ、崆峒に戻って辛い思いをしないよう取り計らった。
+-   [郁竹](/ja/people/characters/girl6)の家族には、小竹は江陵包囲戦で戦死したと嘘をつき、[郁父](/ja/people/characters/special838)に銀三十両を渡して小竹の命を買い取った。さらに江陵にいる地護法・[童大虫](/ja/people/characters/trainee214)に手紙で「一人殺してくれ」と頼んで小竹を鉄拳門から破門させ、崆峒に戻って辛い思いをしないよう取り計らった。
 -   [郁父](/ja/people/characters/special838)が次女の[郁宝花](/ja/people/characters/special840)を売り飛ばしたと聞くと、すぐに銀十五両で買い取って鉄拳門の嫡伝女弟子にし、郷里の人々をごまかした。
 -   [郁竹](/ja/people/characters/girl6)が家族のために崆峒に戻って辛い思いをすることに憤っている。
 
