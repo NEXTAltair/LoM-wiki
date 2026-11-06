@@ -30,6 +30,16 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
+					[段純青](/ja/people/characters/other15) (火炎山総鍛長)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[来新子](/ja/people/characters/other20) (火炎山第二炉鍛長)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
 					[鉄飛鷹](/ja/people/characters/blacksmith5) (弟弟子)
 				</ChTd>
 			</ChTr>
@@ -57,7 +67,7 @@ tags:
 -   道徳は中庸だが、人柄に問題がある。
 -   <BadendIcon :no="111">試し斬りの犠牲者</BadendIcon>の文面は、鉄飛龍を狂人だと言い切っている。
 
-## 凝雪
+## 宝剣・凝雪
 
 -   凝雪は鉄飛龍が鋳た宝剣で、見た目は素朴だが品質は優れており、鉄をも泥のように断つ。
 -   [郁竹](/ja/people/characters/girl6)も、欠点の見つからない宝剣だと認めている。
@@ -85,9 +95,9 @@ tags:
 
 -   [趙活](/ja/people/characters/player)と[郁竹](/ja/people/characters/girl6)が武林大会へ向かう道中、火炎山剣閣の総炉鍛長[段純青](/ja/people/characters/other15)に出会う。
 -   [段純青](/ja/people/characters/other15)は、本来は鉄飛龍と[鉄飛鷹](/ja/people/characters/blacksmith5)に外の世界を見せるつもりだったが、出かけた先でずっと問題を起こすとは思わなかったと打ち明ける。
-    -   中原の顧客が七割も減り、剣閣に押しかけて説明を求める者までいた。
+    -   中原の顧客が七割も減り、[火炎山剣閣](/ja/people/factions/mount-fire-palace)に押しかけて説明を求める者までいた。
 -   鉄飛龍と[鉄飛鷹](/ja/people/characters/blacksmith5)がかけた迷惑について、[段純青](/ja/people/characters/other15)は[趙活](/ja/people/characters/player)と[郁竹](/ja/people/characters/girl6)に詫び、罪滅ぼしとして鉄剣令を贈る。
 
 ## 備考
 
--   以前の版で千灯楼の魔手にかかった鍛冶師には名前がなく、立ち絵も今の鉄飛龍ではなかった。
+-   以前の版で千灯楼の魔手にかかった鍛冶師には名前がなく、立ち絵も今の鉄飛龍ではなく[段純青](/ja/people/characters/other15)のものだった。
