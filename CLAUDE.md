@@ -136,9 +136,17 @@ Read them before writing an event page and before writing any TODO that calls so
 unverified — the `lom-data-mining` skill covers what is in each and how to read it.
 
 A "TODO: ... は未確認" that either source already answers is a defect, not a record of
-research. Speculation ("〜と推定", "正体は〜の可能性が高い") never goes on a published
-page — verify it, or leave it out. Unresolved items are tracked in the memo
-(`tools/ja-fix-notes-template.md`), not as guesses in the published text.
+research. Speculation about anything the game itself can confirm — a trigger, a branch, an
+effect, who a character really is, what happens in a scene ("〜と推定", "正体は〜の可能性が高い")
+— never goes on a published page: verify it, or leave it out. Unresolved items are tracked in
+the memo (`tools/ja-fix-notes-template.md`), not as guesses in the published text.
+
+Where something comes from outside the game (元ネタ: the work, idiom, historical figure, or
+person a name, term, design, or scene may be borrowing from) is the exception. A plausible
+source may be published without developer confirmation, written as a possibility
+(「〜から来ているのかもしれない」) together with the point of resemblance, never as fact. The
+zh-TW pages hedge these with 「可能」; translate such lines instead of dropping them. The
+research procedure is in the `lom-data-mining` skill.
 
 Branches the game data defines but never surfaces are an exception worth publishing — they
 are facts about the data, not guesses. Mark them inline where they occur with the `🚧未実装`
