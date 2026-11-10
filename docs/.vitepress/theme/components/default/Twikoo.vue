@@ -15,10 +15,21 @@ const TWIKOO_LANGS = {
 	ja: "ja",
 };
 
+// 同一页可以用带 .html 和不带 .html 的网址打开 (GitHub Pages 两种都能开),
+// 统一成带 .html 的形式, 留言和阅读数才不会被拆成两份; 离线版 (file:) 不处理
+function commentPath() {
+	const { protocol, pathname } = window.location;
+	if (protocol === "file:") return pathname;
+	if (pathname.endsWith("/index.html")) return pathname.slice(0, -"index.html".length);
+	if (pathname.endsWith("/") || pathname.endsWith(".html")) return pathname;
+	return pathname + ".html";
+}
+
 function initTwikoo() {
 	try {
 		twikoo.init({
 			envId,
+			path: commentPath(),
 			lang: TWIKOO_LANGS[localeIndex.value] || "zh-TW",
 			onCommentLoaded: initLightGallery,
 		});
@@ -112,7 +123,7 @@ onMounted(() => {
 		<div id="twikoo"></div>
 		<component
 			:is="'script'"
-			src="https://cdn.jsdelivr.net/npm/twikoo@1.6.39/dist/twikoo.min.js"
+			src="https://cdn.jsdelivr.net/npm/twikoo@2.0.17/dist/twikoo.min.js"
 			crossorigin="anonymous"
 			ref="twikooJs"
 		></component>

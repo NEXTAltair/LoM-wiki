@@ -493,12 +493,11 @@ tags:
     <td style="text-align: center">上</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-			[江陵決戰準備](/event/simple/2-10-1-江陵決戰準備)<br>
 			[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)<br>
-            小梅襄陽行<br>
 			[江陵決戰](/event/simple/2-10-1-江陵決戰)<br>
 			[南宮訃音](/event/simple/2-10-1-南宮訃音)<br>
 			[返回唐門](/event/simple/2-10-1-返回唐門)<br>
+            [襄陽行](/event/simple/2-10-1-襄陽行)<br>
         </MarkdownWrapper>
     </td>
     <td style="text-align: center">
@@ -537,7 +536,6 @@ tags:
 		</MarkdownWrapper>        
     </td>
 </tr>
-
 <tr>
     <td style="text-align: center">下</td>
     <td style="text-align: center">
@@ -819,8 +817,8 @@ tags:
 			<td>
 				<MarkdownWrapper>
                     [武林大會](/event/simple/3-10-2-武林大會)<br>
-                    [武林大會篇](/event/detailed_description/3-08-2-武林大會)<br>
-                    [客棧歸途篇](/event/detailed_description/3-10-2-客棧歸途)<br>
+                    📜[武林大會篇](/event/detailed_description/3-08-2-武林大會)<br>
+                    📜[客棧歸途篇](/event/detailed_description/3-10-2-客棧歸途)<br>
                 </MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -906,7 +904,7 @@ tags:
           [特訓段考](/event/simple/3-12-1-特訓段考)<br>
           [集思廣益](/event/simple/3-12-1-集思廣益)<br>
           [武林盟對策](/event/simple/3-12-1-武林盟對策)<br>
-          [眾人的決策](/event/detailed_description/3-12-1-眾人的決策)<br>
+          📜[眾人的決策](/event/detailed_description/3-12-1-眾人的決策)<br>
       </MarkdownWrapper>    
   </td>
 </tr>
@@ -1080,6 +1078,7 @@ tags:
 
 ## 備註
 - 無可救藥線(Demo線)許多事件與主線相似，故事件名加入"Demo"區分。
+- 標示 📜 代表跨事件的劇情攻略。
 - 標示 🚧 代表事件未實裝，在遊戲資料中存在，但現版本不會觸發。
 - 事件腳本中常涉及的隱藏參數，請見[隱藏參數列表](/system/hidden-params)。
 - 本條目參考[活俠傳資料彙總](https://docs.google.com/spreadsheets/u/1/d/10wN_Kfusr5ipzXVzvNewsPHmn3HNCNUtqME26t94I4o)、[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)、[活俠傳事件分岐資料庫](https://mortal-web-database.vercel.app/)撰寫。
