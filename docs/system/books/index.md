@@ -520,7 +520,15 @@ tags:
         <td>體力5<br>侵掠如火<br>戰術LV1</td>
         <td>25</td>
         <td></td>
-        <td>二年崆峒派留學－窩居隨機，戰勝宋兵獲得<br>二年崆峒派留學－崆峒探險隊養成事件至玄功藏經洞，擲骰【🎲≧90 小梅】時隨機獲得<br>圍城事件中得知大師兄伐金，選跟去被打昏後獲得<br>三年四月上旬－四師兄買物($900)</td>
+        <td>
+            <li>二年崆峒派留學－窩居隨機，戰勝宋兵獲得</li>
+            <li>二年崆峒派留學－崆峒探險隊養成事件至玄功藏經洞，擲骰【🎲≧90 小梅】時隨機獲得</li>
+            <li>圍城事件中得知大師兄伐金，選跟去被打昏後獲得</li>
+            <li>🚧第二年十月上旬<MarkdownWrapper>[襄陽行](/event/simple/2-10-1-襄陽行)</MarkdownWrapper>席間
+                <MarkdownWrapper>[問「孟仙謠的侍衛」](/event/simple/2-10-1-詢問孟仙謠#問丁護衛)</MarkdownWrapper>時，
+                孟仙謠好感≥2贈送(v1.0.6001.0: 無法達成，因劇本階段設定關係，此時孟仙謠好感最高僅1)。</li>
+            <li>三年四月上旬－四師兄買物($900)</li>
+        </td>
         <td>900</td>
     </tr>
     <tr>
@@ -544,7 +552,17 @@ tags:
         <td>體力5<br>內力10<br>防禦10<br>陰陽靠中</td>
         <td>50</td>
         <td></td>
-        <td>圍城事件－外出練拳南宮深贈送（處世≧中庸）<br>三年四月上旬－四師兄買物($1500)</td>
+        <td>
+            <li>
+                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>。
+                <MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper>時，未與南宮橫出城。<br>
+                滿足「心上人非<Girl3Icon>虞小梅</Girl3Icon>，或無🚩<MarkdownWrapper>[小梅送行](/event/simple/2-08-1-馳援南宮)</MarkdownWrapper>」，
+                且處世≥40，且南宮深好感≥15，<br>
+                且「<Girl6Icon>郁竹</Girl6Icon>好感＜40，或心上人非郁竹，或無🚩<MarkdownWrapper>[郁竹送行](/event/simple/2-08-1-馳援南宮)</MarkdownWrapper>」。<br>
+                睡不著時選擇「打拳散心」，自動觸發南宮深贈笈劇情後獲得。
+            </li>
+            <li>三年四月上旬－四師兄買物($1500)</li>
+        </td>
         <td>1500</td>
     </tr>
     <tr>
@@ -736,7 +754,12 @@ tags:
         <td>學問12<br>性情+10<br>戰術LV2<br>思想戰LV1</td>
         <td>80</td>
         <td></td>
-        <td>襄陽行－孟珙好感≧3時獲得</td>
+        <td>
+            <li>
+                <MarkdownWrapper>[觸發襄陽行](/event/simple/2-10-1-襄陽行#觸發條件)</MarkdownWrapper>，
+                於<MarkdownWrapper>[襄陽行歸途](/event/simple/2-10-1-失戀歸途#孟珙送行)</MarkdownWrapper>時，孟珙好感≧3獲得
+            </li>
+        </td>
         <td></td>
     </tr>
     <tr>

@@ -418,6 +418,87 @@ const baseConfig = {
 				appId: process.env.ALGOLIA_ID,
 				apiKey: process.env.ALGOLIA_KEY,
 				indexName: "LoM_wiki",
+
+				// 讓 DocSearch 真的把點擊事件送回 Algolia。
+				// 這個選項沒有寫在 DocSearch v3 的官方 API 文件上,但
+				// @docsearch/react 3.6.0 支援,開啟後 autocomplete-core 會自動
+				// 註冊 insights plugin。搭配 theme/script/searchInsights.js
+				// 預掛的 window.aa,就不會去 jsDelivr 抓 search-insights。
+				insights: true,
+
+				// DocSearch 會用 hierarchy.lvl0 把結果分組,每組預設只顯示 5 筆
+				// (@docsearch/react 的 utils/groupBy.js:`maxResultsPerGroup || 5`)。
+				// Algolia 的 lvl0 是 scraper 從側邊欄抓的小節,夠細,結果會散在好幾組;
+				// Pagefind 沒有這個概念,只能用路徑第一層推,於是常常 20 筆全部落在
+				// 同一組、只看得到 5 筆。放寬到 10 筆比較實用,而且不會多打任何請求
+				// (hitsPerPage 本來就是 20)。
+				maxResultsPerGroup: 10,
+
+				/**
+				 * 省 Algolia 免費額度。Algolia 是「每個按鍵算一次 search request」計費,
+				 * 而 DocSearch 3.x 本身完全沒有 debounce;中文更慘,IME 組字期間瀏覽器
+				 * 照樣會發 input 事件,打「襄陽」(xiangyang) 等於 9 次請求。不處理的話
+				 * 免費方案的每月 10000 次很快就會見底。
+				 *
+				 * 注意:這個函式會被 VitePress 序列化成字串,在瀏覽器用 new Function()
+				 * 還原(見 vitepress/dist/node 的 serializeFunctions),所以裡面只能用
+				 * 全域物件,不可以引用任何 import 或外部變數。
+				 */
+				transformSearchClient: (searchClient) => {
+					// 切換語系時 DocSearch 會重建 client,用 window 上的 flag
+					// 確保 composition 監聽只註冊一次
+					const KEY = "__lomSearchIme";
+					if (typeof window !== "undefined" && !window[KEY]) {
+						const state = { composing: false };
+						window[KEY] = state;
+						document.addEventListener(
+							"compositionstart",
+							() => (state.composing = true),
+							true
+						);
+						document.addEventListener(
+							"compositionend",
+							() => (state.composing = false),
+							true
+						);
+					}
+
+					let timerId;
+
+					return {
+						...searchClient,
+						search(requests) {
+							// 組字中拉長等待,讓注音/拼音的中間狀態不要送出去。
+							// 故意不設太長:萬一某些 IME 沒發 compositionend,最差
+							// 也只是慢 0.9 秒,而不是整個搜尋壞掉。
+							const composing =
+								typeof window !== "undefined" &&
+								window[KEY] &&
+								window[KEY].composing;
+							const delay = composing ? 900 : 300;
+
+							// Algolia 官方的 debouncePromise 寫法:被取消的那幾個
+							// promise 就讓它永遠不 resolve,autocomplete-core 只會
+							// 採用最後一個。
+							clearTimeout(timerId);
+							return new Promise((resolve) => {
+								timerId = setTimeout(() => {
+									const runAlgolia = () =>
+										searchClient.search(requests);
+									// theme/script/searchEngine.js 掛上來的,
+									// 負責決定要走 Algolia 還是 Pagefind。
+									// 還沒載入時就照原本的走。
+									const handler = window.__lomSearch;
+									resolve(
+										handler
+											? handler.search(requests, runAlgolia)
+											: runAlgolia()
+									);
+								}, delay);
+							});
+						},
+					};
+				},
 			},
 		},
 
