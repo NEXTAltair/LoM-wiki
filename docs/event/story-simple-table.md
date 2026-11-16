@@ -1,6 +1,6 @@
 ---
 borderless: true
-title: 主支線簡易表格
+title: 事件列表
 outline: [2, 3]
 tags:
     - simple
@@ -9,6 +9,8 @@ tags:
 ---
 
 # {{ $frontmatter.title }}
+- 本表內各條目整理遊戲中各事件的詳細流程。
+- 如需參考重要分歧的劇情攻略指引，請見[「劇情攻略彙總」](/event/guide-list)條目。
 
 ## 任意時間
 <div class="table-container">
@@ -495,7 +497,6 @@ tags:
         <MarkdownWrapper>
 			[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)<br>
 			[江陵決戰](/event/simple/2-10-1-江陵決戰)<br>
-			[南宮訃音](/event/simple/2-10-1-南宮訃音)<br>
 			[返回唐門](/event/simple/2-10-1-返回唐門)<br>
             [襄陽行](/event/simple/2-10-1-襄陽行)<br>
         </MarkdownWrapper>
@@ -518,8 +519,8 @@ tags:
         <MarkdownWrapper>
             [修理彈珠檯](/system/pinball#修理彈珠檯)<br>
             [雲裳重逢](/event/simple/2-10-2-雲裳重逢)<br>
-            鍛冶場升級<br>
-            郁竹學武<br>
+            [鍛冶場升級](/event/simple/2-10-2-鍛冶場升級)<br>
+            [郁竹學武](/event/simple/2-10-2-郁竹學武)<br>
 		</MarkdownWrapper>
     </td>
     <td colspan = 2 style="text-align: center">
@@ -541,7 +542,8 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
             [小梅投靠](/event/simple/2-10-3-小梅投靠)<br>
-            梅竹重逢<br>
+            [梅竹重逢](/event/simple/2-10-3-梅竹重逢)<br>
+            [小梅日常事件集](/event/simple/2-10-3-小梅日常事件集)<br>
 		</MarkdownWrapper>
     </td>
     <td colspan = 2 style="text-align: center">-</td>
@@ -553,8 +555,8 @@ tags:
     <td style="text-align: center">上</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-            郁竹受歡迎<br>
-            竹之心<br>            
+            [郁竹受歡迎](/event/simple/2-11-1-郁竹受歡迎)<br>
+            [竹之心](/event/simple/2-11-1-竹之心)<br>            
             [唐門例會](/event/simple/1-07-1-唐門例會)<br>
         </MarkdownWrapper>
     </td>
@@ -673,9 +675,10 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				    [唐門例會](/event/simple/1-07-1-唐門例會)<br>
+                    [郁竹的家書](/event/simple/3-02-1-郁竹的家書)<br>
                     [一波暫平](/event/simple/3-02-1-一波暫平)<br>
-                    郁竹的家書<br>
-                    梅竹辭別<br>
+                    [梅竹辭別](/event/simple/3-02-1-梅竹辭別)<br>
+                    [雲裳關心](/event/simple/3-02-1-雲裳關心)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
