@@ -688,17 +688,19 @@ text: '六大派好感',
 		<td>-</td>
 		<td>-</td>
 		<td>
-            🚩葉雲裳在唐門:<br>
-            👉 玩水時間: 心相+20、廚藝+1，唐默鈴好感+2、葉雲裳好感+2，心上人檢定:<br>
+            1. 🚩葉雲裳在唐門:<br>
+            1-1. 👉 玩水時間: 心相+20、廚藝+1，唐默鈴好感+2、葉雲裳好感+2，心上人檢定:<br>
             • 心上人非葉雲裳且心上人非唐默鈴: 變心+3<br>
-            👉 不能打亂計畫: 接續練武隨機事件<br>
             <br>
-            🚩葉雲裳不在唐門:<br>
-            👉 捉魚時間: 心相+20、廚藝+1、唐默鈴好感+2，心上人檢定:<br>
+            1-2. 👉 不能打亂計畫: 接續練武隨機事件<br>
+            <br>
+            2. 🚩葉雲裳不在唐門:<br>
+            2-1. 👉 捉魚時間: 心相+20、廚藝+1、唐默鈴好感+2，心上人檢定:<br>
             • 心上人非唐默鈴: 變心+3<br>
-            👉 不能打亂計畫: 檢定🚩和唐默鈴結緣: <br>
-            • 沒有結緣: 接續練武隨機事件<br>
-            • 有結緣: 武學+3、心相+5、唐默鈴好感+1，開啟修練介面<br>
+            <br>
+            2-2. 👉 不能打亂計畫: 檢定🚩和唐默鈴結緣: <br>
+            • 有結緣: 設置🚩小師妹陪伴練武<br>
+            • 接續練武隨機事件<br>
         </td>
 		<td>-</td>
 		<td>-</td>
@@ -707,6 +709,44 @@ text: '六大派好感',
             • 🚩小師妹在唐門<br>
             • 無🚩關閉後山烤魚(<MarkdownWrapper>[後山安葬](/event/simple/3-01-3-後山安葬)</MarkdownWrapper>到<MarkdownWrapper>[一波暫平](/event/simple/3-02-1-一波暫平)</MarkdownWrapper>)<br>
         </td>
+		<td></td>
+	</tr>
+    <tr>
+		<td>唐家大院</td>
+		<td>後山<br>練武<br>優先</td>
+		<td>郁竹練功</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            👉「來吧」: 武學+2、郁竹好感+1，🚩郁竹練功次數+1<br>
+            👉「不能耽誤自己」: 接續練武隨機事件<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 25</td>
+		<td>
+            • 🚩<MarkdownWrapper>[郁竹在唐門](/event/simple/2-10-2-郁竹拜師)</MarkdownWrapper><br>
+            • 🚩<MarkdownWrapper>[郁竹開始習武](/event/simple/2-10-2-郁竹學武)</MarkdownWrapper><br>
+        </td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>唐家大院</td>
+		<td>後山<br>練武<br>優先</td>
+		<td>小梅雙修</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            內力+3、陰陽+30、虞小梅好感+3
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 30</td>
+		<td>
+            • <MarkdownWrapper>[《玄燭心經》](/system/books/book_7011)</MarkdownWrapper>修練完畢<br>
+            • 陰陽＜40<br>
+            • 虞小梅在唐門(需🚩<MarkdownWrapper>[和虞小梅結緣](/event/pursuit/girl3)</MarkdownWrapper>)<br>
+        </td>
 		<td>-</td>
 	</tr>
     <tr>
@@ -714,12 +754,25 @@ text: '六大派好感',
 		<td>後山<br>練武</td>
 		<td>正常</td>
 		<td>-</td>
-		<td>-20</td>
-		<td>武學+5，開啟修練介面</td>
-		<td>武學+3</td>
+		<td>-</td>
+		<td>
+            複合檢定(不符才檢定下一項):<br>
+            1. 🚩<MarkdownWrapper>[和唐默鈴結緣](/event/pursuit/girl0)</MarkdownWrapper>，且🚩小師妹陪伴練武(見上方「小師妹烤魚」):<br>
+            • 武學+3、心相+5、唐默鈴好感+1，開啟修練介面<br>
+            <br>
+            2. 🚩<MarkdownWrapper>[郁竹在唐門](/event/simple/2-10-2-郁竹拜師)</MarkdownWrapper>，
+            且未🚩<MarkdownWrapper>[觸發郁竹學武](/event/simple/2-10-2-郁竹學武)</MarkdownWrapper>，
+            且時間≤第三年一月上旬。滿足以上，機率60%隨機觸發:<br>
+            • 接<MarkdownWrapper>[郁竹學武](/event/simple/2-10-2-郁竹學武)</MarkdownWrapper>事件<br>
+            <br>
+            3. 其他情況:<br>
+            • 武學+5。若心相≥65，追加武學+3。<br>
+            • 心相-20，開啟修練介面<br>
+        </td>
+		<td>-</td>
 		<td>-</td>
 		<td>基礎: 100</td>
-		<td>-</td>
+		<td></td>
 		<td>-</td>
 	</tr>
     <tr>
@@ -748,16 +801,14 @@ text: '六大派好感',
 		<td>-</td>
 		<td>-</td>
 		<td>
-            • 心上人為虞小梅: 虞小梅好感≥45，心相+30<br>
-            • 心上人非虞小梅: 唐布衣好感＜40，對話差分<br>
+            觸發<MarkdownWrapper>[「小梅亂入」](/event/simple/2-10-3-小梅亂入)</MarkdownWrapper>事件
         </td>
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 55</td>
 		<td>
-            • 🚩虞小梅在唐門<br>
-            • 最晚第二年十二月下旬<br>
-            • 一次性事件，不可重複觸發<br>
+            <li>請見<MarkdownWrapper>[「小梅日常事件集」](/event/simple/2-10-3-小梅日常事件集#小梅亂入)</MarkdownWrapper></li>
+            <li>一次性事件，不可重複觸發</li>
         </td>
 		<td>-</td>
 	</tr>    
@@ -1150,25 +1201,18 @@ text: '六大派好感',
 	<tr>
 		<td>唐家大院</td>
 		<td>煉丹房<br>煉丹</td>
-		<td>小梅的復仇</td>
+		<td>小梅下藥</td>
 		<td>10</td>
-		<td>-16</td>
+		<td>-</td>
 		<td>
-			👉不要這樣啦: 觸發對決<br>
-            • 勝: 武學+2(全武學＜200)或+5(全武學＜120)，虞小梅好感-2<br>
-            • 敗: 武學+2(全武學＜120)、向心+1<br>
-            <br>
-			👉我來幫妳:<br>
-            • 道德-2<br>
-            • 虞小梅好感+2、唐惟元好感-3<br>
+			觸發<MarkdownWrapper>[「小梅下藥」](/event/simple/2-10-3-小梅下藥)</MarkdownWrapper>事件
 		</td>
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 30</td>
 		<td>
-            • 最晚第二年十二月下旬<br>
-            • 🚩小梅在唐門<br>
-            • 一次性事件，不可重複觸發
+            <li>請見<MarkdownWrapper>[「小梅日常事件集」](/event/simple/2-10-3-小梅日常事件集#小梅下藥)</MarkdownWrapper></li>
+            <li>一次性事件，不可重複觸發</li>
         </td>
 		<td>-</td>
 	</tr> 
@@ -1352,18 +1396,16 @@ text: '六大派好感',
 		<td>13</td>
 		<td>-9</td>
 		<td>
-            • 已建設茶肆: 名聲+1、門派資產+100、設置🚩茶肆添加小梅果子<br>
-            • 未建設茶肆: 門派資產+300<br>
+            觸發<MarkdownWrapper>[「小梅果子」](/event/simple/2-10-3-小梅果子)</MarkdownWrapper>事件
         </td>
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 20</td>
 		<td>
-            • 第二年十二月下旬以前<br>
-            • 🚩虞小梅在唐門<br>
-            • 一次性事件，不可重複觸發<br>
+            <li>請見<MarkdownWrapper>[「小梅日常事件集」](/event/simple/2-10-3-小梅日常事件集#小梅果子)</MarkdownWrapper></li>
+            <li>一次性事件，不可重複觸發</li>
         </td>
-		<td>🚩茶肆添加小梅果子: 目前無作用</td>
+		<td></td>
 	</tr>
     <tr>
 		<td>唐家大院</td>

@@ -197,7 +197,17 @@ tags:
             境界二以上，捅人可扣對手氣<br>
             境界三以上，攻防有機率造成【震撼】
         </td>
-        <td>《鐵琵琶功》</td>
+        <td>
+            <li>
+                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper><br>
+                <MarkdownWrapper>[江陵決戰](/event/simple/2-10-1-江陵決戰)</MarkdownWrapper>
+                <MarkdownWrapper>[王二壯叫戰](/event/simple/2-10-1-法王就義)</MarkdownWrapper>時，
+                擲骰到【🎲＜80 不妙的人出手了】，<br>
+                且心上人為<Girl7Icon>魏菊</Girl7Icon>，觸發替魏菊接掌後，<br>
+                魏菊要替你療傷時選擇👉「好」，再擲骰到【🎲≥80 沒死】。
+            </li>
+            <li>《鐵琵琶功》</li>
+        </td>
     </tr>
     <tr>
         <td id = "借勢">借勢</td>
@@ -452,5 +462,26 @@ tags:
         <br>且連擊數>2時，絕招變為同舟劍法
         <br>無法使用點破雲關</td>
         <td>《同舟劍譜》</td>
+    </tr>
+    <tr>
+        <td id = "輕微骨裂">輕微骨裂</td>
+        <td>-</td>
+        <td>受到巨力壓迫，導致輕微骨裂。好好靜養就會好。</td>
+        <td>
+            <li>
+                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>且
+                🚩<MarkdownWrapper>[觸發郁竹返家](/event/simple/2-04-2-返回崆峒#返抵崆峒)</MarkdownWrapper>。
+            </li>
+            <li>
+                江陵大戰後<Girl6Icon>郁竹</Girl6Icon>好感≥40，且心上人為郁竹，
+                以觸發🚩<MarkdownWrapper>[郁竹被拋棄](/event/simple/2-10-1-南宮訃音#郁竹拜訪)</MarkdownWrapper>。
+            </li>
+            <li>
+                <MarkdownWrapper>[啟程返回唐門](/event/simple/2-10-1-啟程返唐)</MarkdownWrapper>時自動獲得。
+            </li>
+            <li>
+                <MarkdownWrapper>[抵達唐門](/event/simple/2-10-2-抵達唐門)</MarkdownWrapper>時自動消滅。
+            </li>
+        </td>
     </tr>
 </table>
