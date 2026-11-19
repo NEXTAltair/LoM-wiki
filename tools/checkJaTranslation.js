@@ -448,7 +448,12 @@ function scanTableShape(file) {
 		/^\s*\|?\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)*\|?\s*$/.test(line);
 	const lines = fs.readFileSync(file, "utf8").split("\n");
 	let inFence = false;
+	let inFrontmatter = lines[0]?.trim() === "---";
 	lines.forEach((line, idx) => {
+		if (inFrontmatter) {
+			if (idx > 0 && line.trim() === "---") inFrontmatter = false;
+			return;
+		}
 		if (/^```/.test(line.trim())) {
 			inFence = !inFence;
 			return;
