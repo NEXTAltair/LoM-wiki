@@ -19,6 +19,7 @@ tags:
 - 單一事件的詳細流程，請見[「事件列表」](/event/story-simple-table)條目。
 
 ## 攻略列表
+- [金烏上人之死](/people/characters/special207_death): 整理遊戲中所有殺死金烏上人的方法。
 - [飛俠歸來](/event/detailed_description/4-02-2-飛俠歸來): 第三年一月臥雲崗事件如何拯救大師兄生命，及第四年讓他歸來的方法。
 - [武林大會篇](/event/detailed_description/3-08-2-武林大會): 第三年十月中旬武林大會上的主要流程。
 - [客棧歸途篇](/event/detailed_description/3-10-2-客棧歸途): 第三年十月中旬武林大會後回唐門的主要流程。
