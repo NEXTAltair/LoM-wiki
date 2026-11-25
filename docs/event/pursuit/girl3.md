@@ -5,6 +5,7 @@ aside: false
 outline: [2, 3]
 sidebar: false
 borderless: true
+pageClass: pursuit
 tags:
     - 結婚
     - 成親
@@ -12,9 +13,6 @@ tags:
 ---
 
 # {{ $frontmatter.title }}
-::: warning
-- 本條目草創，內容未經仔細驗證。若其中有誤，懇請讀者於留言區回報。
-:::
 
 <p align="center"><img src="/images/characters/girl_3/shy4.webp" style="width:300px"></p>
 
@@ -195,7 +193,7 @@ tags:
 <tr>
   <td id = "條件7">7</td>
   <td>第三年五月上旬</td>
-  <td>崆峒爭奪戰</td>
+  <td><MarkdownWrapper>[崆峒爭奪戰](/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper></td>
   <td>
     <li>
       進入崆峒地界時:<br>
@@ -209,11 +207,11 @@ tags:
       2. 撐8回合平手。<br>
     </li>
     <li>
-      半雨屏二戰虞小梅:<br>
+      半雨屏再戰虞小梅:<br>
       1. 需嘴攻至少4次以喚醒小梅(6次可結束戰鬥但非必要)。<br>
       2. 不可落敗。<br>
       3. 不可在嘴攻4次前獲勝。<br>
-      4. 若戰至15回合敵方「屍心蠱反噬」以後，需避免敵方生命值歸零。<br>
+      4. 若戰至15回合敵方「屍心蠱反噬」以後(見備註)，需避免敵方生命值歸零。<br>
     </li>
     <li>
       戰後探望小梅時，需選擇📖「妳可以去任何地方」。
@@ -225,7 +223,12 @@ tags:
       滿足以上即完成結緣，後續劇情自動獲得結緣信物「小梅的髮帶」。
     </li>
   </td>
-  <td></td>
+  <td>
+      <li>
+          由於「屍心蠱反噬」的效果，<br>
+          不建議拖到15回合以上。<br>
+      </li> 
+  </td>
 </tr>
 
 </table>

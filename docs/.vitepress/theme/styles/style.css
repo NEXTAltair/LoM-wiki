@@ -105,7 +105,7 @@
   aside::-webkit-scrollbar,
   table::-webkit-scrollbar {
     width: 8px;
-    height: 1px;
+    height: 8px;
   }
   aside::-webkit-scrollbar{
     background-color: transparent;
