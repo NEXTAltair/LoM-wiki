@@ -27,6 +27,8 @@ const baseConfig = {
 	},
 	appearance: "dark", // 默認深色主題
 	lastUpdated: true, // 是否使用 Git 获取每个页面的最后更新时间戳
+	// 秘笈列表引入的獲得方式（tools/buildBookSources.mjs 產生），不當成一頁
+	srcExclude: ["system/books/_sources.md", "zh-hans/system/books/_sources.md"],
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		logo: {
@@ -94,8 +96,8 @@ const baseConfig = {
 						text: "拆包資料",
 						items: [
 							{
-								text: "v1.0.3130",
-								link: "https://smilin.pse.is/LoM",
+								text: "活俠傳事件分岐資料庫",
+								link: "https://mortal.eraser.moe",
 							},
 						],
 					},
@@ -158,6 +160,10 @@ const baseConfig = {
 								text: "角色頁面模板",
 								link: "/develop/clean-character-template.md",
 							},
+							{
+								text: "結緣攻略頁面模板",
+								link: "/develop/clean-pursuit-template.md",
+							},
 						],
 					},
 				],
@@ -207,6 +213,10 @@ const baseConfig = {
 								{
 									text: "角色頁面模板",
 									link: "/develop/clean-character-template.md",
+								},
+								{
+									text: "結緣攻略頁面模板",
+									link: "/develop/clean-pursuit-template.md",
 								},
 							],
 						},
@@ -639,6 +649,10 @@ const baseConfig = {
 										text: "角色页面模板",
 										link: "/zh-hans/develop/clean-character-template.md",
 									},
+									{
+										text: "结缘攻略页面模板",
+										link: "/zh-hans/develop/clean-pursuit-template.md",
+									},
 								],
 							},
 						],
@@ -687,6 +701,10 @@ const baseConfig = {
 										{
 											text: "角色页面模板",
 											link: "/zh-hans/develop/clean-character-template.md",
+										},
+										{
+											text: "结缘攻略页面模板",
+											link: "/zh-hans/develop/clean-pursuit-template.md",
 										},
 									],
 								},
